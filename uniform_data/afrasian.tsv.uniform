@@ -1,0 +1,791 @@
+language	iso_code	gloss	asjp	sca	dolgo	cognate_class
+SYRIAC_2	syc	I	e n a	E N A	V N V	21
+ARABIC_QURANIC	arb	I	a n a	A N A	V N V	21
+ARABIC_LEBANESE	apc	I	a n i	A N I	V N V	21
+GEEZ	gez	I	a n a	A N A	V N V	21
+TIGRAI	tir	I	a n e	A N E	V N V	21
+AMHARIC_3	amh	I	3 n e	O N E	V N V	21
+HARARI_2	har	I	a n	A N	V N	21
+MEHRI_2	gdq	I	h o h	H U H	H V H	22
+JIBBALI	shv	I	h e	H E	H V	22
+SOQOTRI_2	sqt	I	h o h o n	H U H U N	H V H V N	22
+SIWA	siz	I	n i S	N I S	N V S	21
+GHADAMES_2	gha	I	n e S	N E S	N V S	21
+AHAGGAR	thv	I	n 3 k	N O K	N V K	21
+ZENAGA_2	zen	I	n i k	N I K	N V K	21
+QABYLE	kab	I	n 3 k	N O K	N V K	21
+HAUSA_3	hau	I	n a	N A	N V	21
+BOLEWA	bol	I	i n a	I N A	V N V	21
+BEJA_2	bej	I	a n i	A N I	V N V	21
+OROMO	gaz	I	a n a	A N A	V N V	21
+DAHALO_2	dal	I	a 5 i	A N I	V N V	21
+KAFFA	kbr	I	t a	T A	T V	24
+SYRIAC_2	syc	come	t y	T J	T J	3
+ARABIC_QURANIC	arb	come	t y	T J	T J	3
+ARABIC_LEBANESE	apc	come	3 Z a	O S A	V S V	4
+GEEZ	gez	come	m c 7	M C H	M K H	5
+TIGRAI	tir	come	m a sX~ 7 e	M A S H E	M V S H V	5
+AMHARIC_3	amh	come	m 3 t a	M O T A	M V T V	5
+MEHRI_2	gdq	come	n u k a X	N Y K A G	N V K V K	6
+JIBBALI	shv	come	n i k a X	N I K A G	N V K V K	6
+SOQOTRI_2	sqt	come	g e d a h	K E T A H	K V T V H	7
+SIWA	siz	come	u s	Y S	V S	9
+GHADAMES_2	gha	come	a s	A S	V S	9
+AHAGGAR	thv	come	a s	A S	V S	9
+ZENAGA_2	zen	come	S e d	S E T	S V T	10
+QABYLE	kab	come	a s	A S	V S	9
+HAUSA_3	hau	come	z o	S U	S V	11
+BOLEWA	bol	come	d i N g o	T I N K U	T V N K V	12
+BEJA_2	bej	come	y i t	J I T	J V T	8
+OROMO	gaz	come	d u f a	T Y B A	T V P V	13
+DAHALO_2	dal	come	h a X	H A G	H V K	14
+KAFFA	kbr	come	w a	W A	W V	8
+SYRIAC_2	syc	water	m a y e	M A J E	M V J V	1
+ARABIC_QURANIC	arb	water	m a	M A	M V	1
+ARABIC_LEBANESE	apc	water	m a y	M A J	M V J	1
+GEEZ	gez	water	m a y	M A J	M V J	1
+TIGRAI	tir	water	m a y	M A J	M V J	1
+HARARI_2	har	water	m i y	M I J	M V J	1
+MEHRI_2	gdq	water	X e m u h	G E M Y H	K V M V H	1
+JIBBALI	shv	water	m i h	M I H	M V H	1
+SOQOTRI_2	sqt	water	r i h o	R I H U	R V H V	2
+SIWA	siz	water	a m a n	A M A N	V M V N	3
+GHADAMES_2	gha	water	a m a n	A M A N	V M V N	3
+AHAGGAR	thv	water	a m a n	A M A N	V M V N	3
+ZENAGA_2	zen	water	a m a n	A M A N	V M V N	3
+QABYLE	kab	water	a m a n	A M A N	V M V N	3
+HAUSA_3	hau	water	r u w a	R Y W A	R V W V	2
+BOLEWA	bol	water	3 m a	O M A	V M V	3
+BEJA_2	bej	water	y a m	J A M	J V M	3
+OROMO	gaz	water	b i s a n	P I S A N	P V S V N	4
+DAHALO_2	dal	water	m a 7 a	M A H A	M V H V	1
+KAFFA	kbr	water	a C o	A C U	V K V	5
+SYRIAC_2	syc	mountain	tX~ u r	T Y R	T V R	53
+ARABIC_QURANIC	arb	mountain	Z a b a l	S A P A L	S V P V R	54
+ARABIC_LEBANESE	apc	mountain	Z a b e l	S A P E L	S V P V R	54
+GEEZ	gez	mountain	d a b 3 r	T A P O R	T V P V R	55
+AMHARIC_3	amh	mountain	t 3 r a r a	T O R A R A	T V R V R V	56
+HARARI_2	har	mountain	s E r i	S E R I	S V R V	57
+MEHRI_2	gdq	mountain	k a r m a y m	K A R M A J M	K V R M V J M	58
+JIBBALI	shv	mountain	h e r	H E R	H V R	59
+SOQOTRI_2	sqt	mountain	f e d e h o n	B E T E H U N	P V T V H V N	60
+SIWA	siz	mountain	a d r a r	A T R A R	V T R V R	62
+GHADAMES_2	gha	mountain	a d u r a r	A T Y R A R	V T V R V R	62
+AHAGGAR	thv	mountain	a d r a r	A T R A R	V T R V R	62
+QABYLE	kab	mountain	a d r a r	A T R A R	V T R V R	62
+HAUSA_3	hau	mountain	"d u C"" e"	T Y C E	T V K V	63
+BOLEWA	bol	mountain	g uo S 3 w	K Y S O W	K V S V W	64
+OROMO	gaz	mountain	t u l u	T Y L Y	T V R V	65
+KAFFA	kbr	mountain	g u d o	K Y T U	K V T V	66
+SYRIAC_2	syc	sun	S e m S	S E M S	S V M S	1
+ARABIC_QURANIC	arb	sun	S a m s	S A M S	S V M S	1
+ARABIC_LEBANESE	apc	sun	S a m 3 s	S A M O S	S V M V S	1
+GEEZ	gez	sun	d a X a y	T A G A J	T V K V J	2
+TIGRAI	tir	sun	sX~ a X a y	S A G A J	S V K V J	2
+AMHARIC_3	amh	sun	t e h a y	T E H A J	T V H V J	2
+HARARI_2	har	sun	i r	I R	V R	3
+MEHRI_2	gdq	sun	X 3 y u m	G O J Y M	K V J V M	4
+JIBBALI	shv	sun	y u m	J Y M	J V M	4
+SOQOTRI_2	sqt	sun	S a m	S A M	S V M	1
+SIWA	siz	sun	t f u k t	T B Y K T	T P V K T	6
+GHADAMES_2	gha	sun	i s i	I S I	V S V	7
+AHAGGAR	thv	sun	t a f u k	T A B Y K	T V P V K	6
+ZENAGA_2	zen	sun	t 3 7 f u k t	T O H B Y K T	T V H P V K T	6
+QABYLE	kab	sun	i t i Z	I T I S	V T V S	8
+HAUSA_3	hau	sun	r a n a	R A N A	R V N V	9
+BOLEWA	bol	sun	f u t i	B Y T I	P V T V	10
+BEJA_2	bej	sun	y i n	J I N	J V N	11
+OROMO	gaz	sun	a d u	A T Y	V T V	12
+KAFFA	kbr	sun	a b o	A P U	V P V	13
+SYRIAC_2	syc	star	k a w b 3 b	K A W P O P	K V W P V P	71
+ARABIC_QURANIC	arb	star	k a w k a b	K A W K A P	K V W K V P	71
+ARABIC_LEBANESE	apc	star	n i Z m i	N I S M I	N V S M V	72
+GEEZ	gez	star	k o k a b	K U K A P	K V K V P	71
+TIGRAI	tir	star	k o k o b	K U K U P	K V K V P	71
+AMHARIC_3	amh	star	k o k 3 b	K U K O P	K V K V P	71
+HARARI_2	har	star	t u y	T Y J	T V J	73
+MEHRI_2	gdq	star	k e b k i b	K E P K I P	K V P K V P	71
+JIBBALI	shv	star	k 3 b k e b	K O P K E P	K V P K V P	71
+SOQOTRI_2	sqt	star	k i b S i b	K I P S I P	K V P S V P	71
+SIWA	siz	star	i r i	I R I	V R V	75
+GHADAMES_2	gha	star	i r i	I R I	V R V	75
+AHAGGAR	thv	star	a t r i	A T R I	V T R V	76
+ZENAGA_2	zen	star	e d 3 r i	E T O R I	V T V R V	76
+QABYLE	kab	star	i t r i	I T R I	V T R V	76
+HAUSA_3	hau	star	t au r a r o	T A R A R U	T V R V R V	76
+BOLEWA	bol	star	j a n j a	C A N C A	K V N K V	77
+BEJA_2	bej	star	h a y u k	H A J Y K	H V J V K	78
+OROMO	gaz	star	u r j i	Y R C I	V R K V	79
+KAFFA	kbr	star	t o j a n o	T U C A N U	T V K V N V	80
+SYRIAC_2	syc	one	X a d	G A T	K V T	72
+ARABIC_QURANIC	arb	one	w a X i d	W A G I T	W V K V T	72
+ARABIC_LEBANESE	apc	one	w 3 X a d	W O G A T	W V K V T	72
+GEEZ	gez	one	a X a d u	A G A T Y	V K V T V	72
+TIGRAI	tir	one	X a d a	G A T A	K V T V	72
+AMHARIC_3	amh	one	a n d	A N T	V N T	72
+HARARI_2	har	one	a X a d	A G A T	V K V T	72
+MEHRI_2	gdq	one	t a t	T A T	T V T	73
+JIBBALI	shv	one	t a d	T A T	T V T	73
+SOQOTRI_2	sqt	one	t a d	T A T	T V T	73
+SIWA	siz	one	3 j 3 n	O C O N	V K V N	74
+GHADAMES_2	gha	one	y u n	J Y N	J V N	74
+AHAGGAR	thv	one	y 3 n	J O N	J V N	74
+ZENAGA_2	zen	one	y u 7 u	J Y H Y	J V H V	74
+QABYLE	kab	one	y i w 3 n	J I W O N	J V W V N	74
+HAUSA_3	hau	one	d a y a	T A J A	T V J V	75
+BOLEWA	bol	one	m o d i	M U T I	M V T V	75
+BEJA_2	bej	one	g a r	K A R	K V R	76
+OROMO	gaz	one	t o k o	T U K U	T V K V	77
+DAHALO_2	dal	one	w a t u kw~ e	W A T Y K E	W V T V K V	77
+KAFFA	kbr	one	i k o	I K U	V K V	78
+SYRIAC_2	syc	two	t a r e n	T A R E N	T V R V N	52
+ARABIC_QURANIC	arb	two	i 8 n a n i	I D N A N I	V T N V N V	51
+ARABIC_LEBANESE	apc	two	t n e y n	T N E J N	T N V J N	51
+GEEZ	gez	two	k 3 l 7 e	K O L H E	K V R H V	53
+TIGRAI	tir	two	k 3 l 3 t e	K O L O T E	K V R V T V	53
+AMHARIC_3	amh	two	h u l 3 t	H Y L O T	H V R V T	53
+HARARI_2	har	two	k o 7 o t	K U H U T	K V H V T	53
+MEHRI_2	gdq	two	d e r o h	T E R U H	T V R V H	52
+JIBBALI	shv	two	t r o h	T R U H	T R V H	52
+SOQOTRI_2	sqt	two	t i r o	T I R U	T V R V	52
+SIWA	siz	two	s 3 n	S O N	S V N	51
+GHADAMES_2	gha	two	s 3 n	S O N	S V N	51
+AHAGGAR	thv	two	3 s i n	O S I N	V S V N	51
+ZENAGA_2	zen	two	S i n a n	S I N A N	S V N V N	51
+QABYLE	kab	two	s i n	S I N	S V N	51
+HAUSA_3	hau	two	b i y u	P I J Y	P V J V	54
+BOLEWA	bol	two	b o l o	P U L U	P V R V	54
+BEJA_2	bej	two	m a l o	M A L U	M V R V	55
+OROMO	gaz	two	l a m a	L A M A	R V M V	56
+DAHALO_2	dal	two	l i	L I	R V	56
+KAFFA	kbr	two	g u t o	K Y T U	K V T V	57
+SYRIAC_2	syc	stone	k 3 p	K O P	K V P	82
+ARABIC_QURANIC	arb	stone	X a Z a r	G A S A R	K V S V R	83
+ARABIC_LEBANESE	apc	stone	X a Z a r	G A S A R	K V S V R	83
+GEEZ	gez	stone	3 b 3 n	O P O N	V P V N	81
+TIGRAI	tir	stone	3 m 3 n i	O M O N I	V M V N V	81
+HARARI_2	har	stone	u n	Y N	V N	81
+MEHRI_2	gdq	stone	c o w e r	C U W E R	K V W V R	84
+JIBBALI	shv	stone	f u d u n	B Y T Y N	P V T V N	85
+SOQOTRI_2	sqt	stone	o b e n	U P E N	V P V N	81
+SIWA	siz	stone	t x o x 3 t	T G U G O T	T K V K V T	87
+GHADAMES_2	gha	stone	i r 3 g	I R O K	V R V K	88
+AHAGGAR	thv	stone	a b l a l	A P L A L	V P R V R	89
+ZENAGA_2	zen	stone	t i 7 r g 3 t	T I H R K O T	T V H R K V T	88
+QABYLE	kab	stone	a d x a x	A T G A G	V T K V K	90
+HAUSA_3	hau	stone	"d u c"" e"	T Y C E	T V K V	91
+BOLEWA	bol	stone	g u s o	K Y S U	K V S V	92
+OROMO	gaz	stone	d a g a	T A K A	T V K V	93
+KAFFA	kbr	stone	t a q o	T A K U	T V K V	94
+SYRIAC_2	syc	skin	m e S k	M E S K	M V S K	71
+ARABIC_QURANIC	arb	skin	Z i l d	S I L T	S V R T	73
+ARABIC_LEBANESE	apc	skin	Z i l d	S I L T	S V R T	73
+GEEZ	gez	skin	m a X 3 s	M A G O S	M V K V S	74
+TIGRAI	tir	skin	kw~ 3 r b a t	K O R P A T	K V R P V T	75
+AMHARIC_3	amh	skin	k o d 3	K U T O	K V T V	76
+MEHRI_2	gdq	skin	g E d	K E T	K V T	73
+JIBBALI	shv	skin	g o d	K U T	K V T	73
+SOQOTRI_2	sqt	skin	g a d	K A T	K V T	73
+SIWA	siz	skin	i l 3 m	I L O M	V R V M	77
+GHADAMES_2	gha	skin	i l 3 m	I L O M	V R V M	77
+AHAGGAR	thv	skin	e l 3 m	E L O M	V R V M	77
+ZENAGA_2	zen	skin	3 j 3 m	O C O M	V K V M	77
+QABYLE	kab	skin	a gw~ l i m	A K L I M	V K R V M	78
+HAUSA_3	hau	skin	f a t a	B A T A	P V T V	79
+BOLEWA	bol	skin	i S i	I S I	V S V	80
+BEJA_2	bej	skin	a d a	A T A	V T V	81
+OROMO	gaz	skin	g o g a	K U K A	K V K V	82
+DAHALO_2	dal	skin	g i n o	K I N U	K V N V	83
+KAFFA	kbr	skin	g o k o	K U K U	K V K V	82
+SYRIAC_2	syc	fire	n u r	N Y R	N V R	92
+ARABIC_QURANIC	arb	fire	n a r	N A R	N V R	92
+ARABIC_LEBANESE	apc	fire	n a r	N A R	N V R	92
+GEEZ	gez	fire	3 s a t	O S A T	V S V T	91
+TIGRAI	tir	fire	X a w i	G A W I	K V W V	93
+AMHARIC_3	amh	fire	3 s a t	O S A T	V S V T	91
+HARARI_2	har	fire	i s a t	I S A T	V S V T	91
+MEHRI_2	gdq	fire	s i w o t	S I W U T	S V W V T	94
+JIBBALI	shv	fire	S o t	S U T	S V T	94
+SOQOTRI_2	sqt	fire	S i y a t	S I J A T	S V J V T	94
+SIWA	siz	fire	t 3 m s i	T O M S I	T V M S V	97
+GHADAMES_2	gha	fire	u f a	Y B A	V P V	98
+AHAGGAR	thv	fire	t e m s e	T E M S E	T V M S V	97
+ZENAGA_2	zen	fire	o z u n	U S Y N	V S V N	99
+QABYLE	kab	fire	t i m 3 s	T I M O S	T V M V S	97
+HAUSA_3	hau	fire	w u t a	W Y T A	W V T V	10
+BOLEWA	bol	fire	w 3 s i	W O S I	W V S V	91
+BEJA_2	bej	fire	n 7 a	N H A	N H V	1
+OROMO	gaz	fire	i b i d a	I P I T A	V P V T V	2
+DAHALO_2	dal	fire	e g a	E K A	V K V	3
+KAFFA	kbr	fire	q a q o	K A K U	K V K V	4
+SYRIAC_2	syc	fish	n u n	N Y N	N V N	11
+ARABIC_QURANIC	arb	fish	X u t	G Y T	K V T	13
+ARABIC_LEBANESE	apc	fish	n u n	N Y N	N V N	11
+HARARI_2	har	fish	t u l E m	T Y L E M	T V R V M	14
+MEHRI_2	gdq	fish	c a y d	C A J T	K V J T	15
+JIBBALI	shv	fish	c o d	C U T	K V T	15
+SOQOTRI_2	sqt	fish	s o d e	S U T E	S V T V	15
+GHADAMES_2	gha	fish	u l i s m a	Y L I S M A	V R V S M V	17
+AHAGGAR	thv	fish	a s u l m 3 y	A S Y L M O J	V S V R M V J	17
+ZENAGA_2	zen	fish	s i j m a n	S I C M A N	S V K M V N	17
+QABYLE	kab	fish	a s l 3 m	A S L O M	V S R V M	17
+HAUSA_3	hau	fish	k i f i	K I B I	K V P V	18
+BOLEWA	bol	fish	k i r w o	K I R W U	K V R W V	18
+BEJA_2	bej	fish	a s a	A S A	V S V	19
+OROMO	gaz	fish	q u r t u m i	K Y R T Y M I	K V R T V M V	20
+DAHALO_2	dal	fish	mb~ a l a b e	M A L A P E	M V R V P V	21
+KAFFA	kbr	fish	h a s o	H A S U	H V S V	19
+SYRIAC_2	syc	dog	k a l b	K A L P	K V R P	31
+ARABIC_QURANIC	arb	dog	k a l b	K A L P	K V R P	31
+ARABIC_LEBANESE	apc	dog	k a l 3 b	K A L O P	K V R V P	31
+GEEZ	gez	dog	k a l 3 b	K A L O P	K V R V P	31
+TIGRAI	tir	dog	k a l b i	K A L P I	K V R P V	31
+MEHRI_2	gdq	dog	m b a y l	M P A J L	M P V J R	32
+JIBBALI	shv	dog	k o b	K U P	K V P	31
+SIWA	siz	dog	a g u r z 3 n i	A K Y R S O N I	V K V R S V N V	35
+GHADAMES_2	gha	dog	i d i	I T I	V T V	36
+AHAGGAR	thv	dog	e y d i	E J T I	V J T V	36
+ZENAGA_2	zen	dog	i d i	I T I	V T V	36
+QABYLE	kab	dog	a y d i	A J T I	V J T V	36
+HAUSA_3	hau	dog	k a r e	K A R E	K V R V	37
+BOLEWA	bol	dog	k u t i	K Y T I	K V T V	38
+BEJA_2	bej	dog	y a s	J A S	J V S	39
+OROMO	gaz	dog	s a r e	S A R E	S V R V	40
+DAHALO_2	dal	dog	n a X e t e	N A G E T E	N V K V T V	41
+KAFFA	kbr	dog	k u n a 5	K Y N A N	K V N V N	42
+SYRIAC_2	syc	louse	k a l m 3 t	K A L M O T	K V R M V T	73
+ARABIC_QURANIC	arb	louse	k u m a l	K Y M A L	K V M V R	73
+ARABIC_LEBANESE	apc	louse	a m o l	A M U L	V M V R	73
+GEEZ	gez	louse	kw~ 3 m a l	K O M A L	K V M V R	73
+TIGRAI	tir	louse	k w 3 m a l	K W O M A L	K W V M V R	73
+AMHARIC_3	amh	louse	k 3 m a l	K O M A L	K V M V R	73
+HARARI_2	har	louse	k u m a y	K Y M A J	K V M V J	73
+MEHRI_2	gdq	louse	k e n m i t	K E N M I T	K V N M V T	72
+JIBBALI	shv	louse	s i n i t	S I N I T	S V N V T	72
+SOQOTRI_2	sqt	louse	k o n u m	K U N Y M	K V N V M	72
+SIWA	siz	louse	t a l S 3 t	T A L S O T	T V R S V T	75
+GHADAMES_2	gha	louse	t a l 3 k t	T A L O K T	T V R V K T	75
+AHAGGAR	thv	louse	t i l i k	T I L I K	T V R V K	75
+ZENAGA_2	zen	louse	t 3 l 3 k t	T O L O K T	T V R V K T	75
+QABYLE	kab	louse	t i l k i t	T I L K I T	T V R K V T	75
+HAUSA_3	hau	louse	kw~ a r kw~ a t a	K A R K A T A	K V R K V T V	76
+BOLEWA	bol	louse	j 3 N k 3 r i	C O N K O R I	K V N K V R V	77
+BEJA_2	bej	louse	t a t	T A T	T V T	78
+OROMO	gaz	louse	i n j i r a n	I N C I R A N	V N K V R V N	79
+DAHALO_2	dal	louse	i t o r e	I T U R E	V T V R V	78
+KAFFA	kbr	louse	C i n d o	C I N T U	K V N T V	80
+SYRIAC_2	syc	tree	i l a n	I L A N	V R V N	32
+ARABIC_QURANIC	arb	tree	S a Z a r	S A S A R	S V S V R	33
+ARABIC_LEBANESE	apc	tree	S a Z a r	S A S A R	S V S V R	33
+GEEZ	gez	tree	X 3 d	G O T	K V T	31
+TIGRAI	tir	tree	o m	U M	V M	34
+HARARI_2	har	tree	l E f u	L E B Y	R V P V	35
+MEHRI_2	gdq	tree	h 3 r m a y t	H O R M A J T	H V R M V J T	36
+JIBBALI	shv	tree	h e y r o m	H E J R U M	H V J R V M	36
+SOQOTRI_2	sqt	tree	S i r o h o m	S I R U H U M	S V R V H V M	36
+GHADAMES_2	gha	tree	t e m d i k t	T E M T I K T	T V M T V K T	39
+AHAGGAR	thv	tree	a S 3 k	A S O K	V S V K	40
+ZENAGA_2	zen	tree	a S a 7 r	A S A H R	V S V H R	41
+HAUSA_3	hau	tree	i t a C e	I T A C E	V T V K V	42
+BOLEWA	bol	tree	S oi w i	S U W I	S V W V	43
+OROMO	gaz	tree	m u q a	M Y K A	M V K V	44
+DAHALO_2	dal	tree	k o r o	K U R U	K V R V	45
+KAFFA	kbr	tree	m i t o	M I T U	M V T V	46
+SYRIAC_2	syc	leaf	tX~ a r p	T A R P	T V R P	93
+ARABIC_QURANIC	arb	leaf	w a r a k a t	W A R A K A T	W V R V K V T	94
+ARABIC_LEBANESE	apc	leaf	w a r a 7 a	W A R A H A	W V R V H V	94
+GEEZ	gez	leaf	kw~ a c 3 l	K A C O L	K V K V R	95
+TIGRAI	tir	leaf	qw~ a sX~ l i	K A S L I	K V S R V	95
+AMHARIC_3	amh	leaf	k 3 t 3 l	K O T O L	K V T V R	95
+HARARI_2	har	leaf	k u t i	K Y T I	K V T V	95
+MEHRI_2	gdq	leaf	c x a l f o t	C G A L B U T	K K V R P V T	96
+JIBBALI	shv	leaf	c x i Z f o t	C G I S B U T	K K V S P V T	96
+SOQOTRI_2	sqt	leaf	s a X l i f o	S A G L I B U	S V K R V P V	96
+GHADAMES_2	gha	leaf	t 3 f r a	T O B R A	T V P R V	98
+AHAGGAR	thv	leaf	a f r a w	A B R A W	V P R V W	98
+QABYLE	kab	leaf	i f 3 r	I B O R	V P V R	98
+HAUSA_3	hau	leaf	g a 5 e	K A N E	K V N V	99
+BOLEWA	bol	leaf	o w u	U W Y	V W V	10
+BEJA_2	bej	leaf	b a y a	P A J A	P V J V	1
+OROMO	gaz	leaf	b a l a	P A L A	P V R V	1
+DAHALO_2	dal	leaf	S a b u n e	S A P Y N E	S V P V N V	2
+KAFFA	kbr	leaf	w a m o	W A M U	W V M V	3
+SYRIAC_2	syc	night	l e l y	L E L J	R V R J	32
+ARABIC_QURANIC	arb	night	l a y l a t	L A J L A T	R V J R V T	32
+ARABIC_LEBANESE	apc	night	l a y l	L A J L	R V J R	32
+GEEZ	gez	night	l e l i t	L E L I T	R V R V T	32
+TIGRAI	tir	night	l a y t i	L A J T I	R V J T V	32
+AMHARIC_3	amh	night	l e t	L E T	R V T	32
+HARARI_2	har	night	l E y l i	L E J L I	R V J R V	32
+MEHRI_2	gdq	night	X a c a r	G A C A R	K V K V R	33
+JIBBALI	shv	night	X a c 3 r	G A C O R	K V K V R	33
+SOQOTRI_2	sqt	night	h t e	H T E	H T V	34
+SIWA	siz	night	i t	I T	V T	37
+GHADAMES_2	gha	night	i b e d	I P E T	V P V T	37
+AHAGGAR	thv	night	e h o d	E H U T	V H V T	37
+ZENAGA_2	zen	night	i d	I T	V T	37
+QABYLE	kab	night	i d	I T	V T	37
+HAUSA_3	hau	night	d a r e	T A R E	T V R V	38
+BOLEWA	bol	night	b o d i	P U T I	P V T V	37
+BEJA_2	bej	night	h a w a d	H A W A T	H V W V T	39
+OROMO	gaz	night	h a l k a n	H A L K A N	H V R K V N	40
+DAHALO_2	dal	night	h i m a	H I M A	H V M V	41
+KAFFA	kbr	night	t u m o	T Y M U	T V M V	42
+SYRIAC_2	syc	blood	d 3 m	T O M	T V M	81
+ARABIC_QURANIC	arb	blood	d a m	T A M	T V M	81
+ARABIC_LEBANESE	apc	blood	d a m	T A M	T V M	81
+GEEZ	gez	blood	d a m	T A M	T V M	81
+TIGRAI	tir	blood	d a m	T A M	T V M	81
+AMHARIC_3	amh	blood	d 3 m	T O M	T V M	81
+HARARI_2	har	blood	d E m	T E M	T V M	81
+MEHRI_2	gdq	blood	d o r e h	T U R E H	T V R V H	82
+JIBBALI	shv	blood	d o h r	T U H R	T V H R	82
+SOQOTRI_2	sqt	blood	d E r	T E R	T V R	82
+SIWA	siz	blood	i d a m 3 n	I T A M O N	V T V M V N	81
+GHADAMES_2	gha	blood	d e m e n	T E M E N	T V M V N	81
+AHAGGAR	thv	blood	a h n i	A H N I	V H N V	83
+ZENAGA_2	zen	blood	d 3 m 3 nh~	T O M O N	T V M V N	81
+QABYLE	kab	blood	i d a m 3 n	I T A M O N	V T V M V N	81
+HAUSA_3	hau	blood	j i n i	C I N I	K V N V	83
+BOLEWA	bol	blood	d o m i	T U M I	T V M V	81
+BEJA_2	bej	blood	b o y	P U J	P V J	84
+OROMO	gaz	blood	d i g a	T I K A	T V K V	85
+KAFFA	kbr	blood	d a m o	T A M U	T V M V	81
+SYRIAC_2	syc	full	m 3 l e	M O L E	M V R V	61
+ARABIC_QURANIC	arb	full	m a l 7 a n	M A L H A N	M V R H V N	61
+ARABIC_LEBANESE	apc	full	m 3 l i n	M O L I N	M V R V N	61
+GEEZ	gez	full	m 3 l u 7	M O L Y H	M V R V H	61
+TIGRAI	tir	full	m u l u 7	M Y L Y H	M V R V H	61
+AMHARIC_3	amh	full	m 3 l u	M O L Y	M V R V	61
+HARARI_2	har	full	m u l u 7	M Y L Y H	M V R V H	61
+MEHRI_2	gdq	full	m i l a 7	M I L A H	M V R V H	61
+JIBBALI	shv	full	m i Z i 7	M I S I H	M V S V H	61
+SOQOTRI_2	sqt	full	m i l i	M I L I	M V R V	61
+SIWA	siz	full	C u r	C Y R	K V R	63
+GHADAMES_2	gha	full	e t k u r	E T K Y R	V T K V R	63
+AHAGGAR	thv	full	3 t k 3 r	O T K O R	V T K V R	63
+ZENAGA_2	zen	full	t u f u r t	T Y B Y R T	T V P V R T	64
+QABYLE	kab	full	a C a r a n	A C A R A N	V K V R V N	63
+HAUSA_3	hau	full	C i k a	C I K A	K V K V	65
+BOLEWA	bol	full	g a m t	K A M T	K V M T	66
+BEJA_2	bej	full	a t a b	A T A P	V T V P	67
+OROMO	gaz	full	g u t u	K Y T Y	K V T V	68
+KAFFA	kbr	full	C e n	C E N	K V N	69
+SYRIAC_2	syc	new	X a d 3 t	G A T O T	K V T V T	11
+ARABIC_QURANIC	arb	new	Z a d i d	S A T I T	S V T V T	12
+ARABIC_LEBANESE	apc	new	Z d i d	S T I T	S T V T	12
+GEEZ	gez	new	X a d i s	G A T I S	K V T V S	11
+TIGRAI	tir	new	X a d i s	G A T I S	K V T V S	11
+AMHARIC_3	amh	new	a d i s	A T I S	V T V S	11
+HARARI_2	har	new	X a j i s	G A C I S	K V K V S	11
+MEHRI_2	gdq	new	X e y d i n	G E J T I N	K V J T V N	13
+JIBBALI	shv	new	o d i n	U T I N	V T V N	13
+SIWA	siz	new	a t r a r	A T R A R	V T R V R	16
+AHAGGAR	thv	new	i n a y	I N A J	V N V J	17
+ZENAGA_2	zen	new	3 n 3 n	O N O N	V N V N	17
+HAUSA_3	hau	new	s a b o	S A P U	S V P V	18
+BOLEWA	bol	new	p o y o	P U J U	P V J V	19
+BEJA_2	bej	new	g a	K A	K V	20
+OROMO	gaz	new	h a r a	H A R A	H V R V	21
+KAFFA	kbr	new	a n d e r o	A N T E R U	V N T V R V	22
+SYRIAC_2	syc	we	X 3 n a n	G O N A N	K V N V N	11
+ARABIC_QURANIC	arb	we	n a X n u	N A G N Y	N V K N V	11
+ARABIC_LEBANESE	apc	we	n e X n i	N E G N I	N V K N V	11
+GEEZ	gez	we	n 3 X n a	N O G N A	N V K N V	11
+TIGRAI	tir	we	n 3 X n a	N O G N A	N V K N V	11
+AMHARIC_3	amh	we	3 5 a	O N A	V N V	11
+HARARI_2	har	we	3 5 a	O N A	V N V	11
+MEHRI_2	gdq	we	n X a h	N G A H	N K V H	11
+JIBBALI	shv	we	nh~ a n	N A N	N V N	11
+SOQOTRI_2	sqt	we	h a n h e n	H A N H E N	H V N H V N	11
+SIWA	siz	we	nC~ i n i	N I N I	N V N V	11
+GHADAMES_2	gha	we	n e k e n i n	N E K E N I N	N V K V N V N	11
+AHAGGAR	thv	we	n 3 k a n i d	N O K A N I T	N V K V N V T	11
+ZENAGA_2	zen	we	n 3 k n i	N O K N I	N V K N V	11
+QABYLE	kab	we	n 3 kw~ n i	N O K N I	N V K N V	11
+HAUSA_3	hau	we	m u	M Y	M V	12
+BOLEWA	bol	we	m i m u	M I M Y	M V M V	12
+BEJA_2	bej	we	h a n i n	H A N I N	H V N V N	11
+OROMO	gaz	we	n u	N Y	N V	11
+DAHALO_2	dal	we	5 a 5 i	N A N I	N V N V	11
+KAFFA	kbr	we	n u	N Y	N V	11
+SYRIAC_2	syc	horn	k a r n	K A R N	K V R N	11
+ARABIC_LEBANESE	apc	horn	a r a n	A R A N	V R V N	11
+GEEZ	gez	horn	k a r n	K A R N	K V R N	11
+TIGRAI	tir	horn	k a r n i	K A R N I	K V R N V	11
+AMHARIC_3	amh	horn	k 3 nd~	K O N	K V N	11
+HARARI_2	har	horn	k E r	K E R	K V R	11
+MEHRI_2	gdq	horn	k o n	K U N	K V N	11
+JIBBALI	shv	horn	k u h n	K Y H N	K V H N	11
+SOQOTRI_2	sqt	horn	k a n	K A N	K V N	11
+SIWA	siz	horn	a C ao	A C A	V K V	13
+GHADAMES_2	gha	horn	a S k a w	A S K A W	V S K V W	13
+AHAGGAR	thv	horn	i s 3 k	I S O K	V S V K	13
+ZENAGA_2	zen	horn	t 3 s k e n	T O S K E N	T V S K V N	13
+QABYLE	kab	horn	i S	I S	V S	13
+HAUSA_3	hau	horn	k a h o	K A H U	K V H V	14
+BOLEWA	bol	horn	"b"" o l u"	P U L Y	P V R V	15
+BEJA_2	bej	horn	d a 7	T A H	T V H	16
+OROMO	gaz	horn	g a f a	K A B A	K V P V	17
+DAHALO_2	dal	horn	t u m p o	T Y M P U	T V M P V	18
+SYRIAC_2	syc	name	S 3 m	S O M	S V M	81
+ARABIC_QURANIC	arb	name	i s m	I S M	V S M	81
+ARABIC_LEBANESE	apc	name	3 s 3 m	O S O M	V S V M	81
+GEEZ	gez	name	s 3 m	S O M	S V M	81
+TIGRAI	tir	name	s 3 m	S O M	S V M	81
+AMHARIC_3	amh	name	s 3 m	S O M	S V M	81
+HARARI_2	har	name	s u m	S Y M	S V M	81
+MEHRI_2	gdq	name	h a m	H A M	H V M	81
+JIBBALI	shv	name	S u m	S Y M	S V M	81
+SOQOTRI_2	sqt	name	S e m	S E M	S V M	81
+GHADAMES_2	gha	name	i s m	I S M	V S M	81
+AHAGGAR	thv	name	i s 3 m	I S O M	V S V M	81
+ZENAGA_2	zen	name	e S 3 m	E S O M	V S V M	81
+QABYLE	kab	name	i s 3 m	I S O M	V S V M	81
+HAUSA_3	hau	name	s u n a	S Y N A	S V N V	81
+BOLEWA	bol	name	s i N k w o	S I N K W U	S V N K W V	81
+OROMO	gaz	name	m a q a	M A K A	M V K V	83
+DAHALO_2	dal	name	s a r e	S A R E	S V R V	84
+KAFFA	kbr	name	S i g o	S I K U	S V K V	85
+SYRIAC_2	syc	ear	e d n	E T N	V T N	81
+ARABIC_QURANIC	arb	ear	u n	Y N	V N	81
+ARABIC_LEBANESE	apc	ear	3 d 3 n	O T O N	V T V N	81
+GEEZ	gez	ear	3 z 3 n	O S O N	V S V N	81
+TIGRAI	tir	ear	3 z n i	O S N I	V S N V	81
+HARARI_2	har	ear	u z u n	Y S Y N	V S V N	81
+MEHRI_2	gdq	ear	h a y d i n	H A J T I N	H V J T V N	81
+JIBBALI	shv	ear	i d E n	I T E N	V T V N	81
+SOQOTRI_2	sqt	ear	i d i h 3 n	I T I H O N	V T V H V N	81
+SIWA	siz	ear	t a m 3 z u h t	T A M O S Y H T	T V M V S V H T	83
+GHADAMES_2	gha	ear	i s 3 m	I S O M	V S V M	84
+AHAGGAR	thv	ear	t a m 3 z u k	T A M O S Y K	T V M V S V K	83
+ZENAGA_2	zen	ear	t a m a z g u d	T A M A S K Y T	T V M V S K V T	83
+QABYLE	kab	ear	a m 3 z u x	A M O S Y G	V M V S V K	83
+HAUSA_3	hau	ear	k u n e	K Y N E	K V N V	85
+BOLEWA	bol	ear	k u m i	K Y M I	K V M V	85
+BEJA_2	bej	ear	a n g w i l	A N K W I L	V N K W V R	86
+OROMO	gaz	ear	g u r a	K Y R A	K V R V	87
+DAHALO_2	dal	ear	a g a Z o	A K A S U	V K V S V	88
+KAFFA	kbr	ear	w a m o	W A M U	W V M V	89
+SYRIAC_2	syc	eye	a y n	A J N	V J N	41
+ARABIC_QURANIC	arb	eye	X a y n	G A J N	K V J N	41
+ARABIC_LEBANESE	apc	eye	X a y n	G A J N	K V J N	41
+GEEZ	gez	eye	X a y n	G A J N	K V J N	41
+TIGRAI	tir	eye	X a y n i	G A J N I	K V J N V	41
+AMHARIC_3	amh	eye	a y n	A J N	V J N	41
+HARARI_2	har	eye	i n	I N	V N	41
+MEHRI_2	gdq	eye	X a y n	G A J N	K V J N	41
+JIBBALI	shv	eye	X i h n	G I H N	K V H N	41
+SOQOTRI_2	sqt	eye	X a y n	G A J N	K V J N	41
+SIWA	siz	eye	t 3 t	T O T	T V T	44
+GHADAMES_2	gha	eye	a w 3 l	A W O L	V W V R	42
+AHAGGAR	thv	eye	t i t	T I T	T V T	44
+ZENAGA_2	zen	eye	t u d	T Y T	T V T	44
+QABYLE	kab	eye	t i t	T I T	T V T	44
+HAUSA_3	hau	eye	i d o	I T U	V T V	44
+BOLEWA	bol	eye	i d i	I T I	V T V	44
+BEJA_2	bej	eye	l i l i	L I L I	R V R V	42
+OROMO	gaz	eye	i j a	I C A	V K V	42
+DAHALO_2	dal	eye	i l a	I L A	V R V	42
+KAFFA	kbr	eye	a f o	A B U	V P V	45
+SYRIAC_2	syc	nose	n e X i r	N E G I R	N V K V R	52
+ARABIC_QURANIC	arb	nose	a n f	A N B	V N P	51
+ARABIC_LEBANESE	apc	nose	m 3 n X a r	M O N G A R	M V N K V R	52
+GEEZ	gez	nose	a n f	A N B	V N P	51
+TIGRAI	tir	nose	a f 3 n C a	A B O N C A	V P V N K V	53
+AMHARIC_3	amh	nose	3 f 3 n C a	O B O N C A	V P V N K V	53
+HARARI_2	har	nose	u f	Y B	V P	51
+MEHRI_2	gdq	nose	n e X r i r	N E G R I R	N V K R V R	52
+JIBBALI	shv	nose	n a h r e r	N A H R E R	N V H R V R	52
+SOQOTRI_2	sqt	nose	n a h r i r	N A H R I R	N V H R V R	52
+SIWA	siz	nose	t a nz~ a r t	T A N A R T	T V N V R T	55
+GHADAMES_2	gha	nose	t 3 n z a r t	T O N S A R T	T V N S V R T	55
+AHAGGAR	thv	nose	a 5 g iu r	A N K I R	V N K V R	52
+ZENAGA_2	zen	nose	t i n Z 3 r 3 n	T I N S O R O N	T V N S V R V N	55
+QABYLE	kab	nose	a n z a r 3 n	A N S A R O N	V N S V R V N	55
+HAUSA_3	hau	nose	n a n C i	N A N C I	N V N K V	56
+BOLEWA	bol	nose	w i n t u	W I N T Y	W V N T V	56
+BEJA_2	bej	nose	g e n u t	K E N Y T	K V N V T	57
+OROMO	gaz	nose	f u 5 a n	B Y N A N	P V N V N	58
+KAFFA	kbr	nose	m u d o	M Y T U	M V T V	59
+SYRIAC_2	syc	tooth	S e n	S E N	S V N	11
+ARABIC_QURANIC	arb	tooth	s i n	S I N	S V N	11
+ARABIC_LEBANESE	apc	tooth	s 3 n	S O N	S V N	11
+GEEZ	gez	tooth	s 3 n	S O N	S V N	11
+TIGRAI	tir	tooth	s 3 n i	S O N I	S V N V	11
+AMHARIC_3	amh	tooth	t 3 r s	T O R S	T V R S	12
+HARARI_2	har	tooth	s 3 n	S O N	S V N	11
+MEHRI_2	gdq	tooth	m d e n y e t	M T E N J E T	M T V N J V T	13
+JIBBALI	shv	tooth	S n i n	S N I N	S N V N	11
+SOQOTRI_2	sqt	tooth	X a l e	G A L E	K V R V	14
+SIWA	siz	tooth	a s a y n	A S A J N	V S V J N	11
+GHADAMES_2	gha	tooth	a s i n	A S I N	V S V N	11
+AHAGGAR	thv	tooth	s i n 3 n	S I N O N	S V N V N	11
+ZENAGA_2	zen	tooth	u k s	Y K S	V K S	17
+QABYLE	kab	tooth	t u x m 3 s t	T Y G M O S T	T V K M V S T	18
+HAUSA_3	hau	tooth	h a k o r i	H A K U R I	H V K V R V	19
+BOLEWA	bol	tooth	i d o	I T U	V T V	20
+BEJA_2	bej	tooth	k o s	K U S	K V S	17
+OROMO	gaz	tooth	i l k a n	I L K A N	V R K V N	21
+DAHALO_2	dal	tooth	k a l a t i	K A L A T I	K V R V T V	21
+KAFFA	kbr	tooth	g a S o	K A S U	K V S V	22
+SYRIAC_2	syc	tongue	l e S a n	L E S A N	R V S V N	1
+ARABIC_QURANIC	arb	tongue	l i s a n	L I S A N	R V S V N	1
+ARABIC_LEBANESE	apc	tongue	l s e n	L S E N	R S V N	1
+GEEZ	gez	tongue	l 3 s a n	L O S A N	R V S V N	1
+TIGRAI	tir	tongue	m a l X a s	M A L G A S	M V R K V S	2
+AMHARIC_3	amh	tongue	m 3 l a s	M O L A S	M V R V S	2
+MEHRI_2	gdq	tongue	l S i n	L S I N	R S V N	1
+JIBBALI	shv	tongue	E l S E n	E L S E N	V R S V N	1
+SOQOTRI_2	sqt	tongue	l e S i n	L E S I N	R V S V N	1
+SIWA	siz	tongue	i l 3 s	I L O S	V R V S	1
+GHADAMES_2	gha	tongue	i l 3 s	I L O S	V R V S	1
+AHAGGAR	thv	tongue	i l 3 s	I L O S	V R V S	1
+ZENAGA_2	zen	tongue	3 C s i	O C S I	V K S V	1
+QABYLE	kab	tongue	i l 3 s	I L O S	V R V S	1
+HAUSA_3	hau	tongue	h a r S e	H A R S E	H V R S V	1
+BOLEWA	bol	tongue	l i s i	L I S I	R V S V	1
+BEJA_2	bej	tongue	m i d a l a	M I T A L A	M V T V R V	3
+OROMO	gaz	tongue	a r a b a	A R A P A	V R V P V	4
+DAHALO_2	dal	tongue	X e n a	G E N A	K V N V	5
+KAFFA	kbr	tongue	e C i y o	E C I J U	V K V J V	6
+SYRIAC_2	syc	person	b a r n a S	P A R N A S	P V R N V S	82
+ARABIC_QURANIC	arb	person	i n s a n	I N S A N	V N S V N	82
+ARABIC_LEBANESE	apc	person	i n s e n	I N S E N	V N S V N	82
+GEEZ	gez	person	b 3 7 3 s i	P O H O S I	P V H V S V	83
+TIGRAI	tir	person	s a b	S A P	S V P	84
+AMHARIC_3	amh	person	s 3 w	S O W	S V W	84
+HARARI_2	har	person	u s u 7	Y S Y H	V S V H	84
+SOQOTRI_2	sqt	person	X a g	G A K	K V K	85
+GHADAMES_2	gha	person	i m a n	I M A N	V M V N	88
+AHAGGAR	thv	person	y 3 n	J O N	J V N	89
+ZENAGA_2	zen	person	m i n	M I N	M V N	88
+HAUSA_3	hau	person	m u t u m	M Y T Y M	M V T V M	90
+BOLEWA	bol	person	m e m u	M E M Y	M V M V	91
+BEJA_2	bej	person	h a	H A	H V	92
+OROMO	gaz	person	n a m a	N A M A	N V M V	93
+DAHALO_2	dal	person	"g u h"" o"	K Y H U	K V H V	94
+KAFFA	kbr	person	a S o	A S U	V S V	82
+SYRIAC_2	syc	knee	b u r k	P Y R K	P V R K	51
+ARABIC_QURANIC	arb	knee	r u k b a t	R Y K P A T	R V K P V T	52
+ARABIC_LEBANESE	apc	knee	r i k b i	R I K P I	R V K P V	52
+GEEZ	gez	knee	b 3 r k	P O R K	P V R K	51
+TIGRAI	tir	knee	b 3 r k i	P O R K I	P V R K V	51
+MEHRI_2	gdq	knee	b a r a k	P A R A K	P V R V K	51
+JIBBALI	shv	knee	b E r k	P E R K	P V R K	51
+SOQOTRI_2	sqt	knee	b a r k	P A R K	P V R K	51
+SIWA	siz	knee	f u d	B Y T	P V T	54
+GHADAMES_2	gha	knee	u f 3 d	Y B O T	V P V T	54
+AHAGGAR	thv	knee	a f u d	A B Y T	V P V T	54
+ZENAGA_2	zen	knee	o 7 f u	U H B Y	V H P V	54
+QABYLE	kab	knee	a gw~ 3 S r i r	A K O S R I R	V K V S R V R	55
+HAUSA_3	hau	knee	gw~ i w a	K I W A	K V W V	56
+BOLEWA	bol	knee	b u r n	P Y R N	P V R N	57
+BEJA_2	bej	knee	g u n	K Y N	K V N	58
+OROMO	gaz	knee	j i l b a	C I L P A	K V R P V	59
+DAHALO_2	dal	knee	g i l i	K I L I	K V R V	60
+KAFFA	kbr	knee	a n g o	A N K U	V N K V	61
+SYRIAC_2	syc	hand	i d	I T	V T	72
+ARABIC_QURANIC	arb	hand	y a d	J A T	J V T	72
+ARABIC_LEBANESE	apc	hand	3 d	O T	V T	72
+GEEZ	gez	hand	3 d	O T	V T	72
+TIGRAI	tir	hand	i d	I T	V T	72
+AMHARIC_3	amh	hand	3 Z	O S	V S	72
+HARARI_2	har	hand	i j i	I C I	V K V	72
+MEHRI_2	gdq	hand	X a y d	G A J T	K V J T	72
+JIBBALI	shv	hand	e d	E T	V T	72
+SOQOTRI_2	sqt	hand	e 7 e d	E H E T	V H V T	72
+SIWA	siz	hand	f u s	B Y S	P V S	74
+GHADAMES_2	gha	hand	u f 3 s	Y B O S	V P V S	74
+AHAGGAR	thv	hand	a f u s	A B Y S	V P V S	74
+ZENAGA_2	zen	hand	a f u S	A B Y S	V P V S	74
+QABYLE	kab	hand	a f u s	A B Y S	V P V S	74
+HAUSA_3	hau	hand	h a n u	H A N Y	H V N V	75
+BOLEWA	bol	hand	s 3 r a	S O R A	S V R V	76
+BEJA_2	bej	hand	a y	A J	V J	77
+OROMO	gaz	hand	h a r k a	H A R K A	H V R K V	78
+DAHALO_2	dal	hand	d a r a	T A R A	T V R V	79
+KAFFA	kbr	hand	k i S o	K I S U	K V S V	80
+SYRIAC_2	syc	breast	X a d y	G A T J	K V T J	2
+ARABIC_QURANIC	arb	breast	sX~ a d r	S A T R	S V T R	3
+ARABIC_LEBANESE	apc	breast	s i d r	S I T R	S V T R	3
+GEEZ	gez	breast	a n g 3 d 7 a	A N K O T H A	V N K V T H V	4
+TIGRAI	tir	breast	d a r a t	T A R A T	T V R V T	5
+AMHARIC_3	amh	breast	t u t	T Y T	T V T	6
+HARARI_2	har	breast	t o t	T U T	T V T	6
+MEHRI_2	gdq	breast	g o w f	K U W B	K V W P	7
+JIBBALI	shv	breast	t oE 7	T U H	T V H	8
+SOQOTRI_2	sqt	breast	t o d i	T U T I	T V T V	8
+SIWA	siz	breast	i f e f	I B E B	V P V P	10
+GHADAMES_2	gha	breast	a d m a r e n	A T M A R E N	V T M V R V N	11
+AHAGGAR	thv	breast	i d m a r 3 n	I T M A R O N	V T M V R V N	11
+ZENAGA_2	zen	breast	g u r g a r 3 n	K Y R K A R O N	K V R K V R V N	12
+QABYLE	kab	breast	i d m a r 3 n	I T M A R O N	V T M V R V N	11
+HAUSA_3	hau	breast	m a m a	M A M A	M V M V	13
+BOLEWA	bol	breast	"w 3 d"" i"	W O T I	W V T V	14
+BEJA_2	bej	breast	n u g	N Y K	N V K	15
+OROMO	gaz	breast	q o m a	K U M A	K V M V	16
+KAFFA	kbr	breast	g e t o	K E T U	K V T V	17
+SYRIAC_2	syc	liver	k a b d	K A P T	K V P T	31
+ARABIC_QURANIC	arb	liver	k a b i d	K A P I T	K V P V T	31
+ARABIC_LEBANESE	apc	liver	k 3 b d i	K O P T I	K V P T V	31
+GEEZ	gez	liver	k a b 3 d	K A P O T	K V P V T	31
+TIGRAI	tir	liver	k a b d i	K A P T I	K V P T V	31
+AMHARIC_3	amh	liver	g u b 3 t	K Y P O T	K V P V T	32
+HARARI_2	har	liver	k u d	K Y T	K V T	31
+MEHRI_2	gdq	liver	S e b d i t	S E P T I T	S V P T V T	31
+JIBBALI	shv	liver	S u b d e t	S Y P T E T	S V P T V T	31
+SOQOTRI_2	sqt	liver	S i b d e	S I P T E	S V P T V	31
+SIWA	siz	liver	c a	C A	K V	35
+GHADAMES_2	gha	liver	t u s a	T Y S A	T V S V	35
+AHAGGAR	thv	liver	a w s a	A W S A	V W S V	35
+ZENAGA_2	zen	liver	t a 7 S a	T A H S A	T V H S V	36
+QABYLE	kab	liver	t a s a	T A S A	T V S V	35
+HAUSA_3	hau	liver	h a n t a	H A N T A	H V N T V	37
+BOLEWA	bol	liver	"r u b"" u s u"	R Y P Y S Y	R V P V S V	38
+BEJA_2	bej	liver	s e	S E	S V	35
+OROMO	gaz	liver	t i r u	T I R Y	T V R V	39
+DAHALO_2	dal	liver	m a k o	M A K U	M V K V	40
+KAFFA	kbr	liver	q a m o	K A M U	K V M V	41
+SYRIAC_2	syc	drink	S t y	S T J	S T J	51
+ARABIC_QURANIC	arb	drink	S r b	S R P	S R P	52
+ARABIC_LEBANESE	apc	drink	S 3 r 3 b	S O R O P	S V R V P	52
+GEEZ	gez	drink	s t y	S T J	S T J	51
+TIGRAI	tir	drink	s a t a y a	S A T A J A	S V T V J V	51
+HARARI_2	har	drink	s E C a	S E C A	S V K V	51
+MEHRI_2	gdq	drink	h u t k i	H Y T K I	H V T K V	53
+JIBBALI	shv	drink	S u s i	S Y S I	S V S V	53
+SOQOTRI_2	sqt	drink	r e	R E	R V	54
+SIWA	siz	drink	s u	S Y	S V	56
+GHADAMES_2	gha	drink	s 3 w	S O W	S V W	56
+AHAGGAR	thv	drink	3 s u	O S Y	V S V	56
+ZENAGA_2	zen	drink	3 S b i	O S P I	V S P V	56
+QABYLE	kab	drink	s 3 w	S O W	S V W	56
+HAUSA_3	hau	drink	S a	S A	S V	56
+BOLEWA	bol	drink	s a	S A	S V	56
+BEJA_2	bej	drink	g u 7	K Y H	K V H	57
+OROMO	gaz	drink	d u g a	T Y K A	T V K V	58
+DAHALO_2	dal	drink	m a 7 a w	M A H A W	M V H V W	59
+KAFFA	kbr	drink	u C	Y C	V K	60
+SYRIAC_2	syc	thou	a t	A T	V T	91
+ARABIC_QURANIC	arb	thou	a n t a	A N T A	V N T V	91
+ARABIC_LEBANESE	apc	thou	i n t	I N T	V N T	91
+GEEZ	gez	thou	a n t a	A N T A	V N T V	91
+TIGRAI	tir	thou	n 3 s 3 k a	N O S O K A	N V S V K V	92
+AMHARIC_3	amh	thou	a n t a	A N T A	V N T V	91
+HARARI_2	har	thou	a k a	A K A	V K V	92
+MEHRI_2	gdq	thou	h i t	H I T	H V T	93
+JIBBALI	shv	thou	h E t	H E T	H V T	93
+SIWA	siz	thou	S 3 k	S O K	S V K	92
+GHADAMES_2	gha	thou	S e g	S E K	S V K	92
+AHAGGAR	thv	thou	k a y	K A J	K V J	92
+ZENAGA_2	zen	thou	k u k	K Y K	K V K	92
+QABYLE	kab	thou	k 3 C	K O C	K V K	92
+HAUSA_3	hau	thou	k ai	K A	K V	92
+BOLEWA	bol	thou	k ai	K A	K V	92
+BEJA_2	bej	thou	b a r u k	P A R Y K	P V R V K	92
+OROMO	gaz	thou	a t i	A T I	V T V	91
+DAHALO_2	dal	thou	a t a	A T A	V T V	91
+KAFFA	kbr	thou	n e	N E	N V	95
+SYRIAC_2	syc	see	X z y	G S J	K S J	23
+ARABIC_QURANIC	arb	see	r 7 y	R H J	R H J	22
+ARABIC_LEBANESE	apc	see	S e f	S E B	S V P	24
+GEEZ	gez	see	r 7 y	R H J	R H J	22
+TIGRAI	tir	see	r a 7 a y a	R A H A J A	R V H V J V	22
+AMHARIC_3	amh	see	a y a	A J A	V J V	23
+HARARI_2	har	see	r i 7 a	R I H A	R V H V	22
+MEHRI_2	gdq	see	s i n u h	S I N Y H	S V N V H	25
+JIBBALI	shv	see	S i n i	S I N I	S V N V	25
+SOQOTRI_2	sqt	see	S i n i	S I N I	S V N V	25
+SIWA	siz	see	z 3 r	S O R	S V R	28
+GHADAMES_2	gha	see	e l 3 m	E L O M	V R V M	29
+AHAGGAR	thv	see	3 n i	O N I	V N V	27
+ZENAGA_2	zen	see	z a r	S A R	S V R	28
+QABYLE	kab	see	w a l i	W A L I	W V R V	30
+HAUSA_3	hau	see	g a n i	K A N I	K V N V	31
+BOLEWA	bol	see	i n	I N	V N	27
+BEJA_2	bej	see	e r h	E R H	V R H	32
+OROMO	gaz	see	a r g a	A R K A	V R K V	33
+DAHALO_2	dal	see	"w a h"""	W A H	W V H	34
+KAFFA	kbr	see	b e q	P E K	P V K	35
+SYRIAC_2	syc	hear	S m X	S M G	S M K	91
+ARABIC_QURANIC	arb	hear	S m X	S M G	S M K	91
+ARABIC_LEBANESE	apc	hear	s 3 m 3 X a	S O M O G A	S V M V K V	91
+GEEZ	gez	hear	s m X	S M G	S M K	91
+TIGRAI	tir	hear	s a m X e	S A M G E	S V M K V	91
+AMHARIC_3	amh	hear	s 3 m a	S O M A	S V M V	91
+HARARI_2	har	hear	s E m a 7 a	S E M A H A	S V M V H V	91
+MEHRI_2	gdq	hear	h e m a	H E M A	H V M V	91
+JIBBALI	shv	hear	S i X	S I G	S V K	91
+SOQOTRI_2	sqt	hear	h e m a X	H E M A G	H V M V K	91
+SIWA	siz	hear	s 3 l	S O L	S V R	93
+GHADAMES_2	gha	hear	3 s l	O S L	V S R	93
+AHAGGAR	thv	hear	3 s 3 l	O S O L	V S V R	93
+ZENAGA_2	zen	hear	g e r a	K E R A	K V R V	94
+QABYLE	kab	hear	s 3 l	S O L	S V R	93
+HAUSA_3	hau	hear	j i	C I	K V	95
+BOLEWA	bol	hear	k u m	K Y M	K V M	96
+BEJA_2	bej	hear	m a s u w	M A S Y W	M V S V W	97
+OROMO	gaz	hear	d a g a y a	T A K A J A	T V K V J V	98
+DAHALO_2	dal	hear	e t i t	E T I T	V T V T	99
+KAFFA	kbr	hear	w a y	W A J	W V J	10
+SYRIAC_2	syc	bone	g a r m	K A R M	K V R M	92
+ARABIC_QURANIC	arb	bone	a zX~ m	A S M	V S M	91
+ARABIC_LEBANESE	apc	bone	X a zX~ a m	G A S A M	K V S V M	91
+GEEZ	gez	bone	X a c 3 m	G A C O M	K V K V M	91
+TIGRAI	tir	bone	X a sX~ m i	G A S M I	K V S M V	91
+AMHARIC_3	amh	bone	a t 3 nt~	A T O N	V T V N	91
+HARARI_2	har	bone	a t	A T	V T	91
+MEHRI_2	gdq	bone	X a Z y Z	G A S J S	K V S J S	93
+JIBBALI	shv	bone	X a y C e C	G A J C E C	K V J K V K	93
+SOQOTRI_2	sqt	bone	s a h l o	S A H L U	S V H R V	94
+SIWA	siz	bone	i x 3 s	I G O S	V K V S	95
+GHADAMES_2	gha	bone	x 3 s	G O S	K V S	95
+AHAGGAR	thv	bone	e x 3 s	E G O S	V K V S	95
+ZENAGA_2	zen	bone	i c i	I C I	V K V	95
+QABYLE	kab	bone	i x 3 s	I G O S	V K V S	95
+HAUSA_3	hau	bone	q a S i	K A S I	K V S V	95
+BOLEWA	bol	bone	u s 3 k i	Y S O K I	V S V K V	96
+BEJA_2	bej	bone	m i	M I	M V	97
+OROMO	gaz	bone	l a f e	L A B E	R V P V	98
+KAFFA	kbr	bone	S a w u S o	S A W Y S U	S V W V S V	99
+SYRIAC_2	syc	die	m y t	M J T	M J T	21
+ARABIC_QURANIC	arb	die	m w t	M W T	M W T	21
+ARABIC_LEBANESE	apc	die	m 3 t	M O T	M V T	21
+GEEZ	gez	die	m w t	M W T	M W T	21
+TIGRAI	tir	die	m o t a	M U T A	M V T V	21
+AMHARIC_3	amh	die	m o t 3	M U T O	M V T V	21
+HARARI_2	har	die	d i j a	T I C A	T V K V	21
+MEHRI_2	gdq	die	m o t	M U T	M V T	21
+JIBBALI	shv	die	h a r o g	H A R U K	H V R V K	22
+SOQOTRI_2	sqt	die	s a m e	S A M E	S V M V	23
+SIWA	siz	die	i m u t	I M Y T	V M V T	21
+GHADAMES_2	gha	die	3 m 3 t	O M O T	V M V T	21
+AHAGGAR	thv	die	3 m 3 t	O M O T	V M V T	21
+ZENAGA_2	zen	die	3 mw~ i	O M I	V M V	21
+QABYLE	kab	die	3 m 3 t	O M O T	V M V T	21
+HAUSA_3	hau	die	m u t u	M Y T Y	M V T V	21
+BOLEWA	bol	die	m u t u	M Y T Y	M V T V	21
+BEJA_2	bej	die	y a t i	J A T I	J V T V	24
+OROMO	gaz	die	d u 7 a	T Y H A	T V H V	25
+DAHALO_2	dal	die	Z a 7	S A H	S V H	25
+KAFFA	kbr	die	k i t	K I T	K V T	26
+SYRIAC_2	syc	road (path)	u r X	Y R G	V R K	41
+ARABIC_QURANIC	arb	road (path)	tX~ a r i q	T A R I K	T V R V K	43
+ARABIC_LEBANESE	apc	road (path)	d a r a b	T A R A P	T V R V P	44
+GEEZ	gez	road (path)	f 3 n o t	B O N U T	P V N V T	45
+TIGRAI	tir	road (path)	m a n g a d i	M A N K A T I	M V N K V T V	46
+AMHARIC_3	amh	road (path)	m 3 n g 3 d	M O N K O T	M V N K V T	46
+MEHRI_2	gdq	road (path)	X i r u m	G I R Y M	K V R V M	47
+JIBBALI	shv	road (path)	o r m	U R M	V R M	47
+SOQOTRI_2	sqt	road (path)	o r i m	U R I M	V R V M	47
+GHADAMES_2	gha	road (path)	a b r i d	A P R I T	V P R V T	50
+AHAGGAR	thv	road (path)	a b a r 3 q a	A P A R O K A	V P V R V K V	51
+ZENAGA_2	zen	road (path)	t i r 3 s	T I R O S	T V R V S	52
+QABYLE	kab	road (path)	a b r i d	A P R I T	V P R V T	50
+HAUSA_3	hau	road (path)	h a 5 a	H A N A	H V N V	53
+BOLEWA	bol	road (path)	g o g o	K U K U	K V K V	54
+BEJA_2	bej	road (path)	l a g i	L A K I	R V K V	55
+OROMO	gaz	road (path)	k a r a	K A R A	K V R V	56
+DAHALO_2	dal	road (path)	l e	L E	R V	57
+KAFFA	kbr	road (path)	w o r e t o	W U R E T U	W V R V T V	48

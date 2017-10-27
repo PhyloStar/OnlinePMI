@@ -1,0 +1,401 @@
+language	iso_code	gloss	asjp	sca	dolgo	cognate_class
+SIAMESE	tha	I	k u	K Y	K V	1
+ZHUANG_SOUTHERN	zzj	I	k au	K A	K V	2
+ZHUANG_NORTHERN	zgn	I	k ou	K U	K V	2
+SAEK	skb	I	k u	K Y	K V	2
+SUI	swi	I	y u	J Y	J V	2
+MULAO	mlm	I	h 3i	H O	H V	3
+KAM_ZHANGLU	doc	I	y au	J A	J V	2
+MAONAN	mmd	I	"h"" e"	H E	H V	2
+ONG_BE	onb	I	h au	H A	H V	2
+LAKKJA	lbc	I	c i	C I	K V	4
+LI_TONGSHI	lic	I	h ou	H U	H V	2
+LI_BAODING	lic	I	h ou	H U	H V	2
+SIAMESE	tha	come	m a	M A	M V	1
+ZHUANG_SOUTHERN	zzj	come	m a	M A	M V	1
+SAEK	skb	come	m a	M A	M V	1
+KAM_ZHANGLU	doc	come	m a	M A	M V	1
+ONG_BE	onb	come	n ia	N I	N V	1
+SIAMESE	tha	water	n a m	N A M	N V M	1
+ZHUANG_SOUTHERN	zzj	water	n a m	N A M	N V M	1
+ZHUANG_NORTHERN	zgn	water	x a m	G A M	K V M	1
+SAEK	skb	water	n a m	N A M	N V M	1
+SUI	swi	water	n a m	N A M	N V M	1
+MULAO	mlm	water	n 3 m	N O M	N V M	1
+KAM_ZHANGLU	doc	water	n a m	N A M	N V M	1
+MAONAN	mmd	water	n a m	N A M	N V M	1
+ONG_BE	onb	water	n a m	N A M	N V M	1
+LAKKJA	lbc	water	n u m	N Y M	N V M	1
+LI_TONGSHI	lic	water	n a m	N A M	N V M	1
+LI_BAODING	lic	water	n o m	N U M	N V M	1
+SIAMESE	tha	mountain	ph~ u	P Y	P V	1
+ZHUANG_SOUTHERN	zzj	mountain	d o N	T U N	T V N	3
+SUI	swi	mountain	n u	N Y	N V	4
+MULAO	mlm	mountain	px~ a	P A	P V	5
+KAM_ZHANGLU	doc	mountain	t 3 n	T O N	T V N	6
+MAONAN	mmd	mountain	k o N py~ a	K U N P A	K V N P V	5
+ONG_BE	onb	mountain	t ia	T I	T V	7
+LAKKJA	lbc	mountain	ky~ a	K A	K V	7
+LI_TONGSHI	lic	mountain	hw~ ou	H U	H V	8
+LI_BAODING	lic	mountain	g o	K U	K V	8
+SIAMESE	tha	sun	d E t	T E T	T V T	1
+ZHUANG_SOUTHERN	zzj	sun	h a v a n	H A B A N	H V P V N	1
+ZHUANG_NORTHERN	zgn	sun	t a NN o n	T A N U N	T V N V N	1
+SAEK	skb	sun	t a 5 3 n	T A N O N	T V N V N	1
+SUI	swi	sun	nd~ a v a n	N A B A N	N V P V N	1
+MULAO	mlm	sun	th~ 3u f a n	T O B A N	T V P V N	1
+KAM_ZHANGLU	doc	sun	t a m a n	T A M A N	T V M V N	1
+MAONAN	mmd	sun	l a k v a n	L A K B A N	R V K P V N	1
+ONG_BE	onb	sun	d a v 3 n	T A B O N	T V P V N	1
+LAKKJA	lbc	sun	t au w a n	T A W A N	T V W V N	1
+LI_TONGSHI	lic	sun	ch~ a v a n	C A B A N	K V P V N	1
+LI_BAODING	lic	sun	ch~ a hw~ a n	C A H A N	K V H V N	1
+SIAMESE	tha	star	d a w	T A W	T V W	1
+ZHUANG_SOUTHERN	zzj	star	d au d i	T A T I	T V T V	1
+ZHUANG_NORTHERN	zgn	star	d au d ei	T A T E	T V T V	1
+SAEK	skb	star	t r a w	T R A W	T R V W	1
+SUI	swi	star	z 3 t	S O T	S V T	2
+MULAO	mlm	star	l a k h m 3 t	L A K H M O T	R V K H M V T	2
+KAM_ZHANGLU	doc	star	s 3 t	S O T	S V T	2
+MAONAN	mmd	star	z 3 t	S O T	S V T	2
+ONG_BE	onb	star	t i N	T I N	T V N	1
+LAKKJA	lbc	star	t au b l e t	T A P L E T	T V P R V T	1
+LI_TONGSHI	lic	star	r au	R A	R V	1
+LI_BAODING	lic	star	r au	R A	R V	1
+SIAMESE	tha	one	n u N	N Y N	N V N	1
+ZHUANG_SOUTHERN	zzj	one	n 3 N	N O N	N V N	1
+ZHUANG_NORTHERN	zgn	one	d eu	T E	T V	2
+SUI	swi	one	t o	T U	T V	4
+MULAO	mlm	one	h n au	H N A	H N V	3
+KAM_ZHANGLU	doc	one	l au	L A	R V	3
+MAONAN	mmd	one	d Eu	T E	T V	4
+LAKKJA	lbc	one	i n	I N	V N	6
+LI_TONGSHI	lic	one	3 7	O H	V H	5
+LI_BAODING	lic	one	ch~ e3	C E	K V	7
+SUI	swi	two	x a	G A	K V	1
+MULAO	mlm	two	x a	G A	K V	1
+KAM_ZHANGLU	doc	two	y a	J A	J V	1
+MAONAN	mmd	two	y a	J A	J V	1
+ONG_BE	onb	two	v o n	B U N	P V N	2
+LAKKJA	lbc	two	h ou	H U	H V	3
+LI_TONGSHI	lic	two	L au	L A	R V	3
+LI_BAODING	lic	two	L au	L A	R V	3
+SIAMESE	tha	stone	h i n	H I N	H V N	1
+ZHUANG_SOUTHERN	zzj	stone	h i n	H I N	H V N	1
+ZHUANG_NORTHERN	zgn	stone	x i n	G I N	K V N	1
+SAEK	skb	stone	r i l	R I L	R V R	1
+SUI	swi	stone	t i n	T I N	T V N	1
+MULAO	mlm	stone	t ui	T Y	T V	2
+KAM_ZHANGLU	doc	stone	t i n	T I N	T V N	1
+MAONAN	mmd	stone	t ui	T Y	T V	2
+ONG_BE	onb	stone	d i n	T I N	T V N	1
+LAKKJA	lbc	stone	f a N	B A N	P V N	3
+LI_TONGSHI	lic	stone	ch~ i n	C I N	K V N	1
+LI_BAODING	lic	stone	ch~ i n	C I N	K V N	1
+SIAMESE	tha	skin	n a N	N A N	N V N	1
+ZHUANG_SOUTHERN	zzj	skin	n a N	N A N	N V N	1
+ZHUANG_NORTHERN	zgn	skin	n a N	N A N	N V N	1
+SAEK	skb	skin	th~ r a p	T R A P	T R V P	2
+MULAO	mlm	skin	Nx~ a	N A	N V	3
+ONG_BE	onb	skin	n a N	N A N	N V N	1
+LI_TONGSHI	lic	skin	n o N	N U N	N V N	1
+LI_BAODING	lic	skin	n o N	N U N	N V N	1
+SIAMESE	tha	fire	f a y	B A J	P V J	1
+ZHUANG_SOUTHERN	zzj	fire	f ai	B A	P V	1
+ZHUANG_NORTHERN	zgn	fire	f ei	B E	P V	1
+SAEK	skb	fire	v i	B I	P V	1
+SUI	swi	fire	v i	B I	P V	1
+MULAO	mlm	fire	f i	B I	P V	1
+KAM_ZHANGLU	doc	fire	p ui	P Y	P V	1
+MAONAN	mmd	fire	v i	B I	P V	1
+ONG_BE	onb	fire	v 3i	B O	P V	1
+LAKKJA	lbc	fire	ph~ l a	P L A	P R V	1
+LI_TONGSHI	lic	fire	f ei	B E	P V	1
+LI_BAODING	lic	fire	f ei	B E	P V	1
+SIAMESE	tha	fish	p l a	P L A	P R V	1
+ZHUANG_SOUTHERN	zzj	fish	py~ a	P A	P V	1
+ZHUANG_NORTHERN	zgn	fish	py~ a	P A	P V	1
+SAEK	skb	fish	p l a	P L A	P R V	1
+SUI	swi	fish	m o m	M U M	M V M	2
+MULAO	mlm	fish	m 3 m	M O M	M V M	2
+ONG_BE	onb	fish	b a	P A	P V	1
+LAKKJA	lbc	fish	m o t	M U T	M V T	1
+LI_TONGSHI	lic	fish	L a	L A	R V	1
+LI_BAODING	lic	fish	L a	L A	R V	1
+SIAMESE	tha	dog	m a	M A	M V	1
+ZHUANG_SOUTHERN	zzj	dog	m a	M A	M V	1
+ZHUANG_NORTHERN	zgn	dog	m a	M A	M V	1
+SAEK	skb	dog	m a	M A	M V	1
+SUI	swi	dog	h m a	H M A	H M V	1
+MULAO	mlm	dog	h N w a	H N W A	H N W V	1
+KAM_ZHANGLU	doc	dog	Nw~ a	N A	N V	1
+MAONAN	mmd	dog	m a	M A	M V	1
+ONG_BE	onb	dog	m a	M A	M V	1
+LAKKJA	lbc	dog	khw$ o*	K U	K V	1
+LI_TONGSHI	lic	dog	p a	P A	P V	1
+LI_BAODING	lic	dog	p a	P A	P V	1
+SIAMESE	tha	louse	h a w	H A W	H V W	1
+ZHUANG_SOUTHERN	zzj	louse	h au	H A	H V	1
+ZHUANG_NORTHERN	zgn	louse	x au	G A	K V	1
+SAEK	skb	louse	r a w	R A W	R V W	1
+SUI	swi	louse	t u	T Y	T V	1
+MULAO	mlm	louse	khx$ o	K U	K V	1
+KAM_ZHANGLU	doc	louse	t au	T A	T V	1
+MAONAN	mmd	louse	t u	T Y	T V	1
+ONG_BE	onb	louse	d o n	T U N	T V N	2
+LAKKJA	lbc	louse	Nw~ a n	N A N	N V N	2
+LI_TONGSHI	lic	louse	f ou	B U	P V	1
+LI_BAODING	lic	louse	f ou	B U	P V	1
+SIAMESE	tha	tree	t o n	T U N	T V N	1
+ZHUANG_SOUTHERN	zzj	tree	m ai	M A	M V	1
+ZHUANG_NORTHERN	zgn	tree	f ai	B A	P V	1
+SAEK	skb	tree	m a y	M A J	M V J	1
+SUI	swi	tree	m ai	M A	M V	1
+MULAO	mlm	tree	m ai	M A	M V	1
+KAM_ZHANGLU	doc	tree	m 3i	M O	M V	1
+MAONAN	mmd	tree	m ai	M A	M V	1
+ONG_BE	onb	tree	d u n	T Y N	T V N	2
+LAKKJA	lbc	tree	c ei	C E	K V	3
+LI_TONGSHI	lic	tree	ch~ ai	C A	K V	3
+LI_BAODING	lic	tree	ch~ ai	C A	K V	3
+SIAMESE	tha	leaf	b a y	P A J	P V J	1
+ZHUANG_SOUTHERN	zzj	leaf	b a3	P A	P V	1
+ZHUANG_NORTHERN	zgn	leaf	b a3	P A	P V	1
+SAEK	skb	leaf	b 3	P O	P V	1
+SUI	swi	leaf	v a	B A	P V	2
+MULAO	mlm	leaf	f a	B A	P V	2
+KAM_ZHANGLU	doc	leaf	p a	P A	P V	2
+MAONAN	mmd	leaf	v a	B A	P V	2
+ONG_BE	onb	leaf	b o	P U	P V	1
+LAKKJA	lbc	leaf	w a	W A	W V	1
+LI_TONGSHI	lic	leaf	b e3	P E	P V	1
+LI_BAODING	lic	leaf	b e3	P E	P V	1
+SIAMESE	tha	night	kh~ a m	K A M	K V M	1
+ZHUANG_SOUTHERN	zzj	night	ky~ a N k 3 n	K A N K O N	K V N K V N	1
+ZHUANG_NORTHERN	zgn	night	ky~ a N h 3 n	K A N H O N	K V N H V N	1
+SAEK	skb	night	g 3 n	K O N	K V N	1
+SUI	swi	night	s a n	S A N	S V N	1
+MULAO	mlm	night	th~ 3u m u	T O M Y	T V M V	2
+KAM_ZHANGLU	doc	night	a n t a n	A N T A N	V N T V N	1
+MAONAN	mmd	night	5 a m	N A M	N V M	3
+ONG_BE	onb	night	kx~ 3 n	K O N	K V N	1
+LAKKJA	lbc	night	b o n b l au	P U N P L A	P V N P R V	5
+LI_TONGSHI	lic	night	p ai ch~ o p	P A C U P	P V K V P	6
+LI_BAODING	lic	night	p ai ch~ o p	P A C U P	P V K V P	6
+SIAMESE	tha	blood	l ua t	L Y T	R V T	1
+ZHUANG_SOUTHERN	zzj	blood	l 3 t	L O T	R V T	1
+ZHUANG_NORTHERN	zgn	blood	l 3 t	L O T	R V T	1
+SAEK	skb	blood	l ua t	L Y T	R V T	1
+SUI	swi	blood	phy$ a t	P A T	P V T	1
+MULAO	mlm	blood	phx$ a t	P A T	P V T	1
+KAM_ZHANGLU	doc	blood	ph~ a t	P A T	P V T	1
+MAONAN	mmd	blood	phy$ a t	P A T	P V T	1
+ONG_BE	onb	blood	b a 7	P A H	P V H	1
+LAKKJA	lbc	blood	l ie t	L I T	R V T	1
+LI_TONGSHI	lic	blood	L a t	L A T	R V T	1
+LI_BAODING	lic	blood	L a ty~	L A T	R V T	1
+SIAMESE	tha	full	t e m	T E M	T V M	1
+ZHUANG_SOUTHERN	zzj	full	t i m	T I M	T V M	1
+ZHUANG_NORTHERN	zgn	full	x i m	G I M	K V M	1
+SUI	swi	full	t i k	T I K	T V K	2
+MULAO	mlm	full	p i k	P I K	P V K	2
+KAM_ZHANGLU	doc	full	t i k	T I K	T V K	2
+MAONAN	mmd	full	t i k	T I K	T V K	2
+ONG_BE	onb	full	d i k	T I K	T V K	2
+LAKKJA	lbc	full	m o t	M U T	M V T	3
+LI_TONGSHI	lic	full	th~ ia 7	T I H	T V H	2
+LI_BAODING	lic	full	th~ i k	T I K	T V K	2
+ONG_BE	onb	new	n au	N A	N V	1
+LI_TONGSHI	lic	new	n o	N U	N V	1
+SIAMESE	tha	we	r a w	R A W	R V W	1
+ZHUANG_SOUTHERN	zzj	we	h u N l au	H Y N L A	H V N R V	1
+ZHUANG_NORTHERN	zgn	we	t ou	T U	T V	2
+SAEK	skb	we	t u	T Y	T V	2
+SUI	swi	we	nd~ iu	N I	N V	1
+MULAO	mlm	we	n iu	N I	N V	1
+KAM_ZHANGLU	doc	we	t iu	T I	T V	1
+MAONAN	mmd	we	nd~ e	N E	N V	1
+ONG_BE	onb	we	hau lo	H L	H R	3
+LAKKJA	lbc	we	t a	T A	T V	2
+LI_TONGSHI	lic	we	f au	B A	P V	4
+LI_BAODING	lic	we	f a	B A	P V	4
+SIAMESE	tha	horn	kh~ a w	K A W	K V W	1
+ZHUANG_NORTHERN	zgn	horn	k au	K A	K V	1
+SAEK	skb	horn	g a w	K A W	K V W	1
+SUI	swi	horn	p au	P A	P V	1
+MULAO	mlm	horn	k u	K Y	K V	1
+KAM_ZHANGLU	doc	horn	p au	P A	P V	1
+MAONAN	mmd	horn	5 au	N A	N V	1
+ONG_BE	onb	horn	v au	B A	P V	1
+LAKKJA	lbc	horn	k ou	K U	K V	1
+LI_TONGSHI	lic	horn	h au	H A	H V	1
+LI_BAODING	lic	horn	h au	H A	H V	1
+SUI	swi	name	d a n	T A N	T V N	1
+MULAO	mlm	name	x a n	G A N	K V N	1
+KAM_ZHANGLU	doc	name	kw~ a n	K A N	K V N	1
+MAONAN	mmd	name	d a n	T A N	T V N	1
+ONG_BE	onb	name	n oi	N U	N V	2
+LAKKJA	lbc	name	y a n	J A N	J V N	1
+LI_TONGSHI	lic	name	ph~ e N	P E N	P V N	3
+LI_BAODING	lic	name	ph~ e N	P E N	P V N	3
+SIAMESE	tha	ear	h u	H Y	H V	1
+ZHUANG_SOUTHERN	zzj	ear	p i h u	P I H Y	P V H V	1
+ZHUANG_NORTHERN	zgn	ear	x 3	G O	K V	1
+SAEK	skb	ear	gy~ a	K A	K V	1
+SUI	swi	ear	qh~ a	K A	K V	2
+MULAO	mlm	ear	khx$ a	K A	K V	2
+KAM_ZHANGLU	doc	ear	kh~ a	K A	K V	2
+MAONAN	mmd	ear	kh~ a	K A	K V	2
+ONG_BE	onb	ear	s a	S A	S V	2
+LAKKJA	lbc	ear	k a n y a	K A N J A	K V N J V	2
+SIAMESE	tha	eye	t a	T A	T V	1
+ZHUANG_SOUTHERN	zzj	eye	m a k h a	M A K H A	M V K H V	1
+ZHUANG_NORTHERN	zgn	eye	t a	T A	T V	1
+SAEK	skb	eye	p r a	P R A	P R V	1
+SUI	swi	eye	nd~ a	N A	N V	1
+MULAO	mlm	eye	h l a	H L A	H R V	1
+KAM_ZHANGLU	doc	eye	t a	T A	T V	1
+MAONAN	mmd	eye	nd~ a	N A	N V	1
+ONG_BE	onb	eye	d a	T A	T V	1
+LAKKJA	lbc	eye	p ui	P Y	P V	1
+LI_TONGSHI	lic	eye	ch~ u ch~ a	C Y C A	K V K V	1
+LI_BAODING	lic	eye	ch~ a	C A	K V	1
+ZHUANG_SOUTHERN	zzj	nose	m a k d a N	M A K T A N	M V K T V N	1
+ZHUANG_NORTHERN	zgn	nose	d a N	T A N	T V N	1
+SAEK	skb	nose	d a N	T A N	T V N	1
+SUI	swi	nose	n a N	N A N	N V N	1
+MULAO	mlm	nose	k 3 n a N	K O N A N	K V N V N	1
+KAM_ZHANGLU	doc	nose	n a N	N A N	N V N	1
+MAONAN	mmd	nose	n a N	N A N	N V N	1
+ONG_BE	onb	nose	l o N	L U N	R V N	1
+LAKKJA	lbc	nose	n a N	N A N	N V N	1
+LI_TONGSHI	lic	nose	kh~ a t	K A T	K V T	2
+LI_BAODING	lic	nose	kh~ a t	K A T	K V T	2
+SIAMESE	tha	tooth	f a n	B A N	P V N	1
+ZHUANG_SOUTHERN	zzj	tooth	kh~ eu	K E	K V	2
+ZHUANG_NORTHERN	zgn	tooth	f a n	B A N	P V N	1
+SUI	swi	tooth	vy~ a n	B A N	P V N	1
+MULAO	mlm	tooth	f a n	B A N	P V N	1
+KAM_ZHANGLU	doc	tooth	py~ a n	P A N	P V N	1
+MAONAN	mmd	tooth	h iu	H I	H V	2
+ONG_BE	onb	tooth	w a n	W A N	W V N	3
+LAKKJA	lbc	tooth	w a n	W A N	W V N	1
+LI_TONGSHI	lic	tooth	f a n	B A N	P V N	1
+LI_BAODING	lic	tooth	f a n	B A N	P V N	1
+SIAMESE	tha	tongue	l i n	L I N	R V N	1
+ZHUANG_SOUTHERN	zzj	tongue	l i n	L I N	R V N	1
+ZHUANG_NORTHERN	zgn	tongue	l i n	L I N	R V N	1
+SAEK	skb	tongue	l i n	L I N	R V N	1
+SUI	swi	tongue	m a	M A	M V	2
+MULAO	mlm	tongue	m a	M A	M V	2
+KAM_ZHANGLU	doc	tongue	m a	M A	M V	2
+MAONAN	mmd	tongue	m a	M A	M V	2
+ONG_BE	onb	tongue	l i m	L I M	R V M	1
+LAKKJA	lbc	tongue	5w~ a	N A	N V	2
+LI_TONGSHI	lic	tongue	L i n	L I N	R V N	1
+LI_BAODING	lic	tongue	L i n	L I N	R V N	1
+SIAMESE	tha	person	kh~ o n	K U N	K V N	1
+ZHUANG_SOUTHERN	zzj	person	k 3 n	K O N	K V N	1
+ZHUANG_NORTHERN	zgn	person	v u n	B Y N	P V N	1
+SAEK	skb	person	g u n	K Y N	K V N	1
+ONG_BE	onb	person	l e N h u n	L E N H Y N	R V N H V N	1
+LI_TONGSHI	lic	person	h au	H A	H V	2
+SIAMESE	tha	knee	kh~ a w	K A W	K V W	1
+ZHUANG_SOUTHERN	zzj	knee	h u kh~ au	H Y K A	H V K V	1
+ZHUANG_NORTHERN	zgn	knee	ky~ au h o	K A H U	K V H V	1
+SUI	swi	knee	q a m q u	K A M K Y	K V M K V	1
+MULAO	mlm	knee	k u k o	K Y K U	K V K V	1
+KAM_ZHANGLU	doc	knee	3 m kw~ au	O M K A	V M K V	1
+MAONAN	mmd	knee	k a m k u	K A M K Y	K V M K V	1
+ONG_BE	onb	knee	k au	K A	K V	1
+LI_TONGSHI	lic	knee	g o r ou	K U R U	K V R V	3
+LI_BAODING	lic	knee	gw~ ou r ou	K U R U	K V R V	3
+SIAMESE	tha	hand	m u	M Y	M V	1
+ZHUANG_SOUTHERN	zzj	hand	m 3	M O	M V	1
+ZHUANG_NORTHERN	zgn	hand	f 3 N	B O N	P V N	1
+SAEK	skb	hand	m 3	M O	M V	1
+SUI	swi	hand	my~ a	M A	M V	1
+MULAO	mlm	hand	ny~ a	N A	N V	1
+KAM_ZHANGLU	doc	hand	my~ a	M A	M V	1
+MAONAN	mmd	hand	s i m	S I M	S V M	2
+ONG_BE	onb	hand	m o	M U	M V	1
+LAKKJA	lbc	hand	m ie	M I	M V	1
+LI_TONGSHI	lic	hand	3 m e3	O M E	V M V	1
+LI_BAODING	lic	hand	m e3	M E	M V	1
+SIAMESE	tha	breast	n o m	N U M	N V M	1
+SAEK	skb	breast	c u	C Y	K V	2
+SIAMESE	tha	liver	t a p	T A P	T V P	1
+ZHUANG_SOUTHERN	zzj	liver	t a p	T A P	T V P	1
+ZHUANG_NORTHERN	zgn	liver	t a p	T A P	T V P	1
+SAEK	skb	liver	t a p	T A P	T V P	1
+SUI	swi	liver	t a p	T A P	T V P	1
+MULAO	mlm	liver	t a p	T A P	T V P	1
+KAM_ZHANGLU	doc	liver	t a p	T A P	T V P	1
+MAONAN	mmd	liver	t a p	T A P	T V P	1
+ONG_BE	onb	liver	d o p	T U P	T V P	1
+LAKKJA	lbc	liver	t a p	T A P	T V P	1
+ZHUANG_SOUTHERN	zzj	drink	k i n	K I N	K V N	2
+ZHUANG_NORTHERN	zgn	drink	d o t	T U T	T V T	3
+SUI	swi	drink	x u m	G Y M	K V M	4
+MULAO	mlm	drink	hx~ o p	H U P	H V P	5
+KAM_ZHANGLU	doc	drink	t i	T I	T V	2
+ONG_BE	onb	drink	k o n	K U N	K V N	2
+LAKKJA	lbc	drink	h o p	H U P	H V P	5
+LI_TONGSHI	lic	drink	ch~ 3 p	C O P	K V P	5
+LI_BAODING	lic	drink	ch~ 3 p	C O P	K V P	5
+SIAMESE	tha	you	m u N	M Y N	M V N	1
+ZHUANG_SOUTHERN	zzj	you	m a3	M A	M V	3
+ZHUANG_NORTHERN	zgn	you	m 3 N	M O N	M V N	3
+SAEK	skb	you	m 3 N	M O N	M V N	3
+ONG_BE	onb	you	m 3	M O	M V	3
+LAKKJA	lbc	you	m a	M A	M V	3
+LI_TONGSHI	lic	you	m e3	M E	M V	3
+LI_BAODING	lic	you	m e3	M E	M V	3
+SIAMESE	tha	see	h e n	H E N	H V N	1
+ZHUANG_SOUTHERN	zzj	see	y o m	J U M	J V M	2
+ZHUANG_NORTHERN	zgn	see	y a3	J A	J V	3
+SUI	swi	see	g au	K A	K V	4
+MULAO	mlm	see	k au	K A	K V	4
+KAM_ZHANGLU	doc	see	n u	N Y	N V	5
+MAONAN	mmd	see	k au	K A	K V	4
+ONG_BE	onb	see	d e k	T E K	T V K	6
+LAKKJA	lbc	see	l o m	L U M	R V M	7
+LI_TONGSHI	lic	see	L ui	L Y	R V	8
+LI_BAODING	lic	see	z ui	S Y	S V	8
+SIAMESE	tha	hear	y i n	J I N	J V N	1
+SUI	swi	hear	d i	T I	T V	3
+MAONAN	mmd	hear	n i	N I	N V	3
+LI_TONGSHI	lic	hear	p l e3	P L E	P R V	4
+LI_BAODING	lic	hear	p l e3	P L E	P R V	4
+SIAMESE	tha	bone	d u k	T Y K	T V K	1
+ZHUANG_SOUTHERN	zzj	bone	d u k	T Y K	T V K	1
+ZHUANG_NORTHERN	zgn	bone	d o k	T U K	T V K	1
+SAEK	skb	bone	r o k	R U K	R V K	1
+SUI	swi	bone	l a k	L A K	R V K	1
+MULAO	mlm	bone	hx~ a k	H A K	H V K	1
+KAM_ZHANGLU	doc	bone	l a k	L A K	R V K	1
+MAONAN	mmd	bone	d a k	T A K	T V K	1
+ONG_BE	onb	bone	ua 7	Y H	V H	2
+LAKKJA	lbc	bone	kw~ o t	K U T	K V T	2
+LI_TONGSHI	lic	bone	f 3 7	B O H	P V H	1
+LI_BAODING	lic	bone	v 3 k	B O K	P V K	1
+SIAMESE	tha	die	t a y	T A J	T V J	1
+ZHUANG_SOUTHERN	zzj	die	h ai	H A	H V	1
+ZHUANG_NORTHERN	zgn	die	t ai	T A	T V	1
+SAEK	skb	die	p r a y	P R A J	P R V J	1
+SUI	swi	die	t ai	T A	T V	1
+MULAO	mlm	die	t ai	T A	T V	1
+KAM_ZHANGLU	doc	die	t 3i	T O	T V	1
+MAONAN	mmd	die	t ai	T A	T V	1
+ONG_BE	onb	die	d ai	T A	T V	1
+LAKKJA	lbc	die	p l ei	P L E	P R V	1
+LI_TONGSHI	lic	die	L ui	L Y	R V	2
+LI_BAODING	lic	die	L au	L A	R V	3
+ZHUANG_NORTHERN	zgn	road (path)	x o n	G U N	K V N	1
+SUI	swi	road (path)	khw$ 3 n	K O N	K V N	1
+MULAO	mlm	road (path)	khw$ 3 n	K O N	K V N	1
+KAM_ZHANGLU	doc	road (path)	khw$ 3 n	K O N	K V N	1
+MAONAN	mmd	road (path)	kh~ u n	K Y N	K V N	1
+ONG_BE	onb	road (path)	s u n	S Y N	S V N	1
+LI_TONGSHI	lic	road (path)	k u n	K Y N	K V N	1
+LI_BAODING	lic	road (path)	k u n	K Y N	K V N	1

@@ -1,0 +1,571 @@
+language	iso_code	gloss	asjp	sca	dolgo	cognate_class
+BURMESE	mya	I	kyw$ a n t au	K A N T A	K V N T V	1
+ZAIWA	atb	I	N o	N U	N V	2
+AKHA	ahk	I	N a	N A	N V	2
+BIYUE	byo	I	N a	N A	N V	2
+MPI	mpz	I	N o	N U	N V	2
+BISU	bzi	I	g a	K A	K V	2
+JINO	jiu	I	N o	N U	N V	2
+LAHU	lhu	I	N a	N A	N V	2
+XIDE	iii	I	N a	N A	N V	2
+DAFANG	yig	I	N o	N U	N V	2
+NANJIANG	ywt	I	N o	N U	N V	2
+LISU	lis	I	N ua	N Y	N V	2
+NUSU	nuf	I	N a	N A	N V	2
+ACHANG	acn	I	N o	N U	N V	2
+NAXI	nbf	I	N 3	N O	N V	2
+BURMESE	mya	come	l a	L A	R V	1
+ZAIWA	atb	come	l e	L E	R V	1
+AKHA	ahk	come	l a 7	L A H	R V H	1
+BIYUE	byo	come	l a	L A	R V	1
+MPI	mpz	come	l o	L U	R V	1
+BISU	bzi	come	l a	L A	R V	1
+JINO	jiu	come	l o	L U	R V	1
+LAHU	lhu	come	l a	L A	R V	1
+XIDE	iii	come	l a	L A	R V	1
+DAFANG	yig	come	l o	L U	R V	1
+NANJIANG	ywt	come	l a	L A	R V	1
+LISU	lis	come	l a	L A	R V	1
+NUSU	nuf	come	l a	L A	R V	1
+ACHANG	acn	come	Z 3	S O	S V	2
+NAXI	nbf	come	l 3	L O	R V	2
+BURMESE	mya	water	r i y	R I J	R V J	1
+ZAIWA	atb	water	i Ch~ o	I C U	V K V	1
+AKHA	ahk	water	i ty~ u	I T Y	V T V	1
+BIYUE	byo	water	v ch~ v 7	B C B H	P K P H	1
+MPI	mpz	water	ch~ o 7	C U H	K V H	3
+BISU	bzi	water	l a N	L A N	R V N	4
+JINO	jiu	water	e Ch~o	E C	V K	1
+LAHU	lhu	water	i k a 7	I K A H	V K V H	1
+XIDE	iii	water	y 3	J O	J V	1
+DAFANG	yig	water	y i	J I	J V	1
+NANJIANG	ywt	water	x 3	G O	K V	1
+LISU	lis	water	e j E	E C E	V K V	1
+NUSU	nuf	water	r i g r a	R I K R A	R V K R V	1
+ACHANG	acn	water	t i	T I	T V	4
+NAXI	nbf	water	dy~ i	T I	T V	1
+BURMESE	mya	mountain	t au N	T A N	T V N	1
+ZAIWA	atb	mountain	p u m	P Y M	P V M	2
+AKHA	ahk	mountain	g o dy~ o	K U T U	K V T V	3
+BIYUE	byo	mountain	y u m o	J Y M U	J V M V	4
+MPI	mpz	mountain	o py~ o	U P U	V P V	2
+BISU	bzi	mountain	t a s E	T A S E	T V S V	5
+JINO	jiu	mountain	x3 th~a	G T	K T	5
+LAHU	lhu	mountain	qh~ o	K U	K V	3
+XIDE	iii	mountain	b o	P U	P V	2
+DAFANG	yig	mountain	b 3	P O	P V	2
+NANJIANG	ywt	mountain	kh~ u j 3	K Y C O	K V K V	3
+LISU	lis	mountain	k o	K U	K V	3
+NUSU	nuf	mountain	5 ua	N Y	N V	7
+ACHANG	acn	mountain	p u m	P Y M	P V M	2
+NAXI	nbf	mountain	k o	K U	K V	3
+BURMESE	mya	sun	n i y	N I J	N V J	1
+ZAIWA	atb	sun	p ui	P Y	P V	2
+AKHA	ahk	sun	n a N m a	N A N M A	N V N M V	1
+BIYUE	byo	sun	5 i m o	N I M U	N V M V	1
+MPI	mpz	sun	5 i w o	N I W U	N V W V	1
+BISU	bzi	sun	m u N h n 3 N	M Y N H N O N	M V N H N V N	1
+JINO	jiu	sun	53 o	N U	N V	1
+LAHU	lhu	sun	m i n i	M I N I	M V N V	1
+XIDE	iii	sun	h o b u	H U P Y	H V P V	3
+DAFANG	yig	sun	ndy$ y	N J	N J	1
+NANJIANG	ywt	sun	a m u x 3	A M Y G O	V M V K V	4
+LISU	lis	sun	m 3 m i	M O M I	M V M V	1
+NUSU	nuf	sun	5 ia	N I	N V	1
+ACHANG	acn	sun	n i m o	N I M U	N V M V	1
+NAXI	nbf	sun	5 i m e	N I M E	N V M V	1
+BURMESE	mya	star	k r a y	K R A J	K R V J	1
+ZAIWA	atb	star	ky~ i	K I	K V	1
+AKHA	ahk	star	a gy~	A K	V K	1
+BIYUE	byo	star	m i c i	M I C I	M V K V	1
+MPI	mpz	star	p i k i	P I K I	P V K V	1
+BISU	bzi	star	3 k 3	O K O	V K V	1
+JINO	jiu	star	pu ki	P K	P K	1
+LAHU	lhu	star	m 3 7 k 3	M O H K O	M V H K V	1
+XIDE	iii	star	m c 3	M C O	M K V	1
+DAFANG	yig	star	c a m o	C A M U	K V M V	1
+NANJIANG	ywt	star	c e	C E	K V	1
+LISU	lis	star	k o m a z e	K U M A S E	K V M V S V	1
+NUSU	nuf	star	k r e l o	K R E L U	K R V R V	1
+ACHANG	acn	star	kh~ Z e	K S E	K S V	1
+NAXI	nbf	star	k 3	K O	K V	1
+BURMESE	mya	one	t a T	T A D	T V T	1
+ZAIWA	atb	one	Z a	S A	S V	1
+AKHA	ahk	one	t i th~ i	T I T I	T V T V	1
+BIYUE	byo	one	th~ 3	T O	T V	1
+MPI	mpz	one	th~ 3 7	T O H	T V H	3
+BISU	bzi	one	t 3	T O	T V	1
+JINO	jiu	one	th~ i	T I	T V	1
+LAHU	lhu	one	t e	T E	T V	1
+XIDE	iii	one	ch~ 3	C O	K V	1
+DAFANG	yig	one	th~ a	T A	T V	1
+NANJIANG	ywt	one	Ch~ 3	C O	K V	1
+LISU	lis	one	th~ i	T I	T V	1
+NUSU	nuf	one	th~ i	T I	T V	1
+ACHANG	acn	one	t a	T A	T V	1
+NAXI	nbf	one	d 3	T O	T V	1
+BURMESE	mya	two	h n a T	H N A D	H N V T	1
+AKHA	ahk	two	ny~ i	N I	N V	1
+BIYUE	byo	two	n e 7	N E H	N V H	1
+MPI	mpz	two	5 i	N I	N V	1
+BISU	bzi	two	n i	N I	N V	1
+JINO	jiu	two	n i	N I	N V	1
+LAHU	lhu	two	n i	N I	N V	1
+XIDE	iii	two	5 i	N I	N V	1
+DAFANG	yig	two	5 i	N I	N V	1
+LISU	lis	two	5 i	N I	N V	1
+ACHANG	acn	two	s 3 k	S O K	S V K	3
+NAXI	nbf	two	5 i	N I	N V	1
+BURMESE	mya	stone	ky~ au k	K A K	K V K	1
+ZAIWA	atb	stone	l u k o 7	L Y K U H	R V K V H	1
+AKHA	ahk	stone	xh~ a l o	G A L U	K V R V	1
+BIYUE	byo	stone	l v 7 m o	L B H M U	R P H M V	1
+MPI	mpz	stone	s o l o 7	S U L U H	S V R V H	1
+BISU	bzi	stone	l o b a	L U P A	R V P V	1
+JINO	jiu	stone	lo mo	L M	R M	1
+LAHU	lhu	stone	x a p 3	G A P O	K V P V	1
+XIDE	iii	stone	l u m a	L Y M A	R V M V	1
+DAFANG	yig	stone	l o m o	L U M U	R V M V	1
+NANJIANG	ywt	stone	k a l o	K A L U	K V R V	1
+LISU	lis	stone	l o ch~ 3	L U C O	R V K V	1
+NUSU	nuf	stone	l u 7	L Y H	R V H	1
+ACHANG	acn	stone	l i N k o 7	L I N K U H	R V N K V H	1
+NAXI	nbf	stone	l v p a	L B P A	R P P V	1
+BURMESE	mya	skin	a r e	A R E	V R V	1
+ZAIWA	atb	skin	S o k u 7	S U K Y H	S V K V H	2
+AKHA	ahk	skin	b a x o 7	P A G U H	P V K V H	2
+BIYUE	byo	skin	o c i	U C I	V K V	3
+MPI	mpz	skin	o kh~ o	U K U	V K V	2
+BISU	bzi	skin	a N k h o	A N K H U	V N K H V	2
+JINO	jiu	skin	a kh~o	A K	V K	2
+LAHU	lhu	skin	o g 3	U K O	V K V	3
+XIDE	iii	skin	ndy$ i S 3	N I S O	N V S V	3
+DAFANG	yig	skin	n dy~ i	N T I	N T V	3
+NANJIANG	ywt	skin	d 3 C u	T O C Y	T V K V	3
+LISU	lis	skin	k o j i	K U C I	K V K V	3
+NUSU	nuf	skin	kh~ u r i	K Y R I	K V R V	1
+ACHANG	acn	skin	a Z 3	A S O	V S V	1
+NAXI	nbf	skin	x 3	G O	K V	1
+BURMESE	mya	fire	m i	M I	M V	1
+ZAIWA	atb	fire	my~ 3	M O	M V	1
+AKHA	ahk	fire	m i c a	M I C A	M V K V	1
+BIYUE	byo	fire	m i c o	M I C U	M V K V	1
+MPI	mpz	fire	m i	M I	M V	1
+BISU	bzi	fire	b i th~ o	P I T U	P V T V	1
+JINO	jiu	fire	m i	M I	M V	1
+LAHU	lhu	fire	a m i	A M I	V M V	1
+XIDE	iii	fire	m t u	M T Y	M T V	1
+DAFANG	yig	fire	m t o	M T U	M T V	1
+NANJIANG	ywt	fire	a t o	A T U	V T V	3
+LISU	lis	fire	a t o	A T U	V T V	3
+NUSU	nuf	fire	m i	M I	M V	1
+NAXI	nbf	fire	m i	M I	M V	1
+BURMESE	mya	fish	N a	N A	N V	1
+ZAIWA	atb	fish	N o c o	N U C U	N V K V	1
+AKHA	ahk	fish	N a syh$ a	N A S A	N V S V	1
+BIYUE	byo	fish	N o s o	N U S U	N V S V	1
+MPI	mpz	fish	N o	N U	N V	1
+BISU	bzi	fish	l o N t E	L U N T E	R V N T V	2
+JINO	jiu	fish	Nh~o So	N S	N S	1
+LAHU	lhu	fish	N a	N A	N V	1
+XIDE	iii	fish	h 3	H O	H V	1
+DAFANG	yig	fish	N o	N U	N V	1
+LISU	lis	fish	N ua	N Y	N V	1
+NUSU	nuf	fish	N a	N A	N V	1
+ACHANG	acn	fish	N a S ua	N A S Y	N V S V	1
+BURMESE	mya	dog	khw$ e	K E	K V	1
+ZAIWA	atb	dog	kh~ ui	K Y	K V	1
+AKHA	ahk	dog	a 7 khy$	A H K	V H K	1
+BIYUE	byo	dog	kh~ 3	K O	K V	1
+MPI	mpz	dog	kh~ 3	K O	K V	1
+BISU	bzi	dog	kh~ 3	K O	K V	1
+JINO	jiu	dog	kh~3 yo	K J	K J	1
+LAHU	lhu	dog	ph~ 3	P O	P V	1
+XIDE	iii	dog	kh~ 3	K O	K V	1
+DAFANG	yig	dog	ch~ y	C J	K J	1
+NANJIANG	ywt	dog	a kh~ 3	A K O	V K V	1
+LISU	lis	dog	a n a	A N A	V N V	2
+NUSU	nuf	dog	kh~ ui	K Y	K V	1
+ACHANG	acn	dog	x ui	G Y	K V	1
+NAXI	nbf	dog	kh~ 3	K O	K V	1
+BURMESE	mya	louse	s a n	S A N	S V N	1
+ZAIWA	atb	louse	S i n	S I N	S V N	1
+AKHA	ahk	louse	sh~ E m o	S E M U	S V M V	1
+BIYUE	byo	louse	s e ph~ v	S E P B	S V P P	1
+MPI	mpz	louse	s e	S E	S V	1
+BISU	bzi	louse	h m o N	H M U N	H M V N	1
+JINO	jiu	louse	Si ph~ru	S P	S P	1
+LAHU	lhu	louse	s e	S E	S V	1
+XIDE	iii	louse	ch~ o S 3	C U S O	K V S V	1
+DAFANG	yig	louse	s i m o	S I M U	S V M V	1
+NANJIANG	ywt	louse	s i	S I	S V	1
+LISU	lis	louse	x 3	G O	K V	1
+NUSU	nuf	louse	S a	S A	S V	1
+ACHANG	acn	louse	S a n	S A N	S V N	1
+NAXI	nbf	louse	S u	S Y	S V	1
+BURMESE	mya	tree	s a t p a N	S A T P A N	S V T P V N	1
+ZAIWA	atb	tree	s i k	S I K	S V K	1
+AKHA	ahk	tree	a b o	A P U	V P V	3
+BIYUE	byo	tree	s 3 c 3	S O C O	S V K V	1
+MPI	mpz	tree	s o t 3	S U T O	S V T V	1
+BISU	bzi	tree	c 3 N c 3 N	C O N C O N	K V N K V N	2
+JINO	jiu	tree	a c3	A C	V K	2
+LAHU	lhu	tree	s 3 7	S O H	S V H	1
+XIDE	iii	tree	s 3 b o	S O P U	S V P V	1
+DAFANG	yig	tree	s e	S E	S V	1
+NANJIANG	ywt	tree	s 3 c 3 7	S O C O H	S V K V H	1
+LISU	lis	tree	s 3 c 3	S O C O	S V K V	1
+NUSU	nuf	tree	s i c 3*	S I C O	S V K V	1
+ACHANG	acn	tree	s a N c e N	S A N C E N	S V N K V N	1
+NAXI	nbf	tree	nc~ 3 r	N O R	N V R	1
+BURMESE	mya	leaf	s a T rw~ a k	S A D R A K	S V T R V K	1
+ZAIWA	atb	leaf	a x a 7	A G A H	V K V H	1
+AKHA	ahk	leaf	a p a	A P A	V P V	2
+BIYUE	byo	leaf	a ph~ a 7	A P A H	V P V H	2
+MPI	mpz	leaf	o ph~ a 7	U P A H	V P V H	2
+BISU	bzi	leaf	a N ph~ a	A N P A	V N P V	2
+JINO	jiu	leaf	a ph~a	A P	V P	2
+LAHU	lhu	leaf	o ph~ a 7	U P A H	V P V H	2
+XIDE	iii	leaf	ch~ i ch~ i	C I C I	K V K V	3
+DAFANG	yig	leaf	s e th~ u	S E T Y	S V T V	4
+NANJIANG	ywt	leaf	s 3 ph~ i 7	S O P I H	S V P V H	2
+LISU	lis	leaf	e ph~ ia	E P I	V P V	2
+NUSU	nuf	leaf	ph~ a L a	P A L A	P V R V	2
+ACHANG	acn	leaf	a x r o 7	A G R U H	V K R V H	1
+NAXI	nbf	leaf	ph~ i3	P I	P V	2
+BURMESE	mya	night	5 a	N A	N V	1
+ZAIWA	atb	night	my~ i n l e	M I N L E	M V N R V	1
+AKHA	ahk	night	u 7 ty~ i 7	Y H T I H	V H T V H	1
+BIYUE	byo	night	m e kh~ e 7	M E K E H	M V K V H	1
+MPI	mpz	night	u N khw$ i 7	Y N K I H	V N K V H	1
+BISU	bzi	night	m u N kh~ i	M Y N K I	M V N K V	1
+JINO	jiu	night	mh~e kh~a	M K	M K	1
+LAHU	lhu	night	t a kh~ 3	T A K O	T V K V	1
+XIDE	iii	night	kh~ 3 th~ 3 m o	K O T O M U	K V T V M V	1
+DAFANG	yig	night	s 3 p i h a	S O P I H A	S V P V H V	1
+NANJIANG	ywt	night	m i kh~ 3 s i	M I K O S I	M V K V S V	1
+LISU	lis	night	s a kh~ ua	S A K Y	S V K V	1
+NUSU	nuf	night	s ua n a	S Y N A	S V N V	1
+ACHANG	acn	night	n i ch~ o t	N I C U T	N V K V T	1
+NAXI	nbf	night	m v kh~ v	M B K B	M P K P	1
+BURMESE	mya	blood	sw~ e	S E	S V	1
+ZAIWA	atb	blood	s ui	S Y	S V	1
+AKHA	ahk	blood	sy~ h i	S H I	S H V	1
+BIYUE	byo	blood	o s i	U S I	V S V	1
+MPI	mpz	blood	s i	S I	S V	1
+BISU	bzi	blood	S i	S I	S V	1
+JINO	jiu	blood	S i	S I	S V	1
+LAHU	lhu	blood	o s 3	U S O	V S V	1
+XIDE	iii	blood	s 3	S O	S V	1
+DAFANG	yig	blood	s i	S I	S V	1
+NANJIANG	ywt	blood	s 3	S O	S V	1
+LISU	lis	blood	s 3	S O	S V	1
+NUSU	nuf	blood	s ui	S Y	S V	1
+ACHANG	acn	blood	s ui	S Y	S V	1
+NAXI	nbf	blood	s a	S A	S V	1
+BURMESE	mya	full	p r a 5	P R A N	P R V N	1
+ZAIWA	atb	full	py~ i N	P I N	P V N	1
+BIYUE	byo	full	p 3	P O	P V	1
+MPI	mpz	full	py~ 3	P O	P V	1
+BISU	bzi	full	a N p l 3 N	A N P L O N	V N P R V N	1
+JINO	jiu	full	p r 3	P R O	P R V	1
+LAHU	lhu	full	b 3	P O	P V	1
+XIDE	iii	full	dy~ i	T I	T V	1
+DAFANG	yig	full	d ie	T I	T V	1
+NANJIANG	ywt	full	c 3	C O	K V	2
+LISU	lis	full	b i l e	P I L E	P V R V	1
+NUSU	nuf	full	b 3*	P O	P V	1
+ACHANG	acn	full	p Z 3 N	P S O N	P S V N	1
+NAXI	nbf	full	S 3 r	S O R	S V R	3
+BURMESE	mya	new	s a t	S A T	S V T	1
+ZAIWA	atb	new	a s i k	A S I K	V S V K	1
+AKHA	ahk	new	s j y 7	S C J H	S K J H	1
+BIYUE	byo	new	a s 3	A S O	V S V	1
+MPI	mpz	new	s 3 7	S O H	S V H	1
+BISU	bzi	new	a N S 3	A N S O	V N S V	2
+JINO	jiu	new	S i	S I	S V	1
+LAHU	lhu	new	o s 3	U S O	V S V	3
+XIDE	iii	new	a S 3 7	A S O H	V S V H	1
+DAFANG	yig	new	x e	G E	K V	1
+NANJIANG	ywt	new	x 3 7	G O H	K V H	1
+LISU	lis	new	e S 3	E S O	V S V	1
+NUSU	nuf	new	dy~ o	T U	T V	1
+ACHANG	acn	new	S 3 k	S O K	S V K	1
+NAXI	nbf	new	S 3	S O	S V	3
+BURMESE	mya	we	kyw$ a n t au t ui	K A N T A T Y	K V N T V T V	1
+ZAIWA	atb	we	N a m o	N A M U	N V M V	2
+BIYUE	byo	we	N o v	N U B	N V P	3
+BISU	bzi	we	g u	K Y	K V	3
+JINO	jiu	we	Na vu	N B	N P	3
+LAHU	lhu	we	N a x 3	N A G O	N V K V	3
+XIDE	iii	we	N o x o	N U G U	N V K V	3
+DAFANG	yig	we	N o x 3	N U G O	N V K V	3
+LISU	lis	we	N ua n u	N Y N Y	N V N V	5
+NUSU	nuf	we	N a d 3	N A T O	N V T V	1
+ACHANG	acn	we	N o t u 7	N U T Y H	N V T V H	1
+NAXI	nbf	we	N 3 N g 3	N O N K O	N V N K V	6
+BURMESE	mya	horn	khy$ ui	K Y	K V	1
+ZAIWA	atb	horn	khy$ ui	K Y	K V	1
+AKHA	ahk	horn	u 7 ty~ e	Y H T E	V H T V	1
+BIYUE	byo	horn	v ch~ i	B C I	P K V	1
+MPI	mpz	horn	N kh~ ui	N K Y	N K V	1
+BISU	bzi	horn	a N khy$ a w	A N K A W	V N K V W	1
+JINO	jiu	horn	vu kh~i	B K	P K	1
+LAHU	lhu	horn	kh~ o	K U	K V	1
+XIDE	iii	horn	o f u	U B Y	V P V	2
+DAFANG	yig	horn	o ch~ i	U C I	V K V	1
+NANJIANG	ywt	horn	kh~ u	K Y	K V	1
+LISU	lis	horn	o Ch~ 3	U C O	V K V	1
+NUSU	nuf	horn	kh~ r 3a	K R O	K R V	1
+ACHANG	acn	horn	kh~ Z au	K S A	K S V	1
+NAXI	nbf	horn	kh~ o	K U	K V	1
+BURMESE	mya	name	a m a 5	A M A N	V M V N	1
+ZAIWA	atb	name	ny~ i N	N I N	N V N	1
+AKHA	ahk	name	tyh$ E my~ a N	T E M A N	T V M V N	1
+BIYUE	byo	name	o m i	U M I	V M V	1
+MPI	mpz	name	mm i	M I	M V	1
+BISU	bzi	name	a N h m E N	A N H M E N	V N H M V N	1
+JINO	jiu	name	a mh~e	A M	V M	1
+LAHU	lhu	name	o m E	U M E	V M V	1
+XIDE	iii	name	h m i	H M I	H M V	1
+DAFANG	yig	name	m ie	M I	M V	1
+NANJIANG	ywt	name	m i* c 3	M I C O	M V K V	1
+LISU	lis	name	e m i	E M I	V M V	1
+NUSU	nuf	name	h m e*	H M E	H M V	1
+ACHANG	acn	name	a 5 i N	A N I N	V N V N	1
+NAXI	nbf	name	m i	M I	M V	1
+BURMESE	mya	ear	n a	N A	N V	1
+ZAIWA	atb	ear	n o phy$ o	N U P U	N V P V	1
+AKHA	ahk	ear	n a b o	N A P U	N V P V	1
+BIYUE	byo	ear	n o p u	N U P Y	N V P V	1
+MPI	mpz	ear	m ph~ a	M P A	M P V	2
+BISU	bzi	ear	n a s 3 N	N A S O N	N V S V N	1
+JINO	jiu	ear	nh~a kh~o	N K	N K	1
+LAHU	lhu	ear	n a p o	N A P U	N V P V	1
+XIDE	iii	ear	h n 3 p o	H N O P U	H N V P V	1
+DAFANG	yig	ear	l o p o	L U P U	R V P V	2
+NANJIANG	ywt	ear	n a p u	N A P Y	N V P V	1
+LISU	lis	ear	n o p o	N U P U	N V P V	1
+NUSU	nuf	ear	h n a sh~ 3*	H N A S O	H N V S V	1
+ACHANG	acn	ear	n i C ua	N I C Y	N V K V	1
+NAXI	nbf	ear	x E c 3	G E C O	K V K V	3
+BURMESE	mya	eye	my~ a k T i	M A K D I	M V K T V	1
+ZAIWA	atb	eye	my~ o C i	M U C I	M V K V	1
+AKHA	ahk	eye	my~ a ny~ 7	M A N H	M V N H	1
+BIYUE	byo	eye	m a c 3 7	M A C O H	M V K V H	1
+MPI	mpz	eye	5 ch~ o	N C U	N K V	2
+BISU	bzi	eye	m E n 3	M E N O	M V N V	1
+JINO	jiu	eye	my~a ci	M C	M K	1
+LAHU	lhu	eye	m e s i	M E S I	M V S V	1
+XIDE	iii	eye	5 o c 3	N U C O	N V K V	1
+DAFANG	yig	eye	n a d u	N A T Y	N V T V	1
+NANJIANG	ywt	eye	m i s e	M I S E	M V S V	1
+LISU	lis	eye	m iE s 3	M I S O	M V S V	1
+NUSU	nuf	eye	m ia dy~ i	M I T I	M V T V	1
+ACHANG	acn	eye	5 o c i 7	N U C I H	N V K V H	1
+NAXI	nbf	eye	m i3 l v	M I L B	M V R P	1
+BURMESE	mya	nose	h n a kh~ au N	H N A K A N	H N V K V N	1
+ZAIWA	atb	nose	n o 7	N U H	N V H	2
+AKHA	ahk	nose	n a m E	N A M E	N V M V	1
+BIYUE	byo	nose	n a m e	N A M E	N V M V	1
+MPI	mpz	nose	N kh~ o N	N K U N	N K V N	1
+BISU	bzi	nose	n a kh~ a N	N A K A N	N V K V N	1
+JINO	jiu	nose	nh~o to	N T	N T	1
+LAHU	lhu	nose	n a qh~ o	N A K U	N V K V	1
+XIDE	iii	nose	h n a b i	H N A P I	H N V P V	2
+DAFANG	yig	nose	n o m o	N U M U	N V M V	1
+NANJIANG	ywt	nose	n o kh~ u	N U K Y	N V K V	1
+LISU	lis	nose	n a kh~ u	N A K Y	N V K V	1
+NUSU	nuf	nose	h n a k a*	H N A K A	H N V K V	1
+ACHANG	acn	nose	n i x o N	N I G U N	N V K V N	1
+NAXI	nbf	nose	5 i m 3 r	N I M O R	N V M V R	1
+BURMESE	mya	tooth	sw~ a	S A	S V	1
+ZAIWA	atb	tooth	c ui	C Y	K V	2
+AKHA	ahk	tooth	sh~ 3	S O	S V	1
+BIYUE	byo	tooth	o c 3	U C O	V K V	2
+MPI	mpz	tooth	o s o	U S U	V S V	1
+BISU	bzi	tooth	s o ph~ e	S U P E	S V P V	1
+JINO	jiu	tooth	Cy~ i	C I	K V	2
+LAHU	lhu	tooth	c i	C I	K V	2
+XIDE	iii	tooth	j 3	C O	K V	2
+DAFANG	yig	tooth	c 3 m o	C O M U	K V M V	2
+NANJIANG	ywt	tooth	s y	S J	S J	2
+LISU	lis	tooth	s 3 Ch~ i	S O C I	S V K V	2
+NUSU	nuf	tooth	sh~ ua	S Y	S V	1
+ACHANG	acn	tooth	c oi	C U	K V	2
+NAXI	nbf	tooth	x 3	G O	K V	1
+BURMESE	mya	tongue	h ly~ a	H L A	H R V	1
+ZAIWA	atb	tongue	S o	S U	S V	1
+AKHA	ahk	tongue	m e l a	M E L A	M V R V	1
+BIYUE	byo	tongue	a l a	A L A	V R V	1
+MPI	mpz	tongue	o l o	U L U	V R V	1
+BISU	bzi	tongue	m a n h l a	M A N H L A	M V N H R V	1
+JINO	jiu	tongue	a Lo	A L	V R	1
+LAHU	lhu	tongue	x a t e	G A T E	K V T V	1
+XIDE	iii	tongue	h a n e	H A N E	H V N V	1
+DAFANG	yig	tongue	L o	L U	R V	1
+NANJIANG	ywt	tongue	l a	L A	R V	1
+LISU	lis	tongue	l a Ch~ 3	L A C O	R V K V	1
+NUSU	nuf	tongue	f r a	B R A	P R V	1
+ACHANG	acn	tongue	s o	S U	S V	1
+BURMESE	mya	person	l u	L Y	R V	1
+AKHA	ahk	person	ch~ o h a	C U H A	K V H V	1
+BIYUE	byo	person	ch~ u	C Y	K V	1
+MPI	mpz	person	ch~ o N	C U N	K V N	1
+BISU	bzi	person	ch~ a N	C A N	K V N	1
+JINO	jiu	person	ch~3 zo	C S	K S	1
+LAHU	lhu	person	ch~ o	C U	K V	1
+XIDE	iii	person	ch~ o	C U	K V	1
+DAFANG	yig	person	ch~ o	C U	K V	1
+NANJIANG	ywt	person	ch~ u	C Y	K V	1
+LISU	lis	person	ch~ o z a	C U S A	K V S V	1
+NUSU	nuf	person	s u	S Y	S V	1
+ACHANG	acn	person	C o	C U	K V	1
+NAXI	nbf	person	s i	S I	S V	1
+BURMESE	mya	knee	d u	T Y	T V	1
+ZAIWA	atb	knee	khy$ i ph~ u t	K I P Y T	K V P V T	2
+AKHA	ahk	knee	khy$ cy~ 7	K C H	K K H	5
+MPI	mpz	knee	N k o N	N K U N	N K V N	4
+BISU	bzi	knee	p a t o	P A T U	P V T V	1
+JINO	jiu	knee	ph~ 3	P O	P V	2
+LAHU	lhu	knee	kh~ 3 c 3 q i	K O C O K I	K V K V K V	4
+XIDE	iii	knee	b a T 3 7	P A D O H	P V T V H	5
+ACHANG	acn	knee	ch~ i 5 o 7	C I N U H	K V N V H	5
+BURMESE	mya	hand	l a k	L A K	R V K	1
+ZAIWA	atb	hand	l o 7	L U H	R V H	1
+AKHA	ahk	hand	l a 7	L A H	R V H	1
+BIYUE	byo	hand	a l a 7	A L A H	V R V H	1
+MPI	mpz	hand	l o ph~ u	L U P Y	R V P V	1
+BISU	bzi	hand	l a p o	L A P U	R V P V	1
+JINO	jiu	hand	la pu	L P	R P	1
+LAHU	lhu	hand	l a 7 s E	L A H S E	R V H S V	1
+XIDE	iii	hand	l o	L U	R V	1
+DAFANG	yig	hand	l a	L A	R V	1
+NANJIANG	ywt	hand	l i ph~ i 7	L I P I H	R V P V H	1
+LISU	lis	hand	l E ph~ E	L E P E	R V P V	1
+NUSU	nuf	hand	l a 7	L A H	R V H	1
+ACHANG	acn	hand	l o 7	L U H	R V H	1
+NAXI	nbf	hand	l o	L U	R V	1
+BURMESE	mya	breast	r a N	R A N	R V N	1
+AKHA	ahk	breast	a t yh~ e	A T J E	V T J V	2
+MPI	mpz	breast	m p o	M P U	M P V	3
+BISU	bzi	breast	l o N p E t	L U N P E T	R V N P V T	4
+XIDE	iii	breast	N o m o	N U M U	N V M V	6
+BURMESE	mya	liver	a s a 5	A S A N	V S V N	1
+ZAIWA	atb	liver	s i N	S I N	S V N	1
+AKHA	ahk	liver	sh~ a ch~ a N	S A C A N	S V K V N	1
+BIYUE	byo	liver	o ch~ 3	U C O	V K V	1
+MPI	mpz	liver	o th~ 3	U T O	V T V	2
+BISU	bzi	liver	a N ch~ i n	A N C I N	V N K V N	1
+JINO	jiu	liver	a ch~3	A C	V K	1
+LAHU	lhu	liver	o s e	U S E	V S V	1
+XIDE	iii	liver	s i	S I	S V	1
+DAFANG	yig	liver	s 3	S O	S V	1
+NANJIANG	ywt	liver	c 3 s 3	C O S O	K V S V	1
+LISU	lis	liver	s 3	S O	S V	1
+NUSU	nuf	liver	ch~ 3*	C O	K V	1
+ACHANG	acn	liver	a S 3 N	A S O N	V S V N	1
+NAXI	nbf	liver	s 3 r	S O R	S V R	1
+BURMESE	mya	drink	s ua k	S Y K	S V K	1
+ZAIWA	atb	drink	S u 7	S Y H	S V H	1
+AKHA	ahk	drink	d o	T U	T V	2
+BIYUE	byo	drink	t u	T Y	T V	2
+MPI	mpz	drink	t o N	T U N	T V N	2
+BISU	bzi	drink	t a N	T A N	T V N	2
+JINO	jiu	drink	t 3	T O	T V	2
+LAHU	lhu	drink	d o	T U	T V	2
+XIDE	iii	drink	nd~ o	N U	N V	2
+DAFANG	yig	drink	nd~ o	N U	N V	2
+NANJIANG	ywt	drink	d u	T Y	T V	2
+LISU	lis	drink	d o	T U	T V	2
+NUSU	nuf	drink	sh~ u 7	S Y H	S V H	1
+ACHANG	acn	drink	S o 7	S U H	S V H	1
+NAXI	nbf	drink	th~ 3	T O	T V	3
+BURMESE	mya	you	T a N	D A N	T V N	1
+ZAIWA	atb	you	n a N	N A N	N V N	2
+AKHA	ahk	you	n o	N U	N V	2
+BIYUE	byo	you	n v	N B	N P	2
+MPI	mpz	you	n o N	N U N	N V N	2
+BISU	bzi	you	n a N	N A N	N V N	2
+JINO	jiu	you	n 3	N O	N V	2
+LAHU	lhu	you	n o	N U	N V	2
+XIDE	iii	you	n 3	N O	N V	2
+DAFANG	yig	you	n a	N A	N V	2
+LISU	lis	you	n u	N Y	N V	2
+NUSU	nuf	you	5 o	N U	N V	2
+ACHANG	acn	you	n ua N	N Y N	N V N	2
+NAXI	nbf	you	n v	N B	N P	2
+BURMESE	mya	see	m r a N	M R A N	M R V N	1
+ZAIWA	atb	see	v u	B Y	P V	3
+AKHA	ahk	see	m o	M U	M V	1
+BIYUE	byo	see	t e	T E	T V	4
+MPI	mpz	see	my~ o N	M U N	M V N	1
+BISU	bzi	see	h my~ a N	H M A N	H M V N	1
+JINO	jiu	see	my~ 3	M O	M V	4
+LAHU	lhu	see	n i	N I	N V	5
+XIDE	iii	see	h 3	H O	H V	3
+DAFANG	yig	see	n a	N A	N V	8
+LISU	lis	see	5 i	N I	N V	5
+NUSU	nuf	see	r u	R Y	R V	3
+ACHANG	acn	see	e n	E N	V N	2
+NAXI	nbf	see	l y	L J	R J	7
+BURMESE	mya	hear	k r a	K R A	K R V	1
+ZAIWA	atb	hear	ky~ o	K U	K V	1
+AKHA	ahk	hear	g a	K A	K V	1
+BIYUE	byo	hear	n a t e	N A T E	N V T V	2
+MPI	mpz	hear	ky~ o	K U	K V	1
+BISU	bzi	hear	ky~ a	K A	K V	1
+JINO	jiu	hear	nh~o to	N T	N T	2
+LAHU	lhu	hear	n a	N A	N V	2
+XIDE	iii	hear	h n a	H N A	H N V	2
+DAFANG	yig	hear	dy~ u	T Y	T V	1
+NANJIANG	ywt	hear	n e	N E	N V	2
+LISU	lis	hear	n a l o	N A L U	N V R V	2
+NUSU	nuf	hear	h n a	H N A	H N V	2
+ACHANG	acn	hear	k Z ua	K S Y	K S V	1
+NAXI	nbf	hear	kh~ o m i	K U M I	K V M V	3
+BURMESE	mya	bone	a r ui	A R Y	V R V	1
+ZAIWA	atb	bone	S o v ui	S U B Y	S V P V	1
+AKHA	ahk	bone	sh~ a y e	S A J E	S V J V	1
+BIYUE	byo	bone	o y i	U J I	V J V	1
+MPI	mpz	bone	o 7 3	U H O	V H V	1
+BISU	bzi	bone	a N g a w	A N K A W	V N K V W	1
+JINO	jiu	bone	So x3	S G	S K	1
+LAHU	lhu	bone	o m i 7 k i	U M I H K I	V M V H K V	2
+XIDE	iii	bone	v u d u	B Y T Y	P V T V	1
+DAFANG	yig	bone	x o x 3	G U G O	K V K V	1
+NANJIANG	ywt	bone	u d a	Y T A	V T V	3
+LISU	lis	bone	o t o	U T U	V T V	1
+NUSU	nuf	bone	r 3	R O	R V	1
+ACHANG	acn	bone	a Z au	A S A	V S V	1
+NAXI	nbf	bone	S o l o	S U L U	S V R V	1
+BURMESE	mya	die	s i y	S I J	S V J	1
+ZAIWA	atb	die	S i	S I	S V	1
+AKHA	ahk	die	syh$ i	S I	S V	1
+BIYUE	byo	die	s 3	S O	S V	1
+MPI	mpz	die	s i	S I	S V	1
+BISU	bzi	die	S i	S I	S V	1
+JINO	jiu	die	S i	S I	S V	1
+LAHU	lhu	die	s 3	S O	S V	1
+XIDE	iii	die	s 3	S O	S V	1
+DAFANG	yig	die	s i	S I	S V	1
+NANJIANG	ywt	die	x 3	G O	K V	1
+LISU	lis	die	S 3	S O	S V	1
+NUSU	nuf	die	s i	S I	S V	1
+ACHANG	acn	die	s a	S A	S V	1
+NAXI	nbf	die	S 3	S O	S V	1
+BURMESE	mya	road (path)	l a m	L A M	R V M	1
+ZAIWA	atb	road (path)	khy$ o	K U	K V	1
+AKHA	ahk	road (path)	g a m a	K A M A	K V M V	1
+BIYUE	byo	road (path)	y a m o	J A M U	J V M V	1
+MPI	mpz	road (path)	k o kh~ u N	K U K Y N	K V K V N	1
+BISU	bzi	road (path)	k i b a	K I P A	K V P V	1
+JINO	jiu	road (path)	yo kh~o	J K	J K	1
+LAHU	lhu	road (path)	z a 7 q o	S A H K U	S V H K V	1
+XIDE	iii	road (path)	g a m o	K A M U	K V M V	1
+DAFANG	yig	road (path)	dy~ o	T U	T V	1
+NANJIANG	ywt	road (path)	g o m a	K U M A	K V M V	1
+LISU	lis	road (path)	j a g u	C A K Y	K V K V	2
+NUSU	nuf	road (path)	kh~ r a ph~ r o*	K R A P R U	K R V P R V	3
+ACHANG	acn	road (path)	x a m Z ua	G A M S Y	K V M S V	1
+NAXI	nbf	road (path)	z 3 g v	S O K B	S V K P	3

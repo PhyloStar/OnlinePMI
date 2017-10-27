@@ -1,0 +1,962 @@
+language	iso_code	gloss	asjp	sca	dolgo	cognate_class
+NORTH_HIGHLAND_MIXE	mto	I	3 c	O C	V K	1
+SOUTH_HIGHLAND_MIXE	mxp	I	3 c	O C	V K	1
+LOWLAND_MIXE	mco	I	3 C	O C	V K	1
+SAYULA_POPOLUCA	pos	I	3 c	O C	V K	1
+OLUTA_POPOLUCA	plo	I	3 s	O S	V S	1
+TEXISTEPEC_ZOQUE	poq	I	3 c 3 7	O C O H	V K V H	1
+SOTEAPAN_ZOQUE	poi	I	3 C	O C	V K	1
+MARIA_CHIMALAPA	zoh	I	3 cc i 7	O C I H	V K V H	1
+MIGUEL_CHIMALAPA	zoh	I	d 3 S	T O S	T V S	2
+CHIAPAS_ZOQUE	zoc	I	3 h	O H	V H	1
+NORTH_HIGHLAND_MIXE	mto	thou	m i c	M I C	M V K	1
+SOUTH_HIGHLAND_MIXE	mxp	thou	m e c	M E C	M V K	1
+LOWLAND_MIXE	mco	thou	m i C	M I C	M V K	1
+SAYULA_POPOLUCA	pos	thou	m i	M I	M V	1
+OLUTA_POPOLUCA	plo	thou	m i s	M I S	M V S	1
+TEXISTEPEC_ZOQUE	poq	thou	b i C	P I C	P V K	1
+SOTEAPAN_ZOQUE	poi	thou	m i C	M I C	M V K	1
+MARIA_CHIMALAPA	zoh	thou	m i cc i 7	M I C I H	M V K V H	1
+MIGUEL_CHIMALAPA	zoh	thou	m i S	M I S	M V S	1
+CHIAPAS_ZOQUE	zoc	thou	m i h	M I H	M V H	1
+NORTH_HIGHLAND_MIXE	mto	we	3 c	O C	V K	1
+SOUTH_HIGHLAND_MIXE	mxp	we	3 c	O C	V K	1
+LOWLAND_MIXE	mco	we	3C aht	O A	V V	1
+SAYULA_POPOLUCA	pos	we	3 h c a t	O H C A T	V H K V T	1
+OLUTA_POPOLUCA	plo	we	3 c a t e k	O C A T E K	V K V T V K	1
+TEXISTEPEC_ZOQUE	poq	we	3c ta7	O T	V T	1
+MARIA_CHIMALAPA	zoh	we	n e w i ny~ n e n	N E W I N N E N	N V W V N N V N	2
+MIGUEL_CHIMALAPA	zoh	we	n e y w i n	N E J W I N	N V J W V N	2
+CHIAPAS_ZOQUE	zoc	we	t 3 h	T O H	T V H	3
+NORTH_HIGHLAND_MIXE	mto	this	y 3 7 e	J O H E	J V H V	1
+SOUTH_HIGHLAND_MIXE	mxp	this	y a 7 a t	J A H A T	J V H V T	1
+LOWLAND_MIXE	mco	this	h a d a 7	H A T A H	H V T V H	2
+SAYULA_POPOLUCA	pos	this	a y 3 h	A J O H	V J V H	1
+OLUTA_POPOLUCA	plo	this	h e 7	H E H	H V H	3
+TEXISTEPEC_ZOQUE	poq	this	y 3 7 3 h 3 7	J O H O H O H	J V H V H V H	1
+SOTEAPAN_ZOQUE	poi	this	h e 7 e p 3 k	H E H E P O K	H V H V P V K	4
+MARIA_CHIMALAPA	zoh	this	y37 p37	J P	J P	1
+MIGUEL_CHIMALAPA	zoh	this	y 3 7	J O H	J V H	1
+CHIAPAS_ZOQUE	zoc	this	y37 w3	J W	J W	1
+NORTH_HIGHLAND_MIXE	mto	that	S i 7	S I H	S V H	1
+SOUTH_HIGHLAND_MIXE	mxp	that	h E 7 E	H E H E	H V H V	6
+LOWLAND_MIXE	mco	that	h e h 3 m b 3	H E H O M P O	H V H V M P V	2
+SAYULA_POPOLUCA	pos	that	y a y 3 n	J A J O N	J V J V N	3
+OLUTA_POPOLUCA	plo	that	h a m a h	H A M A H	H V M V H	2
+SOTEAPAN_ZOQUE	poi	that	h ea m	H E M	H V M	2
+MIGUEL_CHIMALAPA	zoh	that	g a d 3	K A T O	K V T V	5
+CHIAPAS_ZOQUE	zoc	that	3 7	O H	V H	4
+NORTH_HIGHLAND_MIXE	mto	who	p 3 n	P O N	P V N	1
+SOUTH_HIGHLAND_MIXE	mxp	who	p 3 n	P O N	P V N	1
+LOWLAND_MIXE	mco	who	p 3 n	P O N	P V N	1
+SAYULA_POPOLUCA	pos	who	p 3 n	P O N	P V N	1
+OLUTA_POPOLUCA	plo	who	p 3 n	P O N	P V N	1
+SOTEAPAN_ZOQUE	poi	who	ia p a 7 a p	I P A H A P	V P V H V P	4
+MARIA_CHIMALAPA	zoh	who	i w 3	I W O	V W V	2
+MIGUEL_CHIMALAPA	zoh	who	i w 3	I W O	V W V	2
+CHIAPAS_ZOQUE	zoc	who	i w3	I W	V W	2
+NORTH_HIGHLAND_MIXE	mto	what	t i	T I	T V	1
+SOUTH_HIGHLAND_MIXE	mxp	what	t i	T I	T V	1
+LOWLAND_MIXE	mco	what	t i	T I	T V	1
+SAYULA_POPOLUCA	pos	what	t i	T I	T V	1
+OLUTA_POPOLUCA	plo	what	t i	T I	T V	1
+TEXISTEPEC_ZOQUE	poq	what	C e 7	C E H	K V H	1
+SOTEAPAN_ZOQUE	poi	what	ty~ i	T I	T V	1
+MARIA_CHIMALAPA	zoh	what	t i	T I	T V	1
+MIGUEL_CHIMALAPA	zoh	what	t i	T I	T V	1
+CHIAPAS_ZOQUE	zoc	what	t i y 3	T I J O	T V J V	1
+NORTH_HIGHLAND_MIXE	mto	no	k a 7 a	K A H A	K V H V	1
+SOUTH_HIGHLAND_MIXE	mxp	no	k a t	K A T	K V T	1
+LOWLAND_MIXE	mco	no	k a 7	K A H	K V H	1
+SAYULA_POPOLUCA	pos	no	k a h	K A H	K V H	1
+OLUTA_POPOLUCA	plo	no	3 7 3	O H O	V H V	1
+TEXISTEPEC_ZOQUE	poq	no	e 5 C	E N C	V N K	2
+SOTEAPAN_ZOQUE	poi	no	dy~ a	T A	T V	2
+MARIA_CHIMALAPA	zoh	no	wat kaha	W K	W K	2
+MIGUEL_CHIMALAPA	zoh	no	y a	J A	J V	2
+CHIAPAS_ZOQUE	zoc	no	h a n e	H A N E	H V N V	2
+NORTH_HIGHLAND_MIXE	mto	all	n 3 h u m	N O H Y M	N V H V M	1
+SOUTH_HIGHLAND_MIXE	mxp	all	t u k 3 y	T Y K O J	T V K V J	2
+LOWLAND_MIXE	mco	all	tu7uk ok3y	T U	T V	2
+SAYULA_POPOLUCA	pos	all	nu p3h3n	N P	N P	3
+OLUTA_POPOLUCA	plo	all	n i t i k	N I T I K	N V T V K	4
+TEXISTEPEC_ZOQUE	poq	all	b u m b e	P Y M P E	P V M P V	5
+SOTEAPAN_ZOQUE	poi	all	i k u m 3 h	I K Y M O H	V K V M V H	6
+MARIA_CHIMALAPA	zoh	all	a N t e n e	A N T E N E	V N T V N V	7
+MIGUEL_CHIMALAPA	zoh	all	h e m h i 7	H E M H I H	H V M H V H	8
+CHIAPAS_ZOQUE	zoc	all	m u m u	M Y M Y	M V M V	5
+NORTH_HIGHLAND_MIXE	mto	many	m a y	M A J	M V J	1
+SOUTH_HIGHLAND_MIXE	mxp	many	m E y	M E J	M V J	1
+LOWLAND_MIXE	mco	many	m a y	M A J	M V J	1
+SAYULA_POPOLUCA	pos	many	m a y	M A J	M V J	1
+OLUTA_POPOLUCA	plo	many	p a k o	P A K U	P V K V	2
+TEXISTEPEC_ZOQUE	poq	many	daC ke	T K	T K	4
+SOTEAPAN_ZOQUE	poi	many	a g i	A K I	V K V	5
+MARIA_CHIMALAPA	zoh	many	s 3 h 3 7	S O H O H	S V H V H	6
+MIGUEL_CHIMALAPA	zoh	many	S 3 h 3 7	S O H O H	S V H V H	6
+CHIAPAS_ZOQUE	zoc	many	w 3 w 3	W O W O	W V W V	3
+NORTH_HIGHLAND_MIXE	mto	one	t u k	T Y K	T V K	1
+SOUTH_HIGHLAND_MIXE	mxp	one	t u 7 u k	T Y H Y K	T V H V K	1
+LOWLAND_MIXE	mco	one	t u 7 u k	T Y H Y K	T V H V K	1
+SAYULA_POPOLUCA	pos	one	t u k	T Y K	T V K	1
+OLUTA_POPOLUCA	plo	one	t u k	T Y K	T V K	1
+TEXISTEPEC_ZOQUE	poq	one	t u m	T Y M	T V M	2
+SOTEAPAN_ZOQUE	poi	one	t u m	T Y M	T V M	2
+MARIA_CHIMALAPA	zoh	one	t u m 3	T Y M O	T V M V	2
+MIGUEL_CHIMALAPA	zoh	one	t u m 3	T Y M O	T V M V	2
+CHIAPAS_ZOQUE	zoc	one	t u m 3	T Y M O	T V M V	2
+NORTH_HIGHLAND_MIXE	mto	two	m e c k	M E C K	M V K K	1
+SOUTH_HIGHLAND_MIXE	mxp	two	m e c k	M E C K	M V K K	1
+LOWLAND_MIXE	mco	two	m e c	M E C	M V K	1
+SAYULA_POPOLUCA	pos	two	m e C k	M E C K	M V K K	1
+OLUTA_POPOLUCA	plo	two	mes ko	M K	M K	1
+TEXISTEPEC_ZOQUE	poq	two	w3s na7	W N	W N	2
+SOTEAPAN_ZOQUE	poi	two	w3s ten	W T	W T	2
+MARIA_CHIMALAPA	zoh	two	mec a7aN	M A	M V	3
+MIGUEL_CHIMALAPA	zoh	two	meca 7aN	M H	M H	3
+CHIAPAS_ZOQUE	zoc	two	m e c a	M E C A	M V K V	1
+NORTH_HIGHLAND_MIXE	mto	big	m 3 h	M O H	M V H	1
+SOUTH_HIGHLAND_MIXE	mxp	big	m 3 h	M O H	M V H	1
+LOWLAND_MIXE	mco	big	m 3 h	M O H	M V H	1
+SAYULA_POPOLUCA	pos	big	m 3 h	M O H	M V H	1
+OLUTA_POPOLUCA	plo	big	t a n 3 k	T A N O K	T V N V K	2
+TEXISTEPEC_ZOQUE	poq	big	w 3 C e 7	W O C E H	W V K V H	3
+SOTEAPAN_ZOQUE	poi	big	m 3 h	M O H	M V H	1
+MARIA_CHIMALAPA	zoh	big	w 3 t i 7	W O T I H	W V T V H	3
+MIGUEL_CHIMALAPA	zoh	big	k o m i 7	K U M I H	K V M V H	5
+CHIAPAS_ZOQUE	zoc	big	m 3 h a	M O H A	M V H V	1
+NORTH_HIGHLAND_MIXE	mto	long	y 3 n	J O N	J V N	1
+SOUTH_HIGHLAND_MIXE	mxp	long	y e n y	J E N J	J V N J	1
+LOWLAND_MIXE	mco	long	y o n y	J U N J	J V N J	2
+SAYULA_POPOLUCA	pos	long	y a g a c	J A K A C	J V K V K	3
+OLUTA_POPOLUCA	plo	long	y o n e k	J U N E K	J V N V K	4
+TEXISTEPEC_ZOQUE	poq	long	y a 7 a k a c	J A H A K A C	J V H V K V K	3
+SOTEAPAN_ZOQUE	poi	long	y a g a c	J A K A C	J V K V K	3
+MARIA_CHIMALAPA	zoh	long	p 3 h i	P O H I	P V H V	5
+MIGUEL_CHIMALAPA	zoh	long	p 3 h i 7	P O H I H	P V H V H	5
+CHIAPAS_ZOQUE	zoc	long	p 3 y	P O J	P V J	5
+NORTH_HIGHLAND_MIXE	mto	small	p i k	P I K	P V K	1
+SOUTH_HIGHLAND_MIXE	mxp	small	m u c k	M Y C K	M V K K	2
+LOWLAND_MIXE	mco	small	m u c	M Y C	M V K	2
+SAYULA_POPOLUCA	pos	small	C i C i k	C I C I K	K V K V K	3
+OLUTA_POPOLUCA	plo	small	C u C u	C Y C Y	K V K V	3
+TEXISTEPEC_ZOQUE	poq	small	h3s3 ba	H P	H P	4
+SOTEAPAN_ZOQUE	poi	small	S u ty~ u	S Y T Y	S V T V	5
+MIGUEL_CHIMALAPA	zoh	small	w a k S i N 7	W A K S I N H	W V K S V N H	6
+CHIAPAS_ZOQUE	zoc	small	C i k s	C I K S	K V K S	3
+NORTH_HIGHLAND_MIXE	mto	woman	t 3 s t 3 k	T O S T O K	T V S T V K	1
+SOUTH_HIGHLAND_MIXE	mxp	woman	t i Sy~ t 3 k	T I S T O K	T V S T V K	2
+LOWLAND_MIXE	mco	woman	t o 7 o S yh~ 3 y	T U H U S J O J	T V H V S J V J	2
+SAYULA_POPOLUCA	pos	woman	t o S a y	T U S A J	T V S V J	2
+OLUTA_POPOLUCA	plo	woman	m a h a w	M A H A W	M V H V W	3
+TEXISTEPEC_ZOQUE	poq	woman	y o m a 7	J U M A H	J V M V H	4
+SOTEAPAN_ZOQUE	poi	woman	y o m o	J U M U	J V M V	4
+MARIA_CHIMALAPA	zoh	woman	y o m 3 7	J U M O H	J V M V H	4
+MIGUEL_CHIMALAPA	zoh	woman	y o m a 7	J U M A H	J V M V H	4
+CHIAPAS_ZOQUE	zoc	woman	y o m o	J U M U	J V M V	4
+NORTH_HIGHLAND_MIXE	mto	man	y a t y 3 k	J A T J O K	J V T J V K	1
+SOUTH_HIGHLAND_MIXE	mxp	man	h 3 t y 3 k	H O T J O K	H V T J V K	1
+LOWLAND_MIXE	mco	man	ye7ey d3k	J T	J T	1
+SAYULA_POPOLUCA	pos	man	h a y a w	H A J A W	H V J V W	2
+OLUTA_POPOLUCA	plo	man	y o 7 o w a	J U H U W A	J V H V W V	3
+TEXISTEPEC_ZOQUE	poq	man	p 3 5	P O N	P V N	4
+SOTEAPAN_ZOQUE	poi	man	p 3 S i 5	P O S I N	P V S V N	4
+MARIA_CHIMALAPA	zoh	man	p 3 n	P O N	P V N	4
+MIGUEL_CHIMALAPA	zoh	man	p 3 n	P O N	P V N	4
+CHIAPAS_ZOQUE	zoc	man	p 3 n	P O N	P V N	4
+NORTH_HIGHLAND_MIXE	mto	person	h a y u	H A J Y	H V J V	1
+SOUTH_HIGHLAND_MIXE	mxp	person	h a 7 a y	H A H A J	H V H V J	1
+LOWLAND_MIXE	mco	person	h 3 y	H O J	H V J	1
+SAYULA_POPOLUCA	pos	person	h a y a w	H A J A W	H V J V W	1
+OLUTA_POPOLUCA	plo	person	h a y k a k	H A J K A K	H V J K V K	1
+TEXISTEPEC_ZOQUE	poq	person	p35 Ca7	P C	P K	2
+CHIAPAS_ZOQUE	zoc	person	p3n dam	P T	P T	2
+NORTH_HIGHLAND_MIXE	mto	fish	a h k S	A H K S	V H K S	1
+SOUTH_HIGHLAND_MIXE	mxp	fish	a k S	A K S	V K S	1
+LOWLAND_MIXE	mco	fish	a k S	A K S	V K S	1
+SAYULA_POPOLUCA	pos	fish	a k S	A K S	V K S	1
+OLUTA_POPOLUCA	plo	fish	k o k e	K U K E	K V K V	2
+TEXISTEPEC_ZOQUE	poq	fish	w o N	W U N	W V N	3
+SOTEAPAN_ZOQUE	poi	fish	t 3 7 3 p 3	T O H O P O	T V H V P V	4
+MARIA_CHIMALAPA	zoh	fish	k o k e	K U K E	K V K V	2
+MIGUEL_CHIMALAPA	zoh	fish	k o k e	K U K E	K V K V	2
+CHIAPAS_ZOQUE	zoc	fish	k o k e h	K U K E H	K V K V H	2
+NORTH_HIGHLAND_MIXE	mto	bird	h 3 y v a	H O J B A	H V J P V	1
+SOUTH_HIGHLAND_MIXE	mxp	bird	h o n	H U N	H V N	2
+LOWLAND_MIXE	mco	bird	h o n	H U N	H V N	2
+SAYULA_POPOLUCA	pos	bird	h o n	H U N	H V N	2
+OLUTA_POPOLUCA	plo	bird	m u S i	M Y S I	M V S V	3
+TEXISTEPEC_ZOQUE	poq	bird	h o n	H U N	H V N	2
+SOTEAPAN_ZOQUE	poi	bird	h o n	H U N	H V N	2
+MARIA_CHIMALAPA	zoh	bird	h o n	H U N	H V N	2
+MIGUEL_CHIMALAPA	zoh	bird	h o n	H U N	H V N	2
+CHIAPAS_ZOQUE	zoc	bird	% p a l o m a	0 P A L U M A	0 P V R V M V	4
+NORTH_HIGHLAND_MIXE	mto	dog	u k	Y K	V K	1
+SOUTH_HIGHLAND_MIXE	mxp	dog	u k	Y K	V K	1
+LOWLAND_MIXE	mco	dog	u k	Y K	V K	1
+SAYULA_POPOLUCA	pos	dog	t a k	T A K	T V K	2
+OLUTA_POPOLUCA	plo	dog	S u n i	S Y N I	S V N V	3
+TEXISTEPEC_ZOQUE	poq	dog	C e m p a 7	C E M P A H	K V M P V H	5
+SOTEAPAN_ZOQUE	poi	dog	C i m p a	C I M P A	K V M P V	5
+MARIA_CHIMALAPA	zoh	dog	n u 7 u	N Y H Y	N V H V	6
+MIGUEL_CHIMALAPA	zoh	dog	n u 7	N Y H	N V H	6
+CHIAPAS_ZOQUE	zoc	dog	t u w i	T Y W I	T V W V	4
+NORTH_HIGHLAND_MIXE	mto	louse	3 7 c	O H C	V H K	1
+SOUTH_HIGHLAND_MIXE	mxp	louse	a 7 a t	A H A T	V H V T	2
+LOWLAND_MIXE	mco	louse	a d	A T	V T	1
+SAYULA_POPOLUCA	pos	louse	a w a t	A W A T	V W V T	2
+OLUTA_POPOLUCA	plo	louse	a v a t	A B A T	V P V T	2
+TEXISTEPEC_ZOQUE	poq	louse	a w a t	A W A T	V W V T	2
+SOTEAPAN_ZOQUE	poi	louse	a 7 a w a t	A H A W A T	V H V W V T	2
+MARIA_CHIMALAPA	zoh	louse	a w a t	A W A T	V W V T	2
+MIGUEL_CHIMALAPA	zoh	louse	a w a t	A W A T	V W V T	2
+CHIAPAS_ZOQUE	zoc	louse	a w a t	A W A T	V W V T	2
+NORTH_HIGHLAND_MIXE	mto	tree	k u p	K Y P	K V P	1
+SOUTH_HIGHLAND_MIXE	mxp	tree	S o h	S U H	S V H	2
+LOWLAND_MIXE	mco	tree	k i p y	K I P J	K V P J	1
+SAYULA_POPOLUCA	pos	tree	k u y	K Y J	K V J	1
+OLUTA_POPOLUCA	plo	tree	k u y 3	K Y J O	K V J V	1
+TEXISTEPEC_ZOQUE	poq	tree	k u y	K Y J	K V J	1
+SOTEAPAN_ZOQUE	poi	tree	k u y	K Y J	K V J	1
+MARIA_CHIMALAPA	zoh	tree	k u y	K Y J	K V J	1
+MIGUEL_CHIMALAPA	zoh	tree	k u y	K Y J	K V J	1
+CHIAPAS_ZOQUE	zoc	tree	k u y	K Y J	K V J	1
+NORTH_HIGHLAND_MIXE	mto	seed	t 3 m t	T O M T	T V M T	1
+SOUTH_HIGHLAND_MIXE	mxp	seed	p a k	P A K	P V K	2
+LOWLAND_MIXE	mco	seed	p a k	P A K	P V K	2
+SAYULA_POPOLUCA	pos	seed	p u h	P Y H	P V H	3
+OLUTA_POPOLUCA	plo	seed	p a k 3	P A K O	P V K V	2
+TEXISTEPEC_ZOQUE	poq	seed	p u h	P Y H	P V H	3
+SOTEAPAN_ZOQUE	poi	seed	p a k	P A K	P V K	2
+MARIA_CHIMALAPA	zoh	seed	p u h	P Y H	P V H	3
+MIGUEL_CHIMALAPA	zoh	seed	p u h	P Y H	P V H	3
+CHIAPAS_ZOQUE	zoc	seed	p u h	P Y H	P V H	3
+NORTH_HIGHLAND_MIXE	mto	leaf	a h y	A H J	V H J	1
+SOUTH_HIGHLAND_MIXE	mxp	leaf	a y	A J	V J	1
+LOWLAND_MIXE	mco	leaf	a y	A J	V J	1
+SAYULA_POPOLUCA	pos	leaf	a hy~	A H	V H	1
+OLUTA_POPOLUCA	plo	leaf	a y 3	A J O	V J V	1
+TEXISTEPEC_ZOQUE	poq	leaf	a y	A J	V J	1
+SOTEAPAN_ZOQUE	poi	leaf	a y	A J	V J	1
+MARIA_CHIMALAPA	zoh	leaf	a y	A J	V J	1
+MIGUEL_CHIMALAPA	zoh	leaf	a y 7	A J H	V J H	1
+CHIAPAS_ZOQUE	zoc	leaf	a y	A J	V J	1
+NORTH_HIGHLAND_MIXE	mto	root	a 7 c	A H C	V H K	1
+SOUTH_HIGHLAND_MIXE	mxp	root	a c	A C	V K	1
+LOWLAND_MIXE	mco	root	t i k c	T I K C	T V K K	2
+SAYULA_POPOLUCA	pos	root	t i k C i k	T I K C I K	T V K K V K	2
+OLUTA_POPOLUCA	plo	root	C i s c 3 w	C I S C O W	K V S K V W	2
+TEXISTEPEC_ZOQUE	poq	root	C e C 3 k	C E C O K	K V K V K	2
+SOTEAPAN_ZOQUE	poi	root	ty~ i C 3 k	T I C O K	T V K V K	2
+MARIA_CHIMALAPA	zoh	root	w a c	W A C	W V K	3
+MIGUEL_CHIMALAPA	zoh	root	w a c	W A C	W V K	3
+CHIAPAS_ZOQUE	zoc	root	w a c i	W A C I	W V K V	3
+NORTH_HIGHLAND_MIXE	mto	bark	k3p ak	K A	K V	1
+SOUTH_HIGHLAND_MIXE	mxp	bark	a k	A K	V K	1
+LOWLAND_MIXE	mco	bark	a k	A K	V K	1
+SAYULA_POPOLUCA	pos	bark	a k	A K	V K	1
+TEXISTEPEC_ZOQUE	poq	bark	kuy dak	K T	K T	2
+MARIA_CHIMALAPA	zoh	bark	n a k a	N A K A	N V K V	2
+MIGUEL_CHIMALAPA	zoh	bark	kuy naka	K N	K N	2
+CHIAPAS_ZOQUE	zoc	bark	kuyu naka	K N	K N	2
+NORTH_HIGHLAND_MIXE	mto	skin	a k	A K	V K	1
+SOUTH_HIGHLAND_MIXE	mxp	skin	n 3 7 a k	N O H A K	N V H V K	1
+LOWLAND_MIXE	mco	skin	a k	A K	V K	1
+SAYULA_POPOLUCA	pos	skin	a k	A K	V K	1
+OLUTA_POPOLUCA	plo	skin	a k 3	A K O	V K V	1
+TEXISTEPEC_ZOQUE	poq	skin	d a k	T A K	T V K	2
+SOTEAPAN_ZOQUE	poi	skin	n a k a	N A K A	N V K V	2
+MARIA_CHIMALAPA	zoh	skin	n a k a	N A K A	N V K V	2
+MIGUEL_CHIMALAPA	zoh	skin	n a k a	N A K A	N V K V	2
+CHIAPAS_ZOQUE	zoc	skin	n a k a	N A K A	N V K V	2
+NORTH_HIGHLAND_MIXE	mto	meat	c u 7 u c	C Y H Y C	K V H V K	1
+SOUTH_HIGHLAND_MIXE	mxp	meat	c u 7 u C y	C Y H Y C J	K V H V K J	1
+LOWLAND_MIXE	mco	meat	c u 7 u C	C Y H Y C	K V H V K	1
+SAYULA_POPOLUCA	pos	meat	S i S	S I S	S V S	2
+OLUTA_POPOLUCA	plo	meat	c u C i	C Y C I	K V K V	1
+TEXISTEPEC_ZOQUE	poq	meat	S e S	S E S	S V S	2
+SOTEAPAN_ZOQUE	poi	meat	m a y i	M A J I	M V J V	3
+MARIA_CHIMALAPA	zoh	meat	s i s	S I S	S V S	2
+MIGUEL_CHIMALAPA	zoh	meat	S i S	S I S	S V S	2
+CHIAPAS_ZOQUE	zoc	meat	s i s	S I S	S V S	2
+NORTH_HIGHLAND_MIXE	mto	blood	n u p u n	N Y P Y N	N V P V N	1
+SOUTH_HIGHLAND_MIXE	mxp	blood	n 3 7 3 p y	N O H O P J	N V H V P J	1
+LOWLAND_MIXE	mco	blood	n 3 p y	N O P J	N V P J	1
+SAYULA_POPOLUCA	pos	blood	n i p i n	N I P I N	N V P V N	1
+OLUTA_POPOLUCA	plo	blood	n 3 p i n	N O P I N	N V P V N	1
+TEXISTEPEC_ZOQUE	poq	blood	d 3 7 3 p i 5	T O H O P I N	T V H V P V N	1
+SOTEAPAN_ZOQUE	poi	blood	n 3 7 3 p i 5	N O H O P I N	N V H V P V N	1
+MARIA_CHIMALAPA	zoh	blood	n 3 p i n	N O P I N	N V P V N	1
+MIGUEL_CHIMALAPA	zoh	blood	n 3 p i n 7	N O P I N H	N V P V N H	1
+CHIAPAS_ZOQUE	zoc	blood	n 3 p i n	N O P I N	N V P V N	1
+NORTH_HIGHLAND_MIXE	mto	bone	p a k	P A K	P V K	1
+SOUTH_HIGHLAND_MIXE	mxp	bone	p a k	P A K	P V K	1
+LOWLAND_MIXE	mco	bone	p a k	P A K	P V K	1
+SAYULA_POPOLUCA	pos	bone	p a k	P A K	P V K	1
+OLUTA_POPOLUCA	plo	bone	p a k 3	P A K O	P V K V	1
+TEXISTEPEC_ZOQUE	poq	bone	p a k	P A K	P V K	1
+SOTEAPAN_ZOQUE	poi	bone	p a k	P A K	P V K	1
+MARIA_CHIMALAPA	zoh	bone	p a k	P A K	P V K	1
+MIGUEL_CHIMALAPA	zoh	bone	p a k	P A K	P V K	1
+CHIAPAS_ZOQUE	zoc	bone	p a k	P A K	P V K	1
+NORTH_HIGHLAND_MIXE	mto	fat	o n	U N	V N	1
+SOUTH_HIGHLAND_MIXE	mxp	fat	o n	U N	V N	1
+LOWLAND_MIXE	mco	fat	win omb	W U	W V	2
+SAYULA_POPOLUCA	pos	fat	o 7 c 3 k	U H C O K	V H K V K	3
+OLUTA_POPOLUCA	plo	fat	o n a	U N A	V N V	1
+SOTEAPAN_ZOQUE	poi	fat	p 3 h i	P O H I	P V H V	5
+MARIA_CHIMALAPA	zoh	fat	g r a s a	K R A S A	K R V S V	6
+MIGUEL_CHIMALAPA	zoh	fat	y e w e 7	J E W E H	J V W V H	7
+CHIAPAS_ZOQUE	zoc	fat	k i n 3	K I N O	K V N V	4
+NORTH_HIGHLAND_MIXE	mto	egg	t u 7 u t	T Y H Y T	T V H V T	1
+SOUTH_HIGHLAND_MIXE	mxp	egg	t u c a h	T Y C A H	T V K V H	1
+LOWLAND_MIXE	mco	egg	t u 7 u t y	T Y H Y T J	T V H V T J	1
+SAYULA_POPOLUCA	pos	egg	k o y	K U J	K V J	2
+OLUTA_POPOLUCA	plo	egg	t u t i k	T Y T I K	T V T V K	1
+TEXISTEPEC_ZOQUE	poq	egg	k a n p u k	K A N P Y K	K V N P V K	4
+SOTEAPAN_ZOQUE	poi	egg	k a n p u	K A N P Y	K V N P V	4
+MARIA_CHIMALAPA	zoh	egg	p o 7 o k	P U H U K	P V H V K	3
+MIGUEL_CHIMALAPA	zoh	egg	p o h o k	P U H U K	P V H V K	3
+CHIAPAS_ZOQUE	zoc	egg	p o k a	P U K A	P V K V	3
+NORTH_HIGHLAND_MIXE	mto	horn	v a h	B A H	P V H	1
+SOUTH_HIGHLAND_MIXE	mxp	horn	w a h	W A H	W V H	1
+LOWLAND_MIXE	mco	horn	m u n	M Y N	M V N	2
+SAYULA_POPOLUCA	pos	horn	w a h	W A H	W V H	1
+OLUTA_POPOLUCA	plo	horn	v a h a	B A H A	P V H V	1
+TEXISTEPEC_ZOQUE	poq	horn	w a N a 7	W A N A H	W V N V H	1
+MIGUEL_CHIMALAPA	zoh	horn	w e k a 7	W E K A H	W V K V H	3
+CHIAPAS_ZOQUE	zoc	horn	w a 7	W A H	W V H	1
+NORTH_HIGHLAND_MIXE	mto	tail	t u S t a	T Y S T A	T V S T V	1
+SOUTH_HIGHLAND_MIXE	mxp	tail	t u c t	T Y C T	T V K T	1
+LOWLAND_MIXE	mco	tail	p i 7 i S y	P I H I S J	P V H V S J	2
+SAYULA_POPOLUCA	pos	tail	t u h c	T Y H C	T V H K	1
+OLUTA_POPOLUCA	plo	tail	t u s t a	T Y S T A	T V S T V	1
+TEXISTEPEC_ZOQUE	poq	tail	t u c	T Y C	T V K	1
+SOTEAPAN_ZOQUE	poi	tail	t u c	T Y C	T V K	1
+MARIA_CHIMALAPA	zoh	tail	t u c	T Y C	T V K	1
+MIGUEL_CHIMALAPA	zoh	tail	t u c	T Y C	T V K	1
+CHIAPAS_ZOQUE	zoc	tail	t u c	T Y C	T V K	1
+NORTH_HIGHLAND_MIXE	mto	feather	p a k	P A K	P V K	1
+SOUTH_HIGHLAND_MIXE	mxp	feather	p 3 k	P O K	P V K	1
+LOWLAND_MIXE	mco	feather	ce5i7i b3k	C P	K P	2
+OLUTA_POPOLUCA	plo	feather	p 3 k 3	P O K O	P V K V	1
+TEXISTEPEC_ZOQUE	poq	feather	p 3 k	P O K	P V K	1
+SOTEAPAN_ZOQUE	poi	feather	p 3 k	P O K	P V K	1
+MARIA_CHIMALAPA	zoh	feather	p 3 k	P O K	P V K	1
+MIGUEL_CHIMALAPA	zoh	feather	p 3 k	P O K	P V K	1
+CHIAPAS_ZOQUE	zoc	feather	p 3 k	P O K	P V K	1
+NORTH_HIGHLAND_MIXE	mto	hair	v a y	B A J	P V J	1
+SOUTH_HIGHLAND_MIXE	mxp	hair	w a y	W A J	W V J	1
+LOWLAND_MIXE	mco	hair	w a y	W A J	W V J	1
+TEXISTEPEC_ZOQUE	poq	hair	w a y	W A J	W V J	1
+SOTEAPAN_ZOQUE	poi	hair	w a y	W A J	W V J	1
+MARIA_CHIMALAPA	zoh	hair	w a y	W A J	W V J	1
+MIGUEL_CHIMALAPA	zoh	hair	w a y 7	W A J H	W V J H	1
+CHIAPAS_ZOQUE	zoc	hair	w a y	W A J	W V J	1
+NORTH_HIGHLAND_MIXE	mto	head	k u v a k	K Y B A K	K V P V K	1
+SOUTH_HIGHLAND_MIXE	mxp	head	k 3 p a k	K O P A K	K V P V K	1
+LOWLAND_MIXE	mco	head	k o w a k	K U W A K	K V W V K	1
+SAYULA_POPOLUCA	pos	head	k o p a k	K U P A K	K V P V K	1
+OLUTA_POPOLUCA	plo	head	k o p a k	K U P A K	K V P V K	1
+TEXISTEPEC_ZOQUE	poq	head	k o p 3 k	K U P O K	K V P V K	1
+SOTEAPAN_ZOQUE	poi	head	k o b a k	K U P A K	K V P V K	1
+MARIA_CHIMALAPA	zoh	head	w a y	W A J	W V J	2
+MIGUEL_CHIMALAPA	zoh	head	k o p a k	K U P A K	K V P V K	1
+CHIAPAS_ZOQUE	zoc	head	k o p a k	K U P A K	K V P V K	1
+NORTH_HIGHLAND_MIXE	mto	ear	t a c k	T A C K	T V K K	1
+SOUTH_HIGHLAND_MIXE	mxp	ear	t a c k	T A C K	T V K K	1
+SAYULA_POPOLUCA	pos	ear	t a c 3 k	T A C O K	T V K V K	1
+OLUTA_POPOLUCA	plo	ear	t a c 3 k	T A C O K	T V K V K	1
+TEXISTEPEC_ZOQUE	poq	ear	t a c 3 k	T A C O K	T V K V K	1
+SOTEAPAN_ZOQUE	poi	ear	t a c e k	T A C E K	T V K V K	1
+MARIA_CHIMALAPA	zoh	ear	t a c 3 k	T A C O K	T V K V K	1
+MIGUEL_CHIMALAPA	zoh	ear	t a c 3 k	T A C O K	T V K V K	1
+CHIAPAS_ZOQUE	zoc	ear	t a c 3 k	T A C O K	T V K V K	1
+NORTH_HIGHLAND_MIXE	mto	eye	v i n	B I N	P V N	1
+SOUTH_HIGHLAND_MIXE	mxp	eye	w e n	W E N	W V N	1
+LOWLAND_MIXE	mco	eye	w i n	W I N	W V N	1
+SAYULA_POPOLUCA	pos	eye	w i n	W I N	W V N	1
+OLUTA_POPOLUCA	plo	eye	v i n 3	B I N O	P V N V	1
+TEXISTEPEC_ZOQUE	poq	eye	eS ku7	E K	V K	2
+SOTEAPAN_ZOQUE	poi	eye	iS kuy	I K	V K	2
+MARIA_CHIMALAPA	zoh	eye	w i t 3 m	W I T O M	W V T V M	3
+MIGUEL_CHIMALAPA	zoh	eye	w o t 3 m	W U T O M	W V T V M	3
+CHIAPAS_ZOQUE	zoc	eye	w i n	W I N	W V N	1
+NORTH_HIGHLAND_MIXE	mto	nose	h 3 p	H O P	H V P	1
+SOUTH_HIGHLAND_MIXE	mxp	nose	h 3 p	H O P	H V P	1
+LOWLAND_MIXE	mco	nose	h3p put	H P	H P	1
+SAYULA_POPOLUCA	pos	nose	h 3 p	H O P	H V P	1
+OLUTA_POPOLUCA	plo	nose	h 3 p 3	H O P O	H V P V	2
+TEXISTEPEC_ZOQUE	poq	nose	ke5 kuy	K K	K K	3
+SOTEAPAN_ZOQUE	poi	nose	k i 5 i	K I N I	K V N V	4
+MARIA_CHIMALAPA	zoh	nose	k i n 3	K I N O	K V N V	1
+MIGUEL_CHIMALAPA	zoh	nose	k i n 3 k	K I N O K	K V N V K	4
+CHIAPAS_ZOQUE	zoc	nose	k i n 3	K I N O	K V N V	4
+NORTH_HIGHLAND_MIXE	mto	mouth	a h	A H	V H	1
+LOWLAND_MIXE	mco	mouth	a w a k	A W A K	V W V K	1
+SAYULA_POPOLUCA	pos	mouth	a hw~	A H	V H	1
+OLUTA_POPOLUCA	plo	mouth	a v 3	A B O	V P V	1
+TEXISTEPEC_ZOQUE	poq	mouth	h 3 p	H O P	H V P	3
+SOTEAPAN_ZOQUE	poi	mouth	h 3 p	H O P	H V P	3
+MARIA_CHIMALAPA	zoh	mouth	h 3 p	H O P	H V P	3
+MIGUEL_CHIMALAPA	zoh	mouth	h 3 p	H O P	H V P	3
+CHIAPAS_ZOQUE	zoc	mouth	a N n a k a	A N N A K A	V N N V K V	2
+NORTH_HIGHLAND_MIXE	mto	tooth	t 3 c	T O C	T V K	1
+SOUTH_HIGHLAND_MIXE	mxp	tooth	t 3 c	T O C	T V K	1
+LOWLAND_MIXE	mco	tooth	t 3 c	T O C	T V K	1
+SAYULA_POPOLUCA	pos	tooth	t 3 c	T O C	T V K	1
+OLUTA_POPOLUCA	plo	tooth	t 3 c 3	T O C O	T V K V	1
+TEXISTEPEC_ZOQUE	poq	tooth	t 3 c	T O C	T V K	1
+SOTEAPAN_ZOQUE	poi	tooth	t 3 c	T O C	T V K	1
+MARIA_CHIMALAPA	zoh	tooth	t 3 c	T O C	T V K	1
+MIGUEL_CHIMALAPA	zoh	tooth	t 3 c	T O C	T V K	1
+CHIAPAS_ZOQUE	zoc	tooth	t 3 c	T O C	T V K	1
+NORTH_HIGHLAND_MIXE	mto	tongue	t o c	T U C	T V K	1
+SOUTH_HIGHLAND_MIXE	mxp	tongue	t o c	T U C	T V K	1
+LOWLAND_MIXE	mco	tongue	t o c	T U C	T V K	1
+SAYULA_POPOLUCA	pos	tongue	t o c	T U C	T V K	1
+OLUTA_POPOLUCA	plo	tongue	t o c 3	T U C O	T V K V	1
+SOTEAPAN_ZOQUE	poi	tongue	t o c	T U C	T V K	1
+MARIA_CHIMALAPA	zoh	tongue	yen kuy	J K	J K	2
+MIGUEL_CHIMALAPA	zoh	tongue	t o c	T U C	T V K	1
+CHIAPAS_ZOQUE	zoc	tongue	t o c	T U C	T V K	1
+NORTH_HIGHLAND_MIXE	mto	claw (nail)	S 3 k	S O K	S V K	1
+SOUTH_HIGHLAND_MIXE	mxp	claw (nail)	S o k y	S U K J	S V K J	1
+LOWLAND_MIXE	mco	claw (nail)	S o k y	S U K J	S V K J	1
+SAYULA_POPOLUCA	pos	claw (nail)	S o k	S U K	S V K	1
+OLUTA_POPOLUCA	plo	claw (nail)	S o k i	S U K I	S V K V	1
+TEXISTEPEC_ZOQUE	poq	claw (nail)	k37 cuks	K C	K K	2
+SOTEAPAN_ZOQUE	poi	claw (nail)	k 3 c 3 s	K O C O S	K V K V S	2
+MARIA_CHIMALAPA	zoh	claw (nail)	k 3 c u s	K O C Y S	K V K V S	2
+MIGUEL_CHIMALAPA	zoh	claw (nail)	k 3 c u S	K O C Y S	K V K V S	2
+CHIAPAS_ZOQUE	zoc	claw (nail)	k 3 C u s	K O C Y S	K V K V S	2
+NORTH_HIGHLAND_MIXE	mto	foot	t e k	T E K	T V K	1
+SOUTH_HIGHLAND_MIXE	mxp	foot	t e k y	T E K J	T V K J	1
+LOWLAND_MIXE	mco	foot	t e k y	T E K J	T V K J	1
+SAYULA_POPOLUCA	pos	foot	t a n	T A N	T V N	2
+OLUTA_POPOLUCA	plo	foot	k 3 S t a	K O S T A	K V S T V	3
+TEXISTEPEC_ZOQUE	poq	foot	p a k	P A K	P V K	5
+SOTEAPAN_ZOQUE	poi	foot	p u y	P Y J	P V J	6
+MARIA_CHIMALAPA	zoh	foot	maN kuy	M K	M K	7
+MIGUEL_CHIMALAPA	zoh	foot	maN kuy7	M K	M K	7
+CHIAPAS_ZOQUE	zoc	foot	neN bak	N P	N P	4
+NORTH_HIGHLAND_MIXE	mto	knee	k o S	K U S	K V S	1
+SOUTH_HIGHLAND_MIXE	mxp	knee	k o S	K U S	K V S	1
+LOWLAND_MIXE	mco	knee	k o S k o w a k	K U S K U W A K	K V S K V W V K	1
+SAYULA_POPOLUCA	pos	knee	k o S k	K U S K	K V S K	1
+OLUTA_POPOLUCA	plo	knee	k o S o	K U S U	K V S V	1
+TEXISTEPEC_ZOQUE	poq	knee	k o s o	K U S U	K V S V	1
+SOTEAPAN_ZOQUE	poi	knee	k o s o	K U S U	K V S V	1
+MARIA_CHIMALAPA	zoh	knee	k o m a	K U M A	K V M V	2
+MIGUEL_CHIMALAPA	zoh	knee	k o m a 7	K U M A H	K V M V H	2
+CHIAPAS_ZOQUE	zoc	knee	t u N u p y o k	T Y N Y P J U K	T V N V P J V K	3
+NORTH_HIGHLAND_MIXE	mto	hand	k 3 7 3	K O H O	K V H V	1
+SOUTH_HIGHLAND_MIXE	mxp	hand	k 3 7 3	K O H O	K V H V	1
+LOWLAND_MIXE	mco	hand	k 3 7	K O H	K V H	1
+SAYULA_POPOLUCA	pos	hand	k 3 7	K O H	K V H	1
+OLUTA_POPOLUCA	plo	hand	k 3 7	K O H	K V H	1
+TEXISTEPEC_ZOQUE	poq	hand	k 3 7	K O H	K V H	1
+SOTEAPAN_ZOQUE	poi	hand	k 3	K O	K V	1
+MARIA_CHIMALAPA	zoh	hand	k 3 7	K O H	K V H	1
+MIGUEL_CHIMALAPA	zoh	hand	caN kuy7	C K	K K	2
+CHIAPAS_ZOQUE	zoc	hand	k 3 7	K O H	K V H	1
+NORTH_HIGHLAND_MIXE	mto	belly	t i n c	T I N C	T V N K	1
+SOUTH_HIGHLAND_MIXE	mxp	belly	m E c	M E C	M V K	5
+LOWLAND_MIXE	mco	belly	m o 7 o S a k	M U H U S A K	M V H V S V K	2
+SAYULA_POPOLUCA	pos	belly	tin Cay	T C	T K	1
+OLUTA_POPOLUCA	plo	belly	p u p u	P Y P Y	P V P V	3
+TEXISTEPEC_ZOQUE	poq	belly	c e k	C E K	K V K	4
+MARIA_CHIMALAPA	zoh	belly	c e k	C E K	K V K	4
+MIGUEL_CHIMALAPA	zoh	belly	c e k	C E K	K V K	4
+CHIAPAS_ZOQUE	zoc	belly	c e k	C E K	K V K	4
+NORTH_HIGHLAND_MIXE	mto	neck	y o k t	J U K T	J V K T	1
+SOUTH_HIGHLAND_MIXE	mxp	neck	y o k t	J U K T	J V K T	1
+LOWLAND_MIXE	mco	neck	yo7ok pak	J P	J P	1
+SAYULA_POPOLUCA	pos	neck	y o k	J U K	J V K	1
+TEXISTEPEC_ZOQUE	poq	neck	k3n k37	K K	K K	2
+MIGUEL_CHIMALAPA	zoh	neck	w i n t u 7	W I N T Y H	W V N T V H	3
+CHIAPAS_ZOQUE	zoc	neck	k 3 n 3	K O N O	K V N V	2
+NORTH_HIGHLAND_MIXE	mto	breast	h u t a	H Y T A	H V T V	1
+SOUTH_HIGHLAND_MIXE	mxp	breast	c e c k	C E C K	K V K K	2
+LOWLAND_MIXE	mco	breast	ci7ic ani7ikS	C A	K V	2
+SAYULA_POPOLUCA	pos	breast	m o y	M U J	M V J	3
+TEXISTEPEC_ZOQUE	poq	breast	d u n	T Y N	T V N	4
+SOTEAPAN_ZOQUE	poi	breast	n u n u	N Y N Y	N V N V	4
+MIGUEL_CHIMALAPA	zoh	breast	c u c i 7	C Y C I H	K V K V H	5
+CHIAPAS_ZOQUE	zoc	breast	c u c i	C Y C I	K V K V	5
+NORTH_HIGHLAND_MIXE	mto	heart	h a v i n	H A B I N	H V P V N	1
+SOUTH_HIGHLAND_MIXE	mxp	heart	anm3 ha7an	A H	V H	4
+LOWLAND_MIXE	mco	heart	huky hot	H H	H H	2
+OLUTA_POPOLUCA	plo	heart	h u t u k o t 3	H Y T Y K U T O	H V T V K V T V	2
+TEXISTEPEC_ZOQUE	poq	heart	c o k o 7	C U K U H	K V K V H	3
+SOTEAPAN_ZOQUE	poi	heart	a n a m a h	A N A M A H	V N V M V H	4
+MARIA_CHIMALAPA	zoh	heart	c o k o y	C U K U J	K V K V J	3
+MIGUEL_CHIMALAPA	zoh	heart	c o k o y 7	C U K U J H	K V K V J H	3
+CHIAPAS_ZOQUE	zoc	heart	c o k a y	C U K A J	K V K V J	3
+NORTH_HIGHLAND_MIXE	mto	liver	n3 hot	N H	N H	1
+SOUTH_HIGHLAND_MIXE	mxp	liver	h o t	H U T	H V T	1
+LOWLAND_MIXE	mco	liver	h o t	H U T	H V T	1
+SAYULA_POPOLUCA	pos	liver	h o t	H U T	H V T	1
+OLUTA_POPOLUCA	plo	liver	t 3 s h o t 3	T O S H U T O	T V S H V T V	1
+TEXISTEPEC_ZOQUE	poq	liver	c o k o 7	C U K U H	K V K V H	1
+SOTEAPAN_ZOQUE	poi	liver	c o g o y	C U K U J	K V K V J	1
+MARIA_CHIMALAPA	zoh	liver	c o k o y	C U K U J	K V K V J	1
+MIGUEL_CHIMALAPA	zoh	liver	p a t	P A T	P V T	2
+CHIAPAS_ZOQUE	zoc	liver	p a t	P A T	P V T	2
+NORTH_HIGHLAND_MIXE	mto	drink	u k	Y K	V K	1
+SOUTH_HIGHLAND_MIXE	mxp	drink	u k	Y K	V K	1
+LOWLAND_MIXE	mco	drink	u k	Y K	V K	1
+SAYULA_POPOLUCA	pos	drink	u k	Y K	V K	1
+OLUTA_POPOLUCA	plo	drink	u k	Y K	V K	1
+TEXISTEPEC_ZOQUE	poq	drink	u k	Y K	V K	1
+SOTEAPAN_ZOQUE	poi	drink	u k	Y K	V K	1
+MARIA_CHIMALAPA	zoh	drink	u k	Y K	V K	1
+MIGUEL_CHIMALAPA	zoh	drink	u k	Y K	V K	1
+CHIAPAS_ZOQUE	zoc	drink	u h k	Y H K	V H K	1
+NORTH_HIGHLAND_MIXE	mto	eat	k a y	K A J	K V J	2
+SOUTH_HIGHLAND_MIXE	mxp	eat	k E y	K E J	K V J	2
+LOWLAND_MIXE	mco	eat	k a y	K A J	K V J	2
+SAYULA_POPOLUCA	pos	eat	k a y	K A J	K V J	2
+OLUTA_POPOLUCA	plo	eat	k a y	K A J	K V J	2
+TEXISTEPEC_ZOQUE	poq	eat	k 3 7 3 s	K O H O S	K V H V S	3
+SOTEAPAN_ZOQUE	poi	eat	k 3 7 3 s	K O H O S	K V H V S	3
+MARIA_CHIMALAPA	zoh	eat	k3s oy	K U	K V	3
+MIGUEL_CHIMALAPA	zoh	eat	k 3 S	K O S	K V S	3
+CHIAPAS_ZOQUE	zoc	eat	k 3 s	K O S	K V S	3
+NORTH_HIGHLAND_MIXE	mto	bite	c u 7 u c	C Y H Y C	K V H V K	1
+SOUTH_HIGHLAND_MIXE	mxp	bite	c u 7 u c	C Y H Y C	K V H V K	1
+LOWLAND_MIXE	mco	bite	n o c	N U C	N V K	2
+SAYULA_POPOLUCA	pos	bite	k u t o 7	K Y T U H	K V T V H	3
+OLUTA_POPOLUCA	plo	bite	c u c	C Y C	K V K	4
+TEXISTEPEC_ZOQUE	poq	bite	k e c	K E C	K V K	5
+SOTEAPAN_ZOQUE	poi	bite	w a s	W A S	W V S	6
+MIGUEL_CHIMALAPA	zoh	bite	w a S	W A S	W V S	6
+CHIAPAS_ZOQUE	zoc	bite	k e c	K E C	K V K	5
+NORTH_HIGHLAND_MIXE	mto	see	i S	I S	V S	1
+SOUTH_HIGHLAND_MIXE	mxp	see	e S	E S	V S	1
+LOWLAND_MIXE	mco	see	i S	I S	V S	1
+SAYULA_POPOLUCA	pos	see	i S	I S	V S	1
+TEXISTEPEC_ZOQUE	poq	see	e S	E S	V S	1
+SOTEAPAN_ZOQUE	poi	see	i 7 i S	I H I S	V H V S	1
+MARIA_CHIMALAPA	zoh	see	i s	I S	V S	1
+MIGUEL_CHIMALAPA	zoh	see	i S	I S	V S	1
+CHIAPAS_ZOQUE	zoc	see	i s	I S	V S	1
+NORTH_HIGHLAND_MIXE	mto	hear	m o t u	M U T Y	M V T V	1
+SOUTH_HIGHLAND_MIXE	mxp	hear	m 3 t o	M O T U	M V T V	1
+LOWLAND_MIXE	mco	hear	m 3 d o g u g 3 7	M O T U K Y K O H	M V T V K V K V H	1
+SAYULA_POPOLUCA	pos	hear	m a r a w	M A R A W	M V R V W	1
+OLUTA_POPOLUCA	plo	hear	m o t o v	M U T U B	M V T V P	1
+TEXISTEPEC_ZOQUE	poq	hear	b a t 3 N	P A T O N	P V T V N	1
+SOTEAPAN_ZOQUE	poi	hear	aN t3n	A T	V T	2
+MARIA_CHIMALAPA	zoh	hear	m a t o N	M A T U N	M V T V N	1
+MIGUEL_CHIMALAPA	zoh	hear	m a t o N	M A T U N	M V T V N	1
+CHIAPAS_ZOQUE	zoc	hear	m a t o N	M A T U N	M V T V N	1
+NORTH_HIGHLAND_MIXE	mto	know	n 3 h a v a	N O H A B A	N V H V P V	1
+SOUTH_HIGHLAND_MIXE	mxp	know	n a w	N A W	N V W	1
+LOWLAND_MIXE	mco	know	n e w 3 y	N E W O J	N V W V J	2
+SAYULA_POPOLUCA	pos	know	h a w i	H A W I	H V W V	2
+OLUTA_POPOLUCA	plo	know	v i n i y	B I N I J	P V N V J	2
+TEXISTEPEC_ZOQUE	poq	know	b u s	P Y S	P V S	3
+SOTEAPAN_ZOQUE	poi	know	h o d o N	H U T U N	H V T V N	4
+MARIA_CHIMALAPA	zoh	know	m u s	M Y S	M V S	3
+MIGUEL_CHIMALAPA	zoh	know	m u S	M Y S	M V S	3
+CHIAPAS_ZOQUE	zoc	know	m u s	M Y S	M V S	3
+NORTH_HIGHLAND_MIXE	mto	sleep	m a 7 a	M A H A	M V H V	1
+SOUTH_HIGHLAND_MIXE	mxp	sleep	m a 7 a	M A H A	M V H V	1
+LOWLAND_MIXE	mco	sleep	m a 7	M A H	M V H	1
+SAYULA_POPOLUCA	pos	sleep	m a 7	M A H	M V H	1
+OLUTA_POPOLUCA	plo	sleep	m a	M A	M V	1
+TEXISTEPEC_ZOQUE	poq	sleep	b o N	P U N	P V N	3
+SOTEAPAN_ZOQUE	poi	sleep	m o N	M U N	M V N	3
+MARIA_CHIMALAPA	zoh	sleep	m o N	M U N	M V N	3
+MIGUEL_CHIMALAPA	zoh	sleep	kap ney	K N	K N	4
+CHIAPAS_ZOQUE	zoc	sleep	3 N	O N	V N	2
+NORTH_HIGHLAND_MIXE	mto	die	o 7 k	U H K	V H K	1
+SOUTH_HIGHLAND_MIXE	mxp	die	o k	U K	V K	1
+LOWLAND_MIXE	mco	die	o 7 o k	U H U K	V H V K	1
+SAYULA_POPOLUCA	pos	die	o 7 k	U H K	V H K	1
+OLUTA_POPOLUCA	plo	die	o k	U K	V K	1
+TEXISTEPEC_ZOQUE	poq	die	k a 7	K A H	K V H	2
+SOTEAPAN_ZOQUE	poi	die	k a 7	K A H	K V H	2
+MARIA_CHIMALAPA	zoh	die	k a h	K A H	K V H	2
+MIGUEL_CHIMALAPA	zoh	die	k a 7	K A H	K V H	2
+CHIAPAS_ZOQUE	zoc	die	k a 7	K A H	K V H	2
+NORTH_HIGHLAND_MIXE	mto	kill	yak 7ok	J H	J H	1
+SOUTH_HIGHLAND_MIXE	mxp	kill	Ek ok	E U	V V	1
+LOWLAND_MIXE	mco	kill	yah o7ok	J U	J V	1
+SAYULA_POPOLUCA	pos	kill	ag o7k	A U	V V	1
+OLUTA_POPOLUCA	plo	kill	yak ok	J U	J V	1
+TEXISTEPEC_ZOQUE	poq	kill	y a k a 7	J A K A H	J V K V H	2
+SOTEAPAN_ZOQUE	poi	kill	ik ka7	I K	V K	2
+MARIA_CHIMALAPA	zoh	kill	yak kah	J K	J K	2
+MIGUEL_CHIMALAPA	zoh	kill	yak 7oy	J H	J H	3
+CHIAPAS_ZOQUE	zoc	kill	yah ka7	J K	J K	2
+NORTH_HIGHLAND_MIXE	mto	swim	n3 vun	N B	N P	1
+SOUTH_HIGHLAND_MIXE	mxp	swim	n3 yum	N J	N J	3
+LOWLAND_MIXE	mco	swim	y a b	J A P	J V P	2
+SAYULA_POPOLUCA	pos	swim	y u n	J Y N	J V N	3
+OLUTA_POPOLUCA	plo	swim	y u n	J Y N	J V N	3
+TEXISTEPEC_ZOQUE	poq	swim	p 3 n	P O N	P V N	5
+SOTEAPAN_ZOQUE	poi	swim	p u n	P Y N	P V N	5
+MARIA_CHIMALAPA	zoh	swim	y u n	J Y N	J V N	3
+MIGUEL_CHIMALAPA	zoh	swim	y u k	J Y K	J V K	6
+CHIAPAS_ZOQUE	zoc	swim	h e m u	H E M Y	H V M V	4
+NORTH_HIGHLAND_MIXE	mto	fly	h 3 y	H O J	H V J	1
+SOUTH_HIGHLAND_MIXE	mxp	fly	k E k 3 7 3 k	K E K O H O K	K V K V H V K	2
+LOWLAND_MIXE	mco	fly	k e k	K E K	K V K	2
+SAYULA_POPOLUCA	pos	fly	k e k	K E K	K V K	2
+OLUTA_POPOLUCA	plo	fly	n a p a p	N A P A P	N V P V P	3
+TEXISTEPEC_ZOQUE	poq	fly	k e k	K E K	K V K	2
+SOTEAPAN_ZOQUE	poi	fly	k e k	K E K	K V K	2
+MARIA_CHIMALAPA	zoh	fly	k e k	K E K	K V K	2
+MIGUEL_CHIMALAPA	zoh	fly	yuk kek	J K	J K	2
+CHIAPAS_ZOQUE	zoc	fly	s i t i t	S I T I T	S V T V T	4
+NORTH_HIGHLAND_MIXE	mto	walk	y o 7 o y	J U H U J	J V H V J	1
+SOUTH_HIGHLAND_MIXE	mxp	walk	y o 7 o y	J U H U J	J V H V J	1
+LOWLAND_MIXE	mco	walk	y o 7 o y	J U H U J	J V H V J	1
+SAYULA_POPOLUCA	pos	walk	y o y	J U J	J V J	1
+OLUTA_POPOLUCA	plo	walk	v i t	B I T	P V T	2
+TEXISTEPEC_ZOQUE	poq	walk	w e C	W E C	W V K	2
+SOTEAPAN_ZOQUE	poi	walk	w i ty~	W I T	W V T	2
+MIGUEL_CHIMALAPA	zoh	walk	w i t	W I T	W V T	2
+CHIAPAS_ZOQUE	zoc	walk	w i t	W I T	W V T	2
+NORTH_HIGHLAND_MIXE	mto	come	m e c	M E C	M V K	1
+SOUTH_HIGHLAND_MIXE	mxp	come	m e n	M E N	M V N	2
+LOWLAND_MIXE	mco	come	m i n	M I N	M V N	2
+SAYULA_POPOLUCA	pos	come	m i n	M I N	M V N	2
+OLUTA_POPOLUCA	plo	come	m i n	M I N	M V N	2
+TEXISTEPEC_ZOQUE	poq	come	b e 5	P E N	P V N	2
+SOTEAPAN_ZOQUE	poi	come	m i 5	M I N	M V N	2
+MARIA_CHIMALAPA	zoh	come	m i n	M I N	M V N	2
+MIGUEL_CHIMALAPA	zoh	come	m i n	M I N	M V N	2
+CHIAPAS_ZOQUE	zoc	come	m i n	M I N	M V N	2
+NORTH_HIGHLAND_MIXE	mto	lie	m a v a	M A B A	M V P V	1
+SOUTH_HIGHLAND_MIXE	mxp	lie	k o 7 o k	K U H U K	K V H V K	2
+LOWLAND_MIXE	mco	lie	k o 7 o k	K U H U K	K V H V K	2
+SAYULA_POPOLUCA	pos	lie	k 3 m n a	K O M N A	K V M N V	3
+OLUTA_POPOLUCA	plo	lie	S o k	S U K	S V K	4
+TEXISTEPEC_ZOQUE	poq	lie	kas de7	K T	K T	5
+SOTEAPAN_ZOQUE	poi	lie	w o n e 7 e	W U N E H E	W V N V H V	6
+MARIA_CHIMALAPA	zoh	lie	moN k3take	M K	M K	7
+MIGUEL_CHIMALAPA	zoh	lie	m o N	M U N	M V N	7
+CHIAPAS_ZOQUE	zoc	lie	3 k g e k	O K K E K	V K K V K	8
+NORTH_HIGHLAND_MIXE	mto	sit	c u n a	C Y N A	K V N V	1
+SOUTH_HIGHLAND_MIXE	mxp	sit	c 3 n	C O N	K V N	1
+LOWLAND_MIXE	mco	sit	i n y 3 y	I N J O J	V N J V J	2
+SAYULA_POPOLUCA	pos	sit	c 3 n a	C O N A	K V N V	1
+OLUTA_POPOLUCA	plo	sit	h u n i	H Y N I	H V N V	3
+TEXISTEPEC_ZOQUE	poq	sit	k o n	K U N	K V N	5
+SOTEAPAN_ZOQUE	poi	sit	k o 5	K U N	K V N	5
+MARIA_CHIMALAPA	zoh	sit	c 3 n a y	C O N A J	K V N V J	1
+MIGUEL_CHIMALAPA	zoh	sit	c 3 n	C O N	K V N	1
+CHIAPAS_ZOQUE	zoc	sit	p o k s	P U K S	P V K S	4
+NORTH_HIGHLAND_MIXE	mto	stand	t e n a	T E N A	T V N V	1
+SOUTH_HIGHLAND_MIXE	mxp	stand	t 3 n E y	T O N E J	T V N V J	1
+LOWLAND_MIXE	mco	stand	t e n a y	T E N A J	T V N V J	1
+SAYULA_POPOLUCA	pos	stand	t e n a	T E N A	T V N V	1
+OLUTA_POPOLUCA	plo	stand	t e n i y	T E N I J	T V N V J	1
+TEXISTEPEC_ZOQUE	poq	stand	hop de7	H T	H T	2
+SOTEAPAN_ZOQUE	poi	stand	t e 5	T E N	T V N	1
+MIGUEL_CHIMALAPA	zoh	stand	t e n	T E N	T V N	1
+CHIAPAS_ZOQUE	zoc	stand	t e n a y	T E N A J	T V N V J	1
+NORTH_HIGHLAND_MIXE	mto	give	m 3 7 3	M O H O	M V H V	1
+SOUTH_HIGHLAND_MIXE	mxp	give	y a k	J A K	J V K	3
+LOWLAND_MIXE	mco	give	m o 7	M U H	M V H	1
+SAYULA_POPOLUCA	pos	give	m o y	M U J	M V J	1
+OLUTA_POPOLUCA	plo	give	m o y	M U J	M V J	1
+TEXISTEPEC_ZOQUE	poq	give	C e 7	C E H	K V H	2
+SOTEAPAN_ZOQUE	poi	give	C i 7	C I H	K V H	2
+MARIA_CHIMALAPA	zoh	give	c i 7	C I H	K V H	2
+MIGUEL_CHIMALAPA	zoh	give	c i 7	C I H	K V H	2
+CHIAPAS_ZOQUE	zoc	give	C i 7	C I H	K V H	2
+NORTH_HIGHLAND_MIXE	mto	say	v a 7 a 5	B A H A N	P V H V N	1
+SOUTH_HIGHLAND_MIXE	mxp	say	n3 kapS	N K	N K	5
+LOWLAND_MIXE	mco	say	m 3 n a n	M O N A N	M V N V N	2
+SAYULA_POPOLUCA	pos	say	n 3 m	N O M	N V M	4
+OLUTA_POPOLUCA	plo	say	n 3 m	N O M	N V M	4
+TEXISTEPEC_ZOQUE	poq	say	d 3 m	T O M	T V M	4
+SOTEAPAN_ZOQUE	poi	say	n 3 m	N O M	N V M	4
+MARIA_CHIMALAPA	zoh	say	n 3 m	N O M	N V M	4
+MIGUEL_CHIMALAPA	zoh	say	n 3 m	N O M	N V M	4
+CHIAPAS_ZOQUE	zoc	say	n 3 m	N O M	N V M	4
+NORTH_HIGHLAND_MIXE	mto	sun	S 3	S O	S V	1
+SOUTH_HIGHLAND_MIXE	mxp	sun	S 3 7 a n	S O H A N	S V H V N	1
+LOWLAND_MIXE	mco	sun	S 3	S O	S V	1
+SAYULA_POPOLUCA	pos	sun	S 3 w	S O W	S V W	1
+OLUTA_POPOLUCA	plo	sun	S 3 v 3	S O B O	S V P V	1
+TEXISTEPEC_ZOQUE	poq	sun	h a m	H A M	H V M	2
+SOTEAPAN_ZOQUE	poi	sun	h a m a	H A M A	H V M V	2
+MARIA_CHIMALAPA	zoh	sun	h a m a	H A M A	H V M V	2
+MIGUEL_CHIMALAPA	zoh	sun	h a m a	H A M A	H V M V	2
+CHIAPAS_ZOQUE	zoc	sun	h a m a	H A M A	H V M V	2
+NORTH_HIGHLAND_MIXE	mto	moon	p o 7 o	P U H U	P V H V	1
+SOUTH_HIGHLAND_MIXE	mxp	moon	p o 7 o	P U H U	P V H V	1
+LOWLAND_MIXE	mco	moon	p o 7	P U H	P V H	1
+SAYULA_POPOLUCA	pos	moon	p o 7	P U H	P V H	1
+OLUTA_POPOLUCA	plo	moon	p o 7 a	P U H A	P V H V	1
+TEXISTEPEC_ZOQUE	poq	moon	p o y	P U J	P V J	1
+SOTEAPAN_ZOQUE	poi	moon	p o y a	P U J A	P V J V	1
+MARIA_CHIMALAPA	zoh	moon	s e p e 7	S E P E H	S V P V H	2
+MIGUEL_CHIMALAPA	zoh	moon	S e p e 7	S E P E H	S V P V H	2
+CHIAPAS_ZOQUE	zoc	moon	p o y a h	P U J A H	P V J V H	1
+NORTH_HIGHLAND_MIXE	mto	star	m a c a	M A C A	M V K V	1
+SOUTH_HIGHLAND_MIXE	mxp	star	m a c a 7 a	M A C A H A	M V K V H V	1
+LOWLAND_MIXE	mco	star	m a c a 7	M A C A H	M V K V H	1
+SAYULA_POPOLUCA	pos	star	m a c	M A C	M V K	1
+OLUTA_POPOLUCA	plo	star	m a c a 7 a 7 k	M A C A H A H K	M V K V H V H K	1
+TEXISTEPEC_ZOQUE	poq	star	b a c a 7	P A C A H	P V K V H	1
+SOTEAPAN_ZOQUE	poi	star	m a c a	M A C A	M V K V	1
+MARIA_CHIMALAPA	zoh	star	m a c a 7	M A C A H	M V K V H	1
+MIGUEL_CHIMALAPA	zoh	star	m a c a 7	M A C A H	M V K V H	1
+CHIAPAS_ZOQUE	zoc	star	m a c a	M A C A	M V K V	1
+NORTH_HIGHLAND_MIXE	mto	water	n 3	N O	N V	1
+SOUTH_HIGHLAND_MIXE	mxp	water	n 3 h	N O H	N V H	1
+LOWLAND_MIXE	mco	water	n 3	N O	N V	1
+SAYULA_POPOLUCA	pos	water	n 3 7	N O H	N V H	1
+OLUTA_POPOLUCA	plo	water	n 3 h 3	N O H O	N V H V	1
+TEXISTEPEC_ZOQUE	poq	water	d 3 7	T O H	T V H	1
+SOTEAPAN_ZOQUE	poi	water	n 3	N O	N V	1
+MARIA_CHIMALAPA	zoh	water	n 3 7	N O H	N V H	1
+MIGUEL_CHIMALAPA	zoh	water	n 3 7	N O H	N V H	1
+CHIAPAS_ZOQUE	zoc	water	n 3 7	N O H	N V H	1
+NORTH_HIGHLAND_MIXE	mto	rain	t u	T Y	T V	1
+SOUTH_HIGHLAND_MIXE	mxp	rain	t u h	T Y H	T V H	1
+LOWLAND_MIXE	mco	rain	t u	T Y	T V	1
+SAYULA_POPOLUCA	pos	rain	t u	T Y	T V	1
+OLUTA_POPOLUCA	plo	rain	t u h 3	T Y H O	T V H V	1
+TEXISTEPEC_ZOQUE	poq	rain	t u h	T Y H	T V H	1
+SOTEAPAN_ZOQUE	poi	rain	t u h	T Y H	T V H	1
+MARIA_CHIMALAPA	zoh	rain	t u h	T Y H	T V H	1
+MIGUEL_CHIMALAPA	zoh	rain	t u h	T Y H	T V H	1
+CHIAPAS_ZOQUE	zoc	rain	t u h	T Y H	T V H	1
+NORTH_HIGHLAND_MIXE	mto	stone	c a	C A	K V	1
+SOUTH_HIGHLAND_MIXE	mxp	stone	c a h	C A H	K V H	1
+LOWLAND_MIXE	mco	stone	c a	C A	K V	1
+SAYULA_POPOLUCA	pos	stone	c a 7	C A H	K V H	1
+OLUTA_POPOLUCA	plo	stone	c a h 3	C A H O	K V H V	1
+TEXISTEPEC_ZOQUE	poq	stone	c a 7	C A H	K V H	1
+SOTEAPAN_ZOQUE	poi	stone	c a	C A	K V	1
+MARIA_CHIMALAPA	zoh	stone	c a 7	C A H	K V H	1
+MIGUEL_CHIMALAPA	zoh	stone	c a 7	C A H	K V H	1
+CHIAPAS_ZOQUE	zoc	stone	c a 7	C A H	K V H	1
+NORTH_HIGHLAND_MIXE	mto	sand	p u 7 u	P Y H Y	P V H V	1
+SOUTH_HIGHLAND_MIXE	mxp	sand	p u 7 u	P Y H Y	P V H V	1
+LOWLAND_MIXE	mco	sand	p u 7	P Y H	P V H	1
+SAYULA_POPOLUCA	pos	sand	p o y	P U J	P V J	1
+OLUTA_POPOLUCA	plo	sand	p u 7 3	P Y H O	P V H V	1
+TEXISTEPEC_ZOQUE	poq	sand	p o 7 o y	P U H U J	P V H V J	1
+SOTEAPAN_ZOQUE	poi	sand	p o 7 o y	P U H U J	P V H V J	1
+MARIA_CHIMALAPA	zoh	sand	h a w e 7	H A W E H	H V W V H	3
+MIGUEL_CHIMALAPA	zoh	sand	p oe 7	P U H	P V H	1
+CHIAPAS_ZOQUE	zoc	sand	w a n a	W A N A	W V N V	2
+NORTH_HIGHLAND_MIXE	mto	earth	n a S	N A S	N V S	1
+SOUTH_HIGHLAND_MIXE	mxp	earth	naS wi53t	N W	N W	1
+LOWLAND_MIXE	mco	earth	t 3 c 7 a k	T O C H A K	T V K H V K	1
+SAYULA_POPOLUCA	pos	earth	n a S	N A S	N V S	1
+OLUTA_POPOLUCA	plo	earth	n a S 3	N A S O	N V S V	1
+TEXISTEPEC_ZOQUE	poq	earth	d a s	T A S	T V S	1
+SOTEAPAN_ZOQUE	poi	earth	n a s	N A S	N V S	1
+MARIA_CHIMALAPA	zoh	earth	n a s	N A S	N V S	1
+MIGUEL_CHIMALAPA	zoh	earth	n a S	N A S	N V S	1
+CHIAPAS_ZOQUE	zoc	earth	n a s	N A S	N V S	1
+NORTH_HIGHLAND_MIXE	mto	cloud	v i n u c	B I N Y C	P V N V K	1
+SOUTH_HIGHLAND_MIXE	mxp	cloud	n 3 m a 7 a	N O M A H A	N V M V H V	5
+LOWLAND_MIXE	mco	cloud	h o k	H U K	H V K	2
+SAYULA_POPOLUCA	pos	cloud	win tuk	W T	W T	1
+OLUTA_POPOLUCA	plo	cloud	vin hoyek	B H	P H	1
+TEXISTEPEC_ZOQUE	poq	cloud	u 7 k s u 7	Y H K S Y H	V H K S V H	4
+SOTEAPAN_ZOQUE	poi	cloud	u k s 3	Y K S O	V K S V	4
+MIGUEL_CHIMALAPA	zoh	cloud	i n 3 7	I N O H	V N V H	1
+CHIAPAS_ZOQUE	zoc	cloud	o 7 n a	U H N A	V H N V	3
+NORTH_HIGHLAND_MIXE	mto	smoke	h o k	H U K	H V K	1
+SOUTH_HIGHLAND_MIXE	mxp	smoke	h o k	H U K	H V K	1
+LOWLAND_MIXE	mco	smoke	h3n hok	H H	H H	1
+SAYULA_POPOLUCA	pos	smoke	w i S i k	W I S I K	W V S V K	2
+OLUTA_POPOLUCA	plo	smoke	h o k o	H U K U	H V K V	1
+TEXISTEPEC_ZOQUE	poq	smoke	h o k	H U K	H V K	1
+SOTEAPAN_ZOQUE	poi	smoke	h o k o	H U K U	H V K V	1
+MARIA_CHIMALAPA	zoh	smoke	o 7 m a 7	U H M A H	V H M V H	3
+MIGUEL_CHIMALAPA	zoh	smoke	o m a 7	U M A H	V M V H	3
+CHIAPAS_ZOQUE	zoc	smoke	h o k o h	H U K U H	H V K V H	1
+NORTH_HIGHLAND_MIXE	mto	fire	h 3 n	H O N	H V N	1
+SOUTH_HIGHLAND_MIXE	mxp	fire	h 3 n	H O N	H V N	1
+SAYULA_POPOLUCA	pos	fire	h 3 n	H O N	H V N	1
+OLUTA_POPOLUCA	plo	fire	h 3 n 3	H O N O	H V N V	1
+TEXISTEPEC_ZOQUE	poq	fire	h u k u t	H Y K Y T	H V K V T	2
+SOTEAPAN_ZOQUE	poi	fire	h u k t 3	H Y K T O	H V K T V	2
+MARIA_CHIMALAPA	zoh	fire	h u k u t 3	H Y K Y T O	H V K V T V	2
+MIGUEL_CHIMALAPA	zoh	fire	a 7 c 3 7	A H C O H	V H K V H	3
+CHIAPAS_ZOQUE	zoc	fire	h u k 3 t 3 k	H Y K O T O K	H V K V T V K	2
+NORTH_HIGHLAND_MIXE	mto	ashes	h a m	H A M	H V M	2
+SOUTH_HIGHLAND_MIXE	mxp	ashes	h a m	H A M	H V M	2
+LOWLAND_MIXE	mco	ashes	kuy ham	K H	K H	1
+SAYULA_POPOLUCA	pos	ashes	kuy ham	K H	K H	1
+OLUTA_POPOLUCA	plo	ashes	h a m 3	H A M O	H V M V	2
+TEXISTEPEC_ZOQUE	poq	ashes	k u y a m	K Y J A M	K V J V M	1
+SOTEAPAN_ZOQUE	poi	ashes	kuy ham	K H	K H	1
+MARIA_CHIMALAPA	zoh	ashes	kuy ham	K H	K H	1
+MIGUEL_CHIMALAPA	zoh	ashes	kuy ham	K H	K H	1
+CHIAPAS_ZOQUE	zoc	ashes	kuy ham	K H	K H	1
+NORTH_HIGHLAND_MIXE	mto	burn	t o y	T U J	T V J	1
+SOUTH_HIGHLAND_MIXE	mxp	burn	c a 7 a y	C A H A J	K V H V J	8
+LOWLAND_MIXE	mco	burn	n o 7 o k	N U H U K	N V H V K	2
+SAYULA_POPOLUCA	pos	burn	ak toy	A T	V T	3
+OLUTA_POPOLUCA	plo	burn	yak toy	J T	J T	3
+TEXISTEPEC_ZOQUE	poq	burn	do7 toke5	T T	T T	5
+SOTEAPAN_ZOQUE	poi	burn	n o 7	N U H	N V H	6
+MARIA_CHIMALAPA	zoh	burn	k 3 N	K O N	K V N	7
+MIGUEL_CHIMALAPA	zoh	burn	p o N	P U N	P V N	4
+CHIAPAS_ZOQUE	zoc	burn	p o N	P U N	P V N	4
+NORTH_HIGHLAND_MIXE	mto	road (path)	t u 7	T Y H	T V H	1
+SOUTH_HIGHLAND_MIXE	mxp	road (path)	t u 7 u	T Y H Y	T V H V	1
+LOWLAND_MIXE	mco	road (path)	t u 7	T Y H	T V H	1
+SAYULA_POPOLUCA	pos	road (path)	t o w	T U W	T V W	1
+OLUTA_POPOLUCA	plo	road (path)	t u 7 a w	T Y H A W	T V H V W	1
+TEXISTEPEC_ZOQUE	poq	road (path)	t u N	T Y N	T V N	1
+SOTEAPAN_ZOQUE	poi	road (path)	t u N	T Y N	T V N	1
+MARIA_CHIMALAPA	zoh	road (path)	t u N	T Y N	T V N	1
+MIGUEL_CHIMALAPA	zoh	road (path)	t u N	T Y N	T V N	1
+CHIAPAS_ZOQUE	zoc	road (path)	t u N	T Y N	T V N	1
+NORTH_HIGHLAND_MIXE	mto	mountain	k o p k	K U P K	K V P K	1
+SOUTH_HIGHLAND_MIXE	mxp	mountain	k o k p	K U K P	K V K P	1
+LOWLAND_MIXE	mco	mountain	k o 7 o g o p	K U H U K U P	K V H V K V P	1
+SAYULA_POPOLUCA	pos	mountain	k o p a k	K U P A K	K V P V K	1
+OLUTA_POPOLUCA	plo	mountain	k o p a k	K U P A K	K V P V K	1
+TEXISTEPEC_ZOQUE	poq	mountain	k o c 3 k	K U C O K	K V K V K	2
+SOTEAPAN_ZOQUE	poi	mountain	k o c 3 k	K U C O K	K V K V K	2
+MIGUEL_CHIMALAPA	zoh	mountain	k o c 3 k	K U C O K	K V K V K	2
+CHIAPAS_ZOQUE	zoc	mountain	k o c 3 k	K U C O K	K V K V K	2
+NORTH_HIGHLAND_MIXE	mto	red	c a p c	C A P C	K V P K	1
+SOUTH_HIGHLAND_MIXE	mxp	red	c a p s	C A P S	K V P S	1
+LOWLAND_MIXE	mco	red	c a p c	C A P C	K V P K	1
+SAYULA_POPOLUCA	pos	red	c a b a c	C A P A C	K V P V K	1
+OLUTA_POPOLUCA	plo	red	c a p a s	C A P A S	K V P V S	1
+TEXISTEPEC_ZOQUE	poq	red	c a p a c	C A P A C	K V P V K	1
+SOTEAPAN_ZOQUE	poi	red	c a b a c	C A P A C	K V P V K	1
+MARIA_CHIMALAPA	zoh	red	c a p a c	C A P A C	K V P V K	1
+MIGUEL_CHIMALAPA	zoh	red	c a p a c	C A P A C	K V P V K	1
+CHIAPAS_ZOQUE	zoc	red	c a p a s	C A P A S	K V P V S	1
+NORTH_HIGHLAND_MIXE	mto	green	c u S k	C Y S K	K V S K	1
+SOUTH_HIGHLAND_MIXE	mxp	green	c u S k	C Y S K	K V S K	1
+LOWLAND_MIXE	mco	green	c u S	C Y S	K V S	1
+SAYULA_POPOLUCA	pos	green	S u S u k	S Y S Y K	S V S V K	1
+OLUTA_POPOLUCA	plo	green	t u S u k	T Y S Y K	T V S V K	1
+TEXISTEPEC_ZOQUE	poq	green	c u s	C Y S	K V S	1
+SOTEAPAN_ZOQUE	poi	green	c u s	C Y S	K V S	1
+MARIA_CHIMALAPA	zoh	green	c u h u s	C Y H Y S	K V H V S	1
+MIGUEL_CHIMALAPA	zoh	green	c u S	C Y S	K V S	1
+CHIAPAS_ZOQUE	zoc	green	c u c u	C Y C Y	K V K V	1
+NORTH_HIGHLAND_MIXE	mto	yellow	p u c	P Y C	P V K	1
+SOUTH_HIGHLAND_MIXE	mxp	yellow	p u c	P Y C	P V K	1
+LOWLAND_MIXE	mco	yellow	p u c	P Y C	P V K	1
+SAYULA_POPOLUCA	pos	yellow	p u c	P Y C	P V K	1
+OLUTA_POPOLUCA	plo	yellow	p u s	P Y S	P V S	1
+TEXISTEPEC_ZOQUE	poq	yellow	pu7uC e7	P E	P V	1
+SOTEAPAN_ZOQUE	poi	yellow	p u 7 u C	P Y H Y C	P V H V K	1
+MARIA_CHIMALAPA	zoh	yellow	p u c i 7	P Y C I H	P V K V H	1
+MIGUEL_CHIMALAPA	zoh	yellow	p u c	P Y C	P V K	1
+CHIAPAS_ZOQUE	zoc	yellow	p u c 3	P Y C O	P V K V	1
+NORTH_HIGHLAND_MIXE	mto	white	p o p	P U P	P V P	1
+SOUTH_HIGHLAND_MIXE	mxp	white	p o p	P U P	P V P	1
+LOWLAND_MIXE	mco	white	p o b	P U P	P V P	1
+SAYULA_POPOLUCA	pos	white	p o p	P U P	P V P	1
+OLUTA_POPOLUCA	plo	white	p o p o 7	P U P U H	P V P V H	1
+TEXISTEPEC_ZOQUE	poq	white	p o p o 7	P U P U H	P V P V H	1
+SOTEAPAN_ZOQUE	poi	white	p o 7 o b a p	P U H U P A P	P V H V P V P	1
+MARIA_CHIMALAPA	zoh	white	p o p o 7	P U P U H	P V P V H	1
+MIGUEL_CHIMALAPA	zoh	white	p o p o 7	P U P U H	P V P V H	1
+CHIAPAS_ZOQUE	zoc	white	p o p o	P U P U	P V P V	1
+NORTH_HIGHLAND_MIXE	mto	black	y 3 k	J O K	J V K	1
+SOUTH_HIGHLAND_MIXE	mxp	black	y 3 k	J O K	J V K	1
+LOWLAND_MIXE	mco	black	y i k	J I K	J V K	1
+SAYULA_POPOLUCA	pos	black	y 3 g 3 k	J O K O K	J V K V K	2
+OLUTA_POPOLUCA	plo	black	y 3 k 3 k	J O K O K	J V K V K	2
+TEXISTEPEC_ZOQUE	poq	black	y 3 k	J O K	J V K	1
+SOTEAPAN_ZOQUE	poi	black	y 3 k	J O K	J V K	1
+MARIA_CHIMALAPA	zoh	black	y 3 k	J O K	J V K	1
+MIGUEL_CHIMALAPA	zoh	black	y 3 k	J O K	J V K	1
+CHIAPAS_ZOQUE	zoc	black	y 3 k	J O K	J V K	1
+NORTH_HIGHLAND_MIXE	mto	night	c u	C Y	K V	2
+SOUTH_HIGHLAND_MIXE	mxp	night	k o c	K U C	K V K	2
+LOWLAND_MIXE	mco	night	a c u 7 3 7	A C Y H O H	V K V H V H	1
+SAYULA_POPOLUCA	pos	night	c u 7	C Y H	K V H	1
+OLUTA_POPOLUCA	plo	night	c u h 3	C Y H O	K V H V	1
+TEXISTEPEC_ZOQUE	poq	night	c u 7	C Y H	K V H	1
+SOTEAPAN_ZOQUE	poi	night	c u 7 u	C Y H Y	K V H V	1
+MARIA_CHIMALAPA	zoh	night	c u 7 h i	C Y H H I	K V H H V	1
+MIGUEL_CHIMALAPA	zoh	night	c u 7	C Y H	K V H	1
+CHIAPAS_ZOQUE	zoc	night	c u 7	C Y H	K V H	1
+NORTH_HIGHLAND_MIXE	mto	warm	a n	A N	V N	1
+SOUTH_HIGHLAND_MIXE	mxp	warm	a n	A N	V N	1
+LOWLAND_MIXE	mco	warm	a n	A N	V N	1
+SAYULA_POPOLUCA	pos	warm	p o w i k	P U W I K	P V W V K	2
+OLUTA_POPOLUCA	plo	warm	h o k o S	H U K U S	H V K V S	3
+MARIA_CHIMALAPA	zoh	warm	n u c	N Y C	N V K	5
+MIGUEL_CHIMALAPA	zoh	warm	yuk nuc	J N	J N	5
+CHIAPAS_ZOQUE	zoc	warm	p i h	P I H	P V H	4
+NORTH_HIGHLAND_MIXE	mto	cold	S u S	S Y S	S V S	1
+SOUTH_HIGHLAND_MIXE	mxp	cold	S u S	S Y S	S V S	1
+LOWLAND_MIXE	mco	cold	t 3 C	T O C	T V K	2
+SAYULA_POPOLUCA	pos	cold	p a y i k	P A J I K	P V J V K	3
+OLUTA_POPOLUCA	plo	cold	t u S 3 k	T Y S O K	T V S V K	4
+TEXISTEPEC_ZOQUE	poq	cold	p a k	P A K	P V K	5
+SOTEAPAN_ZOQUE	poi	cold	p a g a k	P A K A K	P V K V K	5
+MARIA_CHIMALAPA	zoh	cold	w a y a y	W A J A J	W V J V J	6
+MIGUEL_CHIMALAPA	zoh	cold	w a y a y 7	W A J A J H	W V J V J H	6
+CHIAPAS_ZOQUE	zoc	cold	p a k a k	P A K A K	P V K V K	5
+NORTH_HIGHLAND_MIXE	mto	full	u c	Y C	V K	1
+SOUTH_HIGHLAND_MIXE	mxp	full	u h c	Y H C	V H K	1
+LOWLAND_MIXE	mco	full	k u 7 u S y	K Y H Y S J	K V H V S J	2
+SAYULA_POPOLUCA	pos	full	p a c i k	P A C I K	P V K V K	3
+OLUTA_POPOLUCA	plo	full	u c i	Y C I	V K V	1
+TEXISTEPEC_ZOQUE	poq	full	kus de7	K T	K T	6
+SOTEAPAN_ZOQUE	poi	full	kus ne	K N	K N	6
+MARIA_CHIMALAPA	zoh	full	yag aN tas	J A T	J V T	7
+MIGUEL_CHIMALAPA	zoh	full	t a S 3 7	T A S O H	T V S V H	7
+CHIAPAS_ZOQUE	zoc	full	h o 7 3 y u p 3	H U H O J Y P O	H V H V J V P V	5
+NORTH_HIGHLAND_MIXE	mto	new	n a m	N A M	N V M	1
+SOUTH_HIGHLAND_MIXE	mxp	new	h e m p y	H E M P J	H V M P J	2
+LOWLAND_MIXE	mco	new	h e m y	H E M J	H V M J	2
+SAYULA_POPOLUCA	pos	new	n a m a y	N A M A J	N V M V J	1
+OLUTA_POPOLUCA	plo	new	n a m 3	N A M O	N V M V	1
+TEXISTEPEC_ZOQUE	poq	new	hom3 na7	H N	H N	2
+SOTEAPAN_ZOQUE	poi	new	h o m i	H U M I	H V M V	2
+MARIA_CHIMALAPA	zoh	new	h o m e 7	H U M E H	H V M V H	2
+MIGUEL_CHIMALAPA	zoh	new	h o m e 7	H U M E H	H V M V H	2
+CHIAPAS_ZOQUE	zoc	new	h o m e	H U M E	H V M V	2
+NORTH_HIGHLAND_MIXE	mto	good	o y	U J	V J	1
+SOUTH_HIGHLAND_MIXE	mxp	good	e y	E J	V J	1
+LOWLAND_MIXE	mco	good	o y	U J	V J	1
+SAYULA_POPOLUCA	pos	good	o y	U J	V J	1
+OLUTA_POPOLUCA	plo	good	n io y a	N I J A	N V J V	1
+TEXISTEPEC_ZOQUE	poq	good	w 3	W O	W V	2
+SOTEAPAN_ZOQUE	poi	good	w 3	W O	W V	2
+MIGUEL_CHIMALAPA	zoh	good	w 3 h 3	W O H O	W V H V	2
+CHIAPAS_ZOQUE	zoc	good	o y e	U J E	V J V	1
+NORTH_HIGHLAND_MIXE	mto	round	p i g u k	P I K Y K	P V K V K	1
+SOUTH_HIGHLAND_MIXE	mxp	round	p e k	P E K	P V K	1
+LOWLAND_MIXE	mco	round	p i k	P I K	P V K	1
+SAYULA_POPOLUCA	pos	round	h o y o y	H U J U J	H V J V J	2
+TEXISTEPEC_ZOQUE	poq	round	woy woy Ce	W W C	W W K	3
+SOTEAPAN_ZOQUE	poi	round	w o y o	W U J U	W V J V	3
+CHIAPAS_ZOQUE	zoc	round	h u y u h	H Y J Y H	H V J V H	2
+NORTH_HIGHLAND_MIXE	mto	dry	t 3 7 3 c	T O H O C	T V H V K	1
+SOUTH_HIGHLAND_MIXE	mxp	dry	t 3 7 3 c	T O H O C	T V H V K	1
+LOWLAND_MIXE	mco	dry	t 3 7 3 c	T O H O C	T V H V K	1
+SAYULA_POPOLUCA	pos	dry	k u y t 3 c	K Y J T O C	K V J T V K	1
+OLUTA_POPOLUCA	plo	dry	t 3 7 3 s	T O H O S	T V H V S	1
+TEXISTEPEC_ZOQUE	poq	dry	t3c ka7	T K	T K	1
+SOTEAPAN_ZOQUE	poi	dry	ku t3c	K T	K T	1
+MARIA_CHIMALAPA	zoh	dry	yak y3c	J J	J J	1
+MIGUEL_CHIMALAPA	zoh	dry	t 3 c i 7	T O C I H	T V K V H	1
+CHIAPAS_ZOQUE	zoc	dry	t 3 c	T O C	T V K	1
+NORTH_HIGHLAND_MIXE	mto	name	S 3	S O	S V	1
+SOUTH_HIGHLAND_MIXE	mxp	name	S 3	S O	S V	1
+LOWLAND_MIXE	mco	name	S 3	S O	S V	1
+SAYULA_POPOLUCA	pos	name	n 3 h y	N O H J	N V H J	2
+OLUTA_POPOLUCA	plo	name	S 3 v 3	S O B O	S V P V	1
+TEXISTEPEC_ZOQUE	poq	name	d 3 y	T O J	T V J	2
+SOTEAPAN_ZOQUE	poi	name	n 3 y i	N O J I	N V J V	2
+MARIA_CHIMALAPA	zoh	name	n 3 h i	N O H I	N V H V	2
+MIGUEL_CHIMALAPA	zoh	name	h 3 h i	H O H I	H V H V	2
+CHIAPAS_ZOQUE	zoc	name	n 3 y	N O J	N V J	2

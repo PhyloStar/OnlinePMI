@@ -1,0 +1,209 @@
+language	iso_code	gloss	asjp	sca	dolgo	cognate_class
+HMU	hea	I	v i	B I	P V	1
+XIANGXI_HMONG	mmr	I	w e	W E	W V	1
+HMONG_NJUA	hnj	I	k o	K U	K V	2
+BUNU	bwx	I	T u n	D Y N	T V N	3
+SHE_CHINA	shx	I	v a N	B A N	P V N	1
+YAO	ium	I	y e	J E	J V	4
+HMU	hea	come	l o	L U	R V	1
+XIANGXI_HMONG	mmr	come	l o	L U	R V	1
+HMONG_NJUA	hnj	come	l o	L U	R V	1
+BUNU	bwx	come	l o	L U	R V	1
+SHE_CHINA	shx	come	n 3	N O	N V	1
+YAO	ium	come	t ai	T A	T V	2
+HMONG_NJUA	hnj	water	t l e	T L E	T R V	2
+BUNU	bwx	water	a n	A N	V N	1
+SHE_CHINA	shx	water	o N	U N	V N	1
+YAO	ium	water	w a m	W A M	W V M	1
+HMU	hea	mountain	q a p o	K A P U	K V P V	1
+XIANGXI_HMONG	mmr	mountain	q o z ei	K U S E	K V S V	2
+HMONG_NJUA	hnj	mountain	t o n	T U N	T V N	3
+BUNU	bwx	mountain	8 au	D A	T V	4
+SHE_CHINA	shx	mountain	ky~ e	K E	K V	5
+YAO	ium	mountain	t T i m	T D I M	T T V M	6
+HMU	hea	sun	nh~ E	N E	N V	1
+XIANGXI_HMONG	mmr	sun	nh~ e	N E	N V	1
+HMONG_NJUA	hnj	sun	nh~ o	N U	N V	1
+BUNU	bwx	sun	m i nh~ o n	M I N U N	M V N V N	1
+SHE_CHINA	shx	sun	n o k o	N U K U	N V K V	1
+YAO	ium	sun	p u nh~ oi	P Y N U	P V N V	1
+HMU	hea	star	t E q E	T E K E	T V K V	1
+XIANGXI_HMONG	mmr	star	t e t e q e lh~ a	T E T E K E L A	T V T V K V R V	1
+HMONG_NJUA	hnj	star	hn~ o q o	H U K U	H V K V	1
+BUNU	bwx	star	t a k u n a	T A K Y N A	T V K V N V	1
+SHE_CHINA	shx	star	n ei t a N	N E T A N	N V T V N	1
+YAO	ium	star	L ei	L E	R V	2
+HMU	hea	stone	x i	G I	K V	1
+XIANGXI_HMONG	mmr	stone	q o z 3	K U S O	K V S V	1
+HMONG_NJUA	hnj	stone	z e	S E	S V	1
+BUNU	bwx	stone	f a x e	B A G E	P V K V	1
+SHE_CHINA	shx	stone	N a k o	N A K U	N V K V	1
+YAO	ium	stone	l ai py~ ei	L A P E	R V P V	2
+HMU	hea	skin	q a t u	K A T Y	K V T V	1
+XIANGXI_HMONG	mmr	skin	q o T o	K U D U	K V T V	2
+HMONG_NJUA	hnj	skin	t eu	T E	T V	1
+BUNU	bwx	skin	k a t l au	K A T L A	K V T R V	3
+SHE_CHINA	shx	skin	kh~ 3	K O	K V	3
+YAO	ium	skin	d o p	T U P	T V P	4
+HMU	hea	fire	t u	T Y	T V	1
+XIANGXI_HMONG	mmr	fire	py~ i t 3	P I T O	P V T V	1
+HMONG_NJUA	hnj	fire	t eu	T E	T V	1
+BUNU	bwx	fire	k a t u	K A T Y	K V T V	1
+SHE_CHINA	shx	fire	th~ o	T U	T V	1
+YAO	ium	fire	t ou	T U	T V	1
+HMU	hea	fish	z E	S E	S V	1
+XIANGXI_HMONG	mmr	fish	t a m z 3	T A M S O	T V M S V	1
+HMONG_NJUA	hnj	fish	nc~ e	N E	N V	1
+BUNU	bwx	fish	nc~ e	N E	N V	1
+SHE_CHINA	shx	fish	py~ a	P A	P V	1
+YAO	ium	fish	by~ au	P A	P V	1
+HMU	hea	dog	lh~ a	L A	R V	1
+XIANGXI_HMONG	mmr	dog	t a qw~ 3	T A K O	T V K V	1
+HMONG_NJUA	hnj	dog	t l e	T L E	T R V	1
+BUNU	bwx	dog	t l e	T L E	T R V	1
+SHE_CHINA	shx	dog	ky~ a	K A	K V	1
+YAO	ium	dog	t T u	T D Y	T T V	1
+HMU	hea	louse	k a n t E	K A N T E	K V N T V	1
+XIANGXI_HMONG	mmr	louse	t a t e	T A T E	T V T V	1
+HMONG_NJUA	hnj	louse	t o	T U	T V	1
+BUNU	bwx	louse	k a t u n a	K A T Y N A	K V T V N V	1
+SHE_CHINA	shx	louse	t a N	T A N	T V N	1
+YAO	ium	louse	t a m	T A M	T V M	1
+HMU	hea	tree	t 3	T O	T V	1
+XIANGXI_HMONG	mmr	tree	q o nt~ u	K U N Y	K V N V	1
+HMONG_NJUA	hnj	tree	nt~ o n	N U N	N V N	1
+BUNU	bwx	tree	nt~ a n	N A N	N V N	1
+SHE_CHINA	shx	tree	t o N	T U N	T V N	1
+YAO	ium	tree	dy~ a N	T A N	T V N	1
+HMU	hea	leaf	n u	N Y	N V	1
+XIANGXI_HMONG	mmr	leaf	n 3	N O	N V	1
+HMONG_NJUA	hnj	leaf	mpl$ o n	M U N	M V N	1
+BUNU	bwx	leaf	nt~ L a n	N L A N	N R V N	1
+SHE_CHINA	shx	leaf	p y o N	P J U N	P J V N	1
+YAO	ium	leaf	n o m	N U M	N V M	1
+HMU	hea	night	Th~ i mh~ a m	D I M A M	T V M V M	1
+XIANGXI_HMONG	mmr	night	t Th~ mh~ a n	T D M A N	T T M V N	1
+HMONG_NJUA	hnj	night	mh~ au	M A	M V	1
+BUNU	bwx	night	nt~ o n m u n	N U N M Y N	N V N M V N	1
+SHE_CHINA	shx	night	m o k a N ch~ i	M U K A N C I	M V K V N K V	2
+YAO	ium	night	l u N mw~ a n c a n	L Y N M A N C A N	R V N M V N K V N	1
+HMU	hea	blood	Th~ n	D N	T N	1
+XIANGXI_HMONG	mmr	blood	nt~ ch~ i	N C I	N K V	1
+HMONG_NJUA	hnj	blood	nch$ a n	N A N	N V N	1
+BUNU	bwx	blood	nch$ 3 n	N O N	N V N	1
+SHE_CHINA	shx	blood	sy~ i	S I	S V	1
+YAO	ium	blood	cy~ a m	C A M	K V M	1
+HMU	hea	full	p e	P E	P V	1
+XIANGXI_HMONG	mmr	full	p e	P E	P V	1
+HMONG_NJUA	hnj	full	p o	P U	P V	1
+BUNU	bwx	full	T e n	D E N	T V N	2
+SHE_CHINA	shx	full	p a N	P A N	P V N	1
+YAO	ium	full	pw~ a N	P A N	P V N	1
+HMU	hea	we	p i	P I	P V	1
+XIANGXI_HMONG	mmr	we	p 3	P O	P V	1
+HMONG_NJUA	hnj	we	p e	P E	P V	1
+BUNU	bwx	we	p e	P E	P V	1
+SHE_CHINA	shx	we	p a	P A	P V	1
+YAO	ium	we	y e bw~ o	J E P U	J V P V	2
+HMU	hea	horn	k i	K I	K V	1
+XIANGXI_HMONG	mmr	horn	q o T e	K U D E	K V T V	1
+HMONG_NJUA	hnj	horn	k o	K U	K V	1
+BUNU	bwx	horn	T u n	D Y N	T V N	1
+SHE_CHINA	shx	horn	k a N	K A N	K V N	1
+YAO	ium	horn	tT~ o N	T U N	T V N	1
+HMU	hea	name	z a n p i	S A N P I	S V N P V	1
+XIANGXI_HMONG	mmr	name	mp~ u	M Y	M V	1
+HMONG_NJUA	hnj	name	mp~ e	M E	M V	1
+BUNU	bwx	name	mp~ e 8 3	M E D O	M V T V	1
+SHE_CHINA	shx	name	m ui	M Y	M V	2
+YAO	ium	name	m e N bw~ o	M E N P U	M V N P V	1
+HMU	hea	ear	q a z E	K A S E	K V S V	1
+XIANGXI_HMONG	mmr	ear	t o n m z 3	T U N M S O	T V N M S V	1
+HMONG_NJUA	hnj	ear	5tT$ ou	N U	N V	1
+BUNU	bwx	ear	k a nc~ ea	K A N E	K V N V	1
+SHE_CHINA	shx	ear	k a kh~ u N	K A K Y N	K V K V N	2
+YAO	ium	ear	n 3 n o m	N O N U M	N V N V M	1
+HMU	hea	eye	5h~ u m E	N Y M E	N V M V	1
+XIANGXI_HMONG	mmr	eye	l 3 q e	L O K E	R V K V	2
+HMONG_NJUA	hnj	eye	m ua	M Y	M V	1
+BUNU	bwx	eye	kh~i mon	K M	K M	1
+SHE_CHINA	shx	eye	k a kh~ o	K A K U	K V K V	3
+YAO	ium	eye	mw~ c i N	M C I N	M K V N	1
+HMU	hea	nose	p o z E	P U S E	P V S V	1
+XIANGXI_HMONG	mmr	nose	p a m z E	P A M S E	P V M S V	1
+HMONG_NJUA	hnj	nose	nc~ u	N Y	N V	1
+BUNU	bwx	nose	p i nc~ au	P I N A	P V N V	1
+SHE_CHINA	shx	nose	kh~ u N p iu	K Y N P I	K V N P V	1
+YAO	ium	nose	by~ u t	P Y T	P V T	1
+HMU	hea	tooth	mh~ i	M I	M V	1
+XIANGXI_HMONG	mmr	tooth	q o T E	K U D E	K V T V	2
+BUNU	bwx	tooth	f a mh~ i n	B A M I N	P V M V N	1
+SHE_CHINA	shx	tooth	m u n	M Y N	M V N	1
+HMU	hea	tongue	q a n i	K A N I	K V N V	1
+XIANGXI_HMONG	mmr	tongue	q o my~ a	K U M A	K V M V	1
+HMONG_NJUA	hnj	tongue	mp~ l ai	M L A	M R V	1
+BUNU	bwx	tongue	k a nt~ l a	K A N L A	K V N R V	1
+SHE_CHINA	shx	tongue	p i	P I	P V	1
+YAO	ium	tongue	by~ e t	P E T	P V T	1
+HMU	hea	person	n E	N E	N V	1
+XIANGXI_HMONG	mmr	person	n e	N E	N V	1
+HMONG_NJUA	hnj	person	n e n	N E N	N V N	1
+BUNU	bwx	person	n u	N Y	N V	1
+SHE_CHINA	shx	person	n e	N E	N V	1
+YAO	ium	person	my~ e n	M E N	M V N	1
+HMU	hea	knee	qh~ a n v 3 t 3	K A N B O T O	K V N P V T V	1
+XIANGXI_HMONG	mmr	knee	qh~ u tT~ o	K Y T U	K V T V	1
+HMONG_NJUA	hnj	knee	qh~ au c o	K A C U	K V K V	1
+BUNU	bwx	knee	k u N a T o	K Y N A D U	K V N V T V	1
+SHE_CHINA	shx	knee	n a k ch~ a kkh~ u n	N A K C A K Y N	N V K K V K V N	1
+YAO	ium	knee	pw~ o s ei dy~ e	P U S E T E	P V S V T V	2
+HMU	hea	hand	p i	P I	P V	1
+XIANGXI_HMONG	mmr	hand	q o t 3	K U T O	K V T V	1
+HMONG_NJUA	hnj	hand	t e	T E	T V	1
+BUNU	bwx	hand	t a p e	T A P E	T V P V	1
+SHE_CHINA	shx	hand	khw$ a	K A	K V	1
+YAO	ium	hand	pw~ o	P U	P V	1
+XIANGXI_HMONG	mmr	breast	m a	M A	M V	2
+HMONG_NJUA	hnj	breast	k ua	K Y	K V	3
+BUNU	bwx	breast	k o n	K U N	K V N	3
+HMU	hea	liver	fh~u zE Ton	B S D	P S T	1
+XIANGXI_HMONG	mmr	liver	s E	S E	S V	2
+HMONG_NJUA	hnj	liver	s a	S A	S V	2
+BUNU	bwx	liver	nT~ au	N A	N V	3
+SHE_CHINA	shx	liver	h i n	H I N	H V N	2
+YAO	ium	liver	L a n	L A N	R V N	2
+HMU	hea	drink	h 3	H O	H V	1
+XIANGXI_HMONG	mmr	drink	h u	H Y	H V	1
+HMONG_NJUA	hnj	drink	h ou	H U	H V	1
+BUNU	bwx	drink	h 3u	H O	H V	1
+YAO	ium	drink	h o p	H U P	H V P	1
+HMU	hea	you	m o n	M U N	M V N	1
+XIANGXI_HMONG	mmr	you	m 3	M O	M V	1
+HMONG_NJUA	hnj	you	k au	K A	K V	2
+BUNU	bwx	you	k au	K A	K V	2
+SHE_CHINA	shx	you	m u N	M Y N	M V N	1
+YAO	ium	you	mw~ ei	M E	M V	1
+HMU	hea	see	Th~ i	D I	T V	1
+XIANGXI_HMONG	mmr	see	t T i nqh$ e	T D I N E	T T V N V	1
+HMONG_NJUA	hnj	see	m a	M A	M V	2
+BUNU	bwx	see	nk~ o n	N U N	N V N	3
+SHE_CHINA	shx	see	m o	M U	M V	2
+YAO	ium	see	m a N	M A N	M V N	2
+HMU	hea	hear	nh~ a n	N A N	N V N	1
+XIANGXI_HMONG	mmr	hear	t o n	T U N	T V N	2
+HMONG_NJUA	hnj	hear	n o n	N U N	N V N	3
+BUNU	bwx	hear	T 3 n	D O N	T V N	2
+SHE_CHINA	shx	hear	k u N	K Y N	K V N	4
+YAO	ium	hear	mw~ a N	M A N	M V N	5
+HMU	hea	bone	sh~ o n	S U N	S V N	1
+XIANGXI_HMONG	mmr	bone	q o s o n	K U S U N	K V S V N	1
+HMONG_NJUA	hnj	bone	ch~ a n	C A N	K V N	1
+BUNU	bwx	bone	k a 8 o n a	K A D U N A	K V T V N V	1
+SHE_CHINA	shx	bone	s u N k o	S Y N K U	S V N K V	1
+YAO	ium	bone	b u N	P Y N	P V N	1
+HMU	hea	road (path)	k i	K I	K V	1
+XIANGXI_HMONG	mmr	road (path)	k 3	K O	K V	1
+HMONG_NJUA	hnj	road (path)	k e	K E	K V	1
+BUNU	bwx	road (path)	T e	D E	T V	1
+SHE_CHINA	shx	road (path)	k a	K A	K V	1
+YAO	ium	road (path)	t T au	T D A	T T V	1

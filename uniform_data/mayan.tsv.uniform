@@ -1,0 +1,2842 @@
+language	iso_code	gloss	asjp	sca	dolgo	cognate_class
+HUASTEC	hva	I	i n	I N	V N	1
+TOJOLABAL	toj	I	k e n	K E N	K V N	6
+CHUJ	cnm	I	i n	I N	V N	1
+JACALTEC	jai	I	h a n i n a n	H A N I N A N	H V N V N V N	1
+QANJOBAL_SANTA_EULALIA	kjb	I	a y i n t i	A J I N T I	V J V N T V	2
+ACATECO_SAN_MIGUEL_ACATAN	knj	I	h ai n	H A N	H V N	1
+IXIL_CHAJUL	ixj	I	i n	I N	V N	1
+AGUACATEC	agu	I	i n	I N	V N	1
+TECO_TECTITAN	ttc	I	a 7 i n	A H I N	V H V N	3
+MAM_NORTHERN	mam	I	a y i n e	A J I N E	V J V N V	2
+SIPAKAPENSE	qum	I	i n	I N	V N	1
+SACAPULTECO_SACAPULAS_CENTRO	quv	I	r a 7 i n	R A H I N	R V H V N	3
+CENTRAL_QUICHE	quc	I	i n	I N	V N	1
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	I	y i n	J I N	J V N	2
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	I	i n i n	I N I N	V N V N	1
+POQOMCHI_WESTERN	pob	I	h i n	H I N	H V N	4
+POCOMAM_EASTERN	poa	I	h i n	H I N	H V N	4
+USPANTEKO	usp	I	i n	I N	V N	1
+EASTERN_KEKCHI_CAHABON	kek	I	h a 7 i n	H A H I N	H V H V N	3
+TZELTAL_BACHAJON	tzb	I	h o 7 o n	H U H U N	H V H V N	5
+CHOL_TUMBALA	ctu	I	h o 5 o n	H U N U N	H V N V N	5
+CHORTI	caa	I	e n	E N	V N	1
+ITZAJ	itz	I	t e n	T E N	T V N	1
+MOPAN	mop	I	i nn e n	I N E N	V N V N	1
+MAYA_YUCATAN	yua	I	e n	E N	V N	1
+HUASTEC	hva	you	i t	I T	V T	1
+TOJOLABAL	toj	you	w e n	W E N	W V N	3
+CHUJ	cnm	you	a C	A C	V K	1
+JACALTEC	jai	you	h a C	H A C	H V K	1
+QANJOBAL_SANTA_EULALIA	kjb	you	a C t i	A C T I	V K T V	1
+ACATECO_SAN_MIGUEL_ACATAN	knj	you	h a C t i 7	H A C T I H	H V K T V H	1
+IXIL_CHAJUL	ixj	you	a h	A H	V H	4
+AGUACATEC	agu	you	a S	A S	V S	5
+TECO_TECTITAN	ttc	you	a 7 i C	A H I C	V H V K	6
+MAM_NORTHERN	mam	you	a y a	A J A	V J V	7
+SIPAKAPENSE	qum	you	a t	A T	V T	1
+SACAPULTECO_SACAPULAS_CENTRO	quv	you	r a 7 a t	R A H A T	R V H V T	2
+CENTRAL_QUICHE	quc	you	a t	A T	V T	1
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	you	r a t	R A T	R V T	2
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	you	a t e t	A T E T	V T V T	1
+POQOMCHI_WESTERN	pob	you	h a t	H A T	H V T	1
+POCOMAM_EASTERN	poa	you	h a t	H A T	H V T	1
+USPANTEKO	usp	you	a t	A T	V T	1
+EASTERN_KEKCHI_CAHABON	kek	you	h a 7 a t	H A H A T	H V H V T	1
+ZINACANTAN_TZOTZIL	tzz	you	v o t	B U T	P V T	1
+TZELTAL_BACHAJON	tzb	you	h a 7 a t	H A H A T	H V H V T	1
+CHOL_TUMBALA	ctu	you	h a t e t	H A T E T	H V T V T	1
+CHONTAL_TABASCO	chf	you	a n e	A N E	V N V	8
+CHORTI	caa	you	e t	E T	V T	9
+ITZAJ	itz	you	t e C	T E C	T V K	10
+MOPAN	mop	you	i n C e C	I N C E C	V N K V K	11
+MAYA_YUCATAN	yua	you	e C	E C	V K	1
+HUASTEC	hva	we	w a w a 7	W A W A H	W V W V H	6
+TOJOLABAL	toj	we	k e nt~ i k	K E N I K	K V N V K	7
+CHUJ	cnm	we	o N	U N	V N	1
+JACALTEC	jai	we	h a N o N a N	H A N U N A N	H V N V N V N	8
+QANJOBAL_SANTA_EULALIA	kjb	we	ao n t i	A N T I	V N T V	4
+ACATECO_SAN_MIGUEL_ACATAN	knj	we	h eo n t i 7	H E N T I H	H V N T V H	4
+IXIL_CHAJUL	ixj	we	o 7	U H	V H	3
+AGUACATEC	agu	we	o 7	U H	V H	3
+TECO_TECTITAN	ttc	we	a 7 o 7	A H U H	V H V H	3
+MAM_NORTHERN	mam	we	q o 7	K U H	K V H	3
+SIPAKAPENSE	qum	we	o x	U G	V K	1
+SACAPULTECO_SACAPULAS_CENTRO	quv	we	r a 7 o x	R A H U G	R V H V K	2
+CENTRAL_QUICHE	quc	we	u x	Y G	V K	1
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	we	r o x	R U G	R V K	2
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	we	o x o x	U G U G	V K V K	1
+POQOMCHI_WESTERN	pob	we	h o x	H U G	H V K	1
+POCOMAM_EASTERN	poa	we	q o x	K U G	K V K	1
+USPANTEKO	usp	we	o x	U G	V K	1
+EASTERN_KEKCHI_CAHABON	kek	we	h a 7 o	H A H U	H V H V	1
+ZINACANTAN_TZOTZIL	tzz	we	v o t i k o t i k	B U T I K U T I K	P V T V K V T V K	5
+TZELTAL_BACHAJON	tzb	we	h o 7 o t i k	H U H U T I K	H V H V T V K	5
+CHOL_TUMBALA	ctu	we	l o h o n	L U H U N	R V H V N	1
+CHONTAL_TABASCO	chf	we	n o 7 o n l a	N U H U N L A	N V H V N R V	1
+CHORTI	caa	we	o N	U N	V N	1
+ITZAJ	itz	we	i n t o 7 o n	I N T U H U N	V N T V H V N	1
+MOPAN	mop	we	i nn o 7 o n	I N U H U N	V N V H V N	1
+MAYA_YUCATAN	yua	we	o 7 o n	U H U N	V H V N	1
+HUASTEC	hva	this	a S e 7	A S E H	V S V H	9
+TOJOLABAL	toj	this	i t i	I T I	V T V	1
+CHUJ	cnm	this	xun tik	G T	K T	10
+JACALTEC	jai	this	t i 7	T I H	T V H	1
+QANJOBAL_SANTA_EULALIA	kjb	this	x u n t i	G Y N T I	K V N T V	2
+ACATECO_SAN_MIGUEL_ACATAN	knj	this	h u n t i 7	H Y N T I H	H V N T V H	2
+IXIL_CHAJUL	ixj	this	u w a 7	Y W A H	V W V H	3
+AGUACATEC	agu	this	e 7 x	E H G	V H K	11
+TECO_TECTITAN	ttc	this	axa ncani	A N	V N	12
+MAM_NORTHERN	mam	this	l u 7	L Y H	R V H	13
+SIPAKAPENSE	qum	this	w a 7	W A H	W V H	3
+SACAPULTECO_SACAPULAS_CENTRO	quv	this	r i 7	R I H	R V H	4
+CENTRAL_QUICHE	quc	this	we ri7	W R	W R	5
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	this	r e 7	R E H	R V H	4
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	this	x a w a r i 7	G A W A R I H	K V W V R V H	5
+POQOMCHI_WESTERN	pob	this	r e 7 w i l i	R E H W I L I	R V H W V R V	5
+POCOMAM_EASTERN	poa	this	r i y u 7	R I J Y H	R V J V H	14
+USPANTEKO	usp	this	r i	R I	R V	4
+EASTERN_KEKCHI_CAHABON	kek	this	h a 7 i n	H A H I N	H V H V N	6
+ZINACANTAN_TZOTZIL	tzz	this	l i 7	L I H	R V H	4
+TZELTAL_BACHAJON	tzb	this	ha7 ini	H I	H V	6
+CHOL_TUMBALA	ctu	this	h i n i	H I N I	H V N V	7
+CHONTAL_TABASCO	chf	this	h i n d i	H I N T I	H V N T V	7
+CHORTI	caa	this	i r a	I R A	V R V	8
+ITZAJ	itz	this	a h e l a h	A H E L A H	V H V R V H	8
+MOPAN	mop	this	"le7ek ad""a7a"	L A	R V	8
+MAYA_YUCATAN	yua	this	l e l a 7	L E L A H	R V R V H	8
+LACANDON	lac	this	t e 7 r a 7	T E H R A H	T V H R V H	8
+HUASTEC	hva	that	n i S e 7	N I S E H	N V S V H	6
+TOJOLABAL	toj	that	t a n	T A N	T V N	7
+CHUJ	cnm	that	xun Ca	G C	K K	8
+JACALTEC	jai	that	t u 7	T Y H	T V H	9
+QANJOBAL_SANTA_EULALIA	kjb	that	x u n t u	G Y N T Y	K V N T V	1
+ACATECO_SAN_MIGUEL_ACATAN	knj	that	h u 7 u n t u 7	H Y H Y N T Y H	H V H V N T V H	1
+IXIL_CHAJUL	ixj	that	u w a 7 e	Y W A H E	V W V H V	10
+AGUACATEC	agu	that	a c	A C	V K	2
+TECO_TECTITAN	ttc	that	a x n i n i	A G N I N I	V K N V N V	11
+MAM_NORTHERN	mam	that	C i S	C I S	K V S	12
+SIPAKAPENSE	qum	that	l a 7	L A H	R V H	2
+SACAPULTECO_SACAPULAS_CENTRO	quv	that	l a 7	L A H	R V H	2
+CENTRAL_QUICHE	quc	that	l e 7	L E H	R V H	2
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	that	l a 7	L A H	R V H	2
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	that	x a 7	G A H	K V H	5
+POQOMCHI_WESTERN	pob	that	r e 7 r e 7 r e 7	R E H R E H R E H	R V H R V H R V H	3
+POCOMAM_EASTERN	poa	that	r e r e 7	R E R E H	R V R V H	3
+USPANTEKO	usp	that	r e	R E	R V	3
+EASTERN_KEKCHI_CAHABON	kek	that	h a 7 a n	H A H A N	H V H V N	13
+ZINACANTAN_TZOTZIL	tzz	that	t i	T I	T V	14
+TZELTAL_BACHAJON	tzb	that	ha7 me ine	H M I	H M V	4
+CHOL_TUMBALA	ctu	that	i S i y i	I S I J I	V S V J V	15
+CHONTAL_TABASCO	chf	that	h i n i	H I N I	H V N V	4
+CHORTI	caa	that	y a x a 7	J A G A H	J V K V H	5
+ITZAJ	itz	that	a h e l o h	A H E L U H	V H V R V H	16
+MOPAN	mop	that	l e 7 e k	L E H E K	R V H V K	17
+MAYA_YUCATAN	yua	that	l e l o 7	L E L U H	R V R V H	18
+LACANDON	lac	that	r a h	R A H	R V H	19
+HUASTEC	hva	who	h i t a 7	H I T A H	H V T V H	7
+TOJOLABAL	toj	who	m a C 7	M A C H	M V K H	1
+CHUJ	cnm	who	m a C	M A C	M V K	1
+JACALTEC	jai	who	m a k	M A K	M V K	2
+QANJOBAL_SANTA_EULALIA	kjb	who	m a k T e l	M A K D E L	M V K T V R	2
+ACATECO_SAN_MIGUEL_ACATAN	knj	who	m a S T e k e l	M A S D E K E L	M V S T V K V R	5
+IXIL_CHAJUL	ixj	who	x a l	G A L	K V R	8
+AGUACATEC	agu	who	n a 7 x	N A H G	N V H K	3
+TECO_TECTITAN	ttc	who	"a b"" l"	A P L	V P R	9
+MAM_NORTHERN	mam	who	a l ky~ e	A L K E	V R K V	10
+SIPAKAPENSE	qum	who	C i n a q	C I N A K	K V N V K	6
+SACAPULTECO_SACAPULAS_CENTRO	quv	who	n a	N A	N V	3
+CENTRAL_QUICHE	quc	who	x a C i n	G A C I N	K V K V N	6
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	who	a C i k e	A C I K E	V K V K V	11
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	who	"naq k""ari7"	N K	N K	12
+POQOMCHI_WESTERN	pob	who	h a n w a C	H A N W A C	H V N W V K	4
+POCOMAM_EASTERN	poa	who	ha7 waC	H W	H W	4
+USPANTEKO	usp	who	n e n	N E N	N V N	13
+EASTERN_KEKCHI_CAHABON	kek	who	a n i h	A N I H	V N V H	14
+ZINACANTAN_TZOTZIL	tzz	who	"b u C"" u"	P Y C Y	P V K V	15
+TZELTAL_BACHAJON	tzb	who	"m a C"" a"	M A C A	M V K V	1
+CHOL_TUMBALA	ctu	who	m a k i	M A K I	M V K V	2
+CHONTAL_TABASCO	chf	who	m a C k a	M A C K A	M V K K V	1
+CHORTI	caa	who	C i	C I	K V	16
+ITZAJ	itz	who	m a S	M A S	M V S	5
+MOPAN	mop	who	m a k i	M A K I	M V K V	2
+MAYA_YUCATAN	yua	who	m a S	M A S	M V S	5
+LACANDON	lac	who	m a k	M A K	M V K	1
+HUASTEC	hva	what	"h a n t"" o"	H A N T U	H V N T V	7
+TOJOLABAL	toj	what	x a s	G A S	K V S	4
+CHUJ	cnm	what	t a s	T A S	T V S	8
+JACALTEC	jai	what	c e t	C E T	K V T	1
+QANJOBAL_SANTA_EULALIA	kjb	what	cet yetal	C J	K J	1
+ACATECO_SAN_MIGUEL_ACATAN	knj	what	T e t a l	D E T A L	T V T V R	9
+IXIL_CHAJUL	ixj	what	k a m e	K A M E	K V M V	10
+AGUACATEC	agu	what	"m b"" i"	M P I	M P V	11
+TECO_TECTITAN	ttc	what	t i d i 7	T I T I H	T V T V H	2
+MAM_NORTHERN	mam	what	t i	T I	T V	2
+SIPAKAPENSE	qum	what	C e	C E	K V	3
+SACAPULTECO_SACAPULAS_CENTRO	quv	what	C e	C E	K V	3
+CENTRAL_QUICHE	quc	what	x a s	G A S	K V S	4
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	what	a C i k e	A C I K E	V K V K V	12
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	what	n a q	N A K	N V K	13
+POQOMCHI_WESTERN	pob	what	"C a x b"" i"	C A G P I	K V K P V	14
+POCOMAM_EASTERN	poa	what	h i l a 7	H I L A H	H V R V H	15
+USPANTEKO	usp	what	n e n	N E N	N V N	16
+EASTERN_KEKCHI_CAHABON	kek	what	"k"" a r u h"	K A R Y H	K V R V H	17
+ZINACANTAN_TZOTZIL	tzz	what	"k"" u"	K Y	K V	5
+TZELTAL_BACHAJON	tzb	what	bin a	P A	P V	18
+CHOL_TUMBALA	ctu	what	C u k i	C Y K I	K V K V	19
+CHONTAL_TABASCO	chf	what	kw~ a 7	K A H	K V H	20
+CHORTI	caa	what	"t u k"" a"	T Y K A	T V K V	21
+ITZAJ	itz	what	b a 7 a S	P A H A S	P V H V S	6
+MOPAN	mop	what	"k"" u 7 i"	K Y H I	K V H V	5
+MAYA_YUCATAN	yua	what	"b"" a 7 a S"	P A H A S	P V H V S	6
+LACANDON	lac	what	b a 7	P A H	P V H	6
+HUASTEC	hva	not	i b a	I P A	V P V	7
+TOJOLABAL	toj	not	m i	M I	M V	2
+CHUJ	cnm	not	m a	M A	M V	5
+MOCHO	mhc	not	m o 7	M U H	M V H	4
+JACALTEC	jai	not	m a t	M A T	M V T	8
+QANJOBAL_SANTA_EULALIA	kjb	not	m a n	M A N	M V N	1
+ACATECO_SAN_MIGUEL_ACATAN	knj	not	m a n	M A N	M V N	1
+IXIL_CHAJUL	ixj	not	y e 7	J E H	J V H	9
+AGUACATEC	agu	not	k i l	K I L	K V R	10
+TECO_TECTITAN	ttc	not	ny~ a T	N A D	N V T	11
+MAM_NORTHERN	mam	not	m i	M I	M V	2
+SIPAKAPENSE	qum	not	q a	K A	K V	12
+SACAPULTECO_SACAPULAS_CENTRO	quv	not	t a x	T A G	T V K	13
+CENTRAL_QUICHE	quc	not	man tax	M T	M T	3
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	not	m a n t a	M A N T A	M V N T V	3
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	not	m a t a	M A T A	M V T V	3
+POQOMCHI_WESTERN	pob	not	m a 7	M A H	M V H	4
+POCOMAM_EASTERN	poa	not	m a	M A	M V	5
+USPANTEKO	usp	not	m a	M A	M V	5
+EASTERN_KEKCHI_CAHABON	kek	not	m a	M A	M V	5
+ZINACANTAN_TZOTZIL	tzz	not	m u	M Y	M V	5
+TZELTAL_BACHAJON	tzb	not	m a 7 u k	M A H Y K	M V H V K	4
+CHOL_TUMBALA	ctu	not	m a 7 a n	M A H A N	M V H V N	4
+CHONTAL_TABASCO	chf	not	m a C	M A C	M V K	6
+CHORTI	caa	not	m a 7 C i	M A H C I	M V H K V	6
+ITZAJ	itz	not	m a	M A	M V	5
+MOPAN	mop	not	m a 7	M A H	M V H	4
+MAYA_YUCATAN	yua	not	m a 7	M A H	M V H	4
+LACANDON	lac	not	m 3 n a 7	M O N A H	M V N V H	5
+HUASTEC	hva	all	t a l a 7	T A L A H	T V R V H	5
+TOJOLABAL	toj	all	s p e c a n i l	S P E C A N I L	S P V K V N V R	6
+CHUJ	cnm	all	s m a s n i l	S M A S N I L	S M V S N V R	1
+MOCHO	mhc	all	h u n a N	H Y N A N	H V N V N	7
+JACALTEC	jai	all	s u n i l	S Y N I L	S V N V R	8
+QANJOBAL_SANTA_EULALIA	kjb	all	m a s a n i l	M A S A N I L	M V S V N V R	1
+ACATECO_SAN_MIGUEL_ACATAN	knj	all	s m a s a n i l	S M A S A N I L	S M V S V N V R	1
+IXIL_CHAJUL	ixj	all	k a q a y i l	K A K A J I L	K V K V J V R	2
+AGUACATEC	agu	all	t i r k u n	T I R K Y N	T V R K V N	9
+TECO_TECTITAN	ttc	all	t ky~ a q i l	T K A K I L	T K V K V R	2
+MAM_NORTHERN	mam	all	ky~ ky~ a q i l	K K A K I L	K K V K V R	2
+SIPAKAPENSE	qum	all	n x e l	N G E L	N K V R	3
+SACAPULTECO_SACAPULAS_CENTRO	quv	all	r a n a x e l	R A N A G E L	R V N V K V R	3
+CENTRAL_QUICHE	quc	all	k o n o x e l	K U N U G E L	K V N V K V R	3
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	all	n o x e l	N U G E L	N V K V R	3
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	all	r o n o x e l	R U N U G E L	R V N V K V R	3
+POQOMCHI_WESTERN	pob	all	C i n C e l	C I N C E L	K V N K V R	10
+POCOMAM_EASTERN	poa	all	i n t ie r	I N T I R	V N T V R	11
+USPANTEKO	usp	all	r o n o x e l	R U N U G E L	R V N V K V R	3
+EASTERN_KEKCHI_CAHABON	kek	all	C i x u n i l	C I G Y N I L	K V K V N V R	12
+ZINACANTAN_TZOTZIL	tzz	all	k o t o l	K U T U L	K V T V R	13
+TZELTAL_BACHAJON	tzb	all	s p i s i l	S P I S I L	S P V S V R	14
+CHONTAL_TABASCO	chf	all	u p e t e	Y P E T E	V P V T V	15
+CHORTI	caa	all	t u n o r	T Y N U R	T V N V R	16
+ITZAJ	itz	all	l a h	L A H	R V H	17
+MOPAN	mop	all	t u l a k a l	T Y L A K A L	T V R V K V R	4
+MAYA_YUCATAN	yua	all	l a h	L A H	R V H	4
+LACANDON	lac	all	p u r i 7	P Y R I H	P V R V H	18
+HUASTEC	hva	many	y a n	J A N	J V N	1
+CHICOMUCELTEC	cob	many	y a n	J A N	J V N	1
+TOJOLABAL	toj	many	x e l	G E L	K V R	5
+CHUJ	cnm	many	n i w a n	N I W A N	N V W V N	6
+MOCHO	mhc	many	"k"" e h a n"	K E H A N	K V H V N	3
+JACALTEC	jai	many	"c e t k"" a"	C E T K A	K V T K V	7
+QANJOBAL_SANTA_EULALIA	kjb	many	S i w i l	S I W I L	S V W V R	8
+ACATECO_SAN_MIGUEL_ACATAN	knj	many	miman taS	M T	M T	9
+IXIL_CHAJUL	ixj	many	n i m	N I M	N V M	2
+AGUACATEC	agu	many	a l a 7	A L A H	V R V H	10
+TECO_TECTITAN	ttc	many	n i m	N I M	N V M	2
+MAM_NORTHERN	mam	many	n i m k u	N I M K Y	N V M K V	2
+SIPAKAPENSE	qum	many	"k"" i y"	K I J	K V J	3
+SACAPULTECO_SACAPULAS_CENTRO	quv	many	"k"" i y"	K I J	K V J	3
+CENTRAL_QUICHE	quc	many	"k"" i"	K I	K V	3
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	many	"k"" i y"	K I J	K V J	3
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	many	"k"" i y"	K I J	K V J	3
+POQOMCHI_WESTERN	pob	many	"k"" i h"	K I H	K V H	3
+POCOMAM_EASTERN	poa	many	k o n g a n	K U N K A N	K V N K V N	11
+USPANTEKO	usp	many	"k"" i"	K I	K V	3
+EASTERN_KEKCHI_CAHABON	kek	many	"n a b"" a l"	N A P A L	N V P V R	12
+ZINACANTAN_TZOTZIL	tzz	many	e p	E P	V P	13
+TZELTAL_BACHAJON	tzb	many	b a y e l	P A J E L	P V J V R	14
+CHOL_TUMBALA	ctu	many	"b a k"" 3 l"	P A K O L	P V K V R	15
+CHONTAL_TABASCO	chf	many	"k"" e n"	K E N	K V N	16
+CHORTI	caa	many	"i m p"" o n"	I M P U N	V M P V N	17
+ITZAJ	itz	many	y a b	J A P	J V P	4
+MOPAN	mop	many	y a b	J A P	J V P	4
+MAYA_YUCATAN	yua	many	"y a 7 a b"""	J A H A P	J V H V P	4
+LACANDON	lac	many	y a b	J A P	J V P	4
+HUASTEC	hva	one	h u n	H Y N	H V N	1
+CHICOMUCELTEC	cob	one	h u n	H Y N	H V N	1
+TOJOLABAL	toj	one	x u n e	G Y N E	K V N V	1
+CHUJ	cnm	one	x u n	G Y N	K V N	1
+MOCHO	mhc	one	h u n	H Y N	H V N	1
+JACALTEC	jai	one	h u n	H Y N	H V N	1
+QANJOBAL_SANTA_EULALIA	kjb	one	x u n	G Y N	K V N	1
+ACATECO_SAN_MIGUEL_ACATAN	knj	one	h u n	H Y N	H V N	1
+IXIL_CHAJUL	ixj	one	w a l	W A L	W V R	2
+AGUACATEC	agu	one	x u n	G Y N	K V N	1
+TECO_TECTITAN	ttc	one	x u n	G Y N	K V N	1
+MAM_NORTHERN	mam	one	x u n	G Y N	K V N	1
+SIPAKAPENSE	qum	one	x u n	G Y N	K V N	1
+SACAPULTECO_SACAPULAS_CENTRO	quv	one	x u n	G Y N	K V N	1
+CENTRAL_QUICHE	quc	one	x u n	G Y N	K V N	1
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	one	x u n	G Y N	K V N	1
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	one	x u n	G Y N	K V N	1
+POQOMCHI_WESTERN	pob	one	x i n a x	G I N A G	K V N V K	1
+POCOMAM_EASTERN	poa	one	x a n a x	G A N A G	K V N V K	1
+USPANTEKO	usp	one	x u n	G Y N	K V N	1
+EASTERN_KEKCHI_CAHABON	kek	one	x u n	G Y N	K V N	1
+ZINACANTAN_TZOTZIL	tzz	one	h u n	H Y N	H V N	1
+TZELTAL_BACHAJON	tzb	one	x u n	G Y N	K V N	1
+CHOL_TUMBALA	ctu	one	x u m	G Y M	K V M	1
+CHONTAL_TABASCO	chf	one	u n	Y N	V N	1
+CHORTI	caa	one	i n	I N	V N	1
+ITZAJ	itz	one	h u n	H Y N	H V N	1
+MOPAN	mop	one	x u n t u l	G Y N T Y L	K V N T V R	1
+MAYA_YUCATAN	yua	one	h u n	H Y N	H V N	1
+LACANDON	lac	one	t u r i 7	T Y R I H	T V R V H	3
+HUASTEC	hva	two	c a b	C A P	K V P	1
+CHICOMUCELTEC	cob	two	C a t ee w	C A T E W	K V T V W	1
+TOJOLABAL	toj	two	"C a b"""	C A P	K V P	1
+CHUJ	cnm	two	C a 7 a b	C A H A P	K V H V P	1
+MOCHO	mhc	two	"k a b"""	K A P	K V P	1
+JACALTEC	jai	two	k a p	K A P	K V P	1
+QANJOBAL_SANTA_EULALIA	kjb	two	"k a b"""	K A P	K V P	1
+ACATECO_SAN_MIGUEL_ACATAN	knj	two	"k a b"""	K A P	K V P	1
+IXIL_CHAJUL	ixj	two	k a w a l	K A W A L	K V W V R	1
+AGUACATEC	agu	two	k o b	K U P	K V P	1
+TECO_TECTITAN	ttc	two	"k a b"" e"	K A P E	K V P V	1
+MAM_NORTHERN	mam	two	k a b	K A P	K V P	1
+SIPAKAPENSE	qum	two	"k""y~ e b"""	K E P	K V P	1
+SACAPULTECO_SACAPULAS_CENTRO	quv	two	"k i 7 a b"""	K I H A P	K V H V P	1
+CENTRAL_QUICHE	quc	two	"k ie b"""	K I P	K V P	1
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	two	k a 7 i 7	K A H I H	K V H V H	1
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	two	k a 7 i 7	K A H I H	K V H V H	1
+POQOMCHI_WESTERN	pob	two	"k i b"""	K I P	K V P	1
+POCOMAM_EASTERN	poa	two	k i 7 i m 7	K I H I M H	K V H V M H	1
+USPANTEKO	usp	two	"k i b"""	K I P	K V P	1
+EASTERN_KEKCHI_CAHABON	kek	two	"k a 7 i b"""	K A H I P	K V H V P	1
+ZINACANTAN_TZOTZIL	tzz	two	C a 7	C A H	K V H	1
+TZELTAL_BACHAJON	tzb	two	C e b	C E P	K V P	1
+CHOL_TUMBALA	ctu	two	C a 7	C A H	K V H	1
+CHONTAL_TABASCO	chf	two	C a 7	C A H	K V H	1
+CHORTI	caa	two	C a 7	C A H	K V H	1
+ITZAJ	itz	two	k a	K A	K V	1
+MOPAN	mop	two	k a 7 t u l	K A H T Y L	K V H T V R	1
+MAYA_YUCATAN	yua	two	k a 7 a	K A H A	K V H V	1
+LACANDON	lac	two	k a 7	K A H	K V H	1
+HUASTEC	hva	big	p a k 8 a 7	P A K D A H	P V K T V H	6
+CHICOMUCELTEC	cob	big	y e h e l i C	J E H E L I C	J V H V R V K	7
+TOJOLABAL	toj	big	n i w a n	N I W A N	N V W V N	1
+CHUJ	cnm	big	n i w k i l	N I W K I L	N V W K V R	1
+MOCHO	mhc	big	m a n	M A N	M V N	8
+JACALTEC	jai	big	n i m	N I M	N V M	2
+QANJOBAL_SANTA_EULALIA	kjb	big	m i m a n	M I M A N	M V M V N	3
+ACATECO_SAN_MIGUEL_ACATAN	knj	big	m i m a n	M I M A N	M V M V N	3
+IXIL_CHAJUL	ixj	big	n i m	N I M	N V M	2
+AGUACATEC	agu	big	n i m	N I M	N V M	2
+TECO_TECTITAN	ttc	big	n i m	N I M	N V M	2
+MAM_NORTHERN	mam	big	m a 7	M A H	M V H	9
+SIPAKAPENSE	qum	big	n i m	N I M	N V M	2
+SACAPULTECO_SACAPULAS_CENTRO	quv	big	n i m	N I M	N V M	2
+CENTRAL_QUICHE	quc	big	n i m	N I M	N V M	2
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	big	t i x	T I G	T V K	10
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	big	n i m	N I M	N V M	2
+POQOMCHI_WESTERN	pob	big	n i m	N I M	N V M	2
+POCOMAM_EASTERN	poa	big	n i m	N I M	N V M	2
+USPANTEKO	usp	big	n i m	N I M	N V M	2
+EASTERN_KEKCHI_CAHABON	kek	big	n i m	N I M	N V M	2
+ZINACANTAN_TZOTZIL	tzz	big	"m u k"""	M Y K	M V K	11
+TZELTAL_BACHAJON	tzb	big	n i w a k	N I W A K	N V W V K	1
+CHOL_TUMBALA	ctu	big	5 o h	N U H	N V H	4
+CHONTAL_TABASCO	chf	big	n o h	N U H	N V H	4
+CHORTI	caa	big	n o t a	N U T A	N V T V	4
+ITZAJ	itz	big	n o h	N U H	N V H	4
+MOPAN	mop	big	n o C	N U C	N V K	5
+MAYA_YUCATAN	yua	big	n o h o C	N U H U C	N V H V K	5
+LACANDON	lac	big	k ae m	K A M	K V M	12
+HUASTEC	hva	long	n a k a t	N A K A T	N V K V T	1
+CHICOMUCELTEC	cob	long	n a k a t	N A K A T	N V K V T	1
+TOJOLABAL	toj	long	n a x a t	N A G A T	N V K V T	2
+CHUJ	cnm	long	n a t	N A T	N V T	2
+MOCHO	mhc	long	m a n	M A N	M V N	7
+JACALTEC	jai	long	n a h a t a	N A H A T A	N V H V T V	2
+QANJOBAL_SANTA_EULALIA	kjb	long	S o q a n	S U K A N	S V K V N	8
+ACATECO_SAN_MIGUEL_ACATAN	knj	long	h o x a n	H U G A N	H V K V N	9
+IXIL_CHAJUL	ixj	long	nim toq	N T	N T	3
+AGUACATEC	agu	long	nim tqanil	N T	N T	3
+TECO_TECTITAN	ttc	long	nim toq	N T	N T	3
+MAM_NORTHERN	mam	long	Sy~ u k b i	S Y K P I	S V K P V	10
+SIPAKAPENSE	qum	long	nim raqan	N R	N R	4
+SACAPULTECO_SACAPULAS_CENTRO	quv	long	y o q a y i k	J U K A J I K	J V K V J V K	11
+CENTRAL_QUICHE	quc	long	n i m	N I M	N V M	12
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	long	tix raqan	T R	T R	13
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	long	nim raqan	N R	N R	4
+POQOMCHI_WESTERN	pob	long	n i m r o q	N I M R U K	N V M R V K	4
+POCOMAM_EASTERN	poa	long	nim ruaq	N R	N R	4
+USPANTEKO	usp	long	nim raqan	N R	N R	4
+EASTERN_KEKCHI_CAHABON	kek	long	nim roq	N R	N R	4
+ZINACANTAN_TZOTZIL	tzz	long	b i c b i c	P I C P I C	P V K P V K	14
+TZELTAL_BACHAJON	tzb	long	n a t	N A T	N V T	1
+CHOL_TUMBALA	ctu	long	t a m	T A M	T V M	5
+CHONTAL_TABASCO	chf	long	t a m	T A M	T V M	5
+CHORTI	caa	long	i nn a t	I N A T	V N V T	1
+ITZAJ	itz	long	C a w a k	C A W A K	K V W V K	6
+MOPAN	mop	long	C a w a k	C A W A K	K V W V K	6
+MAYA_YUCATAN	yua	long	C o w a k	C U W A K	K V W V K	6
+LACANDON	lac	long	C u w a k	C Y W A K	K V W V K	6
+HUASTEC	hva	small	c i p i l	C I P I L	K V P V R	8
+CHICOMUCELTEC	cob	small	e kw~ e t n i k	E K E T N I K	V K V T N V K	9
+TOJOLABAL	toj	small	"C"" i n"	C I N	K V N	4
+CHUJ	cnm	small	y u n e	J Y N E	J V N V	10
+MOCHO	mhc	small	c a p a	C A P A	K V P V	11
+JACALTEC	jai	small	n i S t e x	N I S T E G	N V S T V K	12
+QANJOBAL_SANTA_EULALIA	kjb	small	y a l i S	J A L I S	J V R V S	1
+ACATECO_SAN_MIGUEL_ACATAN	knj	small	y a l i S	J A L I S	J V R V S	1
+IXIL_CHAJUL	ixj	small	u S k i n	Y S K I N	V S K V N	13
+AGUACATEC	agu	small	t a l k o C k	T A L K U C K	T V R K V K K	14
+TECO_TECTITAN	ttc	small	n e k i t	N E K I T	N V K V T	15
+MAM_NORTHERN	mam	small	k o 7	K U H	K V H	3
+SIPAKAPENSE	qum	small	"n u C"""	N Y C	N V K	16
+SACAPULTECO_SACAPULAS_CENTRO	quv	small	"C"" a t e n"	C A T E N	K V T V N	2
+CENTRAL_QUICHE	quc	small	"C"" u t i n"	C Y T I N	K V T V N	2
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	small	k o 7 o l	K U H U L	K V H V R	3
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	small	k o l i	K U L I	K V R V	3
+POQOMCHI_WESTERN	pob	small	"t"" u C"	T Y C	T V K	17
+POCOMAM_EASTERN	poa	small	p i y 7	P I J H	P V J H	6
+USPANTEKO	usp	small	"q"" u n"	K Y N	K V N	18
+EASTERN_KEKCHI_CAHABON	kek	small	"k a C"" i n"	K A C I N	K V K V N	4
+ZINACANTAN_TZOTZIL	tzz	small	"b i k"" i t"	P I K I T	P V K V T	5
+TZELTAL_BACHAJON	tzb	small	"b i k"" i t"	P I K I T	P V K V T	5
+CHOL_TUMBALA	ctu	small	al3 to	A T	V T	19
+CHONTAL_TABASCO	chf	small	"p"" i 7"	P I H	P V H	6
+CHORTI	caa	small	CuCu7 ko7e	C K	K K	3
+ITZAJ	itz	small	C i n C a n	C I N C A N	K V N K V N	7
+MOPAN	mop	small	n e n e 7	N E N E H	N V N V H	20
+MAYA_YUCATAN	yua	small	C a n	C A N	K V N	7
+LACANDON	lac	small	C i C a n	C I C A N	K V K V N	7
+HUASTEC	hva	woman	u S u m	Y S Y M	V S V M	1
+CHICOMUCELTEC	cob	woman	u S u m	Y S Y M	V S V M	1
+TOJOLABAL	toj	woman	i S u k	I S Y K	V S V K	2
+CHUJ	cnm	woman	i S	I S	V S	3
+MOCHO	mhc	woman	i S o q	I S U K	V S V K	2
+JACALTEC	jai	woman	i S	I S	V S	3
+QANJOBAL_SANTA_EULALIA	kjb	woman	i S	I S	V S	3
+ACATECO_SAN_MIGUEL_ACATAN	knj	woman	i S	I S	V S	3
+IXIL_CHAJUL	ixj	woman	i S o q	I S U K	V S V K	2
+AGUACATEC	agu	woman	S n a n	S N A N	S N V N	8
+TECO_TECTITAN	ttc	woman	S u x	S Y G	S V K	4
+MAM_NORTHERN	mam	woman	S u x	S Y G	S V K	4
+SIPAKAPENSE	qum	woman	i S a q	I S A K	V S V K	2
+SACAPULTECO_SACAPULAS_CENTRO	quv	woman	i S a q	I S A K	V S V K	2
+CENTRAL_QUICHE	quc	woman	i S o q	I S U K	V S V K	2
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	woman	i S o q	I S U K	V S V K	2
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	woman	i S o q	I S U K	V S V K	2
+POQOMCHI_WESTERN	pob	woman	S o q	S U K	S V K	2
+POCOMAM_EASTERN	poa	woman	i S o q	I S U K	V S V K	2
+EASTERN_KEKCHI_CAHABON	kek	woman	i S q	I S K	V S K	2
+ZINACANTAN_TZOTZIL	tzz	woman	a n c	A N C	V N K	5
+TZELTAL_BACHAJON	tzb	woman	a n c	A N C	V N K	5
+CHOL_TUMBALA	ctu	woman	S i S i k	S I S I K	S V S V K	6
+CHONTAL_TABASCO	chf	woman	i S i k	I S I K	V S V K	6
+CHORTI	caa	woman	i S i k	I S I K	V S V K	6
+ITZAJ	itz	woman	"i S C"" u p"	I S C Y P	V S K V P	7
+MOPAN	mop	woman	"i S C"" u p"	I S C Y P	V S K V P	7
+MAYA_YUCATAN	yua	woman	"S C"" u p"	S C Y P	S K V P	7
+LACANDON	lac	woman	S k i k	S K I K	S K V K	9
+HUASTEC	hva	man	i n i k	I N I K	V N V K	1
+CHICOMUCELTEC	cob	man	i n i kk i m a l o m	I N I K I M A L U M	V N V K V M V R V M	1
+TOJOLABAL	toj	man	w i n i k	W I N I K	W V N V K	1
+CHUJ	cnm	man	w i n a k	W I N A K	W V N V K	1
+MOCHO	mhc	man	w i n a q	W I N A K	W V N V K	1
+JACALTEC	jai	man	n a x	N A G	N V K	1
+QANJOBAL_SANTA_EULALIA	kjb	man	w i n a q	W I N A K	W V N V K	1
+ACATECO_SAN_MIGUEL_ACATAN	knj	man	w i n a x	W I N A G	W V N V K	1
+IXIL_CHAJUL	ixj	man	w i n a q	W I N A K	W V N V K	1
+AGUACATEC	agu	man	y a x	J A G	J V K	4
+TECO_TECTITAN	ttc	man	i C a n	I C A N	V K V N	5
+MAM_NORTHERN	mam	man	S i n a q	S I N A K	S V N V K	6
+SIPAKAPENSE	qum	man	a C i	A C I	V K V	2
+SACAPULTECO_SACAPULAS_CENTRO	quv	man	a C i N	A C I N	V K V N	2
+CENTRAL_QUICHE	quc	man	a C i	A C I	V K V	2
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	man	a C i n	A C I N	V K V N	2
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	man	a C i	A C I	V K V	2
+POQOMCHI_WESTERN	pob	man	w i n a q	W I N A K	W V N V K	1
+POCOMAM_EASTERN	poa	man	i m a s	I M A S	V M V S	7
+USPANTEKO	usp	man	w a n a q	W A N A K	W V N V K	1
+EASTERN_KEKCHI_CAHABON	kek	man	w i n q	W I N K	W V N K	1
+ZINACANTAN_TZOTZIL	tzz	man	v i n i k	B I N I K	P V N V K	1
+TZELTAL_BACHAJON	tzb	man	w i n i k	W I N I K	W V N V K	1
+CHOL_TUMBALA	ctu	man	w i n i k	W I N I K	W V N V K	1
+CHONTAL_TABASCO	chf	man	w i n i k	W I N I K	W V N V K	1
+CHORTI	caa	man	w i n i k	W I N I K	W V N V K	1
+ITZAJ	itz	man	w i n i k	W I N I K	W V N V K	1
+MOPAN	mop	man	w i n i k	W I N I K	W V N V K	1
+MAYA_YUCATAN	yua	man	"S i b"""	S I P	S V P	3
+LACANDON	lac	man	S i b	S I P	S V P	3
+HUASTEC	hva	person	t e n e k	T E N E K	T V N V K	3
+CHICOMUCELTEC	cob	person	i n i k	I N I K	V N V K	1
+TOJOLABAL	toj	person	w i nk~ i l	W I N I L	W V N V R	1
+MOCHO	mhc	person	w i n a q	W I N A K	W V N V K	1
+IXIL_CHAJUL	ixj	person	x a l	G A L	K V R	2
+AGUACATEC	agu	person	w u n a k	W Y N A K	W V N V K	1
+TECO_TECTITAN	ttc	person	S x a l	S G A L	S K V R	2
+MAM_NORTHERN	mam	person	S x a l	S G A L	S K V R	2
+SIPAKAPENSE	qum	person	w n a q	W N A K	W N V K	1
+SACAPULTECO_SACAPULAS_CENTRO	quv	person	w a n a q	W A N A K	W V N V K	1
+CENTRAL_QUICHE	quc	person	w i n a q	W I N A K	W V N V K	1
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	person	w i n a q	W I N A K	W V N V K	1
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	person	w i n a q	W I N A K	W V N V K	1
+POCOMAM_EASTERN	poa	person	w i n a q	W I N A K	W V N V K	1
+CHONTAL_TABASCO	chf	person	w i n i k	W I N I K	W V N V K	1
+CHORTI	caa	person	w i n i k o p	W I N I K U P	W V N V K V P	1
+ITZAJ	itz	person	m a k	M A K	M V K	4
+MAYA_YUCATAN	yua	person	w i n i k	W I N I K	W V N V K	1
+LACANDON	lac	person	w i n i k	W I N I K	W V N V K	1
+HUASTEC	hva	fish	t o 7 o l	T U H U L	T V H V R	1
+CHICOMUCELTEC	cob	fish	t o 7 o l	T U H U L	T V H V R	1
+TOJOLABAL	toj	fish	C a y	C A J	K V J	2
+CHUJ	cnm	fish	C a y	C A J	K V J	2
+MOCHO	mhc	fish	k a C	K A C	K V K	2
+JACALTEC	jai	fish	k a y	K A J	K V J	2
+QANJOBAL_SANTA_EULALIA	kjb	fish	T a y	D A J	T V J	2
+ACATECO_SAN_MIGUEL_ACATAN	knj	fish	T a y	D A J	T V J	2
+IXIL_CHAJUL	ixj	fish	T a y	D A J	T V J	2
+AGUACATEC	agu	fish	k 3 y	K O J	K V J	2
+TECO_TECTITAN	ttc	fish	m o y	M U J	M V J	3
+MAM_NORTHERN	mam	fish	ky~ i S	K I S	K V S	2
+SIPAKAPENSE	qum	fish	k a r	K A R	K V R	2
+SACAPULTECO_SACAPULAS_CENTRO	quv	fish	k a r	K A R	K V R	2
+CENTRAL_QUICHE	quc	fish	k 3 r	K O R	K V R	2
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	fish	k a r	K A R	K V R	2
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	fish	C u 7	C Y H	K V H	4
+POQOMCHI_WESTERN	pob	fish	k a r	K A R	K V R	2
+POCOMAM_EASTERN	poa	fish	k a r	K A R	K V R	2
+USPANTEKO	usp	fish	k a r	K A R	K V R	2
+EASTERN_KEKCHI_CAHABON	kek	fish	k a r	K A R	K V R	2
+ZINACANTAN_TZOTZIL	tzz	fish	C o y	C U J	K V J	2
+TZELTAL_BACHAJON	tzb	fish	C a y	C A J	K V J	2
+CHOL_TUMBALA	ctu	fish	C 3 y	C O J	K V J	2
+CHONTAL_TABASCO	chf	fish	"b u C"""	P Y C	P V K	5
+CHORTI	caa	fish	C a y	C A J	K V J	2
+ITZAJ	itz	fish	k 3 y	K O J	K V J	2
+MOPAN	mop	fish	"C"" i l a m"	C I L A M	K V R V M	6
+MAYA_YUCATAN	yua	fish	k a y	K A J	K V J	2
+LACANDON	lac	fish	k 3 y	K O J	K V J	2
+HUASTEC	hva	bird	"c"" i c i n"	C I C I N	K V K V N	2
+TOJOLABAL	toj	bird	y a l C a n	J A L C A N	J V R K V N	5
+CHUJ	cnm	bird	"C"" i k"	C I K	K V K	1
+JACALTEC	jai	bird	"C"" i k"	C I K	K V K	1
+QANJOBAL_SANTA_EULALIA	kjb	bird	"c"" i k i n"	C I K I N	K V K V N	2
+ACATECO_SAN_MIGUEL_ACATAN	knj	bird	"c"" i k i n"	C I K I N	K V K V N	2
+IXIL_CHAJUL	ixj	bird	"c"" i T i n"	C I D I N	K V T V N	6
+AGUACATEC	agu	bird	"C"" u l"	C Y L	K V R	7
+TECO_TECTITAN	ttc	bird	"p i c"""	P I C	P V K	8
+MAM_NORTHERN	mam	bird	"C"" i t"	C I T	K V T	9
+SIPAKAPENSE	qum	bird	"k""y~eq Ckop"	K C	K K	10
+SACAPULTECO_SACAPULAS_CENTRO	quv	bird	"c"" i k i n"	C I K I N	K V K V N	2
+CENTRAL_QUICHE	quc	bird	"c"" i k i n"	C I K I N	K V K V N	2
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	bird	"c"" k i n"	C K I N	K K V N	2
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	bird	"c"" i k i n"	C I K I N	K V K V N	2
+POQOMCHI_WESTERN	pob	bird	"c"" i k i n"	C I K I N	K V K V N	2
+POCOMAM_EASTERN	poa	bird	C i k o p	C I K U P	K V K V P	11
+USPANTEKO	usp	bird	"c"" i k i n"	C I K I N	K V K V N	2
+EASTERN_KEKCHI_CAHABON	kek	bird	"c"" i k"	C I K	K V K	2
+ZINACANTAN_TZOTZIL	tzz	bird	m u t	M Y T	M V T	3
+TZELTAL_BACHAJON	tzb	bird	m u t	M Y T	M V T	3
+CHOL_TUMBALA	ctu	bird	m u t	M Y T	M V T	3
+CHONTAL_TABASCO	chf	bird	m u t	M Y T	M V T	3
+CHORTI	caa	bird	m u t	M Y T	M V T	3
+ITZAJ	itz	bird	"C"" i C"""	C I C	K V K	4
+MOPAN	mop	bird	"C"" i C"""	C I C	K V K	4
+MAYA_YUCATAN	yua	bird	"C"" i C"""	C I C	K V K	4
+LACANDON	lac	bird	"C"" i C"	C I C	K V K	4
+HUASTEC	hva	dog	"p i k"" o 7"	P I K U H	P V K V H	1
+CHICOMUCELTEC	cob	dog	s u l	S Y L	S V R	4
+TOJOLABAL	toj	dog	"c"" i 7"	C I H	K V H	2
+CHUJ	cnm	dog	"c"" i 7"	C I H	K V H	2
+MOCHO	mhc	dog	"C"" i 7"	C I H	K V H	2
+JACALTEC	jai	dog	"meC c""i7"	M C	M K	2
+QANJOBAL_SANTA_EULALIA	kjb	dog	"T"" i 7"	D I H	T V H	2
+ACATECO_SAN_MIGUEL_ACATAN	knj	dog	"T"" i 7"	D I H	T V H	2
+IXIL_CHAJUL	ixj	dog	"T"" i 7"	D I H	T V H	2
+AGUACATEC	agu	dog	"C"" i 7"	C I H	K V H	2
+TECO_TECTITAN	ttc	dog	"T"" i y a n"	D I J A N	T V J V N	3
+MAM_NORTHERN	mam	dog	"C""y~ a n"	C A N	K V N	3
+SIPAKAPENSE	qum	dog	"c"" i 7"	C I H	K V H	2
+SACAPULTECO_SACAPULAS_CENTRO	quv	dog	"c"" e 7"	C E H	K V H	2
+CENTRAL_QUICHE	quc	dog	"c"" i 7"	C I H	K V H	2
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	dog	"c"" e 7"	C E H	K V H	2
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	dog	"c"" i 7"	C I H	K V H	2
+POQOMCHI_WESTERN	pob	dog	"c"" i 7"	C I H	K V H	2
+POCOMAM_EASTERN	poa	dog	"c"" i"	C I	K V	2
+USPANTEKO	usp	dog	"T"" i 7"	D I H	T V H	2
+EASTERN_KEKCHI_CAHABON	kek	dog	"C"" i 7"	C I H	K V H	2
+ZINACANTAN_TZOTZIL	tzz	dog	"c"" i 7"	C I H	K V H	2
+TZELTAL_BACHAJON	tzb	dog	"c"" i 7"	C I H	K V H	2
+CHOL_TUMBALA	ctu	dog	"c"" i 7"	C I H	K V H	2
+CHONTAL_TABASCO	chf	dog	w i C u 7	W I C Y H	W V K V H	5
+CHORTI	caa	dog	"c"" i 7"	C I H	K V H	2
+ITZAJ	itz	dog	"p e k"""	P E K	P V K	1
+MOPAN	mop	dog	"p e k"""	P E K	P V K	1
+MAYA_YUCATAN	yua	dog	"p e k"""	P E K	P V K	1
+LACANDON	lac	dog	"p e k"""	P E K	P V K	1
+HUASTEC	hva	louse	"u c"""	Y C	V K	1
+CHICOMUCELTEC	cob	louse	"u C"""	Y C	V K	1
+TOJOLABAL	toj	louse	"u k"""	Y K	V K	1
+CHUJ	cnm	louse	"u k"""	Y K	V K	1
+MOCHO	mhc	louse	"u k"""	Y K	V K	1
+JACALTEC	jai	louse	"u k"""	Y K	V K	1
+QANJOBAL_SANTA_EULALIA	kjb	louse	"u k"""	Y K	V K	1
+ACATECO_SAN_MIGUEL_ACATAN	knj	louse	"u k"""	Y K	V K	1
+IXIL_CHAJUL	ixj	louse	"u k"""	Y K	V K	1
+AGUACATEC	agu	louse	"k"" u S"	K Y S	K V S	3
+TECO_TECTITAN	ttc	louse	"u k"""	Y K	V K	1
+MAM_NORTHERN	mam	louse	"S q u k"""	S K Y K	S K V K	2
+SIPAKAPENSE	qum	louse	"s q u k"""	S K Y K	S K V K	2
+SACAPULTECO_SACAPULAS_CENTRO	quv	louse	"o k"""	U K	V K	1
+CENTRAL_QUICHE	quc	louse	"u k"""	Y K	V K	1
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	louse	"u k"""	Y K	V K	1
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	louse	"u k"""	Y K	V K	1
+POQOMCHI_WESTERN	pob	louse	"u k"""	Y K	V K	1
+POCOMAM_EASTERN	poa	louse	"u k"""	Y K	V K	1
+USPANTEKO	usp	louse	"s u q"" u k"""	S Y K Y K	S V K V K	2
+EASTERN_KEKCHI_CAHABON	kek	louse	"u k"""	Y K	V K	1
+ZINACANTAN_TZOTZIL	tzz	louse	"u C"""	Y C	V K	1
+TZELTAL_BACHAJON	tzb	louse	"u C"""	Y C	V K	1
+CHOL_TUMBALA	ctu	louse	"u C"""	Y C	V K	1
+CHONTAL_TABASCO	chf	louse	"u C"""	Y C	V K	1
+CHORTI	caa	louse	u 7 C	Y H C	V H K	1
+ITZAJ	itz	louse	"u k"""	Y K	V K	1
+MOPAN	mop	louse	"u k"""	Y K	V K	1
+MAYA_YUCATAN	yua	louse	"u k"""	Y K	V K	1
+LACANDON	lac	louse	"u k"""	Y K	V K	1
+HUASTEC	hva	tree	t e 7	T E H	T V H	1
+CHICOMUCELTEC	cob	tree	t e 7	T E H	T V H	1
+TOJOLABAL	toj	tree	t e 7	T E H	T V H	1
+CHUJ	cnm	tree	t e 7	T E H	T V H	1
+MOCHO	mhc	tree	t e 7	T E H	T V H	1
+JACALTEC	jai	tree	"k"" e p t a x"	K E P T A G	K V P T V K	2
+QANJOBAL_SANTA_EULALIA	kjb	tree	t e 7	T E H	T V H	1
+ACATECO_SAN_MIGUEL_ACATAN	knj	tree	t e 7	T E H	T V H	1
+IXIL_CHAJUL	ixj	tree	c e 7	C E H	K V H	1
+AGUACATEC	agu	tree	c e 7	C E H	K V H	1
+TECO_TECTITAN	ttc	tree	c e 7	C E H	K V H	1
+MAM_NORTHERN	mam	tree	c e 7	C E H	K V H	1
+SIPAKAPENSE	qum	tree	C e 7	C E H	K V H	1
+SACAPULTECO_SACAPULAS_CENTRO	quv	tree	C e 7	C E H	K V H	1
+CENTRAL_QUICHE	quc	tree	C e 7	C E H	K V H	1
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	tree	C e 7	C E H	K V H	1
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	tree	C e 7	C E H	K V H	1
+POQOMCHI_WESTERN	pob	tree	C e 7	C E H	K V H	1
+POCOMAM_EASTERN	poa	tree	C ie 7	C I H	K V H	1
+USPANTEKO	usp	tree	C e 7	C E H	K V H	1
+EASTERN_KEKCHI_CAHABON	kek	tree	C e 7	C E H	K V H	1
+ZINACANTAN_TZOTZIL	tzz	tree	t e 7	T E H	T V H	1
+TZELTAL_BACHAJON	tzb	tree	t e 7	T E H	T V H	1
+CHOL_TUMBALA	ctu	tree	t e 7	T E H	T V H	1
+CHONTAL_TABASCO	chf	tree	t e 7	T E H	T V H	1
+CHORTI	caa	tree	t e 7	T E H	T V H	1
+ITZAJ	itz	tree	C e 7	C E H	K V H	1
+MOPAN	mop	tree	C e 7	C E H	K V H	1
+MAYA_YUCATAN	yua	tree	C e 7	C E H	K V H	1
+LACANDON	lac	tree	C e 7	C E H	K V H	1
+TOJOLABAL	toj	seed	i n a t	I N A T	V N V T	1
+CHUJ	cnm	seed	i N a t	I N A T	V N V T	1
+MOCHO	mhc	seed	i N a t	I N A T	V N V T	1
+JACALTEC	jai	seed	i N a t	I N A T	V N V T	1
+QANJOBAL_SANTA_EULALIA	kjb	seed	i n a t	I N A T	V N V T	1
+IXIL_CHAJUL	ixj	seed	i y a	I J A	V J V	2
+AGUACATEC	agu	seed	i x	I G	V K	3
+TECO_TECTITAN	ttc	seed	i x a x	I G A G	V K V K	2
+MAM_NORTHERN	mam	seed	i y a x	I J A G	V J V K	2
+SIPAKAPENSE	qum	seed	i x a 7	I G A H	V K V H	3
+SACAPULTECO_SACAPULAS_CENTRO	quv	seed	i x a 7	I G A H	V K V H	3
+CENTRAL_QUICHE	quc	seed	i x a 7	I G A H	V K V H	3
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	seed	i x a c	I G A C	V K V K	4
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	seed	i x a c	I G A C	V K V K	4
+POQOMCHI_WESTERN	pob	seed	i x a 7	I G A H	V K V H	3
+USPANTEKO	usp	seed	f x a x	B G A G	P K V K	5
+EASTERN_KEKCHI_CAHABON	kek	seed	i y a x	I J A G	V J V K	5
+ZINACANTAN_TZOTZIL	tzz	seed	"b e k"""	P E K	P V K	6
+CHOL_TUMBALA	ctu	seed	"b 3 k"""	P O K	P V K	6
+CHONTAL_TABASCO	chf	seed	"b e k"""	P E K	P V K	6
+CHORTI	caa	seed	h i n a h	H I N A H	H V N V H	1
+ITZAJ	itz	seed	"n e k"""	N E K	N V K	7
+MAYA_YUCATAN	yua	seed	"n e k"""	N E K	N V K	7
+LACANDON	lac	seed	"n e k"""	N E K	N V K	7
+HUASTEC	hva	leaf	S e k l e k	S E K L E K	S V K R V K	1
+CHICOMUCELTEC	cob	leaf	S e k e l t e 7	S E K E L T E H	S V K V R T V H	1
+TOJOLABAL	toj	leaf	s p o w i l	S P U W I L	S P V W V R	5
+CHUJ	cnm	leaf	Sil te7	S T	S T	6
+MOCHO	mhc	leaf	S a q	S A K	S V K	1
+JACALTEC	jai	leaf	S a x	S A G	S V K	1
+QANJOBAL_SANTA_EULALIA	kjb	leaf	S a q	S A K	S V K	1
+ACATECO_SAN_MIGUEL_ACATAN	knj	leaf	Sax te7	S T	S T	1
+IXIL_CHAJUL	ixj	leaf	S a q	S A K	S V K	1
+AGUACATEC	agu	leaf	S a q	S A K	S V K	1
+TECO_TECTITAN	ttc	leaf	"Taq k""ul"	D K	T K	1
+MAM_NORTHERN	mam	leaf	S a q	S A K	S V K	1
+SIPAKAPENSE	qum	leaf	S a q	S A K	S V K	1
+SACAPULTECO_SACAPULAS_CENTRO	quv	leaf	r a S a q	R A S A K	R V S V K	2
+CENTRAL_QUICHE	quc	leaf	u S a q	Y S A K	V S V K	1
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	leaf	r u S a q	R Y S A K	R V S V K	2
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	leaf	r u S a q	R Y S A K	R V S V K	2
+POQOMCHI_WESTERN	pob	leaf	S a q	S A K	S V K	1
+POCOMAM_EASTERN	poa	leaf	S a q	S A K	S V K	1
+USPANTEKO	usp	leaf	S a q	S A K	S V K	1
+EASTERN_KEKCHI_CAHABON	kek	leaf	S a q	S A K	S V K	1
+ZINACANTAN_TZOTZIL	tzz	leaf	a n a l	A N A L	V N V R	7
+TZELTAL_BACHAJON	tzb	leaf	y a b i n a l	J A P I N A L	J V P V N V R	8
+CHOL_TUMBALA	ctu	leaf	y o p o m	J U P U M	J V P V M	3
+CHONTAL_TABASCO	chf	leaf	u yopo	Y J	V J	3
+CHORTI	caa	leaf	u y o p o r	Y J U P U R	V J V P V R	3
+ITZAJ	itz	leaf	l e 7	L E H	R V H	4
+MOPAN	mop	leaf	le7 Ce7	L C	R K	4
+MAYA_YUCATAN	yua	leaf	l e 7	L E H	R V H	4
+LACANDON	lac	leaf	r e 7	R E H	R V H	4
+HUASTEC	hva	root	i b l a b	I P L A P	V P R V P	7
+TOJOLABAL	toj	root	y e C	J E C	J V K	8
+CHUJ	cnm	root	"C""aNl yip"	C J	K J	9
+MOCHO	mhc	root	i N t i l	I N T I L	V N T V R	10
+JACALTEC	jai	root	S e 7	S E H	S V H	1
+QANJOBAL_SANTA_EULALIA	kjb	root	S e 7	S E H	S V H	1
+ACATECO_SAN_MIGUEL_ACATAN	knj	root	Se7 te7	S T	S T	1
+IXIL_CHAJUL	ixj	root	"t a q"" i l"	T A K I L	T V K V R	2
+AGUACATEC	agu	root	t a k l	T A K L	T V K R	2
+TECO_TECTITAN	ttc	root	"t l o k"""	T L U K	T R V K	2
+MAM_NORTHERN	mam	root	"t l o k"""	T L U K	T R V K	2
+SIPAKAPENSE	qum	root	S e 7	S E H	S V H	1
+SACAPULTECO_SACAPULAS_CENTRO	quv	root	"r a k"" a m a l"	R A K A M A L	R V K V M V R	11
+CENTRAL_QUICHE	quc	root	s e r a 7	S E R A H	S V R V H	12
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	root	r u S e 7	R Y S E H	R V S V H	3
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	root	r u S e 7	R Y S E H	R V S V H	3
+POQOMCHI_WESTERN	pob	root	r a 7	R A H	R V H	4
+POCOMAM_EASTERN	poa	root	"k""ahamil Cie7"	K C	K K	13
+USPANTEKO	usp	root	r a 7	R A H	R V H	4
+EASTERN_KEKCHI_CAHABON	kek	root	S e 7	S E H	S V H	1
+ZINACANTAN_TZOTZIL	tzz	root	i b e l	I P E L	V P V R	14
+TZELTAL_BACHAJON	tzb	root	"l o p"""	L U P	R V P	15
+CHOL_TUMBALA	ctu	root	w i 7	W I H	W V H	5
+CHONTAL_TABASCO	chf	root	w i 7	W I H	W V H	5
+CHORTI	caa	root	w i r	W I R	W V R	16
+ITZAJ	itz	root	m o c	M U C	M V K	17
+MOPAN	mop	root	kan Ce7	K C	K K	18
+MAYA_YUCATAN	yua	root	m o c	M U C	M V K	6
+HUASTEC	hva	bark	"o t"" l a b"	U T L A P	V T R V P	1
+CHICOMUCELTEC	cob	bark	o t o S t e 7	U T U S T E H	V T V S T V H	1
+TOJOLABAL	toj	bark	p a t	P A T	P V T	4
+CHUJ	cnm	bark	xokbal te7	G T	K T	6
+JACALTEC	jai	bark	"c"" u m a l"	C Y M A L	K V M V R	2
+QANJOBAL_SANTA_EULALIA	kjb	bark	"T""umal te7"	D T	T T	2
+ACATECO_SAN_MIGUEL_ACATAN	knj	bark	y i n	J I N	J V N	7
+IXIL_CHAJUL	ixj	bark	t i 7	T I H	T V H	8
+AGUACATEC	agu	bark	"x a l k"" o k"" i l"	G A L K U K I L	K V R K V K V R	9
+TECO_TECTITAN	ttc	bark	Sx~olmisal ce7	S C	S K	10
+MAM_NORTHERN	mam	bark	k o m a l	K U M A L	K V M V R	11
+SIPAKAPENSE	qum	bark	i x	I G	V K	3
+SACAPULTECO_SACAPULAS_CENTRO	quv	bark	i x	I G	V K	3
+CENTRAL_QUICHE	quc	bark	i x	I G	V K	3
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	bark	r i x	R I G	R V K	4
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	bark	r i x	R I G	R V K	4
+POQOMCHI_WESTERN	pob	bark	i x	I G	V K	3
+POCOMAM_EASTERN	poa	bark	rix Cie7	R C	R K	5
+USPANTEKO	usp	bark	rex Ce7	R C	R K	5
+EASTERN_KEKCHI_CAHABON	kek	bark	r i x	R I G	R V K	3
+ZINACANTAN_TZOTZIL	tzz	bark	p a t i l	P A T I L	P V T V R	4
+TZELTAL_BACHAJON	tzb	bark	p a t	P A T	P V T	4
+CHONTAL_TABASCO	chf	bark	u pat te7	Y P T	V P T	4
+CHORTI	caa	bark	p a t	P A T	P V T	4
+ITZAJ	itz	bark	paC Ce7	P C	P K	4
+MOPAN	mop	bark	paC Ce7	P C	P K	4
+LACANDON	lac	bark	s o r	S U R	S V R	12
+HUASTEC	hva	skin	"o t"" l a b"	U T L A P	V T R V P	1
+CHICOMUCELTEC	cob	skin	"o t"" o l"	U T U L	V T V R	1
+TOJOLABAL	toj	skin	"c"" u x m i l"	C Y G M I L	K V K M V R	2
+CHUJ	cnm	skin	"c"" u m a l"	C Y M A L	K V M V R	2
+MOCHO	mhc	skin	"c"" u m"	C Y M	K V M	2
+JACALTEC	jai	skin	"c"" u m a l"	C Y M A L	K V M V R	2
+QANJOBAL_SANTA_EULALIA	kjb	skin	"c"" u m a l"	C Y M A L	K V M V R	2
+ACATECO_SAN_MIGUEL_ACATAN	knj	skin	"T"" u m"	D Y M	T V M	2
+IXIL_CHAJUL	ixj	skin	"c"" u m a l"	C Y M A L	K V M V R	2
+AGUACATEC	agu	skin	"c"" u m l"	C Y M L	K V M R	2
+TECO_TECTITAN	ttc	skin	"c"" u m a l"	C Y M A L	K V M V R	2
+MAM_NORTHERN	mam	skin	"c"" u m i l e"	C Y M I L E	K V M V R V	2
+SIPAKAPENSE	qum	skin	ty~ o x i l	T U G I L	T V K V R	6
+SACAPULTECO_SACAPULAS_CENTRO	quv	skin	"c"" u m a l"	C Y M A L	K V M V R	2
+CENTRAL_QUICHE	quc	skin	"c"" u m"	C Y M	K V M	2
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	skin	"c"" u m a l"	C Y M A L	K V M V R	2
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	skin	"c"" u m a l"	C Y M A L	K V M V R	2
+POQOMCHI_WESTERN	pob	skin	"c"" u m a l"	C Y M A L	K V M V R	2
+POCOMAM_EASTERN	poa	skin	i x	I G	V K	7
+USPANTEKO	usp	skin	"c"" u m a l"	C Y M A L	K V M V R	2
+EASTERN_KEKCHI_CAHABON	kek	skin	"c"" u m a l"	C Y M A L	K V M V R	2
+ZINACANTAN_TZOTZIL	tzz	skin	n u k u l a l	N Y K Y L A L	N V K V R V R	3
+TZELTAL_BACHAJON	tzb	skin	n u k u l	N Y K Y L	N V K V R	3
+CHOL_TUMBALA	ctu	skin	p 3 C 3 l	P O C O L	P V K V R	4
+CHONTAL_TABASCO	chf	skin	p 3 C i	P O C I	P V K V	4
+CHORTI	caa	skin	p a t	P A T	P V T	4
+ITZAJ	itz	skin	"k"" e w"	K E W	K V W	5
+MOPAN	mop	skin	"k"" e w e l"	K E W E L	K V W V R	5
+MAYA_YUCATAN	yua	skin	"k"" e w e l"	K E W E L	K V W V R	5
+LACANDON	lac	skin	"o t"""	U T	V T	1
+HUASTEC	hva	flesh	"t"" u l e k"	T Y L E K	T V R V K	1
+CHICOMUCELTEC	cob	flesh	"t"" u l"	T Y L	T V R	1
+TOJOLABAL	toj	flesh	"b"" a k"" e t"	P A K E T	P V K V T	2
+CHUJ	cnm	flesh	C i b x	C I P G	K V P K	3
+MOCHO	mhc	flesh	"b a q"" e C"	P A K E C	P V K V K	4
+JACALTEC	jai	flesh	C i b e	C I P E	K V P V	3
+QANJOBAL_SANTA_EULALIA	kjb	flesh	"C i b"" e x"	C I P E G	K V P V K	3
+ACATECO_SAN_MIGUEL_ACATAN	knj	flesh	"C i b"" e"	C I P E	K V P V	3
+IXIL_CHAJUL	ixj	flesh	"C i b"""	C I P	K V P	3
+AGUACATEC	agu	flesh	C i b a x	C I P A G	K V P V K	3
+TECO_TECTITAN	ttc	flesh	"C i b"" x"	C I P G	K V P K	3
+MAM_NORTHERN	mam	flesh	C i b	C I P	K V P	3
+SIPAKAPENSE	qum	flesh	ty~ a x	T A G	T V K	3
+SACAPULTECO_SACAPULAS_CENTRO	quv	flesh	t i 7 e x	T I H E G	T V H V K	3
+CENTRAL_QUICHE	quc	flesh	t i x	T I G	T V K	3
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	flesh	t i 7	T I H	T V H	3
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	flesh	t i 7 i x	T I H I G	T V H V K	3
+POQOMCHI_WESTERN	pob	flesh	t i w i k	T I W I K	T V W V K	3
+POCOMAM_EASTERN	poa	flesh	t i 7	T I H	T V H	3
+USPANTEKO	usp	flesh	t i n i k	T I N I K	T V N V K	3
+EASTERN_KEKCHI_CAHABON	kek	flesh	"t i b"""	T I P	T V P	3
+ZINACANTAN_TZOTZIL	tzz	flesh	"b e k"" t a l"	P E K T A L	P V K T V R	4
+TZELTAL_BACHAJON	tzb	flesh	"b a k"" e t"	P A K E T	P V K V T	4
+CHOL_TUMBALA	ctu	flesh	w e 7 e l	W E H E L	W V H V R	5
+CHONTAL_TABASCO	chf	flesh	"u bek""ta"	Y P	V P	4
+CHORTI	caa	flesh	w e r	W E R	W V R	5
+ITZAJ	itz	flesh	"b 3 k"""	P O K	P V K	4
+MOPAN	mop	flesh	"b 3 k"""	P O K	P V K	4
+MAYA_YUCATAN	yua	flesh	"b"" a k"""	P A K	P V K	4
+LACANDON	lac	flesh	"b 3 k"""	P O K	P V K	4
+HUASTEC	hva	blood	"S i c"""	S I C	S V K	1
+CHICOMUCELTEC	cob	blood	"S i C"""	S I C	S V K	1
+TOJOLABAL	toj	blood	"C i k"" e l"	C I K E L	K V K V R	3
+CHUJ	cnm	blood	"C i k"" i l"	C I K I L	K V K V R	3
+MOCHO	mhc	blood	"k i k"""	K I K	K V K	2
+JACALTEC	jai	blood	C i k i l	C I K I L	K V K V R	3
+QANJOBAL_SANTA_EULALIA	kjb	blood	"C i k"""	C I K	K V K	2
+ACATECO_SAN_MIGUEL_ACATAN	knj	blood	"C i k"""	C I K	K V K	2
+IXIL_CHAJUL	ixj	blood	k a q	K A K	K V K	4
+AGUACATEC	agu	blood	"a S C"" e l"	A S C E L	V S K V R	5
+TECO_TECTITAN	ttc	blood	"ky~ i k"""	K I K	K V K	2
+MAM_NORTHERN	mam	blood	"C k"" e"	C K E	K K V	2
+SIPAKAPENSE	qum	blood	"k i k"""	K I K	K V K	2
+SACAPULTECO_SACAPULAS_CENTRO	quv	blood	"k i k"""	K I K	K V K	2
+CENTRAL_QUICHE	quc	blood	"k i k"" e l"	K I K E L	K V K V R	3
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	blood	"k i k"""	K I K	K V K	2
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	blood	"k i k"""	K I K	K V K	2
+POQOMCHI_WESTERN	pob	blood	"k i k"""	K I K	K V K	2
+POCOMAM_EASTERN	poa	blood	"k i k"""	K I K	K V K	2
+USPANTEKO	usp	blood	"k i k"""	K I K	K V K	2
+EASTERN_KEKCHI_CAHABON	kek	blood	"k i k"""	K I K	K V K	2
+ZINACANTAN_TZOTZIL	tzz	blood	"C"" i C"" e l i l"	C I C E L I L	K V K V R V R	3
+TZELTAL_BACHAJON	tzb	blood	"C"" i C"""	C I C	K V K	2
+CHOL_TUMBALA	ctu	blood	"C"" i C"""	C I C	K V K	2
+CHONTAL_TABASCO	chf	blood	"C"" i C"""	C I C	K V K	2
+CHORTI	caa	blood	"C"" i C"""	C I C	K V K	2
+ITZAJ	itz	blood	"k"" i k"""	K I K	K V K	2
+MOPAN	mop	blood	"k"" i k"""	K I K	K V K	2
+MAYA_YUCATAN	yua	blood	"k"" i 7 i k"""	K I H I K	K V H V K	2
+LACANDON	lac	blood	"k"" i k"""	K I K	K V K	2
+HUASTEC	hva	bone	b e k l e k	P E K L E K	P V K R V K	2
+CHICOMUCELTEC	cob	bone	w e k l e k	W E K L E K	W V K R V K	2
+TOJOLABAL	toj	bone	"b"" a k"	P A K	P V K	1
+CHUJ	cnm	bone	b a k	P A K	P V K	1
+MOCHO	mhc	bone	b a q	P A K	P V K	1
+JACALTEC	jai	bone	"b"" a x"	P A G	P V K	1
+QANJOBAL_SANTA_EULALIA	kjb	bone	"b"" a q"	P A K	P V K	1
+ACATECO_SAN_MIGUEL_ACATAN	knj	bone	"b"" a x"	P A G	P V K	1
+IXIL_CHAJUL	ixj	bone	"b"" a q"	P A K	P V K	1
+AGUACATEC	agu	bone	b a q	P A K	P V K	1
+TECO_TECTITAN	ttc	bone	"b"" a q"	P A K	P V K	1
+MAM_NORTHERN	mam	bone	b a q	P A K	P V K	1
+SIPAKAPENSE	qum	bone	"b"" a q"	P A K	P V K	1
+SACAPULTECO_SACAPULAS_CENTRO	quv	bone	"b"" a q"	P A K	P V K	1
+CENTRAL_QUICHE	quc	bone	"b"" a q"	P A K	P V K	1
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	bone	"b"" a q"	P A K	P V K	1
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	bone	"b"" a q"	P A K	P V K	1
+POQOMCHI_WESTERN	pob	bone	"b"" a q"	P A K	P V K	1
+POCOMAM_EASTERN	poa	bone	"w"" a q"	W A K	W V K	1
+USPANTEKO	usp	bone	"b"" a q"	P A K	P V K	1
+EASTERN_KEKCHI_CAHABON	kek	bone	"b"" a q"	P A K	P V K	1
+ZINACANTAN_TZOTZIL	tzz	bone	b a k	P A K	P V K	1
+TZELTAL_BACHAJON	tzb	bone	b a k	P A K	P V K	1
+CHOL_TUMBALA	ctu	bone	b a k	P A K	P V K	1
+CHONTAL_TABASCO	chf	bone	b a k	P A K	P V K	1
+CHORTI	caa	bone	b a k	P A K	P V K	1
+ITZAJ	itz	bone	b a k	P A K	P V K	1
+MOPAN	mop	bone	b a k	P A K	P V K	1
+MAYA_YUCATAN	yua	bone	"b"" a k"	P A K	P V K	1
+LACANDON	lac	bone	b a k	P A K	P V K	1
+HUASTEC	hva	grease	p e m e y	P E M E J	P V M V J	1
+TOJOLABAL	toj	grease	y e c e l	J E C E L	J V K V R	2
+ZINACANTAN_TZOTZIL	tzz	grease	"h u p"" e l"	H Y P E L	H V P V R	3
+CHONTAL_TABASCO	chf	grease	"p o k"" m a"	P U K M A	P V K M V	4
+CHORTI	caa	grease	"C"" i C m a r"	C I C M A R	K V K M V R	5
+ITZAJ	itz	grease	p o l o k	P U L U K	P V R V K	6
+MAYA_YUCATAN	yua	grease	c a c	C A C	K V K	7
+LACANDON	lac	grease	C a C	C A C	K V K	8
+CHICOMUCELTEC	cob	egg	u l	Y L	V R	7
+TOJOLABAL	toj	egg	"n o l o b"""	N U L U P	N V R V P	1
+CHUJ	cnm	egg	N o l o b	N U L U P	N V R V P	1
+MOCHO	mhc	egg	"k"" o l k"" o C"	K U L K U C	K V R K V K	8
+JACALTEC	jai	egg	h o s	H U S	H V S	2
+QANJOBAL_SANTA_EULALIA	kjb	egg	x o s	G U S	K V S	2
+ACATECO_SAN_MIGUEL_ACATAN	knj	egg	h o s	H U S	H V S	2
+IXIL_CHAJUL	ixj	egg	"k"" o l o b"""	K U L U P	K V R V P	9
+AGUACATEC	agu	egg	x o x	G U G	K V K	2
+TECO_TECTITAN	ttc	egg	x o s	G U S	K V S	2
+MAM_NORTHERN	mam	egg	x o s	G U S	K V S	2
+SIPAKAPENSE	qum	egg	"m l o b"""	M L U P	M R V P	1
+SACAPULTECO_SACAPULAS_CENTRO	quv	egg	"s a q m a l o b"""	S A K M A L U P	S V K M V R V P	3
+CENTRAL_QUICHE	quc	egg	s a q m o l	S A K M U L	S V K M V R	3
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	egg	s a q m o l o 7	S A K M U L U H	S V K M V R V H	3
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	egg	s a q m o l	S A K M U L	S V K M V R	3
+POQOMCHI_WESTERN	pob	egg	m i l o x	M I L U G	M V R V K	4
+POCOMAM_EASTERN	poa	egg	m a l o x	M A L U G	M V R V K	4
+USPANTEKO	usp	egg	"s a q m o l o b"""	S A K M U L U P	S V K M V R V P	3
+EASTERN_KEKCHI_CAHABON	kek	egg	"m o l b"""	M U L P	M V R P	1
+ZINACANTAN_TZOTZIL	tzz	egg	t a n a l	T A N A L	T V N V R	10
+TZELTAL_BACHAJON	tzb	egg	t o m u t	T U M Y T	T V M V T	5
+CHOL_TUMBALA	ctu	egg	t u m u t	T Y M Y T	T V M V T	5
+CHORTI	caa	egg	k u m	K Y M	K V M	11
+ITZAJ	itz	egg	h e 7	H E H	H V H	6
+MOPAN	mop	egg	x e 7	G E H	K V H	6
+MAYA_YUCATAN	yua	egg	h e 7	H E H	H V H	6
+HUASTEC	hva	horn	"i c"" a m"	I C A M	V K V M	5
+TOJOLABAL	toj	horn	"S u l u b"""	S Y L Y P	S V R V P	3
+CHUJ	cnm	horn	"C"" a 7 a k"	C A H A K	K V H V K	6
+JACALTEC	jai	horn	"y u k"" a"	J Y K A	J V K V	1
+QANJOBAL_SANTA_EULALIA	kjb	horn	"u k"" a 7"	Y K A H	V K V H	1
+ACATECO_SAN_MIGUEL_ACATAN	knj	horn	"u k"" a 7"	Y K A H	V K V H	1
+IXIL_CHAJUL	ixj	horn	"t u k"""	T Y K	T V K	2
+AGUACATEC	agu	horn	"t u k"""	T Y K	T V K	2
+TECO_TECTITAN	ttc	horn	"u k"" a 7"	Y K A H	V K V H	1
+MAM_NORTHERN	mam	horn	t k a C	T K A C	T K V K	7
+SIPAKAPENSE	qum	horn	"u k"" a"	Y K A	V K V	1
+SACAPULTECO_SACAPULAS_CENTRO	quv	horn	"u k"" a 7"	Y K A H	V K V H	1
+CENTRAL_QUICHE	quc	horn	"r u k"" a 7"	R Y K A H	R V K V H	1
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	horn	"u k"" a 7"	Y K A H	V K V H	1
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	horn	"u k"" a 7"	Y K A H	V K V H	1
+POQOMCHI_WESTERN	pob	horn	"u k"" a 7"	Y K A H	V K V H	1
+POCOMAM_EASTERN	poa	horn	"u k"" a 7"	Y K A H	V K V H	1
+EASTERN_KEKCHI_CAHABON	kek	horn	"S u k u b"""	S Y K Y P	S V K V P	4
+ZINACANTAN_TZOTZIL	tzz	horn	S u l u b	S Y L Y P	S V R V P	3
+TZELTAL_BACHAJON	tzb	horn	S u l u b	S Y L Y P	S V R V P	3
+CHONTAL_TABASCO	chf	horn	S u k u b	S Y K Y P	S V K V P	8
+ITZAJ	itz	horn	b a k	P A K	P V K	9
+MOPAN	mop	horn	S u l u b	S Y L Y P	S V R V P	3
+HUASTEC	hva	tail	w e w	W E W	W V W	1
+CHICOMUCELTEC	cob	tail	w e w	W E W	W V W	1
+TOJOLABAL	toj	tail	n e x a l	N E G A L	N V K V R	1
+CHUJ	cnm	tail	y e	J E	J V	1
+MOCHO	mhc	tail	N e h	N E H	N V H	1
+JACALTEC	jai	tail	N e	N E	N V	1
+QANJOBAL_SANTA_EULALIA	kjb	tail	n e	N E	N V	1
+ACATECO_SAN_MIGUEL_ACATAN	knj	tail	n e	N E	N V	1
+IXIL_CHAJUL	ixj	tail	x e 7	G E H	K V H	1
+AGUACATEC	agu	tail	x e 7	G E H	K V H	1
+TECO_TECTITAN	ttc	tail	x e 7	G E H	K V H	1
+MAM_NORTHERN	mam	tail	t x e 7	T G E H	T K V H	1
+SIPAKAPENSE	qum	tail	x e y	G E J	K V J	1
+SACAPULTECO_SACAPULAS_CENTRO	quv	tail	x e y	G E J	K V J	1
+CENTRAL_QUICHE	quc	tail	x e 7	G E H	K V H	1
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	tail	x e y	G E J	K V J	1
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	tail	x e y	G E J	K V J	1
+POQOMCHI_WESTERN	pob	tail	x e	G E	K V	1
+POCOMAM_EASTERN	poa	tail	x ie h	G I H	K V H	1
+USPANTEKO	usp	tail	x e	G E	K V	1
+EASTERN_KEKCHI_CAHABON	kek	tail	h e h	H E H	H V H	1
+ZINACANTAN_TZOTZIL	tzz	tail	n ei l	N E L	N V R	1
+TZELTAL_BACHAJON	tzb	tail	n e	N E	N V	1
+CHOL_TUMBALA	ctu	tail	5 e h	N E H	N V H	1
+CHONTAL_TABASCO	chf	tail	n e h	N E H	N V H	1
+CHORTI	caa	tail	n e h	N E H	N V H	1
+ITZAJ	itz	tail	n e h	N E H	N V H	1
+MOPAN	mop	tail	n e x	N E G	N V K	1
+MAYA_YUCATAN	yua	tail	n e h	N E H	N V H	1
+LACANDON	lac	tail	n e h	N E H	N V H	1
+HUASTEC	hva	feather	h u h l e k	H Y H L E K	H V H R V K	1
+CHICOMUCELTEC	cob	feather	h u h u l	H Y H Y L	H V H V R	1
+TOJOLABAL	toj	feather	"k"" u k"" u m"	K Y K Y M	K V K V M	6
+CHUJ	cnm	feather	S i l	S I L	S V R	1
+MOCHO	mhc	feather	S i k	S I K	S V K	5
+JACALTEC	jai	feather	S i l	S I L	S V R	1
+QANJOBAL_SANTA_EULALIA	kjb	feather	"c"" u p"	C Y P	K V P	9
+ACATECO_SAN_MIGUEL_ACATAN	knj	feather	S i l	S I L	S V R	1
+IXIL_CHAJUL	ixj	feather	S i l	S I L	S V R	1
+AGUACATEC	agu	feather	S i 7 i l	S I H I L	S V H V R	1
+TECO_TECTITAN	ttc	feather	c a m a l	C A M A L	K V M V R	2
+MAM_NORTHERN	mam	feather	t s m a l	T S M A L	T S M V R	2
+SIPAKAPENSE	qum	feather	"S i k"""	S I K	S V K	5
+SACAPULTECO_SACAPULAS_CENTRO	quv	feather	r i s m a l	R I S M A L	R V S M V R	3
+CENTRAL_QUICHE	quc	feather	k i S	K I S	K V S	10
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	feather	r u s m a l	R Y S M A L	R V S M V R	3
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	feather	i s m a l	I S M A L	V S M V R	11
+POQOMCHI_WESTERN	pob	feather	r i x	R I G	R V K	8
+POCOMAM_EASTERN	poa	feather	rix Cikop	R C	R K	8
+USPANTEKO	usp	feather	"S i k"""	S I K	S V K	5
+EASTERN_KEKCHI_CAHABON	kek	feather	r i s m a l	R I S M A L	R V S M V R	3
+ZINACANTAN_TZOTZIL	tzz	feather	"k"" u k"" u m a l"	K Y K Y M A L	K V K V M V R	6
+TZELTAL_BACHAJON	tzb	feather	"k"" u k"" u m"	K Y K Y M	K V K V M	6
+CHOL_TUMBALA	ctu	feather	c u c	C Y C	K V K	7
+CHONTAL_TABASCO	chf	feather	"m u k"" u"	M Y K Y	M V K V	12
+CHORTI	caa	feather	c u c	C Y C	K V K	7
+ITZAJ	itz	feather	"k"" u k"" u m"	K Y K Y M	K V K V M	6
+MOPAN	mop	feather	c o 7 o c	C U H U C	K V H V K	7
+MAYA_YUCATAN	yua	feather	"k"" u k"" u m"	K Y K Y M	K V K V M	6
+LACANDON	lac	feather	C o C e r	C U C E R	K V K V R	7
+HUASTEC	hva	hair	S i 7	S I H	S V H	1
+CHICOMUCELTEC	cob	hair	h u l o k	H Y L U K	H V R V K	7
+TOJOLABAL	toj	hair	c o 7 o c	C U H U C	K V H V K	6
+CHUJ	cnm	hair	Sil xolom	S G	S K	2
+MOCHO	mhc	hair	S i 7	S I H	S V H	1
+JACALTEC	jai	hair	S i l	S I L	S V R	2
+QANJOBAL_SANTA_EULALIA	kjb	hair	S i l	S I L	S V R	2
+ACATECO_SAN_MIGUEL_ACATAN	knj	hair	S i l	S I L	S V R	2
+IXIL_CHAJUL	ixj	hair	Sil wi7	S W	S W	2
+AGUACATEC	agu	hair	S i 7 i l	S I H I L	S V H V R	2
+TECO_TECTITAN	ttc	hair	c a m a l	C A M A L	K V M V R	3
+MAM_NORTHERN	mam	hair	s m a l	S M A L	S M V R	3
+SIPAKAPENSE	qum	hair	w i 7	W I H	W V H	4
+SACAPULTECO_SACAPULAS_CENTRO	quv	hair	w e 7	W E H	W V H	4
+CENTRAL_QUICHE	quc	hair	w i 7	W I H	W V H	4
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	hair	rusmal wi7	R W	R W	5
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	hair	smal wi7	S W	S W	5
+POQOMCHI_WESTERN	pob	hair	rismal na	R N	R N	5
+POCOMAM_EASTERN	poa	hair	n a h	N A H	N V H	8
+USPANTEKO	usp	hair	"risimal b""a"	R P	R P	5
+EASTERN_KEKCHI_CAHABON	kek	hair	r i s m a l	R I S M A L	R V S M V R	5
+ZINACANTAN_TZOTZIL	tzz	hair	c o c	C U C	K V K	6
+TZELTAL_BACHAJON	tzb	hair	c o c	C U C	K V K	6
+CHOL_TUMBALA	ctu	hair	c u c	C Y C	K V K	6
+CHONTAL_TABASCO	chf	hair	u cuce	Y C	V K	6
+CHORTI	caa	hair	c u c	C Y C	K V K	6
+MOPAN	mop	hair	c o 7 o c	C U H U C	K V H V K	6
+MAYA_YUCATAN	yua	hair	c o 7 o c e l	C U H U C E L	K V H V K V R	6
+LACANDON	lac	hair	C o C e r	C U C E R	K V K V R	6
+HUASTEC	hva	head	"o k"""	U K	V K	1
+CHICOMUCELTEC	cob	head	"o k"""	U K	V K	1
+TOJOLABAL	toj	head	o l o m	U L U M	V R V M	2
+CHUJ	cnm	head	x o l o m	G U L U M	K V R V M	2
+JACALTEC	jai	head	w i 7	W I H	W V H	3
+QANJOBAL_SANTA_EULALIA	kjb	head	x o l o m	G U L U M	K V R V M	2
+ACATECO_SAN_MIGUEL_ACATAN	knj	head	h o l o m	H U L U M	H V R V M	2
+IXIL_CHAJUL	ixj	head	w i 7	W I H	W V H	3
+AGUACATEC	agu	head	w i 7	W I H	W V H	3
+TECO_TECTITAN	ttc	head	w i 7	W I H	W V H	3
+MAM_NORTHERN	mam	head	n w i 7 y e	N W I H J E	N W V H J V	3
+SIPAKAPENSE	qum	head	x l o m	G L U M	K R V M	2
+SACAPULTECO_SACAPULAS_CENTRO	quv	head	x a l o m	G A L U M	K V R V M	2
+CENTRAL_QUICHE	quc	head	x o l o m	G U L U M	K V R V M	2
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	head	x o l o n	G U L U N	K V R V N	2
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	head	w i 7	W I H	W V H	3
+POQOMCHI_WESTERN	pob	head	n a	N A	N V	6
+POCOMAM_EASTERN	poa	head	x a l ua m	G A L Y M	K V R V M	2
+USPANTEKO	usp	head	"b"" a"	P A	P V	7
+EASTERN_KEKCHI_CAHABON	kek	head	x o l o m	G U L U M	K V R V M	2
+ZINACANTAN_TZOTZIL	tzz	head	h o l o l	H U L U L	H V R V R	8
+TZELTAL_BACHAJON	tzb	head	x o l	G U L	K V R	4
+CHOL_TUMBALA	ctu	head	h o l	H U L	H V R	4
+CHONTAL_TABASCO	chf	head	p a m	P A M	P V M	9
+CHORTI	caa	head	h o r	H U R	H V R	4
+ITZAJ	itz	head	h o 7 o l	H U H U L	H V H V R	4
+MOPAN	mop	head	p o l	P U L	P V R	5
+MAYA_YUCATAN	yua	head	p o l	P U L	P V R	5
+LACANDON	lac	head	h o r	H U R	H V R	4
+HUASTEC	hva	ear	S u c u n	S Y C Y N	S V K V N	6
+CHICOMUCELTEC	cob	ear	h u C u n	H Y C Y N	H V K V N	7
+TOJOLABAL	toj	ear	sti7 xCikint~ik	S G	S K	2
+CHUJ	cnm	ear	C i k i n	C I K I N	K V K V N	2
+MOCHO	mhc	ear	C i k i n	C I K I N	K V K V N	2
+JACALTEC	jai	ear	C i k i n	C I K I N	K V K V N	2
+QANJOBAL_SANTA_EULALIA	kjb	ear	T i k i n	D I K I N	T V K V N	3
+ACATECO_SAN_MIGUEL_ACATAN	knj	ear	T i k i n	D I K I N	T V K V N	3
+IXIL_CHAJUL	ixj	ear	S i T i n	S I D I N	S V T V N	4
+AGUACATEC	agu	ear	S C i n	S C I N	S K V N	4
+TECO_TECTITAN	ttc	ear	S ky~ i n	S K I N	S K V N	4
+MAM_NORTHERN	mam	ear	S ky~ i n	S K I N	S K V N	4
+SIPAKAPENSE	qum	ear	S k i n	S K I N	S K V N	4
+SACAPULTECO_SACAPULAS_CENTRO	quv	ear	S i k i n	S I K I N	S V K V N	4
+CENTRAL_QUICHE	quc	ear	S i k i n	S I K I N	S V K V N	4
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	ear	x i k i n	G I K I N	K V K V N	5
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	ear	i x k i n	I G K I N	V K K V N	5
+POQOMCHI_WESTERN	pob	ear	S i k i n	S I K I N	S V K V N	4
+POCOMAM_EASTERN	poa	ear	S i k i n	S I K I N	S V K V N	4
+USPANTEKO	usp	ear	S i k i n	S I K I N	S V K V N	4
+EASTERN_KEKCHI_CAHABON	kek	ear	S i k	S I K	S V K	4
+ZINACANTAN_TZOTZIL	tzz	ear	C i k i n i l	C I K I N I L	K V K V N V R	2
+TZELTAL_BACHAJON	tzb	ear	C i k i n	C I K I N	K V K V N	2
+CHOL_TUMBALA	ctu	ear	C i k i n	C I K I N	K V K V N	2
+CHONTAL_TABASCO	chf	ear	C i k i n	C I K I N	K V K V N	2
+CHORTI	caa	ear	C i k i n	C I K I N	K V K V N	2
+ITZAJ	itz	ear	S i k i n	S I K I N	S V K V N	4
+MOPAN	mop	ear	S i k i n	S I K I N	S V K V N	4
+MAYA_YUCATAN	yua	ear	S i k i n	S I K I N	S V K V N	4
+LACANDON	lac	ear	S i k i n	S I K I N	S V K V N	4
+HUASTEC	hva	eye	w a l	W A L	W V R	1
+CHICOMUCELTEC	cob	eye	w a l	W A L	W V R	1
+TOJOLABAL	toj	eye	s a t	S A T	S V T	2
+CHUJ	cnm	eye	yol sat	J S	J S	2
+MOCHO	mhc	eye	C e t	C E T	K V T	8
+JACALTEC	jai	eye	baq sat	P S	P S	2
+QANJOBAL_SANTA_EULALIA	kjb	eye	s a t	S A T	S V T	2
+ACATECO_SAN_MIGUEL_ACATAN	knj	eye	s a t	S A T	S V T	2
+IXIL_CHAJUL	ixj	eye	"b""aq"" wac"	P W	P W	3
+AGUACATEC	agu	eye	C i w u c u 7	C I W Y C Y H	K V W V K V H	9
+TECO_TECTITAN	ttc	eye	w i c	W I C	W V K	10
+MAM_NORTHERN	mam	eye	"baq"" ky~wice"	P K	P K	11
+SIPAKAPENSE	qum	eye	"b""aq"" waC"	P W	P W	3
+SACAPULTECO_SACAPULAS_CENTRO	quv	eye	"b""a7 waC"	P W	P W	3
+CENTRAL_QUICHE	quc	eye	"b"" a q"" o C"	P A K U C	P V K V K	3
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	eye	"naq"" waC"	N W	N W	5
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	eye	w a C	W A C	W V K	4
+POQOMCHI_WESTERN	pob	eye	"n a q"" w a C i s"	N A K W A C I S	N V K W V K V S	5
+POCOMAM_EASTERN	poa	eye	"n a q"""	N A K	N V K	5
+USPANTEKO	usp	eye	"b""aq"" wiC"	P W	P W	3
+EASTERN_KEKCHI_CAHABON	kek	eye	"naq"" uh"	N Y	N V	2
+ZINACANTAN_TZOTZIL	tzz	eye	s a t i l	S A T I L	S V T V R	2
+TZELTAL_BACHAJON	tzb	eye	s i t	S I T	S V T	6
+CHOL_TUMBALA	ctu	eye	w u t	W Y T	W V T	6
+CHONTAL_TABASCO	chf	eye	h u t	H Y T	H V T	12
+CHORTI	caa	eye	"n a k"" iu t"	N A K I T	N V K V T	7
+ITZAJ	itz	eye	i C	I C	V K	7
+MOPAN	mop	eye	"nek"" iC"	N I	N V	7
+MAYA_YUCATAN	yua	eye	i C	I C	V K	7
+LACANDON	lac	eye	i C	I C	V K	2
+HUASTEC	hva	nose	8 a m	D A M	T V M	1
+CHICOMUCELTEC	cob	nose	s a m	S A M	S V M	1
+TOJOLABAL	toj	nose	n i 7	N I H	N V H	2
+CHUJ	cnm	nose	N i 7	N I H	N V H	2
+MOCHO	mhc	nose	C a m	C A M	K V M	3
+JACALTEC	jai	nose	C a m	C A M	K V M	3
+QANJOBAL_SANTA_EULALIA	kjb	nose	T a m	D A M	T V M	3
+ACATECO_SAN_MIGUEL_ACATAN	knj	nose	T a m	D A M	T V M	3
+IXIL_CHAJUL	ixj	nose	x u 7	G Y H	K V H	4
+AGUACATEC	agu	nose	x u 7	G Y H	K V H	4
+TECO_TECTITAN	ttc	nose	"s o q"""	S U K	S V K	6
+MAM_NORTHERN	mam	nose	t C a n a	T C A N A	T K V N V	7
+SIPAKAPENSE	qum	nose	c a m	C A M	K V M	5
+SACAPULTECO_SACAPULAS_CENTRO	quv	nose	c a m	C A M	K V M	5
+CENTRAL_QUICHE	quc	nose	c a m	C A M	K V M	5
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	nose	c a n	C A N	K V N	5
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	nose	c a m	C A M	K V M	5
+POQOMCHI_WESTERN	pob	nose	x u 7	G Y H	K V H	4
+POCOMAM_EASTERN	poa	nose	x u 7	G Y H	K V H	4
+USPANTEKO	usp	nose	c a m	C A M	K V M	5
+EASTERN_KEKCHI_CAHABON	kek	nose	u x	Y G	V K	8
+ZINACANTAN_TZOTZIL	tzz	nose	n i 7	N I H	N V H	2
+TZELTAL_BACHAJON	tzb	nose	n i 7	N I H	N V H	2
+CHOL_TUMBALA	ctu	nose	n i 7	N I H	N V H	2
+CHONTAL_TABASCO	chf	nose	n i 7	N I H	N V H	2
+CHORTI	caa	nose	n i 7	N I H	N V H	2
+ITZAJ	itz	nose	n i 7	N I H	N V H	2
+MOPAN	mop	nose	n i 7	N I H	N V H	2
+MAYA_YUCATAN	yua	nose	n i 7	N I H	N V H	2
+LACANDON	lac	nose	n i 7	N I H	N V H	2
+HUASTEC	hva	mouth	w i 7	W I H	W V H	1
+CHICOMUCELTEC	cob	mouth	t u k u w i 7	T Y K Y W I H	T V K V W V H	1
+TOJOLABAL	toj	mouth	t i 7	T I H	T V H	2
+CHUJ	cnm	mouth	t i 7	T I H	T V H	2
+MOCHO	mhc	mouth	t i 7	T I H	T V H	2
+JACALTEC	jai	mouth	t i	T I	T V	2
+QANJOBAL_SANTA_EULALIA	kjb	mouth	t i 7	T I H	T V H	2
+ACATECO_SAN_MIGUEL_ACATAN	knj	mouth	t i 7	T I H	T V H	2
+IXIL_CHAJUL	ixj	mouth	c i 7	C I H	K V H	2
+AGUACATEC	agu	mouth	c i 7	C I H	K V H	2
+TECO_TECTITAN	ttc	mouth	c i 7	C I H	K V H	2
+MAM_NORTHERN	mam	mouth	c i 7	C I H	K V H	2
+SIPAKAPENSE	qum	mouth	C i 7	C I H	K V H	2
+SACAPULTECO_SACAPULAS_CENTRO	quv	mouth	C i 7	C I H	K V H	2
+CENTRAL_QUICHE	quc	mouth	C i 7	C I H	K V H	2
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	mouth	C i 7	C I H	K V H	2
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	mouth	C i 7 a x	C I H A G	K V H V K	2
+POQOMCHI_WESTERN	pob	mouth	C i 7	C I H	K V H	2
+POCOMAM_EASTERN	poa	mouth	C i 7	C I H	K V H	2
+USPANTEKO	usp	mouth	c i 7	C I H	K V H	2
+EASTERN_KEKCHI_CAHABON	kek	mouth	e h	E H	V H	3
+ZINACANTAN_TZOTZIL	tzz	mouth	ea l	E L	V R	3
+TZELTAL_BACHAJON	tzb	mouth	e h	E H	V H	3
+CHOL_TUMBALA	ctu	mouth	e h	E H	V H	3
+CHONTAL_TABASCO	chf	mouth	t i 7	T I H	T V H	2
+CHORTI	caa	mouth	t i 7	T I H	T V H	2
+ITZAJ	itz	mouth	C i 7	C I H	K V H	2
+MOPAN	mop	mouth	C i 7	C I H	K V H	2
+MAYA_YUCATAN	yua	mouth	C i 7	C I H	K V H	2
+LACANDON	lac	mouth	C i 7	C I H	K V H	2
+HUASTEC	hva	tooth	k a m a b	K A M A P	K V M V P	1
+CHICOMUCELTEC	cob	tooth	k a m a w	K A M A W	K V M V W	1
+TOJOLABAL	toj	tooth	e x	E G	V K	2
+MOCHO	mhc	tooth	e h	E H	V H	2
+QANJOBAL_SANTA_EULALIA	kjb	tooth	e 7	E H	V H	2
+ACATECO_SAN_MIGUEL_ACATAN	knj	tooth	e	E	V	2
+IXIL_CHAJUL	ixj	tooth	e h	E H	V H	2
+AGUACATEC	agu	tooth	e 7	E H	V H	2
+TECO_TECTITAN	ttc	tooth	e 7	E H	V H	2
+SIPAKAPENSE	qum	tooth	ru ey	R E	R V	2
+SACAPULTECO_SACAPULAS_CENTRO	quv	tooth	wa ey	W E	W V	2
+CENTRAL_QUICHE	quc	tooth	w a r e	W A R E	W V R V	2
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	tooth	e y	E J	V J	2
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	tooth	e y a x	E J A G	V J V K	2
+POQOMCHI_WESTERN	pob	tooth	e h i s	E H I S	V H V S	2
+POCOMAM_EASTERN	poa	tooth	ie h	I H	V H	2
+USPANTEKO	usp	tooth	e	E	V	2
+EASTERN_KEKCHI_CAHABON	kek	tooth	ruh eh	R E	R V	2
+ZINACANTAN_TZOTZIL	tzz	tooth	ea l	E L	V R	2
+TZELTAL_BACHAJON	tzb	tooth	e h a l	E H A L	V H V R	2
+CHOL_TUMBALA	ctu	tooth	bak eh	P E	P V	2
+CHONTAL_TABASCO	chf	tooth	e h	E H	V H	2
+CHORTI	caa	tooth	e h	E H	V H	2
+ITZAJ	itz	tooth	k o h	K U H	K V H	3
+MOPAN	mop	tooth	k o x	K U G	K V K	3
+MAYA_YUCATAN	yua	tooth	k o h	K U H	K V H	3
+LACANDON	lac	tooth	k o h	K U H	K V H	3
+HUASTEC	hva	tongue	"l e k"" a b"	L E K A P	R V K V P	1
+CHICOMUCELTEC	cob	tongue	"l e k"" a w"	L E K A W	R V K V W	1
+TOJOLABAL	toj	tongue	"a k"""	A K	V K	2
+CHUJ	cnm	tongue	"a k"""	A K	V K	2
+MOCHO	mhc	tongue	"a q"""	A K	V K	2
+JACALTEC	jai	tongue	a q	A K	V K	2
+QANJOBAL_SANTA_EULALIA	kjb	tongue	"a q"""	A K	V K	2
+ACATECO_SAN_MIGUEL_ACATAN	knj	tongue	a 7	A H	V H	2
+IXIL_CHAJUL	ixj	tongue	"a q"""	A K	V K	2
+AGUACATEC	agu	tongue	"a q"""	A K	V K	2
+TECO_TECTITAN	ttc	tongue	"a q"""	A K	V K	2
+MAM_NORTHERN	mam	tongue	"w a q"" e"	W A K E	W V K V	2
+SIPAKAPENSE	qum	tongue	"a q"""	A K	V K	2
+SACAPULTECO_SACAPULAS_CENTRO	quv	tongue	"a q"""	A K	V K	2
+CENTRAL_QUICHE	quc	tongue	"a q"""	A K	V K	2
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	tongue	"a q"""	A K	V K	2
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	tongue	"a q"""	A K	V K	2
+POQOMCHI_WESTERN	pob	tongue	"a q"""	A K	V K	2
+POCOMAM_EASTERN	poa	tongue	"a q"""	A K	V K	2
+USPANTEKO	usp	tongue	"a q"""	A K	V K	2
+EASTERN_KEKCHI_CAHABON	kek	tongue	"rux aq"""	R A	R V	2
+ZINACANTAN_TZOTZIL	tzz	tongue	"o k"""	U K	V K	2
+TZELTAL_BACHAJON	tzb	tongue	"a k"""	A K	V K	2
+CHOL_TUMBALA	ctu	tongue	"a k"""	A K	V K	2
+CHONTAL_TABASCO	chf	tongue	"a k"""	A K	V K	2
+ITZAJ	itz	tongue	"a k"""	A K	V K	2
+MOPAN	mop	tongue	"a k"""	A K	V K	2
+MAYA_YUCATAN	yua	tongue	"a k"""	A K	V K	2
+LACANDON	lac	tongue	"a k"""	A K	V K	2
+HUASTEC	hva	claw	"i c i k"""	I C I K	V K V K	4
+CHICOMUCELTEC	cob	claw	"i C a k"""	I C A K	V K V K	4
+TOJOLABAL	toj	claw	e C a l	E C A L	V K V R	2
+CHUJ	cnm	claw	e C	E C	V K	2
+MOCHO	mhc	claw	"i s k"" a q"	I S K A K	V S K V K	3
+JACALTEC	jai	claw	y i s q a x e	J I S K A G E	J V S K V K V	3
+QANJOBAL_SANTA_EULALIA	kjb	claw	"i s q"" a q"	I S K A K	V S K V K	3
+ACATECO_SAN_MIGUEL_ACATAN	knj	claw	"i s q"" a x"	I S K A G	V S K V K	3
+IXIL_CHAJUL	ixj	claw	"i S k"" a q"	I S K A K	V S K V K	3
+AGUACATEC	agu	claw	"p a k"""	P A K	P V K	5
+TECO_TECTITAN	ttc	claw	"S k""y~ a q"	S K A K	S K V K	3
+MAM_NORTHERN	mam	claw	"t S k""y~ a q"	T S K A K	T S K V K	3
+SIPAKAPENSE	qum	claw	"S k""y~ a q"	S K A K	S K V K	3
+SACAPULTECO_SACAPULAS_CENTRO	quv	claw	"i S k"" a S"	I S K A S	V S K V S	3
+CENTRAL_QUICHE	quc	claw	"i S k"" i3 q"	I S K I K	V S K V K	3
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	claw	"i S k""y~ a q"	I S K A K	V S K V K	3
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	claw	"i S k"" a q"	I S K A K	V S K V K	3
+POQOMCHI_WESTERN	pob	claw	"i S k"" a q"	I S K A K	V S K V K	3
+POCOMAM_EASTERN	poa	claw	"i S k"" a q"	I S K A K	V S K V K	3
+USPANTEKO	usp	claw	"i S"" e q"	I S E K	V S V K	3
+EASTERN_KEKCHI_CAHABON	kek	claw	i S i x	I S I G	V S V K	3
+ZINACANTAN_TZOTZIL	tzz	claw	"i C"" a k i l"	I C A K I L	V K V K V R	4
+TZELTAL_BACHAJON	tzb	claw	"e C"" a k"	E C A K	V K V K	4
+CHONTAL_TABASCO	chf	claw	"i C"" 3 k"	I C O K	V K V K	4
+CHORTI	caa	claw	or uyok	U Y	V V	6
+ITZAJ	itz	claw	"i C"" a k"	I C A K	V K V K	4
+MOPAN	mop	claw	"i C"" a k"	I C A K	V K V K	4
+MAYA_YUCATAN	yua	claw	"i C"" a k"	I C A K	V K V K	4
+HUASTEC	hva	foot	a k a n	A K A N	V K V N	1
+CHICOMUCELTEC	cob	foot	a k a n	A K A N	V K V N	1
+TOJOLABAL	toj	foot	o k a l	U K A L	V K V R	2
+CHUJ	cnm	foot	o k	U K	V K	2
+MOCHO	mhc	foot	o q	U K	V K	2
+JACALTEC	jai	foot	o x	U G	V K	2
+QANJOBAL_SANTA_EULALIA	kjb	foot	a q a n	A K A N	V K V N	1
+ACATECO_SAN_MIGUEL_ACATAN	knj	foot	a x a n	A G A N	V K V N	1
+IXIL_CHAJUL	ixj	foot	o q	U K	V K	2
+AGUACATEC	agu	foot	q 3 n	K O N	K V N	1
+TECO_TECTITAN	ttc	foot	o q	U K	V K	2
+MAM_NORTHERN	mam	foot	qq a n	K A N	K V N	1
+SIPAKAPENSE	qum	foot	q a n	K A N	K V N	1
+SACAPULTECO_SACAPULAS_CENTRO	quv	foot	a q a n	A K A N	V K V N	1
+CENTRAL_QUICHE	quc	foot	a q 3 n	A K O N	V K V N	1
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	foot	a q a n	A K A N	V K V N	1
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	foot	ruSaq aqan	R A	R V	1
+POQOMCHI_WESTERN	pob	foot	o q	U K	V K	2
+POCOMAM_EASTERN	poa	foot	t u q	T Y K	T V K	3
+USPANTEKO	usp	foot	a q a n	A K A N	V K V N	1
+EASTERN_KEKCHI_CAHABON	kek	foot	o q	U K	V K	2
+ZINACANTAN_TZOTZIL	tzz	foot	o k o l	U K U L	V K V R	2
+TZELTAL_BACHAJON	tzb	foot	o k	U K	V K	2
+CHOL_TUMBALA	ctu	foot	o k	U K	V K	2
+CHONTAL_TABASCO	chf	foot	o k	U K	V K	2
+CHORTI	caa	foot	o k	U K	V K	2
+ITZAJ	itz	foot	o k	U K	V K	2
+MOPAN	mop	foot	o k	U K	V K	2
+MAYA_YUCATAN	yua	foot	o k	U K	V K	2
+LACANDON	lac	foot	o k	U K	V K	2
+HUASTEC	hva	knee	kw~ a l a l	K A L A L	K V R V R	7
+CHICOMUCELTEC	cob	knee	t o l o C	T U L U C	T V R V K	8
+TOJOLABAL	toj	knee	"S i x k"" a n"	S I G K A N	S V K K V N	9
+CHUJ	cnm	knee	xolm penek	G P	K P	10
+MOCHO	mhc	knee	"w i C"" i 7"	W I C I H	W V K V H	1
+JACALTEC	jai	knee	"w i c"" i 7"	W I C I H	W V K V H	1
+QANJOBAL_SANTA_EULALIA	kjb	knee	p e n e k	P E N E K	P V N V K	2
+ACATECO_SAN_MIGUEL_ACATAN	knj	knee	p e n e k	P E N E K	P V N V K	2
+IXIL_CHAJUL	ixj	knee	wi7 aqan	W A	W V	11
+AGUACATEC	agu	knee	"C"" e k"	C E K	K V K	3
+TECO_TECTITAN	ttc	knee	"c"" e ky~"	C E K	K V K	3
+MAM_NORTHERN	mam	knee	"n C"" e ky~ e"	N C E K E	N K V K V	3
+SIPAKAPENSE	qum	knee	"C"" e k"	C E K	K V K	3
+SACAPULTECO_SACAPULAS_CENTRO	quv	knee	"wi7 C""ek"	W C	W K	12
+CENTRAL_QUICHE	quc	knee	"uxolom C""ekax"	Y C	V K	13
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	knee	"C"" e k"	C E K	K V K	3
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	knee	"C"" e k a x"	C E K A G	K V K V K	3
+POQOMCHI_WESTERN	pob	knee	"n a h C"" e k"	N A H C E K	N V H K V K	4
+POCOMAM_EASTERN	poa	knee	n a h	N A H	N V H	4
+USPANTEKO	usp	knee	"C"" e k"	C E K	K V K	3
+EASTERN_KEKCHI_CAHABON	kek	knee	"b""en aq"	P A	P V	14
+ZINACANTAN_TZOTZIL	tzz	knee	holov akan	H A	H V	5
+TZELTAL_BACHAJON	tzb	knee	hol kakan	H K	H K	5
+CHOL_TUMBALA	ctu	knee	p i S	P I S	P V S	6
+CHONTAL_TABASCO	chf	knee	p i S	P I S	P V S	6
+CHORTI	caa	knee	p i S	P I S	P V S	6
+ITZAJ	itz	knee	S o n t a l	S U N T A L	S V N T V R	15
+MOPAN	mop	knee	p i S	P I S	P V S	6
+MAYA_YUCATAN	yua	knee	p i S	P I S	P V S	6
+LACANDON	lac	knee	p i S	P I S	P V S	6
+HUASTEC	hva	hand	"k"" u b a k"	K Y P A K	K V P V K	1
+CHICOMUCELTEC	cob	hand	"k"" o w a k"	K U W A K	K V W V K	1
+TOJOLABAL	toj	hand	"k"" a b"""	K A P	K V P	2
+CHUJ	cnm	hand	"k"" a b"	K A P	K V P	2
+MOCHO	mhc	hand	"q"" a b"	K A P	K V P	2
+JACALTEC	jai	hand	"q"" a b"	K A P	K V P	2
+QANJOBAL_SANTA_EULALIA	kjb	hand	"q"" a b"""	K A P	K V P	2
+ACATECO_SAN_MIGUEL_ACATAN	knj	hand	"q"" a b"""	K A P	K V P	2
+IXIL_CHAJUL	ixj	hand	"q"" a b"""	K A P	K V P	2
+AGUACATEC	agu	hand	"q"" a b"	K A P	K V P	2
+TECO_TECTITAN	ttc	hand	"q"" a b"""	K A P	K V P	2
+MAM_NORTHERN	mam	hand	"n q"" a b e"	N K A P E	N K V P V	2
+SIPAKAPENSE	qum	hand	"q"" a b"""	K A P	K V P	2
+SACAPULTECO_SACAPULAS_CENTRO	quv	hand	"q"" a b"""	K A P	K V P	2
+CENTRAL_QUICHE	quc	hand	"q"" 3 b"""	K O P	K V P	2
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	hand	"q"" a 7"	K A H	K V H	2
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	hand	"q"" a 7"	K A H	K V H	2
+POQOMCHI_WESTERN	pob	hand	"q"" a b"""	K A P	K V P	2
+POCOMAM_EASTERN	poa	hand	"q"" a m"""	K A M	K V M	2
+USPANTEKO	usp	hand	"q"" a b"""	K A P	K V P	2
+EASTERN_KEKCHI_CAHABON	kek	hand	"u q"""	Y K	V K	3
+ZINACANTAN_TZOTZIL	tzz	hand	"k"" a b a l"	K A P A L	K V P V R	2
+TZELTAL_BACHAJON	tzb	hand	"k"" a b"	K A P	K V P	2
+CHOL_TUMBALA	ctu	hand	"k"" 3 b"	K O P	K V P	2
+CHONTAL_TABASCO	chf	hand	"k"" 3 b"	K O P	K V P	2
+CHORTI	caa	hand	"k"" a p"	K A P	K V P	2
+ITZAJ	itz	hand	"k"" a b"	K A P	K V P	2
+MOPAN	mop	hand	"k"" 3 7"	K O H	K V H	2
+MAYA_YUCATAN	yua	hand	"k"" a b"""	K A P	K V P	2
+LACANDON	lac	hand	"k"" 3 b"	K O P	K V P	2
+HUASTEC	hva	belly	e b o m	E P U M	V P V M	5
+CHICOMUCELTEC	cob	belly	t u k u l	T Y K Y L	T V K V R	6
+TOJOLABAL	toj	belly	l u k u m	L Y K Y M	R V K V M	7
+CHUJ	cnm	belly	"k"" o x o l"	K U G U L	K V K V R	1
+MOCHO	mhc	belly	"k"" u 7 u l"	K Y H Y L	K V H V R	1
+JACALTEC	jai	belly	"k"" u l"	K Y L	K V R	1
+QANJOBAL_SANTA_EULALIA	kjb	belly	"k"" u l"	K Y L	K V R	1
+ACATECO_SAN_MIGUEL_ACATAN	knj	belly	"k"" u l"	K Y L	K V R	1
+IXIL_CHAJUL	ixj	belly	u l	Y L	V R	8
+AGUACATEC	agu	belly	"k"" u l"	K Y L	K V R	1
+TECO_TECTITAN	ttc	belly	"k"" u x"	K Y G	K V K	2
+MAM_NORTHERN	mam	belly	"t k"" u x"	T K Y G	T K V K	2
+SIPAKAPENSE	qum	belly	s o n	S U N	S V N	9
+SACAPULTECO_SACAPULAS_CENTRO	quv	belly	"k"" o S"	K U S	K V S	10
+CENTRAL_QUICHE	quc	belly	p a m	P A M	P V M	3
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	belly	p a m	P A M	P V M	3
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	belly	p a n	P A N	P V N	3
+POQOMCHI_WESTERN	pob	belly	p a m	P A M	P V M	3
+POCOMAM_EASTERN	poa	belly	p a m	P A M	P V M	3
+USPANTEKO	usp	belly	"C"" o l"	C U L	K V R	11
+EASTERN_KEKCHI_CAHABON	kek	belly	s a 7	S A H	S V H	12
+ZINACANTAN_TZOTZIL	tzz	belly	c u k u t	C Y K Y T	K V K V T	13
+TZELTAL_BACHAJON	tzb	belly	"C""ut Cambalam"	C C	K K	14
+CHONTAL_TABASCO	chf	belly	"n 3 k"""	N O K	N V K	4
+CHORTI	caa	belly	n a k	N A K	N V K	4
+ITZAJ	itz	belly	"n 3 k"""	N O K	N V K	4
+MOPAN	mop	belly	"n 3 k"""	N O K	N V K	4
+MAYA_YUCATAN	yua	belly	"n a k"""	N A K	N V K	4
+LACANDON	lac	belly	"n 3 k"""	N O K	N V K	4
+HUASTEC	hva	neck	"n u k"" l e k"	N Y K L E K	N V K R V K	1
+CHICOMUCELTEC	cob	neck	"n u k"""	N Y K	N V K	1
+TOJOLABAL	toj	neck	"n u k"""	N Y K	N V K	1
+CHUJ	cnm	neck	x a x	G A G	K V K	4
+MOCHO	mhc	neck	"n u q"""	N Y K	N V K	1
+JACALTEC	jai	neck	n u q	N Y K	N V K	1
+QANJOBAL_SANTA_EULALIA	kjb	neck	"n u q"""	N Y K	N V K	1
+ACATECO_SAN_MIGUEL_ACATAN	knj	neck	n u 7	N Y H	N V H	1
+IXIL_CHAJUL	ixj	neck	q u l	K Y L	K V R	2
+AGUACATEC	agu	neck	q u l	K Y L	K V R	2
+TECO_TECTITAN	ttc	neck	a l q	A L K	V R K	3
+MAM_NORTHERN	mam	neck	q u l	K Y L	K V R	2
+SIPAKAPENSE	qum	neck	q u l	K Y L	K V R	2
+SACAPULTECO_SACAPULAS_CENTRO	quv	neck	p a q u l	P A K Y L	P V K V R	2
+CENTRAL_QUICHE	quc	neck	q u l	K Y L	K V R	2
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	neck	q u l	K Y L	K V R	2
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	neck	q u l	K Y L	K V R	2
+POQOMCHI_WESTERN	pob	neck	a l a q	A L A K	V R V K	3
+POCOMAM_EASTERN	poa	neck	"a l a q"""	A L A K	V R V K	3
+USPANTEKO	usp	neck	q u l	K Y L	K V R	2
+EASTERN_KEKCHI_CAHABON	kek	neck	x a x	G A G	K V K	4
+ZINACANTAN_TZOTZIL	tzz	neck	"n u k"" i l"	N Y K I L	N V K V R	1
+TZELTAL_BACHAJON	tzb	neck	"t e n u k"""	T E N Y K	T V N V K	1
+CHONTAL_TABASCO	chf	neck	"l u k"" u b"	L Y K Y P	R V K V P	6
+CHORTI	caa	neck	n u k	N Y K	N V K	1
+ITZAJ	itz	neck	k a l	K A L	K V R	5
+MOPAN	mop	neck	k a l	K A L	K V R	5
+MAYA_YUCATAN	yua	neck	k a l	K A L	K V R	5
+LACANDON	lac	neck	k a r	K A R	K V R	5
+HUASTEC	hva	breasts	i m i l	I M I L	V M V R	1
+CHICOMUCELTEC	cob	breasts	i m	I M	V M	1
+TOJOLABAL	toj	breasts	m i S	M I S	M V S	5
+CHUJ	cnm	breasts	i m	I M	V M	1
+MOCHO	mhc	breasts	i m	I M	V M	1
+JACALTEC	jai	breasts	i m	I M	V M	1
+QANJOBAL_SANTA_EULALIA	kjb	breasts	i m	I M	V M	1
+ACATECO_SAN_MIGUEL_ACATAN	knj	breasts	i m	I M	V M	1
+IXIL_CHAJUL	ixj	breasts	"C"" u 7"	C Y H	K V H	6
+AGUACATEC	agu	breasts	i m	I M	V M	1
+TECO_TECTITAN	ttc	breasts	i m	I M	V M	1
+MAM_NORTHERN	mam	breasts	k e 7 i m x	K E H I M G	K V H V M K	7
+SIPAKAPENSE	qum	breasts	i m	I M	V M	1
+SACAPULTECO_SACAPULAS_CENTRO	quv	breasts	t u 7	T Y H	T V H	2
+CENTRAL_QUICHE	quc	breasts	t u 7	T Y H	T V H	2
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	breasts	"c"" u m"	C Y M	K V M	3
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	breasts	"c"" u m"	C Y M	K V M	3
+POQOMCHI_WESTERN	pob	breasts	"C"" u C"""	C Y C	K V K	4
+POCOMAM_EASTERN	poa	breasts	"C"" u C"""	C Y C	K V K	4
+USPANTEKO	usp	breasts	t u 7	T Y H	T V H	2
+EASTERN_KEKCHI_CAHABON	kek	breasts	t u 7	T Y H	T V H	2
+ZINACANTAN_TZOTZIL	tzz	breasts	C u 7 i l	C Y H I L	K V H V R	2
+TZELTAL_BACHAJON	tzb	breasts	C u 7	C Y H	K V H	2
+CHOL_TUMBALA	ctu	breasts	C u 7	C Y H	K V H	2
+CHONTAL_TABASCO	chf	breasts	C u 7	C Y H	K V H	2
+CHORTI	caa	breasts	u C u 7	Y C Y H	V K V H	2
+ITZAJ	itz	breasts	i m	I M	V M	1
+MOPAN	mop	breasts	C u 7	C Y H	K V H	2
+LACANDON	lac	breasts	i m	I M	V M	1
+HUASTEC	hva	heart	i C i C	I C I C	V K V K	1
+CHICOMUCELTEC	cob	heart	i C i t	I C I T	V K V T	1
+TOJOLABAL	toj	heart	a l c i l	A L C I L	V R K V R	5
+CHUJ	cnm	heart	p i S a n	P I S A N	P V S V N	2
+QANJOBAL_SANTA_EULALIA	kjb	heart	p i S a n	P I S A N	P V S V N	2
+ACATECO_SAN_MIGUEL_ACATAN	knj	heart	p i S a n	P I S A N	P V S V N	2
+ZINACANTAN_TZOTZIL	tzz	heart	o n i l	U N I L	V N V R	3
+TZELTAL_BACHAJON	tzb	heart	o t a n	U T A N	V T V N	3
+CHOL_TUMBALA	ctu	heart	"p u s i k"" a l"	P Y S I K A L	P V S V K V R	4
+ITZAJ	itz	heart	"p u s i k"" a l"	P Y S I K A L	P V S V K V R	4
+MOPAN	mop	heart	"p 3 s 3 k"" a l"	P O S O K A L	P V S V K V R	4
+MAYA_YUCATAN	yua	heart	"p u k s i 7 i k"" a l"	P Y K S I H I K A L	P V K S V H V K V R	4
+LACANDON	lac	heart	p i S a m	P I S A M	P V S V M	2
+HUASTEC	hva	liver	m a m a l	M A M A L	M V M V R	1
+CHICOMUCELTEC	cob	liver	m a m a l	M A M A L	M V M V R	1
+TOJOLABAL	toj	liver	"C o k"" o l"	C U K U L	K V K V R	8
+CHUJ	cnm	liver	s e y u b	S E J Y P	S V J V P	2
+MOCHO	mhc	liver	"s e y u b"""	S E J Y P	S V J V P	2
+JACALTEC	jai	liver	s a s i p	S A S I P	S V S V P	4
+QANJOBAL_SANTA_EULALIA	kjb	liver	"t"" i S"	T I S	T V S	9
+ACATECO_SAN_MIGUEL_ACATAN	knj	liver	"q"" e x"	K E G	K V K	10
+IXIL_CHAJUL	ixj	liver	c o n	C U N	K V N	11
+AGUACATEC	agu	liver	"C"" o C"""	C U C	K V K	3
+TECO_TECTITAN	ttc	liver	"S T a n s e b"""	S D A N S E P	S T V N S V P	4
+MAM_NORTHERN	mam	liver	"t C"" o C"""	T C U C	T K V K	3
+SACAPULTECO_SACAPULAS_CENTRO	quv	liver	"s a s e b"""	S A S E P	S V S V P	4
+CENTRAL_QUICHE	quc	liver	"s e s e b"""	S E S E P	S V S V P	4
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	liver	s a s e 7	S A S E H	S V S V H	4
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	liver	s a s e 7	S A S E H	S V S V H	4
+POQOMCHI_WESTERN	pob	liver	t a m a t	T A M A T	T V M V T	7
+POCOMAM_EASTERN	poa	liver	i g a d	I K A T	V K V T	12
+USPANTEKO	usp	liver	u l e w	Y L E W	V R V W	13
+EASTERN_KEKCHI_CAHABON	kek	liver	"s a s e b"""	S A S E P	S V S V P	4
+ZINACANTAN_TZOTZIL	tzz	liver	s e k u b	S E K Y P	S V K V P	5
+TZELTAL_BACHAJON	tzb	liver	s e k u b	S E K Y P	S V K V P	5
+CHOL_TUMBALA	ctu	liver	o l m a l	U L M A L	V R M V R	6
+CHONTAL_TABASCO	chf	liver	y o l m a	J U L M A	J V R M V	6
+CHORTI	caa	liver	S e m e m	S E M E M	S V M V M	14
+ITZAJ	itz	liver	t a m e n	T A M E N	T V M V N	7
+MOPAN	mop	liver	t a m e n	T A M E N	T V M V N	7
+MAYA_YUCATAN	yua	liver	t a m a n	T A M A N	T V M V N	7
+LACANDON	lac	liver	t a m e n	T A M E N	T V M V N	7
+HUASTEC	hva	drink	"u c"" a l"	Y C A L	V K V R	1
+TOJOLABAL	toj	drink	u 7	Y H	V H	1
+CHUJ	cnm	drink	u k x	Y K G	V K K	1
+MOCHO	mhc	drink	"u k"""	Y K	V K	1
+QANJOBAL_SANTA_EULALIA	kjb	drink	"u k"" e S"	Y K E S	V K V S	1
+ACATECO_SAN_MIGUEL_ACATAN	knj	drink	"u k"" e"	Y K E	V K V	1
+IXIL_CHAJUL	ixj	drink	"u k"" a"	Y K A	V K V	1
+AGUACATEC	agu	drink	"t k"" a x l e n"	T K A G L E N	T K V K R V N	5
+TECO_TECTITAN	ttc	drink	"u k"" a"	Y K A	V K V	1
+MAM_NORTHERN	mam	drink	"k"" a n a"	K A N A	K V N V	6
+SIPAKAPENSE	qum	drink	q u m	K Y M	K V M	2
+SACAPULTECO_SACAPULAS_CENTRO	quv	drink	q a m u x	K A M Y G	K V M V K	2
+CENTRAL_QUICHE	quc	drink	t i x	T I G	T V K	3
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	drink	t i x	T I G	T V K	3
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	drink	t i x	T I G	T V K	3
+POQOMCHI_WESTERN	pob	drink	"u k"" e x"	Y K E G	V K V K	1
+POCOMAM_EASTERN	poa	drink	"u k"" e x"	Y K E G	V K V K	1
+USPANTEKO	usp	drink	"u k"" a x"	Y K A G	V K V K	1
+EASTERN_KEKCHI_CAHABON	kek	drink	"u k"""	Y K	V K	1
+ZINACANTAN_TZOTZIL	tzz	drink	"u C"""	Y C	V K	1
+TZELTAL_BACHAJON	tzb	drink	"u C"""	Y C	V K	1
+CHOL_TUMBALA	ctu	drink	h a p	H A P	H V P	4
+CHONTAL_TABASCO	chf	drink	"u C"" e n"	Y C E N	V K V N	1
+CHORTI	caa	drink	"C"" i"	C I	K V	7
+ITZAJ	itz	drink	"u k"""	Y K	V K	1
+MOPAN	mop	drink	"u k"""	Y K	V K	1
+MAYA_YUCATAN	yua	drink	"u k"""	Y K	V K	1
+LACANDON	lac	drink	h a p	H A P	H V P	4
+HUASTEC	hva	eat	"k"" a p u l"	K A P Y L	K V P V R	7
+TOJOLABAL	toj	eat	w a 7 i	W A H I	W V H V	1
+CHUJ	cnm	eat	w a 7 i	W A H I	W V H V	1
+MOCHO	mhc	eat	l o 7	L U H	R V H	2
+JACALTEC	jai	eat	w a 7	W A H	W V H	1
+QANJOBAL_SANTA_EULALIA	kjb	eat	l o 7	L U H	R V H	2
+ACATECO_SAN_MIGUEL_ACATAN	knj	eat	l o 7	L U H	R V H	2
+IXIL_CHAJUL	ixj	eat	"T"" a 7 o n"	D A H U N	T V H V N	8
+AGUACATEC	agu	eat	w a n	W A N	W V N	3
+TECO_TECTITAN	ttc	eat	w a n	W A N	W V N	3
+MAM_NORTHERN	mam	eat	w a n	W A N	W V N	3
+SIPAKAPENSE	qum	eat	w a 7	W A H	W V H	1
+SACAPULTECO_SACAPULAS_CENTRO	quv	eat	w a 7	W A H	W V H	1
+CENTRAL_QUICHE	quc	eat	w i k	W I K	W V K	9
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	eat	w a 7	W A H	W V H	1
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	eat	w a 7	W A H	W V H	1
+POQOMCHI_WESTERN	pob	eat	w i 7	W I H	W V H	4
+POCOMAM_EASTERN	poa	eat	w i 7	W I H	W V H	4
+USPANTEKO	usp	eat	w i n	W I N	W V N	10
+EASTERN_KEKCHI_CAHABON	kek	eat	w a 7	W A H	W V H	1
+ZINACANTAN_TZOTZIL	tzz	eat	o C a n	U C A N	V K V N	11
+TZELTAL_BACHAJON	tzb	eat	w e 7	W E H	W V H	1
+CHOL_TUMBALA	ctu	eat	"k"" u S"	K Y S	K V S	5
+CHONTAL_TABASCO	chf	eat	"k"" u S e 7"	K Y S E H	K V S V H	5
+CHORTI	caa	eat	w e 7	W E H	W V H	1
+ITZAJ	itz	eat	h a n	H A N	H V N	6
+MOPAN	mop	eat	x a n	G A N	K V N	6
+MAYA_YUCATAN	yua	eat	h a n a l	H A N A L	H V N V R	6
+LACANDON	lac	eat	h a n 3 n	H A N O N	H V N V N	6
+HUASTEC	hva	bite	"k"" a t"" u w a l"	K A T Y W A L	K V T V W V R	5
+TOJOLABAL	toj	bite	"k"" u S u"	K Y S Y	K V S V	4
+CHUJ	cnm	bite	C i 7 a	C I H A	K V H V	1
+JACALTEC	jai	bite	C i C i w a	C I C I W A	K V K V W V	6
+QANJOBAL_SANTA_EULALIA	kjb	bite	C i 7	C I H	K V H	1
+ACATECO_SAN_MIGUEL_ACATAN	knj	bite	C i 7	C I H	K V H	1
+IXIL_CHAJUL	ixj	bite	C i 7	C I H	K V H	1
+AGUACATEC	agu	bite	C i 7 o n	C I H U N	K V H V N	1
+TECO_TECTITAN	ttc	bite	"c"" a 7"	C A H	K V H	7
+MAM_NORTHERN	mam	bite	"C""y~ a n"	C A N	K V N	8
+SIPAKAPENSE	qum	bite	t i 7	T I H	T V H	1
+SACAPULTECO_SACAPULAS_CENTRO	quv	bite	k a y i x	K A J I G	K V J V K	9
+CENTRAL_QUICHE	quc	bite	t i 7	T I H	T V H	1
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	bite	p u r i x	P Y R I G	P V R V K	10
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	bite	t i 7	T I H	T V H	1
+POQOMCHI_WESTERN	pob	bite	t i w	T I W	T V W	2
+POCOMAM_EASTERN	poa	bite	"h a C"""	H A C	H V K	11
+USPANTEKO	usp	bite	t i 7	T I H	T V H	1
+EASTERN_KEKCHI_CAHABON	kek	bite	t i w	T I W	T V W	2
+ZINACANTAN_TZOTZIL	tzz	bite	t i 7	T I H	T V H	1
+TZELTAL_BACHAJON	tzb	bite	t i 7	T I H	T V H	1
+CHOL_TUMBALA	ctu	bite	"k"" u S"	K Y S	K V S	4
+CHONTAL_TABASCO	chf	bite	"k"" u S e 7"	K Y S E H	K V S V H	4
+CHORTI	caa	bite	"a k"" u h S o p"	A K Y H S U P	V K V H S V P	12
+ITZAJ	itz	bite	C i 7 i k	C I H I K	K V H V K	1
+MOPAN	mop	bite	C i 7	C I H	K V H	1
+MAYA_YUCATAN	yua	bite	C i 7 a h	C I H A H	K V H V H	1
+LACANDON	lac	bite	k u C u h	K Y C Y H	K V K V H	13
+HUASTEC	hva	see	c u t a l	C Y T A L	K V T V R	4
+TOJOLABAL	toj	see	i l a	I L A	V R V	2
+CHUJ	cnm	see	w i l a 7	W I L A H	W V R V H	2
+MOCHO	mhc	see	i l	I L	V R	1
+JACALTEC	jai	see	i l	I L	V R	1
+QANJOBAL_SANTA_EULALIA	kjb	see	i l	I L	V R	1
+ACATECO_SAN_MIGUEL_ACATAN	knj	see	i l	I L	V R	1
+IXIL_CHAJUL	ixj	see	i l	I L	V R	1
+AGUACATEC	agu	see	i l	I L	V R	1
+TECO_TECTITAN	ttc	see	e	E	V	5
+MAM_NORTHERN	mam	see	"C""y~ a n"	C A N	K V N	6
+SIPAKAPENSE	qum	see	i l	I L	V R	1
+SACAPULTECO_SACAPULAS_CENTRO	quv	see	i l	I L	V R	1
+CENTRAL_QUICHE	quc	see	i l	I L	V R	1
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	see	c u 7	C Y H	K V H	3
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	see	c u 7	C Y H	K V H	3
+POQOMCHI_WESTERN	pob	see	i l o w	I L U W	V R V W	1
+POCOMAM_EASTERN	poa	see	i l a 7	I L A H	V R V H	2
+EASTERN_KEKCHI_CAHABON	kek	see	i l	I L	V R	1
+ZINACANTAN_TZOTZIL	tzz	see	i l	I L	V R	1
+TZELTAL_BACHAJON	tzb	see	i l	I L	V R	1
+CHOL_TUMBALA	ctu	see	i l a	I L A	V R V	2
+CHONTAL_TABASCO	chf	see	C 3 n e n	C O N E N	K V N V N	7
+CHORTI	caa	see	w i r a	W I R A	W V R V	2
+ITZAJ	itz	see	i l	I L	V R	1
+MOPAN	mop	see	i l	I L	V R	1
+MAYA_YUCATAN	yua	see	i l a 7 a l	I L A H A L	V R V H V R	2
+LACANDON	lac	see	i r	I R	V R	1
+HUASTEC	hva	hear	"a c"" a l"	A C A L	V K V R	7
+TOJOLABAL	toj	hear	"a b"" i"	A P I	V P V	1
+CHUJ	cnm	hear	a b i	A P I	V P V	1
+MOCHO	mhc	hear	"a b"" i"	A P I	V P V	1
+JACALTEC	jai	hear	w a b e	W A P E	W V P V	1
+QANJOBAL_SANTA_EULALIA	kjb	hear	"a b"" e S"	A P E S	V P V S	1
+ACATECO_SAN_MIGUEL_ACATAN	knj	hear	"a b"" e"	A P E	V P V	1
+IXIL_CHAJUL	ixj	hear	"a b"" i"	A P I	V P V	1
+AGUACATEC	agu	hear	w i t	W I T	W V T	8
+TECO_TECTITAN	ttc	hear	C a 7 o	C A H U	K V H V	2
+MAM_NORTHERN	mam	hear	o l t	U L T	V R T	9
+SIPAKAPENSE	qum	hear	t a 7	T A H	T V H	2
+SACAPULTECO_SACAPULAS_CENTRO	quv	hear	t	T	T	2
+CENTRAL_QUICHE	quc	hear	t a	T A	T V	2
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	hear	"k"" o S a x"	K U S A G	K V S V K	3
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	hear	"k"" a S a x"	K A S A G	K V S V K	3
+POQOMCHI_WESTERN	pob	hear	"b"" i r a x"	P I R A G	P V R V K	4
+POCOMAM_EASTERN	poa	hear	"w"" a r e x"	W A R E G	W V R V K	4
+USPANTEKO	usp	hear	t a	T A	T V	2
+EASTERN_KEKCHI_CAHABON	kek	hear	"a b"" i h"	A P I H	V P V H	1
+ZINACANTAN_TZOTZIL	tzz	hear	a 7 i	A H I	V H V	1
+TZELTAL_BACHAJON	tzb	hear	ai y	A J	V J	10
+CHOL_TUMBALA	ctu	hear	u b i	Y P I	V P V	5
+CHONTAL_TABASCO	chf	hear	u b i n	Y P I N	V P V N	5
+CHORTI	caa	hear	"o y p"" i k a"	U J P I K A	V J P V K V	6
+ITZAJ	itz	hear	u y b a h	Y J P A H	V J P V H	6
+MOPAN	mop	hear	u b	Y P	V P	5
+MAYA_YUCATAN	yua	hear	"u 7 u b"" a h"	Y H Y P A H	V H V P V H	6
+LACANDON	lac	hear	u y	Y J	V J	6
+HUASTEC	hva	know	c o 7 o b	C U H U P	K V H V P	7
+TOJOLABAL	toj	know	n a 7 a	N A H A	N V H V	1
+CHUJ	cnm	know	o x k	U G K	V K K	8
+MOCHO	mhc	know	"i c"" a"	I C A	V K V	9
+JACALTEC	jai	know	w o h t a x o x	W U H T A G U G	W V H T V K V K	2
+QANJOBAL_SANTA_EULALIA	kjb	know	o S t a q	U S T A K	V S T V K	2
+ACATECO_SAN_MIGUEL_ACATAN	knj	know	o t a x	U T A G	V T V K	2
+IXIL_CHAJUL	ixj	know	o c a q	U C A K	V K V K	2
+AGUACATEC	agu	know	C u m	C Y M	K V M	10
+TECO_TECTITAN	ttc	know	C a 7 o	C A H U	K V H V	11
+MAM_NORTHERN	mam	know	t b i y a	T P I J A	T P V J V	12
+SIPAKAPENSE	qum	know	t a m a x	T A M A G	T V M V K	3
+SACAPULTECO_SACAPULAS_CENTRO	quv	know	e t a 7 a m	E T A H A M	V T V H V M	3
+CENTRAL_QUICHE	quc	know	e t a m	E T A M	V T V M	3
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	know	e t a m a n	E T A M A N	V T V M V N	3
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	know	o t a q i n	U T A K I N	V T V K V N	2
+POQOMCHI_WESTERN	pob	know	"n a b"" e x"	N A P E G	N V P V K	4
+POCOMAM_EASTERN	poa	know	"w"" a r e m"	W A R E M	W V R V M	13
+USPANTEKO	usp	know	e t a m	E T A M	V T V M	3
+EASTERN_KEKCHI_CAHABON	kek	know	n a w	N A W	N V W	4
+ZINACANTAN_TZOTZIL	tzz	know	n a 7	N A H	N V H	1
+TZELTAL_BACHAJON	tzb	know	n a b	N A P	N V P	4
+CHOL_TUMBALA	ctu	know	u b i n t	Y P I N T	V P V N T	14
+CHONTAL_TABASCO	chf	know	w i n a t a n	W I N A T A N	W V N V T V N	6
+CHORTI	caa	know	n a t	N A T	N V T	6
+ITZAJ	itz	know	"k"" a 7 o l"	K A H U L	K V H V R	5
+MOPAN	mop	know	e l	E L	V R	15
+MAYA_YUCATAN	yua	know	"k"" a h o l"	K A H U L	K V H V R	5
+LACANDON	lac	know	"k"" 3 h 7 o t"	K O H H U T	K V H H V T	5
+HUASTEC	hva	sleep	w a y a l	W A J A L	W V J V R	1
+TOJOLABAL	toj	sleep	w a y i	W A J I	W V J V	1
+CHUJ	cnm	sleep	w a y a N	W A J A N	W V J V N	1
+MOCHO	mhc	sleep	w a C	W A C	W V K	1
+JACALTEC	jai	sleep	w a y	W A J	W V J	1
+QANJOBAL_SANTA_EULALIA	kjb	sleep	w a y	W A J	W V J	1
+ACATECO_SAN_MIGUEL_ACATAN	knj	sleep	w e y	W E J	W V J	1
+IXIL_CHAJUL	ixj	sleep	w a t	W A T	W V T	1
+AGUACATEC	agu	sleep	w i t e n	W I T E N	W V T V N	1
+TECO_TECTITAN	ttc	sleep	w i t a n	W I T A N	W V T V N	1
+MAM_NORTHERN	mam	sleep	t a n S a	T A N S A	T V N S V	3
+SIPAKAPENSE	qum	sleep	w o r	W U R	W V R	1
+SACAPULTECO_SACAPULAS_CENTRO	quv	sleep	w a r	W A R	W V R	1
+CENTRAL_QUICHE	quc	sleep	w a r	W A R	W V R	1
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	sleep	w a r	W A R	W V R	1
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	sleep	w a r	W A R	W V R	1
+POQOMCHI_WESTERN	pob	sleep	w i r	W I R	W V R	1
+POCOMAM_EASTERN	poa	sleep	w i r	W I R	W V R	1
+USPANTEKO	usp	sleep	w a r	W A R	W V R	1
+EASTERN_KEKCHI_CAHABON	kek	sleep	w a r	W A R	W V R	1
+ZINACANTAN_TZOTZIL	tzz	sleep	"bat C""ulel"	P C	P K	1
+TZELTAL_BACHAJON	tzb	sleep	w a y	W A J	W V J	1
+CHOL_TUMBALA	ctu	sleep	w 3 y	W O J	W V J	1
+CHONTAL_TABASCO	chf	sleep	w 3 y e	W O J E	W V J V	1
+CHORTI	caa	sleep	w a y	W A J	W V J	1
+ITZAJ	itz	sleep	w e n e l	W E N E L	W V N V R	2
+MOPAN	mop	sleep	w 3 y n	W O J N	W V J N	2
+MAYA_YUCATAN	yua	sleep	w e n e l	W E N E L	W V N V R	2
+LACANDON	lac	sleep	w e n a n	W E N A N	W V N V N	2
+HUASTEC	hva	die	c e m e l	C E M E L	K V M V R	2
+TOJOLABAL	toj	die	T h a m	D H A M	T H V M	1
+CHUJ	cnm	die	C a m i	C A M I	K V M V	1
+MOCHO	mhc	die	k a m	K A M	K V M	1
+JACALTEC	jai	die	k a m	K A M	K V M	1
+QANJOBAL_SANTA_EULALIA	kjb	die	k a m	K A M	K V M	1
+ACATECO_SAN_MIGUEL_ACATAN	knj	die	k a m	K A M	K V M	1
+IXIL_CHAJUL	ixj	die	k a m	K A M	K V M	1
+AGUACATEC	agu	die	k i m	K I M	K V M	1
+TECO_TECTITAN	ttc	die	k a m	K A M	K V M	1
+MAM_NORTHERN	mam	die	ky~ i m	K I M	K V M	1
+SIPAKAPENSE	qum	die	k o m	K U M	K V M	1
+SACAPULTECO_SACAPULAS_CENTRO	quv	die	k a m	K A M	K V M	1
+CENTRAL_QUICHE	quc	die	k 3 m	K O M	K V M	1
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	die	k o m	K U M	K V M	1
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	die	k a m	K A M	K V M	1
+POQOMCHI_WESTERN	pob	die	k i m	K I M	K V M	1
+POCOMAM_EASTERN	poa	die	k i m	K I M	K V M	1
+USPANTEKO	usp	die	k a m	K A M	K V M	1
+EASTERN_KEKCHI_CAHABON	kek	die	k a m	K A M	K V M	1
+ZINACANTAN_TZOTZIL	tzz	die	C a m	C A M	K V M	1
+TZELTAL_BACHAJON	tzb	die	C a m	C A M	K V M	1
+CHOL_TUMBALA	ctu	die	C 3 m	C O M	K V M	1
+CHONTAL_TABASCO	chf	die	u C3amo	Y C	V K	1
+CHORTI	caa	die	C a m	C A M	K V M	1
+ITZAJ	itz	die	k i m i l	K I M I L	K V M V R	2
+MOPAN	mop	die	k i m	K I M	K V M	1
+MAYA_YUCATAN	yua	die	k i m i l	K I M I L	K V M V R	2
+LACANDON	lac	die	k a n	K A N	K V N	1
+HUASTEC	hva	kill	e m 8 a l	E M D A L	V M T V R	4
+TOJOLABAL	toj	kill	m i l a	M I L A	M V R V	1
+CHUJ	cnm	kill	m i l a 7	M I L A H	M V R V H	1
+MOCHO	mhc	kill	k a m s a	K A M S A	K V M S V	3
+JACALTEC	jai	kill	b i c a	P I C A	P V K V	5
+QANJOBAL_SANTA_EULALIA	kjb	kill	"maq"" kamoq"	M K	M K	2
+ACATECO_SAN_MIGUEL_ACATAN	knj	kill	ma7 kamox	M K	M K	2
+IXIL_CHAJUL	ixj	kill	"y a c"""	J A C	J V K	6
+AGUACATEC	agu	kill	k i m s e 7	K I M S E H	K V M S V H	3
+TECO_TECTITAN	ttc	kill	k a n s a	K A N S A	K V N S V	3
+MAM_NORTHERN	mam	kill	t by~ o n	T P U N	T P V N	7
+SIPAKAPENSE	qum	kill	w i t a x	W I T A G	W V T V K	8
+SACAPULTECO_SACAPULAS_CENTRO	quv	kill	k a m a s a x	K A M A S A G	K V M V S V K	3
+CENTRAL_QUICHE	quc	kill	k a m i s a	K A M I S A	K V M V S V	3
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	kill	k o m i s a x	K U M I S A G	K V M V S V K	3
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	kill	k a m s a x	K A M S A G	K V M S V K	3
+POQOMCHI_WESTERN	pob	kill	k a n s a x	K A N S A G	K V N S V K	3
+POCOMAM_EASTERN	poa	kill	k a n a s a h	K A N A S A H	K V N V S V H	3
+USPANTEKO	usp	kill	k a m s a x	K A M S A G	K V M S V K	3
+EASTERN_KEKCHI_CAHABON	kek	kill	k a m s i h	K A M S I H	K V M S V H	3
+ZINACANTAN_TZOTZIL	tzz	kill	m i l v a n	M I L B A N	M V R P V N	1
+TZELTAL_BACHAJON	tzb	kill	m i l	M I L	M V R	1
+CHOL_TUMBALA	ctu	kill	h i s	H I S	H V S	3
+CHONTAL_TABASCO	chf	kill	c 3 m s e n	C O M S E N	K V M S V N	3
+CHORTI	caa	kill	C a m s e	C A M S E	K V M S V	3
+ITZAJ	itz	kill	k i n s a h	K I N S A H	K V N S V H	3
+MOPAN	mop	kill	k i m e s	K I M E S	K V M V S	3
+MAYA_YUCATAN	yua	kill	k i n s a h	K I N S A H	K V N S V H	3
+LACANDON	lac	kill	k i n s	K I N S	K V N S	3
+HUASTEC	hva	swim	k o w a l	K U W A L	K V W V R	6
+TOJOLABAL	toj	swim	n o S i	N U S I	N V S V	2
+CHUJ	cnm	swim	a C n i	A C N I	V K N V	5
+JACALTEC	jai	swim	in maqnihan ha7	I M H	V M H	7
+QANJOBAL_SANTA_EULALIA	kjb	swim	"maq"" a7"	M A	M V	1
+ACATECO_SAN_MIGUEL_ACATAN	knj	swim	ma7 a7	M A	M V	1
+IXIL_CHAJUL	ixj	swim	n u S	N Y S	N V S	2
+AGUACATEC	agu	swim	x i C i n	G I C I N	K V K V N	3
+TECO_TECTITAN	ttc	swim	i C i n	I C I N	V K V N	3
+MAM_NORTHERN	mam	swim	S n u 7 i n e	S N Y H I N E	S N V H V N V	8
+SIPAKAPENSE	qum	swim	rwi ya7	R J	R J	9
+SACAPULTECO_SACAPULAS_CENTRO	quv	swim	i t i n	I T I N	V T V N	3
+CENTRAL_QUICHE	quc	swim	m u S a	M Y S A	M V S V	4
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	swim	m u S i n	M Y S I N	M V S V N	4
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	swim	m u x	M Y G	M V K	10
+POQOMCHI_WESTERN	pob	swim	m u S u n	M Y S Y N	M V S V N	4
+POCOMAM_EASTERN	poa	swim	m u S i n	M Y S I N	M V S V N	4
+USPANTEKO	usp	swim	a t i n	A T I N	V T V N	5
+EASTERN_KEKCHI_CAHABON	kek	swim	n u m S	N Y M S	N V M S	11
+ZINACANTAN_TZOTZIL	tzz	swim	n u S i h	N Y S I H	N V S V H	2
+TZELTAL_BACHAJON	tzb	swim	n u S	N Y S	N V S	2
+CHOL_TUMBALA	ctu	swim	5 u S i h	N Y S I H	N V S V H	2
+CHONTAL_TABASCO	chf	swim	n u S e	N Y S E	N V S V	2
+CHORTI	caa	swim	n u S	N Y S	N V S	2
+ITZAJ	itz	swim	S o t h a 7	S U T H A H	S V T H V H	12
+MOPAN	mop	swim	baS3l xa7	P G	P K	13
+MAYA_YUCATAN	yua	swim	"b"" a b"""	P A P	P V P	14
+HUASTEC	hva	fly	h u m n a l	H Y M N A L	H V M N V R	7
+TOJOLABAL	toj	fly	l u p u p i	L Y P Y P I	R V P V P V	1
+CHUJ	cnm	fly	x e N w	G E N W	K V N W	8
+MOCHO	mhc	fly	l o p	L U P	R V P	1
+JACALTEC	jai	fly	p u r	P Y R	P V R	4
+QANJOBAL_SANTA_EULALIA	kjb	fly	S u p u p	S Y P Y P	S V P V P	9
+ACATECO_SAN_MIGUEL_ACATAN	knj	fly	"ek"" hururox"	E H	V H	10
+IXIL_CHAJUL	ixj	fly	"S i C"" a n"	S I C A N	S V K V N	2
+AGUACATEC	agu	fly	S i ky~ 7 i n	S I K H I N	S V K H V N	2
+TECO_TECTITAN	ttc	fly	l i p a n	L I P A N	R V P V N	3
+MAM_NORTHERN	mam	fly	l i p a n	L I P A N	R V P V N	3
+SIPAKAPENSE	qum	fly	"S i k"" i n"	S I K I N	S V K V N	2
+SACAPULTECO_SACAPULAS_CENTRO	quv	fly	r a p a p	R A P A P	R V P V P	6
+CENTRAL_QUICHE	quc	fly	r a p a p	R A P A P	R V P V P	6
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	fly	r o p i n	R U P I N	R V P V N	6
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	fly	"S k"" a n"	S K A N	S K V N	2
+POQOMCHI_WESTERN	pob	fly	"S i k"" i n"	S I K I N	S V K V N	2
+POCOMAM_EASTERN	poa	fly	p u r	P Y R	P V R	4
+USPANTEKO	usp	fly	"S i k"" a n"	S I K A N	S V K V N	2
+EASTERN_KEKCHI_CAHABON	kek	fly	"S i k"" a b"""	S I K A P	S V K V P	2
+ZINACANTAN_TZOTZIL	tzz	fly	v i l	B I L	P V R	5
+TZELTAL_BACHAJON	tzb	fly	w i l	W I L	W V R	5
+CHOL_TUMBALA	ctu	fly	w e l	W E L	W V R	5
+CHONTAL_TABASCO	chf	fly	w i l e	W I L E	W V R V	5
+CHORTI	caa	fly	t o p	T U P	T V P	11
+ITZAJ	itz	fly	"p o p o k S i k"""	P U P U K S I K	P V P V K S V K	2
+MOPAN	mop	fly	"S i k"""	S I K	S V K	2
+MAYA_YUCATAN	yua	fly	"S i k"" n a l i l"	S I K N A L I L	S V K N V R V R	2
+HUASTEC	hva	walk	b e l a l	P E L A L	P V R V R	7
+TOJOLABAL	toj	walk	"b"" e x y i"	P E G J I	P V K J V	1
+CHUJ	cnm	walk	b e y	P E J	P V J	1
+MOCHO	mhc	walk	b e h i	P E H I	P V H V	1
+JACALTEC	jai	walk	b e l	P E L	P V R	7
+QANJOBAL_SANTA_EULALIA	kjb	walk	"b"" e y"	P E J	P V J	1
+ACATECO_SAN_MIGUEL_ACATAN	knj	walk	"b"" e y"	P E J	P V J	1
+IXIL_CHAJUL	ixj	walk	S ao n	S A N	S V N	2
+AGUACATEC	agu	walk	S o n	S U N	S V N	2
+TECO_TECTITAN	ttc	walk	"b"" e t"	P E T	P V T	3
+MAM_NORTHERN	mam	walk	b e t	P E T	P V T	3
+SIPAKAPENSE	qum	walk	"b"" i n"	P I N	P V N	4
+SACAPULTECO_SACAPULAS_CENTRO	quv	walk	"b"" i n"	P I N	P V N	4
+CENTRAL_QUICHE	quc	walk	"b"" i n"	P I N	P V N	4
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	walk	"b"" i n"	P I N	P V N	4
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	walk	"b"" i n"	P I N	P V N	4
+POQOMCHI_WESTERN	pob	walk	"b"" e h"	P E H	P V H	1
+POCOMAM_EASTERN	poa	walk	"w"" e h"	W E H	W V H	1
+USPANTEKO	usp	walk	"b"" e n"	P E N	P V N	4
+EASTERN_KEKCHI_CAHABON	kek	walk	"b"" e h"	P E H	P V H	1
+ZINACANTAN_TZOTZIL	tzz	walk	S a n a v	S A N A B	S V N V P	5
+TZELTAL_BACHAJON	tzb	walk	b e h	P E H	P V H	1
+CHOL_TUMBALA	ctu	walk	S 3 n	S O N	S V N	5
+CHONTAL_TABASCO	chf	walk	S 3 m b a	S O M P A	S V M P V	5
+CHORTI	caa	walk	a S a n o p	A S A N U P	V S V N V P	5
+ITZAJ	itz	walk	m a n	M A N	M V N	6
+MOPAN	mop	walk	S i m b a l	S I M P A L	S V M P V R	6
+MAYA_YUCATAN	yua	walk	"S i m b"" a l"	S I M P A L	S V M P V R	6
+LACANDON	lac	walk	S i m	S I M	S V M	6
+HUASTEC	hva	come	t a l	T A L	T V R	4
+TOJOLABAL	toj	come	x u l	G Y L	K V R	1
+CHUJ	cnm	come	x a w	G A W	K V W	5
+MOCHO	mhc	come	u l	Y L	V R	1
+JACALTEC	jai	come	u l	Y L	V R	1
+QANJOBAL_SANTA_EULALIA	kjb	come	u l	Y L	V R	1
+ACATECO_SAN_MIGUEL_ACATAN	knj	come	h u l	H Y L	H V R	1
+IXIL_CHAJUL	ixj	come	u l	Y L	V R	1
+AGUACATEC	agu	come	k u l	K Y L	K V R	6
+TECO_TECTITAN	ttc	come	u l	Y L	V R	1
+MAM_NORTHERN	mam	come	u l	Y L	V R	1
+SIPAKAPENSE	qum	come	p e t	P E T	P V T	2
+SACAPULTECO_SACAPULAS_CENTRO	quv	come	p e t	P E T	P V T	2
+CENTRAL_QUICHE	quc	come	o p a n	U P A N	V P V N	7
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	come	p e	P E	P V	2
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	come	p e t	P E T	P V T	2
+POQOMCHI_WESTERN	pob	come	C a l	C A L	K V R	4
+POCOMAM_EASTERN	poa	come	"k"" u w"	K Y W	K V W	8
+USPANTEKO	usp	come	p e t	P E T	P V T	2
+EASTERN_KEKCHI_CAHABON	kek	come	C a l	C A L	K V R	4
+ZINACANTAN_TZOTZIL	tzz	come	t a l	T A L	T V R	4
+TZELTAL_BACHAJON	tzb	come	t a l	T A L	T V R	4
+CHOL_TUMBALA	ctu	come	t i l	T I L	T V R	4
+CHONTAL_TABASCO	chf	come	u te	Y T	V T	9
+CHORTI	caa	come	y o p	J U P	J V P	10
+ITZAJ	itz	come	t a l	T A L	T V R	4
+MOPAN	mop	come	"u d"""	Y T	V T	1
+MAYA_YUCATAN	yua	come	t a l	T A L	T V R	4
+LACANDON	lac	come	t a r	T A R	T V R	4
+HUASTEC	hva	lie	kw~ a c a t	K A C A T	K V K V T	5
+TOJOLABAL	toj	lie	"b"" a 7 a n"	P A H A N	P V H V N	6
+CHUJ	cnm	lie	"ek"" kotan"	E K	V K	7
+JACALTEC	jai	lie	h i l	H I L	H V R	8
+QANJOBAL_SANTA_EULALIA	kjb	lie	t e l a n	T E L A N	T V R V N	1
+ACATECO_SAN_MIGUEL_ACATAN	knj	lie	t e l a n	T E L A N	T V R V N	1
+IXIL_CHAJUL	ixj	lie	X o k l e l	G U K L E L	K V K R V R	9
+AGUACATEC	agu	lie	k o y	K U J	K V J	10
+TECO_TECTITAN	ttc	lie	S i l k	S I L K	S V R K	11
+MAM_NORTHERN	mam	lie	k o S l	K U S L	K V S R	12
+SIPAKAPENSE	qum	lie	"k o c"" l i k"	K U C L I K	K V K R V K	2
+SACAPULTECO_SACAPULAS_CENTRO	quv	lie	"k a c"" a l e k"	K A C A L E K	K V K V R V K	2
+CENTRAL_QUICHE	quc	lie	"q"" o y"	K U J	K V J	13
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	lie	"k o c"" o l"	K U C U L	K V K V R	2
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	lie	"k"" o c o l i"	K U C U L I	K V K V R V	2
+POQOMCHI_WESTERN	pob	lie	y o k l i k	J U K L I K	J V K R V K	3
+POCOMAM_EASTERN	poa	lie	y o k i l	J U K I L	J V K V R	3
+USPANTEKO	usp	lie	c e l i k	C E L I K	K V R V K	14
+EASTERN_KEKCHI_CAHABON	kek	lie	s o t s o h	S U T S U H	S V T S V H	15
+ZINACANTAN_TZOTZIL	tzz	lie	"p u C"" e t a h"	P Y C E T A H	P V K V T V H	16
+TZELTAL_BACHAJON	tzb	lie	w a y	W A J	W V J	17
+CHOL_TUMBALA	ctu	lie	"C"" a 7"	C A H	K V H	4
+CHONTAL_TABASCO	chf	lie	"C"" a 7 a"	C A H A	K V H V	4
+CHORTI	caa	lie	"C"" a"	C A	K V	4
+ITZAJ	itz	lie	"t u c"""	T Y C	T V K	18
+MOPAN	mop	lie	k o y a 7 a n	K U J A H A N	K V J V H V N	19
+MAYA_YUCATAN	yua	lie	C i l t a l	C I L T A L	K V R T V R	19
+LACANDON	lac	lie	a k	A K	V K	20
+HUASTEC	hva	sit	k e t e l	K E T E L	K V T V R	3
+TOJOLABAL	toj	sit	k u l a n	K Y L A N	K V R V N	4
+CHUJ	cnm	sit	em wokan	E W	V W	5
+MOCHO	mhc	sit	"m o c"""	M U C	M V K	6
+JACALTEC	jai	sit	p i s	P I S	P V S	7
+QANJOBAL_SANTA_EULALIA	kjb	sit	C o t a n	C U T A N	K V T V N	1
+ACATECO_SAN_MIGUEL_ACATAN	knj	sit	C o t a n	C U T A N	K V T V N	1
+IXIL_CHAJUL	ixj	sit	S o n l e l	S U N L E L	S V N R V R	8
+AGUACATEC	agu	sit	"k"" o l"	K U L	K V R	9
+TECO_TECTITAN	ttc	sit	"w i t"" l i k"	W I T L I K	W V T R V K	10
+MAM_NORTHERN	mam	sit	"q"" u q l"	K Y K L	K V K R	2
+SIPAKAPENSE	qum	sit	"k"" u q l i k"	K Y K L I K	K V K R V K	2
+SACAPULTECO_SACAPULAS_CENTRO	quv	sit	"k"" u q u l e k"	K Y K Y L E K	K V K V R V K	2
+CENTRAL_QUICHE	quc	sit	"t"" u y"	T Y J	T V J	11
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	sit	"c"" u y u l"	C Y J Y L	K V J V R	12
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	sit	"t"" u b u l i"	T Y P Y L I	T V P V R V	13
+POQOMCHI_WESTERN	pob	sit	"c"" u q l i k"	C Y K L I K	K V K R V K	2
+POCOMAM_EASTERN	poa	sit	"C"" i k l i"	C I K L I	K V K R V	14
+USPANTEKO	usp	sit	"k u b"" u l i k"	K Y P Y L I K	K V P V R V K	15
+EASTERN_KEKCHI_CAHABON	kek	sit	"w o q""w~ o h"	W U K U H	W V K V H	16
+ZINACANTAN_TZOTZIL	tzz	sit	c u n i	C Y N I	K V N V	17
+TZELTAL_BACHAJON	tzb	sit	h u k	H Y K	H V K	18
+CHOL_TUMBALA	ctu	sit	b u C	P Y C	P V K	19
+CHONTAL_TABASCO	chf	sit	C u m u	C Y M Y	K V M V	20
+CHORTI	caa	sit	t u r u	T Y R Y	T V R V	21
+ITZAJ	itz	sit	k u l	K Y L	K V R	22
+MOPAN	mop	sit	t i n a 7 a n	T I N A H A N	T V N V H V N	23
+MAYA_YUCATAN	yua	sit	k u t a l	K Y T A L	K V T V R	3
+LACANDON	lac	sit	u k	Y K	V K	24
+HUASTEC	hva	stand	k u b a t	K Y P A T	K V P V T	6
+TOJOLABAL	toj	stand	"t e k"" a n"	T E K A N	T V K V N	5
+CHUJ	cnm	stand	"k""e liNan"	K L	K R	2
+MOCHO	mhc	stand	w a 7	W A H	W V H	1
+JACALTEC	jai	stand	l i N	L I N	R V N	2
+QANJOBAL_SANTA_EULALIA	kjb	stand	l e k a n	L E K A N	R V K V N	7
+ACATECO_SAN_MIGUEL_ACATAN	knj	stand	l i n a n	L I N A N	R V N V N	2
+IXIL_CHAJUL	ixj	stand	T a k l e l	D A K L E L	T V K R V R	8
+AGUACATEC	agu	stand	C i k	C I K	K V K	9
+TECO_TECTITAN	ttc	stand	w a l k	W A L K	W V R K	3
+MAM_NORTHERN	mam	stand	w a l	W A L	W V R	3
+SIPAKAPENSE	qum	stand	w a l i k	W A L I K	W V R V K	3
+SACAPULTECO_SACAPULAS_CENTRO	quv	stand	w a l e k	W A L E K	W V R V K	3
+CENTRAL_QUICHE	quc	stand	"t a k"""	T A K	T V K	5
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	stand	p a 7 a l	P A H A L	P V H V R	4
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	stand	p a l i	P A L I	P V R V	4
+POQOMCHI_WESTERN	pob	stand	p a l i k	P A L I K	P V R V K	4
+POCOMAM_EASTERN	poa	stand	p a l i	P A L I	P V R V	4
+USPANTEKO	usp	stand	w a l i k	W A L I K	W V R V K	3
+EASTERN_KEKCHI_CAHABON	kek	stand	S a k S o h	S A K S U H	S V K S V H	10
+TZELTAL_BACHAJON	tzb	stand	"t e k"""	T E K	T V K	5
+CHOL_TUMBALA	ctu	stand	w a 7	W A H	W V H	1
+CHONTAL_TABASCO	chf	stand	w a 7 t 3	W A H T O	W V H T V	1
+CHORTI	caa	stand	w a r	W A R	W V R	1
+ITZAJ	itz	stand	w a 7	W A H	W V H	1
+MOPAN	mop	stand	w a 7 a n	W A H A N	W V H V N	1
+MAYA_YUCATAN	yua	stand	w a 7 a l	W A H A L	W V H V R	1
+LACANDON	lac	stand	C 3 n 3 k	C O N O K	K V N V K	11
+HUASTEC	hva	give	p i 8 a l	P I D A L	P V T V R	5
+TOJOLABAL	toj	give	"a k"" u n i"	A K Y N I	V K V N V	1
+CHUJ	cnm	give	"a k"""	A K	V K	1
+MOCHO	mhc	give	"a q"""	A K	V K	1
+JACALTEC	jai	give	a q	A K	V K	1
+QANJOBAL_SANTA_EULALIA	kjb	give	"a q"""	A K	V K	1
+ACATECO_SAN_MIGUEL_ACATAN	knj	give	a 7	A H	V H	1
+IXIL_CHAJUL	ixj	give	"a q"""	A K	V K	1
+AGUACATEC	agu	give	"sawaq""e7 cac"	S C	S K	4
+TECO_TECTITAN	ttc	give	s e w a	S E W A	S V W V	4
+MAM_NORTHERN	mam	give	"q"" o n e"	K U N E	K V N V	6
+SIPAKAPENSE	qum	give	y a 7	J A H	J V H	2
+SACAPULTECO_SACAPULAS_CENTRO	quv	give	y a 7	J A H	J V H	2
+CENTRAL_QUICHE	quc	give	y a	J A	J V	2
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	give	y a 7	J A H	J V H	2
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	give	y a 7	J A H	J V H	2
+POQOMCHI_WESTERN	pob	give	y e w	J E W	J V W	2
+POCOMAM_EASTERN	poa	give	y ie 7	J I H	J V H	2
+USPANTEKO	usp	give	y a 7	J A H	J V H	2
+EASTERN_KEKCHI_CAHABON	kek	give	"k"" e h"	K E H	K V H	7
+ZINACANTAN_TZOTZIL	tzz	give	"a k"""	A K	V K	1
+TZELTAL_BACHAJON	tzb	give	"a k"""	A K	V K	1
+CHOL_TUMBALA	ctu	give	"a k"""	A K	V K	1
+CHONTAL_TABASCO	chf	give	"3 k"" e 7"	O K E H	V K V H	8
+CHORTI	caa	give	"a h k"""	A H K	V H K	1
+ITZAJ	itz	give	s i y	S I J	S V J	9
+MOPAN	mop	give	"c"" a"	C A	K V	3
+MAYA_YUCATAN	yua	give	"c"" a"	C A	K V	3
+HUASTEC	hva	say	u l a l	Y L A L	V R V R	1
+TOJOLABAL	toj	say	a l a	A L A	V R V	1
+CHUJ	cnm	say	C i	C I	K V	4
+MOCHO	mhc	say	u t	Y T	V T	5
+JACALTEC	jai	say	a l	A L	V R	1
+QANJOBAL_SANTA_EULALIA	kjb	say	a l	A L	V R	1
+ACATECO_SAN_MIGUEL_ACATAN	knj	say	a l	A L	V R	1
+IXIL_CHAJUL	ixj	say	a l	A L	V R	1
+AGUACATEC	agu	say	a l	A L	V R	1
+TECO_TECTITAN	ttc	say	"q"" o m a"	K U M A	K V M V	6
+MAM_NORTHERN	mam	say	t m a n	T M A N	T M V N	7
+SIPAKAPENSE	qum	say	"b"" i x"	P I G	P V K	2
+SACAPULTECO_SACAPULAS_CENTRO	quv	say	"b"" a x"	P A G	P V K	2
+CENTRAL_QUICHE	quc	say	"b"" i"	P I	P V	2
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	say	"b"" i x"	P I G	P V K	2
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	say	"b"" i x"	P I G	P V K	2
+POQOMCHI_WESTERN	pob	say	"q"" o r"	K U R	K V R	3
+POCOMAM_EASTERN	poa	say	"q"" o r"	K U R	K V R	3
+EASTERN_KEKCHI_CAHABON	kek	say	y e h	J E H	J V H	8
+ZINACANTAN_TZOTZIL	tzz	say	a l	A L	V R	1
+TZELTAL_BACHAJON	tzb	say	h a l	H A L	H V R	1
+CHOL_TUMBALA	ctu	say	a l	A L	V R	1
+CHONTAL_TABASCO	chf	say	3 l e 7	O L E H	V R V H	1
+CHORTI	caa	say	a 7 r	A H R	V H R	1
+ITZAJ	itz	say	a l	A L	V R	1
+MOPAN	mop	say	"a d"""	A T	V T	1
+MAYA_YUCATAN	yua	say	"t"" a n"	T A N	T V N	9
+LACANDON	lac	say	a r	A R	V R	1
+HUASTEC	hva	sun	"k"" i C a"	K I C A	K V K V	1
+CHICOMUCELTEC	cob	sun	"k"" a k"" a l"	K A K A L	K V K V R	2
+TOJOLABAL	toj	sun	"k"" a k"" u"	K A K Y	K V K V	2
+CHUJ	cnm	sun	"k"" u"	K Y	K V	3
+MOCHO	mhc	sun	"c"" e k"	C E K	K V K	4
+JACALTEC	jai	sun	"c"" a y i k"	C A J I K	K V J V K	4
+QANJOBAL_SANTA_EULALIA	kjb	sun	"k"" u"	K Y	K V	3
+ACATECO_SAN_MIGUEL_ACATAN	knj	sun	"k"" u"	K Y	K V	3
+IXIL_CHAJUL	ixj	sun	"q"" i h"	K I H	K V H	1
+AGUACATEC	agu	sun	"q"" e x"	K E G	K V K	1
+TECO_TECTITAN	ttc	sun	"q"" i x"	K I G	K V K	1
+MAM_NORTHERN	mam	sun	"q"" i x"	K I G	K V K	1
+SIPAKAPENSE	qum	sun	"q"" i x"	K I G	K V K	1
+SACAPULTECO_SACAPULAS_CENTRO	quv	sun	"q"" i x"	K I G	K V K	1
+CENTRAL_QUICHE	quc	sun	"q"" i x"	K I G	K V K	1
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	sun	"q"" i x"	K I G	K V K	1
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	sun	"q"" i x"	K I G	K V K	1
+POQOMCHI_WESTERN	pob	sun	"q"" i x"	K I G	K V K	1
+POCOMAM_EASTERN	poa	sun	"q"" i x"	K I G	K V K	1
+USPANTEKO	usp	sun	"q"" i x"	K I G	K V K	1
+EASTERN_KEKCHI_CAHABON	kek	sun	"s a q"" e n"	S A K E N	S V K V N	1
+ZINACANTAN_TZOTZIL	tzz	sun	"k"" a k"" a l"	K A K A L	K V K V R	2
+TZELTAL_BACHAJON	tzb	sun	"k"" a k"" a l"	K A K A L	K V K V R	2
+CHOL_TUMBALA	ctu	sun	C u h u t a t	C Y H Y T A T	K V H V T V T	5
+CHONTAL_TABASCO	chf	sun	"k"" i n"	K I N	K V N	1
+CHORTI	caa	sun	"k"" i n"	K I N	K V N	1
+ITZAJ	itz	sun	"k"" i n"	0 I N	0 V N	1
+MOPAN	mop	sun	"k"" i n"	K I N	K V N	1
+MAYA_YUCATAN	yua	sun	"k"" i n"	K I N	K V N	1
+LACANDON	lac	sun	"k"" i n"	K I N	K V N	1
+HUASTEC	hva	moon	"i c"""	I C	V K	1
+CHICOMUCELTEC	cob	moon	"i C"""	I C	V K	1
+TOJOLABAL	toj	moon	i S a w	I S A W	V S V W	2
+CHUJ	cnm	moon	u x	Y G	V K	4
+MOCHO	mhc	moon	a h w	A H W	V H W	2
+JACALTEC	jai	moon	iS ahaw	I A	V V	2
+QANJOBAL_SANTA_EULALIA	kjb	moon	S a x a w	S A G A W	S V K V W	2
+ACATECO_SAN_MIGUEL_ACATAN	knj	moon	S7~ a w	S A W	S V W	2
+IXIL_CHAJUL	ixj	moon	"i T"""	I D	V T	1
+AGUACATEC	agu	moon	S a w	S A W	S V W	2
+TECO_TECTITAN	ttc	moon	qy~ a 7	K A H	K V H	5
+MAM_NORTHERN	mam	moon	Sx~ a w	S A W	S V W	2
+SIPAKAPENSE	qum	moon	"i k"""	I K	V K	1
+SACAPULTECO_SACAPULAS_CENTRO	quv	moon	q a t e t	K A T E T	K V T V T	6
+CENTRAL_QUICHE	quc	moon	"i k"""	I K	V K	1
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	moon	"i k"""	I K	V K	1
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	moon	"i k"""	I K	V K	1
+POQOMCHI_WESTERN	pob	moon	p o h	P U H	P V H	3
+POCOMAM_EASTERN	poa	moon	p o h	P U H	P V H	3
+USPANTEKO	usp	moon	"i k"""	I K	V K	1
+EASTERN_KEKCHI_CAHABON	kek	moon	p o h	P U H	P V H	3
+ZINACANTAN_TZOTZIL	tzz	moon	u	Y	V	4
+CHOL_TUMBALA	ctu	moon	u w	Y W	V W	4
+CHONTAL_TABASCO	chf	moon	u h	Y H	V H	4
+CHORTI	caa	moon	u h	Y H	V H	4
+ITZAJ	itz	moon	u h	Y H	V H	4
+MOPAN	mop	moon	u x	Y G	V K	4
+MAYA_YUCATAN	yua	moon	u h	Y H	V H	4
+HUASTEC	hva	star	o t	U T	V T	1
+CHICOMUCELTEC	cob	star	o t	U T	V T	1
+TOJOLABAL	toj	star	"k"" a n a l"	K A N A L	K V N V R	2
+CHUJ	cnm	star	"k"" a n a l"	K A N A L	K V N V R	2
+JACALTEC	jai	star	"C"" u m e l"	C Y M E L	K V M V R	4
+QANJOBAL_SANTA_EULALIA	kjb	star	w a y k a n	W A J K A N	W V J K V N	3
+ACATECO_SAN_MIGUEL_ACATAN	knj	star	w e y k a n	W E J K A N	W V J K V N	3
+IXIL_CHAJUL	ixj	star	"T"" u m i l"	D Y M I L	T V M V R	4
+AGUACATEC	agu	star	"C"" u m l"	C Y M L	K V M R	4
+TECO_TECTITAN	ttc	star	"c"" e w"	C E W	K V W	5
+MAM_NORTHERN	mam	star	C e w	C E W	K V W	5
+SIPAKAPENSE	qum	star	"C"" m i l"	C M I L	K M V R	4
+SACAPULTECO_SACAPULAS_CENTRO	quv	star	"C"" i m i l"	C I M I L	K V M V R	4
+CENTRAL_QUICHE	quc	star	"C"" i m i l"	C I M I L	K V M V R	4
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	star	"C"" u m i l"	C Y M I L	K V M V R	4
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	star	"C"" u m i l"	C Y M I L	K V M V R	4
+POQOMCHI_WESTERN	pob	star	"C"" u m i l"	C Y M I L	K V M V R	4
+POCOMAM_EASTERN	poa	star	"C"" i m i n"	C I M I N	K V M V N	4
+USPANTEKO	usp	star	"C"" u m i l"	C Y M I L	K V M V R	4
+EASTERN_KEKCHI_CAHABON	kek	star	C a h i m	C A H I M	K V H V M	8
+ZINACANTAN_TZOTZIL	tzz	star	"k"" a n a l"	K A N A L	K V N V R	2
+TZELTAL_BACHAJON	tzb	star	"e k"""	E K	V K	7
+CHOL_TUMBALA	ctu	star	"e k"""	E K	V K	7
+CHONTAL_TABASCO	chf	star	"i S"" e k"""	I S E K	V S V K	7
+CHORTI	caa	star	e 7 k	E H K	V H K	7
+ITZAJ	itz	star	"e k"""	E K	V K	7
+MOPAN	mop	star	S i l a b	S I L A P	S V R V P	9
+MAYA_YUCATAN	yua	star	"e k"""	E K	V K	7
+LACANDON	lac	star	s a b	S A P	S V P	10
+HUASTEC	hva	water	h a 7	H A H	H V H	1
+CHICOMUCELTEC	cob	water	h a 7	H A H	H V H	1
+TOJOLABAL	toj	water	x a 7	G A H	K V H	1
+CHUJ	cnm	water	a 7	A H	V H	1
+MOCHO	mhc	water	h a 7	H A H	H V H	1
+JACALTEC	jai	water	h a 7	H A H	H V H	1
+QANJOBAL_SANTA_EULALIA	kjb	water	a 7	A H	V H	1
+ACATECO_SAN_MIGUEL_ACATAN	knj	water	h a 7	H A H	H V H	1
+IXIL_CHAJUL	ixj	water	a 7	A H	V H	1
+AGUACATEC	agu	water	a 7	A H	V H	1
+TECO_TECTITAN	ttc	water	a 7	A H	V H	1
+MAM_NORTHERN	mam	water	a 7	A H	V H	1
+SIPAKAPENSE	qum	water	y a 7	J A H	J V H	1
+SACAPULTECO_SACAPULAS_CENTRO	quv	water	y a 7	J A H	J V H	1
+CENTRAL_QUICHE	quc	water	x a 7	G A H	K V H	1
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	water	y a 7	J A H	J V H	1
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	water	x a 7	G A H	K V H	1
+POQOMCHI_WESTERN	pob	water	h a 7	H A H	H V H	1
+POCOMAM_EASTERN	poa	water	h a 7	H A H	H V H	1
+USPANTEKO	usp	water	x a 7	G A H	K V H	1
+EASTERN_KEKCHI_CAHABON	kek	water	h a 7	H A H	H V H	1
+ZINACANTAN_TZOTZIL	tzz	water	v o 7	B U H	P V H	1
+TZELTAL_BACHAJON	tzb	water	h a 7	H A H	H V H	1
+CHOL_TUMBALA	ctu	water	h a 7	H A H	H V H	1
+CHONTAL_TABASCO	chf	water	h a 7	H A H	H V H	1
+CHORTI	caa	water	h a 7	H A H	H V H	1
+ITZAJ	itz	water	h a 7	H A H	H V H	1
+MOPAN	mop	water	x a 7	G A H	K V H	1
+MAYA_YUCATAN	yua	water	h a 7	H A H	H V H	1
+LACANDON	lac	water	h a 7	H A H	H V H	1
+HUASTEC	hva	rain	a b	A P	V P	1
+CHICOMUCELTEC	cob	rain	a w	A W	V W	1
+TOJOLABAL	toj	rain	x a 7	G A H	K V H	1
+CHUJ	cnm	rain	puC nab	P N	P N	1
+MOCHO	mhc	rain	"N a b"" a l"	N A P A L	N V P V R	1
+JACALTEC	jai	rain	N a p	N A P	N V P	1
+QANJOBAL_SANTA_EULALIA	kjb	rain	"n a b"""	N A P	N V P	1
+ACATECO_SAN_MIGUEL_ACATAN	knj	rain	"n a b"""	N A P	N V P	1
+IXIL_CHAJUL	ixj	rain	"x a b"" a l"	G A P A L	K V P V R	1
+AGUACATEC	agu	rain	a b a l	A P A L	V P V R	1
+TECO_TECTITAN	ttc	rain	"x a b"""	G A P	K V P	1
+MAM_NORTHERN	mam	rain	x b a l	G P A L	K P V R	1
+SIPAKAPENSE	qum	rain	"x a b"""	G A P	K V P	1
+SACAPULTECO_SACAPULAS_CENTRO	quv	rain	"x a b"" a l"	G A P A L	K V P V R	1
+CENTRAL_QUICHE	quc	rain	"x a b"""	G A P	K V P	1
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	rain	"x o b"""	G U P	K V P	1
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	rain	"x a b"""	G A P	K V P	1
+POQOMCHI_WESTERN	pob	rain	"x a b"""	G A P	K V P	1
+POCOMAM_EASTERN	poa	rain	"x a m"""	G A M	K V M	1
+USPANTEKO	usp	rain	"x a b"""	G A P	K V P	1
+EASTERN_KEKCHI_CAHABON	kek	rain	"h a b"""	H A P	H V P	1
+ZINACANTAN_TZOTZIL	tzz	rain	v o 7	B U H	P V H	2
+TZELTAL_BACHAJON	tzb	rain	h a 7 a l	H A H A L	H V H V R	2
+CHOL_TUMBALA	ctu	rain	h a 7 a l	H A H A L	H V H V R	2
+CHONTAL_TABASCO	chf	rain	h a 7	H A H	H V H	2
+CHORTI	caa	rain	h a h a r	H A H A R	H V H V R	2
+ITZAJ	itz	rain	h a 7	H A H	H V H	2
+MOPAN	mop	rain	x a 7	G A H	K V H	2
+MAYA_YUCATAN	yua	rain	C a k	C A K	K V K	2
+HUASTEC	hva	stone	"t"" u h u b"	T Y H Y P	T V H V P	1
+CHICOMUCELTEC	cob	stone	t u h u	T Y H Y	T V H V	1
+TOJOLABAL	toj	stone	t o n	T U N	T V N	2
+CHUJ	cnm	stone	"k"" e 7 e n"	K E H E N	K V H V N	3
+MOCHO	mhc	stone	t o N	T U N	T V N	2
+JACALTEC	jai	stone	"C"" e n"	C E N	K V N	3
+QANJOBAL_SANTA_EULALIA	kjb	stone	"C"" e n"	C E N	K V N	3
+ACATECO_SAN_MIGUEL_ACATAN	knj	stone	"C"" e n"	C E N	K V N	3
+IXIL_CHAJUL	ixj	stone	s i w a n	S I W A N	S V W V N	6
+AGUACATEC	agu	stone	"k"" u b"	K Y P	K V P	7
+TECO_TECTITAN	ttc	stone	"a b"" x"	A P G	V P K	4
+MAM_NORTHERN	mam	stone	S a q	S A K	S V K	8
+SIPAKAPENSE	qum	stone	"a b"" a x"	A P A G	V P V K	4
+SACAPULTECO_SACAPULAS_CENTRO	quv	stone	"a b"" a x"	A P A G	V P V K	4
+CENTRAL_QUICHE	quc	stone	"a b"" 3 x"	A P O G	V P V K	4
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	stone	"a b"" a x"	A P A G	V P V K	4
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	stone	"a b"" a x"	A P A G	V P V K	4
+POQOMCHI_WESTERN	pob	stone	"a b"" a x"	A P A G	V P V K	4
+POCOMAM_EASTERN	poa	stone	"a w"" o x"	A W U G	V W V K	4
+USPANTEKO	usp	stone	"a b"" a x"	A P A G	V P V K	4
+EASTERN_KEKCHI_CAHABON	kek	stone	p e k	P E K	P V K	9
+ZINACANTAN_TZOTZIL	tzz	stone	t o n	T U N	T V N	2
+TZELTAL_BACHAJON	tzb	stone	t o n	T U N	T V N	2
+CHOL_TUMBALA	ctu	stone	t u n	T Y N	T V N	2
+CHONTAL_TABASCO	chf	stone	h i t u n	H I T Y N	H V T V N	2
+CHORTI	caa	stone	t u n	T Y N	T V N	2
+ITZAJ	itz	stone	"C"" i n t u n i C"	C I N T Y N I C	K V N T V N V K	5
+MOPAN	mop	stone	t u n i C	T Y N I C	T V N V K	5
+MAYA_YUCATAN	yua	stone	t u n i C	T Y N I C	T V N V K	5
+LACANDON	lac	stone	t u n i C	T Y N I C	T V N V K	5
+HUASTEC	hva	sand	k i 8 i b	K I D I P	K V T V P	1
+CHICOMUCELTEC	cob	sand	k i s i w	K I S I W	K V S V W	1
+TOJOLABAL	toj	sand	"x i x k a b"""	G I G K A P	K V K K V P	6
+CHUJ	cnm	sand	p o k	P U K	P V K	2
+MOCHO	mhc	sand	p u q u q	P Y K Y K	P V K V K	2
+QANJOBAL_SANTA_EULALIA	kjb	sand	p o q	P U K	P V K	2
+ACATECO_SAN_MIGUEL_ACATAN	knj	sand	"k""a Cen"	K C	K K	7
+IXIL_CHAJUL	ixj	sand	p o q	P U K	P V K	2
+AGUACATEC	agu	sand	"c a m l i k"""	C A M L I K	K V M R V K	8
+TECO_TECTITAN	ttc	sand	k u q	K Y K	K V K	9
+MAM_NORTHERN	mam	sand	p o q l a x	P U K L A G	P V K R V K	2
+SIPAKAPENSE	qum	sand	"s a n y a b"""	S A N J A P	S V N J V P	3
+SACAPULTECO_SACAPULAS_CENTRO	quv	sand	"s a n e b"""	S A N E P	S V N V P	3
+CENTRAL_QUICHE	quc	sand	"s u n i3 b"""	S Y N I P	S V N V P	3
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	sand	s a n a y i l	S A N A J I L	S V N V J V R	3
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	sand	s a n a y i 7	S A N A J I H	S V N V J V H	3
+POQOMCHI_WESTERN	pob	sand	"s a n i b"""	S A N I P	S V N V P	3
+POCOMAM_EASTERN	poa	sand	"s a n i m"""	S A N I M	S V N V M	3
+USPANTEKO	usp	sand	"s a n e b"""	S A N E P	S V N V P	3
+EASTERN_KEKCHI_CAHABON	kek	sand	s a m a h i 7	S A M A H I H	S V M V H V H	3
+ZINACANTAN_TZOTZIL	tzz	sand	y i 7	J I H	J V H	4
+TZELTAL_BACHAJON	tzb	sand	h i 7	H I H	H V H	4
+CHOL_TUMBALA	ctu	sand	h i 7	H I H	H V H	4
+CHONTAL_TABASCO	chf	sand	h i 7	H I H	H V H	4
+CHORTI	caa	sand	h i 7	H I H	H V H	4
+ITZAJ	itz	sand	s a 7 a m	S A H A M	S V H V M	5
+MOPAN	mop	sand	"C"" i C"""	C I C	K V K	10
+MAYA_YUCATAN	yua	sand	s a 7 a n	S A H A N	S V H V N	5
+LACANDON	lac	sand	s a m	S A M	S V M	5
+HUASTEC	hva	earth	a n a m	A N A M	V N V M	1
+CHICOMUCELTEC	cob	earth	a n a m	A N A M	V N V M	1
+TOJOLABAL	toj	earth	l u 7 u m	L Y H Y M	R V H V M	2
+CHUJ	cnm	earth	l u 7 u m	L Y H Y M	R V H V M	2
+MOCHO	mhc	earth	"q"" a C"	K A C	K V K	6
+JACALTEC	jai	earth	"C"" o C"""	C U C	K V K	3
+QANJOBAL_SANTA_EULALIA	kjb	earth	"T"" o T"""	D U D	T V T	3
+ACATECO_SAN_MIGUEL_ACATAN	knj	earth	"T"" o T"""	D U D	T V T	3
+IXIL_CHAJUL	ixj	earth	"T"" a w a 7"	D A W A H	T V W V H	7
+AGUACATEC	agu	earth	"C"" o C"""	C U C	K V K	3
+TECO_TECTITAN	ttc	earth	"T"" o T"""	D U D	T V T	3
+MAM_NORTHERN	mam	earth	"C"" o C"""	C U C	K V K	3
+SIPAKAPENSE	qum	earth	u l e w	Y L E W	V R V W	4
+SACAPULTECO_SACAPULAS_CENTRO	quv	earth	u l e w	Y L E W	V R V W	4
+CENTRAL_QUICHE	quc	earth	u l e w	Y L E W	V R V W	4
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	earth	u l e w	Y L E W	V R V W	4
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	earth	u l e w	Y L E W	V R V W	4
+POQOMCHI_WESTERN	pob	earth	"a k"" a l"	A K A L	V K V R	5
+POCOMAM_EASTERN	poa	earth	"a k"" a l"	A K A L	V K V R	5
+USPANTEKO	usp	earth	u l e w	Y L E W	V R V W	4
+EASTERN_KEKCHI_CAHABON	kek	earth	"C"" o C"""	C U C	K V K	3
+TZELTAL_BACHAJON	tzb	earth	l u m	L Y M	R V M	2
+CHOL_TUMBALA	ctu	earth	l u m a l	L Y M A L	R V M V R	2
+CHORTI	caa	earth	r u m	R Y M	R V M	2
+ITZAJ	itz	earth	l u 7 u m	L Y H Y M	R V H V M	2
+MOPAN	mop	earth	l u 7 u m	L Y H Y M	R V H V M	2
+MAYA_YUCATAN	yua	earth	l u 7 u m	L Y H Y M	R V H V M	2
+LACANDON	lac	earth	r u m	R Y M	R V M	2
+HUASTEC	hva	cloud	t o k o w	T U K U W	T V K V W	4
+CHICOMUCELTEC	cob	cloud	s i y a l	S I J A L	S V J V R	6
+TOJOLABAL	toj	cloud	a s o n	A S U N	V S V N	1
+CHUJ	cnm	cloud	a s u n	A S Y N	V S V N	1
+JACALTEC	jai	cloud	m o y a n	M U J A N	M V J V N	5
+QANJOBAL_SANTA_EULALIA	kjb	cloud	a s u n	A S Y N	V S V N	1
+ACATECO_SAN_MIGUEL_ACATAN	knj	cloud	a s u n	A S Y N	V S V N	1
+IXIL_CHAJUL	ixj	cloud	"s u c"""	S Y C	S V K	3
+AGUACATEC	agu	cloud	"s b a q"""	S P A K	S P V K	7
+TECO_TECTITAN	ttc	cloud	m u x	M Y G	M V K	5
+MAM_NORTHERN	mam	cloud	m u x	M Y G	M V K	5
+SIPAKAPENSE	qum	cloud	"m u c"""	M Y C	M V K	8
+SACAPULTECO_SACAPULAS_CENTRO	quv	cloud	"s u c"""	S Y C	S V K	3
+CENTRAL_QUICHE	quc	cloud	"s u c"""	S Y C	S V K	3
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	cloud	"s u c"""	S Y C	S V K	3
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	cloud	"s u c"""	S Y C	S V K	3
+POQOMCHI_WESTERN	pob	cloud	"s u c"""	S Y C	S V K	3
+POCOMAM_EASTERN	poa	cloud	"s u c"""	S Y C	S V K	3
+USPANTEKO	usp	cloud	"s u c"""	S Y C	S V K	3
+EASTERN_KEKCHI_CAHABON	kek	cloud	C o q l	C U K L	K V K R	4
+ZINACANTAN_TZOTZIL	tzz	cloud	t o k	T U K	T V K	4
+TZELTAL_BACHAJON	tzb	cloud	t o k a l	T U K A L	T V K V R	4
+CHOL_TUMBALA	ctu	cloud	t o k a l	T U K A L	T V K V R	4
+CHONTAL_TABASCO	chf	cloud	b u k l a	P Y K L A	P V K R V	9
+CHORTI	caa	cloud	t o k a r	T U K A R	T V K V R	4
+ITZAJ	itz	cloud	m u y a l	M Y J A L	M V J V R	5
+MOPAN	mop	cloud	m u y a l	M Y J A L	M V J V R	5
+MAYA_YUCATAN	yua	cloud	m u y a l	M Y J A L	M V J V R	5
+LACANDON	lac	cloud	m u y a r	M Y J A R	M V J V R	5
+HUASTEC	hva	smoke	p a w	P A W	P V W	1
+CHICOMUCELTEC	cob	smoke	p a	P A	P V	1
+TOJOLABAL	toj	smoke	"t a b"""	T A P	T V P	2
+CHUJ	cnm	smoke	t a b	T A P	T V P	2
+MOCHO	mhc	smoke	"N u b"""	N Y P	N V P	3
+JACALTEC	jai	smoke	N u p	N Y P	N V P	3
+QANJOBAL_SANTA_EULALIA	kjb	smoke	"m u b"""	M Y P	M V P	3
+ACATECO_SAN_MIGUEL_ACATAN	knj	smoke	"m u k"""	M Y K	M V K	7
+IXIL_CHAJUL	ixj	smoke	"s i b"""	S I P	S V P	4
+AGUACATEC	agu	smoke	s i b	S I P	S V P	4
+TECO_TECTITAN	ttc	smoke	"s i b"""	S I P	S V P	4
+MAM_NORTHERN	mam	smoke	s i b	S I P	S V P	4
+SIPAKAPENSE	qum	smoke	"s i b"""	S I P	S V P	4
+SACAPULTECO_SACAPULAS_CENTRO	quv	smoke	"s e b"""	S E P	S V P	4
+CENTRAL_QUICHE	quc	smoke	"s i b"""	S I P	S V P	4
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	smoke	"s i b"""	S I P	S V P	4
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	smoke	"s i b"""	S I P	S V P	4
+POQOMCHI_WESTERN	pob	smoke	"s i b"""	S I P	S V P	4
+POCOMAM_EASTERN	poa	smoke	"s i m"""	S I M	S V M	4
+USPANTEKO	usp	smoke	"s i b"""	S I P	S V P	4
+EASTERN_KEKCHI_CAHABON	kek	smoke	"s i b"""	S I P	S V P	4
+ZINACANTAN_TZOTZIL	tzz	smoke	"C"" ai l"	C A L	K V R	5
+TZELTAL_BACHAJON	tzb	smoke	"C"" a h i l"	C A H I L	K V H V R	5
+CHOL_TUMBALA	ctu	smoke	"b u c"""	P Y C	P V K	6
+CHONTAL_TABASCO	chf	smoke	"b u c"""	P Y C	P V K	6
+CHORTI	caa	smoke	b u c	P Y C	P V K	6
+ITZAJ	itz	smoke	"b u c"""	P Y C	P V K	6
+MOPAN	mop	smoke	"b u c"""	P Y C	P V K	6
+MAYA_YUCATAN	yua	smoke	"b"" u c"""	P Y C	P V K	6
+LACANDON	lac	smoke	"b u C"""	P Y C	P V K	6
+HUASTEC	hva	fire	"k"" a m a l"	K A M A L	K V M V R	3
+CHICOMUCELTEC	cob	fire	s i 7	S I H	S V H	4
+TOJOLABAL	toj	fire	"k"" a k"""	K A K	K V K	1
+CHUJ	cnm	fire	"k"" a k"""	K A K	K V K	1
+MOCHO	mhc	fire	"q"" a q"""	K A K	K V K	1
+JACALTEC	jai	fire	"q"" a 7"	K A H	K V H	1
+QANJOBAL_SANTA_EULALIA	kjb	fire	"q"" a q"""	K A K	K V K	1
+ACATECO_SAN_MIGUEL_ACATAN	knj	fire	"q"" a 7"	K A H	K V H	1
+IXIL_CHAJUL	ixj	fire	S a m a l	S A M A L	S V M V R	2
+AGUACATEC	agu	fire	"q"" a q"""	K A K	K V K	1
+TECO_TECTITAN	ttc	fire	"q"" a q"""	K A K	K V K	1
+MAM_NORTHERN	mam	fire	"q"" a q"""	K A K	K V K	1
+SIPAKAPENSE	qum	fire	"q"" a q"""	K A K	K V K	1
+SACAPULTECO_SACAPULAS_CENTRO	quv	fire	"q"" a q"""	K A K	K V K	1
+CENTRAL_QUICHE	quc	fire	"q"" a q"""	K A K	K V K	1
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	fire	"q"" a q"""	K A K	K V K	1
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	fire	"q"" a q"""	K A K	K V K	1
+POQOMCHI_WESTERN	pob	fire	"q"" a q"""	K A K	K V K	1
+POCOMAM_EASTERN	poa	fire	"q"" a q"""	K A K	K V K	1
+USPANTEKO	usp	fire	"q"" a q"""	K A K	K V K	1
+EASTERN_KEKCHI_CAHABON	kek	fire	S a m	S A M	S V M	2
+ZINACANTAN_TZOTZIL	tzz	fire	"k"" o k"""	K U K	K V K	1
+TZELTAL_BACHAJON	tzb	fire	"k"" a k"""	K A K	K V K	1
+CHOL_TUMBALA	ctu	fire	"k"" a k"	K A K	K V K	1
+CHONTAL_TABASCO	chf	fire	"k"" a k"""	K A K	K V K	1
+CHORTI	caa	fire	"k"" a k"	K A K	K V K	1
+ITZAJ	itz	fire	"k"" a k"""	K A K	K V K	1
+MOPAN	mop	fire	"k"" a k"""	K A K	K V K	1
+MAYA_YUCATAN	yua	fire	"k"" a k"""	K A K	K V K	1
+LACANDON	lac	fire	"k"" a k"""	K A K	K V K	1
+HUASTEC	hva	ash	h o l t a y 7	H U L T A J H	H V R T V J H	1
+CHICOMUCELTEC	cob	ash	t a y 7	T A J H	T V J H	1
+TOJOLABAL	toj	ash	t a 7 a n	T A H A N	T V H V N	1
+CHUJ	cnm	ash	te ta7aN	T T	T T	1
+MOCHO	mhc	ash	l o h	L U H	R V H	3
+JACALTEC	jai	ash	t a N	T A N	T V N	1
+QANJOBAL_SANTA_EULALIA	kjb	ash	"tiq""aq""il tan"	T T	T T	2
+ACATECO_SAN_MIGUEL_ACATAN	knj	ash	"stiq""a7il tan"	S T	S T	2
+IXIL_CHAJUL	ixj	ash	c a 7	C A H	K V H	1
+AGUACATEC	agu	ash	c a x	C A G	K V K	1
+TECO_TECTITAN	ttc	ash	c a x	C A G	K V K	1
+MAM_NORTHERN	mam	ash	c a x	C A G	K V K	1
+SIPAKAPENSE	qum	ash	C a x	C A G	K V K	1
+SACAPULTECO_SACAPULAS_CENTRO	quv	ash	C a x	C A G	K V K	1
+CENTRAL_QUICHE	quc	ash	C a x	C A G	K V K	1
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	ash	C a x	C A G	K V K	1
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	ash	C a x	C A G	K V K	1
+POQOMCHI_WESTERN	pob	ash	C a x	C A G	K V K	1
+POCOMAM_EASTERN	poa	ash	sa7 Cax	S C	S K	4
+USPANTEKO	usp	ash	C a x	C A G	K V K	1
+EASTERN_KEKCHI_CAHABON	kek	ash	C a h	C A H	K V H	1
+ZINACANTAN_TZOTZIL	tzz	ash	t a n	T A N	T V N	1
+TZELTAL_BACHAJON	tzb	ash	t a n	T A N	T V N	1
+CHOL_TUMBALA	ctu	ash	"t3nil k""ak"	T K	T K	1
+CHONTAL_TABASCO	chf	ash	"c"" i t a n"	C I T A N	K V T V N	1
+CHORTI	caa	ash	t a n	T A N	T V N	1
+ITZAJ	itz	ash	t a 7 a n	T A H A N	T V H V N	1
+MOPAN	mop	ash	t a 7 a n	T A H A N	T V H V N	1
+MAYA_YUCATAN	yua	ash	t a 7 a n	T A H A N	T V H V N	1
+LACANDON	lac	ash	t a n	T A N	T V N	1
+HUASTEC	hva	burn	"t"" a 7 i l"	T A H I L	T V H V R	1
+TOJOLABAL	toj	burn	c i k a	C I K A	K V K V	6
+CHUJ	cnm	burn	"c"" a 7 i"	C A H I	K V H V	1
+MOCHO	mhc	burn	"c"" a 7"	C A H	K V H	1
+JACALTEC	jai	burn	"c"" a y"	C A J	K V J	1
+QANJOBAL_SANTA_EULALIA	kjb	burn	C a w	C A W	K V W	7
+ACATECO_SAN_MIGUEL_ACATAN	knj	burn	"T"" a"	D A	T V	1
+IXIL_CHAJUL	ixj	burn	"o y b"""	U J P	V J P	8
+AGUACATEC	agu	burn	na can	N C	N K	9
+TECO_TECTITAN	ttc	burn	t i l u n	T I L Y N	T V R V N	10
+MAM_NORTHERN	mam	burn	"k"" a n t"	K A N T	K V N T	2
+SIPAKAPENSE	qum	burn	"k"" a t"	K A T	K V T	2
+SACAPULTECO_SACAPULAS_CENTRO	quv	burn	"k"" a t"	K A T	K V T	2
+CENTRAL_QUICHE	quc	burn	"k"" a t"	K A T	K V T	2
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	burn	"k"" a t"	K A T	K V T	2
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	burn	"k"" a t"	K A T	K V T	2
+POQOMCHI_WESTERN	pob	burn	"k"" a t"	K A T	K V T	2
+POCOMAM_EASTERN	poa	burn	q o p	K U P	K V P	11
+USPANTEKO	usp	burn	"k"" a t"	K A T	K V T	2
+EASTERN_KEKCHI_CAHABON	kek	burn	l e C	L E C	R V K	12
+ZINACANTAN_TZOTZIL	tzz	burn	"C i k"""	C I K	K V K	3
+TZELTAL_BACHAJON	tzb	burn	"C i k"""	C I K	K V K	3
+CHOL_TUMBALA	ctu	burn	p u l	P Y L	P V R	4
+CHONTAL_TABASCO	chf	burn	p u l e 7	P Y L E H	P V R V H	4
+CHORTI	caa	burn	p u r	P Y R	P V R	4
+ITZAJ	itz	burn	C u h	C Y H	K V H	5
+MOPAN	mop	burn	t a b	T A P	T V P	13
+MAYA_YUCATAN	yua	burn	t o k a h	T U K A H	T V K V H	14
+LACANDON	lac	burn	C u h	C Y H	K V H	5
+HUASTEC	hva	path	b e l	P E L	P V R	1
+CHICOMUCELTEC	cob	path	w e l	W E L	W V R	1
+TOJOLABAL	toj	path	"b"" e x"	P E G	P V K	2
+CHUJ	cnm	path	b e	P E	P V	2
+MOCHO	mhc	path	b e h	P E H	P V H	2
+JACALTEC	jai	path	b e	P E	P V	2
+QANJOBAL_SANTA_EULALIA	kjb	path	"b"" e"	P E	P V	2
+ACATECO_SAN_MIGUEL_ACATAN	knj	path	"b"" e"	P E	P V	2
+IXIL_CHAJUL	ixj	path	"b"" e y"	P E J	P V J	2
+AGUACATEC	agu	path	"q""ab be7"	K P	K P	2
+TECO_TECTITAN	ttc	path	"b"" e y"	P E J	P V J	2
+MAM_NORTHERN	mam	path	"t q"" a bb e"	T K A P E	T K V P V	2
+SIPAKAPENSE	qum	path	"b"" e y"	P E J	P V J	2
+SACAPULTECO_SACAPULAS_CENTRO	quv	path	"b"" e y"	P E J	P V J	2
+CENTRAL_QUICHE	quc	path	"alax b""e"	A P	V P	2
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	path	"b"" e y"	P E J	P V J	2
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	path	"b"" e y"	P E J	P V J	2
+POQOMCHI_WESTERN	pob	path	"b"" e"	P E	P V	2
+POCOMAM_EASTERN	poa	path	"w"" ie h"	W I H	W V H	2
+USPANTEKO	usp	path	"b"" e"	P E	P V	2
+EASTERN_KEKCHI_CAHABON	kek	path	"b"" e"	P E	P V	2
+ZINACANTAN_TZOTZIL	tzz	path	b e	P E	P V	2
+CHOL_TUMBALA	ctu	path	al3 bih	A P	V P	2
+CHONTAL_TABASCO	chf	path	b i h	P I H	P V H	2
+CHORTI	caa	path	b i r	P I R	P V R	1
+ITZAJ	itz	path	b e h	P E H	P V H	2
+MOPAN	mop	path	b e x	P E G	P V K	2
+MAYA_YUCATAN	yua	path	"b"" e"	P E	P V	2
+LACANDON	lac	path	b e h	P E H	P V H	2
+TOJOLABAL	toj	mountain	w i c	W I C	W V K	1
+CHUJ	cnm	mountain	w i c	W I C	W V K	1
+MOCHO	mhc	mountain	w i c	W I C	W V K	1
+JACALTEC	jai	mountain	w i c	W I C	W V K	1
+QANJOBAL_SANTA_EULALIA	kjb	mountain	w i c	W I C	W V K	1
+IXIL_CHAJUL	ixj	mountain	w i c	W I C	W V K	1
+AGUACATEC	agu	mountain	w u c	W Y C	W V K	1
+TECO_TECTITAN	ttc	mountain	tw~i7 wic	T W	T W	1
+MAM_NORTHERN	mam	mountain	w i c	W I C	W V K	1
+SIPAKAPENSE	qum	mountain	"x y i b"""	G J I P	K J V P	2
+SACAPULTECO_SACAPULAS_CENTRO	quv	mountain	"x a y u b"""	G A J Y P	K V J V P	2
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	mountain	x u y u 7	G Y J Y H	K V J V H	2
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	mountain	x u y u 7	G Y J Y H	K V J V H	2
+POQOMCHI_WESTERN	pob	mountain	"y u q"""	J Y K	J V K	3
+POCOMAM_EASTERN	poa	mountain	"y u q"""	J Y K	J V K	3
+USPANTEKO	usp	mountain	w i c	W I C	W V K	1
+ZINACANTAN_TZOTZIL	tzz	mountain	v i c	B I C	P V K	1
+TZELTAL_BACHAJON	tzb	mountain	w i c	W I C	W V K	1
+CHOL_TUMBALA	ctu	mountain	w i c	W I C	W V K	1
+CHORTI	caa	mountain	w i c i r	W I C I R	W V K V R	1
+ITZAJ	itz	mountain	w i c	W I C	W V K	1
+MOPAN	mop	mountain	w i c	W I C	W V K	1
+MAYA_YUCATAN	yua	mountain	w i c	W I C	W V K	1
+LACANDON	lac	mountain	w i c	W I C	W V K	1
+HUASTEC	hva	red	C a k	C A K	K V K	1
+CHICOMUCELTEC	cob	red	C a k	C A K	K V K	1
+TOJOLABAL	toj	red	C a k	C A K	K V K	1
+CHUJ	cnm	red	C a k	C A K	K V K	1
+MOCHO	mhc	red	k a q	K A K	K V K	1
+JACALTEC	jai	red	k a x	K A G	K V K	1
+QANJOBAL_SANTA_EULALIA	kjb	red	k a q	K A K	K V K	1
+ACATECO_SAN_MIGUEL_ACATAN	knj	red	k a x	K A G	K V K	1
+IXIL_CHAJUL	ixj	red	k a q	K A K	K V K	1
+AGUACATEC	agu	red	ky~ 3 q	K O K	K V K	1
+TECO_TECTITAN	ttc	red	ky~ a q	K A K	K V K	1
+MAM_NORTHERN	mam	red	ky~ a q	K A K	K V K	1
+SIPAKAPENSE	qum	red	ky~ a q	K A K	K V K	1
+SACAPULTECO_SACAPULAS_CENTRO	quv	red	ky~ a q	K A K	K V K	1
+CENTRAL_QUICHE	quc	red	k i3 q	K I K	K V K	1
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	red	ky~ a q	K A K	K V K	1
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	red	k a q	K A K	K V K	1
+POQOMCHI_WESTERN	pob	red	k a q	K A K	K V K	1
+POCOMAM_EASTERN	poa	red	k a q	K A K	K V K	1
+USPANTEKO	usp	red	k e q	K E K	K V K	1
+EASTERN_KEKCHI_CAHABON	kek	red	k a q	K A K	K V K	1
+ZINACANTAN_TZOTZIL	tzz	red	C a k	C A K	K V K	1
+TZELTAL_BACHAJON	tzb	red	c a x	C A G	K V K	2
+CHOL_TUMBALA	ctu	red	C 3 C 3 k	C O C O K	K V K V K	1
+CHONTAL_TABASCO	chf	red	C 3 k	C O K	K V K	1
+CHORTI	caa	red	C a k C a k o p	C A K C A K U P	K V K K V K V P	1
+ITZAJ	itz	red	C 3 k	C O K	K V K	1
+MOPAN	mop	red	C 3 k	C O K	K V K	1
+MAYA_YUCATAN	yua	red	C a k	C A K	K V K	1
+LACANDON	lac	red	C 3 k	C O K	K V K	1
+HUASTEC	hva	green	y a S	J A S	J V S	1
+CHICOMUCELTEC	cob	green	y a S	J A S	J V S	1
+TOJOLABAL	toj	green	y a 7 a S	J A H A S	J V H V S	1
+CHUJ	cnm	green	y a S	J A S	J V S	1
+MOCHO	mhc	green	C e S	C E S	K V S	1
+JACALTEC	jai	green	y a S	J A S	J V S	1
+QANJOBAL_SANTA_EULALIA	kjb	green	y a S	J A S	J V S	1
+ACATECO_SAN_MIGUEL_ACATAN	knj	green	y a S	J A S	J V S	1
+IXIL_CHAJUL	ixj	green	C a S	C A S	K V S	1
+AGUACATEC	agu	green	C a S	C A S	K V S	1
+TECO_TECTITAN	ttc	green	T a S	D A S	T V S	1
+MAM_NORTHERN	mam	green	C a S	C A S	K V S	1
+SIPAKAPENSE	qum	green	r a S	R A S	R V S	1
+SACAPULTECO_SACAPULAS_CENTRO	quv	green	r a S	R A S	R V S	1
+CENTRAL_QUICHE	quc	green	r 3 S	R O S	R V S	1
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	green	r a S	R A S	R V S	1
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	green	r e S	R E S	R V S	1
+POQOMCHI_WESTERN	pob	green	r e S	R E S	R V S	1
+POCOMAM_EASTERN	poa	green	r a S	R A S	R V S	1
+USPANTEKO	usp	green	r a S	R A S	R V S	1
+EASTERN_KEKCHI_CAHABON	kek	green	r a S	R A S	R V S	1
+ZINACANTAN_TZOTZIL	tzz	green	y o S	J U S	J V S	1
+TZELTAL_BACHAJON	tzb	green	x a S	G A S	K V S	1
+CHOL_TUMBALA	ctu	green	y 3 h y 3 S	J O H J O S	J V H J V S	1
+CHONTAL_TABASCO	chf	green	y 3 S	J O S	J V S	1
+CHORTI	caa	green	y a S a S	J A S A S	J V S V S	1
+ITZAJ	itz	green	y a 7 a S	J A H A S	J V H V S	1
+MOPAN	mop	green	y a 7 a x	J A H A G	J V H V K	1
+MAYA_YUCATAN	yua	green	y a 7 a S	J A H A S	J V H V S	1
+LACANDON	lac	green	y a S	J A S	J V S	1
+HUASTEC	hva	yellow	m a n u 7	M A N Y H	M V N V H	2
+CHICOMUCELTEC	cob	yellow	"k"" a n"	K A N	K V N	1
+TOJOLABAL	toj	yellow	"k"" a n"	K A N	K V N	1
+CHUJ	cnm	yellow	"k"" a n"	K A N	K V N	1
+MOCHO	mhc	yellow	"q"" a n"	K A N	K V N	1
+JACALTEC	jai	yellow	"q"" a n"	K A N	K V N	1
+QANJOBAL_SANTA_EULALIA	kjb	yellow	"q"" a n"	K A N	K V N	1
+ACATECO_SAN_MIGUEL_ACATAN	knj	yellow	"q"" a n"	K A N	K V N	1
+IXIL_CHAJUL	ixj	yellow	"q"" a n"	K A N	K V N	1
+AGUACATEC	agu	yellow	"q"" a n"	K A N	K V N	1
+TECO_TECTITAN	ttc	yellow	"q"" a n"	K A N	K V N	1
+MAM_NORTHERN	mam	yellow	"S q"" a n"	S K A N	S K V N	1
+SIPAKAPENSE	qum	yellow	"q"" e n"	K E N	K V N	1
+SACAPULTECO_SACAPULAS_CENTRO	quv	yellow	"q"" a n"	K A N	K V N	1
+CENTRAL_QUICHE	quc	yellow	"q"" 3 n"	K O N	K V N	1
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	yellow	"q"" a n"	K A N	K V N	1
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	yellow	"q"" e n"	K E N	K V N	1
+POQOMCHI_WESTERN	pob	yellow	"q"" a n"	K A N	K V N	1
+POCOMAM_EASTERN	poa	yellow	"q"" a n"	K A N	K V N	1
+USPANTEKO	usp	yellow	"q"" a n"	K A N	K V N	1
+EASTERN_KEKCHI_CAHABON	kek	yellow	"q"" a n"	K A N	K V N	1
+ZINACANTAN_TZOTZIL	tzz	yellow	k o n	K U N	K V N	1
+TZELTAL_BACHAJON	tzb	yellow	"k"" a n"	K A N	K V N	1
+CHOL_TUMBALA	ctu	yellow	"k"" 3 n k"" 3 n"	K O N K O N	K V N K V N	1
+CHONTAL_TABASCO	chf	yellow	"k"" 3 n"	K O N	K V N	1
+CHORTI	caa	yellow	"k"" a n"	K A N	K V N	1
+ITZAJ	itz	yellow	"k"" 3 n"	K O N	K V N	1
+MOPAN	mop	yellow	"k"" 3 n"	K O N	K V N	1
+MAYA_YUCATAN	yua	yellow	"k"" a n k"" a n"	K A N K A N	K V N K V N	1
+LACANDON	lac	yellow	"k"" 3 n"	K O N	K V N	1
+HUASTEC	hva	white	8 a k	D A K	T V K	1
+CHICOMUCELTEC	cob	white	s a k	S A K	S V K	1
+TOJOLABAL	toj	white	s a k	S A K	S V K	1
+CHUJ	cnm	white	s a q	S A K	S V K	1
+MOCHO	mhc	white	s a q	S A K	S V K	1
+JACALTEC	jai	white	s a x	S A G	S V K	1
+QANJOBAL_SANTA_EULALIA	kjb	white	s a q	S A K	S V K	1
+ACATECO_SAN_MIGUEL_ACATAN	knj	white	s a x	S A G	S V K	1
+IXIL_CHAJUL	ixj	white	s a q	S A K	S V K	1
+AGUACATEC	agu	white	s a q	S A K	S V K	1
+TECO_TECTITAN	ttc	white	s a q	S A K	S V K	1
+MAM_NORTHERN	mam	white	s a q	S A K	S V K	1
+SIPAKAPENSE	qum	white	s a q	S A K	S V K	1
+SACAPULTECO_SACAPULAS_CENTRO	quv	white	s a q	S A K	S V K	1
+CENTRAL_QUICHE	quc	white	s a q	S A K	S V K	1
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	white	s a q	S A K	S V K	1
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	white	s a q	S A K	S V K	1
+POQOMCHI_WESTERN	pob	white	s a q	S A K	S V K	1
+POCOMAM_EASTERN	poa	white	s a q	S A K	S V K	1
+USPANTEKO	usp	white	s a q	S A K	S V K	1
+EASTERN_KEKCHI_CAHABON	kek	white	s a q	S A K	S V K	1
+ZINACANTAN_TZOTZIL	tzz	white	s a k	S A K	S V K	1
+TZELTAL_BACHAJON	tzb	white	s a k	S A K	S V K	1
+CHOL_TUMBALA	ctu	white	s 3 s 3 k	S O S O K	S V S V K	1
+CHONTAL_TABASCO	chf	white	s 3 k	S O K	S V K	1
+CHORTI	caa	white	s a k s a k	S A K S A K	S V K S V K	1
+ITZAJ	itz	white	s 3 k	S O K	S V K	1
+MOPAN	mop	white	s 3 k	S O K	S V K	1
+MAYA_YUCATAN	yua	white	s a k	S A K	S V K	1
+LACANDON	lac	white	s 3 k	S O K	S V K	1
+HUASTEC	hva	black	"t"" u n u 7"	T Y N Y H	T V N V H	4
+CHICOMUCELTEC	cob	black	e k i n i k	E K I N I K	V K V N V K	2
+TOJOLABAL	toj	black	"k"" i k"""	K I K	K V K	1
+CHUJ	cnm	black	"k"" i k"""	K I K	K V K	1
+MOCHO	mhc	black	"q"" e q"	K E K	K V K	1
+JACALTEC	jai	black	"k"" e x"	K E G	K V K	1
+QANJOBAL_SANTA_EULALIA	kjb	black	"q"" e q"	K E K	K V K	1
+ACATECO_SAN_MIGUEL_ACATAN	knj	black	"q"" e x"	K E G	K V K	1
+IXIL_CHAJUL	ixj	black	"q"" e q"	K E K	K V K	1
+AGUACATEC	agu	black	"q"" e q"	K E K	K V K	1
+TECO_TECTITAN	ttc	black	"q"" e q"	K E K	K V K	1
+MAM_NORTHERN	mam	black	"q""aq u7x"	K Y	K V	1
+SIPAKAPENSE	qum	black	"q"" e q"	K E K	K V K	1
+SACAPULTECO_SACAPULAS_CENTRO	quv	black	"q"" a q"	K A K	K V K	1
+CENTRAL_QUICHE	quc	black	"q"" e k"	K E K	K V K	1
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	black	S a q	S A K	S V K	5
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	black	"q"" e q"	K E K	K V K	1
+POQOMCHI_WESTERN	pob	black	"q"" e q"	K E K	K V K	1
+POCOMAM_EASTERN	poa	black	"q"" e q"""	K E K	K V K	1
+USPANTEKO	usp	black	"q"" e q"	K E K	K V K	1
+EASTERN_KEKCHI_CAHABON	kek	black	e q	E K	V K	6
+ZINACANTAN_TZOTZIL	tzz	black	"i k"""	I K	V K	2
+TZELTAL_BACHAJON	tzb	black	"i k"""	I K	V K	2
+CHOL_TUMBALA	ctu	black	"i 7 i k"""	I H I K	V H V K	2
+CHONTAL_TABASCO	chf	black	"i k"""	I K	V K	2
+ITZAJ	itz	black	"e k"""	E K	V K	2
+MOPAN	mop	black	b o S	P U S	P V S	3
+MAYA_YUCATAN	yua	black	"b"" o S"	P U S	P V S	3
+LACANDON	lac	black	w o 7	W U H	W V H	2
+HUASTEC	hva	night	a k a l	A K A L	V K V R	1
+CHICOMUCELTEC	cob	night	a k a l	A K A L	V K V R	1
+TOJOLABAL	toj	night	a 7 kw~ a l	A H K A L	V H K V R	1
+CHUJ	cnm	night	"a k"" w a l"	A K W A L	V K W V R	2
+MOCHO	mhc	night	"a q"" b"" a l"	A K P A L	V K P V R	2
+JACALTEC	jai	night	"a q"" b a l i l"	A K P A L I L	V K P V R V R	2
+QANJOBAL_SANTA_EULALIA	kjb	night	"a q"" b"" a l i l"	A K P A L I L	V K P V R V R	2
+ACATECO_SAN_MIGUEL_ACATAN	knj	night	"a b"" a l"	A P A L	V P V R	3
+IXIL_CHAJUL	ixj	night	"a q"" b"" a l"	A K P A L	V K P V R	2
+AGUACATEC	agu	night	"l a q"" b a l"	L A K P A L	R V K P V R	4
+TECO_TECTITAN	ttc	night	"a q"" b"" i l"	A K P I L	V K P V R	2
+MAM_NORTHERN	mam	night	"a q"" b a l i l"	A K P A L I L	V K P V R V R	2
+SIPAKAPENSE	qum	night	"a q"" a b"""	A K A P	V K V P	5
+SACAPULTECO_SACAPULAS_CENTRO	quv	night	"a q"" a b"""	A K A P	V K V P	5
+CENTRAL_QUICHE	quc	night	"C a q"" 3 b"""	C A K O P	K V K V P	5
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	night	"a q"" a 7"	A K A H	V K V H	5
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	night	"a q"" a 7"	A K A H	V K V H	2
+POQOMCHI_WESTERN	pob	night	"a q"" a b"""	A K A P	V K V P	2
+POCOMAM_EASTERN	poa	night	"a q"" e m 7"	A K E M H	V K V M H	2
+USPANTEKO	usp	night	"l a q"" a b"""	L A K A P	R V K V P	4
+EASTERN_KEKCHI_CAHABON	kek	night	"q"" o x i n"	K U G I N	K V K V N	7
+ZINACANTAN_TZOTZIL	tzz	night	"a k"" u b a l"	A K Y P A L	V K V P V R	6
+TZELTAL_BACHAJON	tzb	night	"a k"" a b a l"	A K A P A L	V K V P V R	6
+CHOL_TUMBALA	ctu	night	a k 3 l e l	A K O L E L	V K V R V R	1
+CHONTAL_TABASCO	chf	night	"a k"" 3 b"	A K O P	V K V P	5
+CHORTI	caa	night	a k b a r e	A K P A R E	V K P V R V	8
+ITZAJ	itz	night	"a k"" a b"	A K A P	V K V P	5
+MOPAN	mop	night	"xunbel ak""37"	G A	K V	5
+MAYA_YUCATAN	yua	night	"a k"" a b"""	A K A P	V K V P	5
+LACANDON	lac	night	"a k"" b i r"	A K P I R	V K P V R	2
+HUASTEC	hva	hot	"k"" a k"""	K A K	K V K	1
+CHICOMUCELTEC	cob	hot	"k"" a k"""	K A K	K V K	1
+TOJOLABAL	toj	hot	"k"" a k"""	K A K	K V K	1
+CHUJ	cnm	hot	"k"" a k"" l"	K A K L	K V K R	1
+MOCHO	mhc	hot	"c"" a 7 i k"	C A H I K	K V H V K	3
+JACALTEC	jai	hot	"q"" a S"	K A S	K V S	6
+QANJOBAL_SANTA_EULALIA	kjb	hot	k a q	K A K	K V K	2
+ACATECO_SAN_MIGUEL_ACATAN	knj	hot	k a x	K A G	K V K	2
+IXIL_CHAJUL	ixj	hot	"c"" a 7"	C A H	K V H	3
+AGUACATEC	agu	hot	c a l a 7	C A L A H	K V R V H	7
+TECO_TECTITAN	ttc	hot	ky~ a q	K A K	K V K	2
+MAM_NORTHERN	mam	hot	ky~ q a 7	K K A H	K K V H	2
+SIPAKAPENSE	qum	hot	"k t"" a n"	K T A N	K T V N	4
+SACAPULTECO_SACAPULAS_CENTRO	quv	hot	"k a t"" a n"	K A T A N	K V T V N	4
+CENTRAL_QUICHE	quc	hot	"k"" a t 3 n"	K A T O N	K V T V N	4
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	hot	"k"" a t a n"	K A T A N	K V T V N	4
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	hot	"k"" a t a n"	K A T A N	K V T V N	4
+POQOMCHI_WESTERN	pob	hot	"c"" a 7"	C A H	K V H	3
+POCOMAM_EASTERN	poa	hot	"C"" a 7"	C A H	K V H	3
+USPANTEKO	usp	hot	"m i q"" i n"	M I K I N	M V K V N	8
+EASTERN_KEKCHI_CAHABON	kek	hot	t e q	T E K	T V K	5
+ZINACANTAN_TZOTZIL	tzz	hot	"k"" o k"""	K U K	K V K	1
+TZELTAL_BACHAJON	tzb	hot	"k"" i S i n"	K I S I N	K V S V N	9
+CHOL_TUMBALA	ctu	hot	t i k 3 w	T I K O W	T V K V W	5
+CHONTAL_TABASCO	chf	hot	t i k 3 w	T I K O W	T V K V W	5
+CHORTI	caa	hot	"i n k"" i n"	I N K I N	V N K V N	10
+ITZAJ	itz	hot	C o k o h	C U K U H	K V K V H	5
+MOPAN	mop	hot	C 3 k 3 x	C O K O G	K V K V K	5
+MAYA_YUCATAN	yua	hot	C o k o	C U K U	K V K V	5
+HUASTEC	hva	cold	"c"" a y i l"	C A J I L	K V J V R	1
+CHICOMUCELTEC	cob	cold	"C"" a y i l"	C A J I L	K V J V R	1
+TOJOLABAL	toj	cold	C e 7 e	C E H E	K V H V	6
+CHUJ	cnm	cold	s i k	S I K	S V K	2
+MOCHO	mhc	cold	s i k	S I K	S V K	2
+JACALTEC	jai	cold	C e w	C E W	K V W	3
+QANJOBAL_SANTA_EULALIA	kjb	cold	s i k	S I K	S V K	2
+ACATECO_SAN_MIGUEL_ACATAN	knj	cold	s i k	S I K	S V K	2
+IXIL_CHAJUL	ixj	cold	C e w	C E W	K V W	3
+AGUACATEC	agu	cold	C e w	C E W	K V W	3
+TECO_TECTITAN	ttc	cold	C e w	C E W	K V W	3
+MAM_NORTHERN	mam	cold	C e w	C E W	K V W	3
+SIPAKAPENSE	qum	cold	t e w	T E W	T V W	3
+SACAPULTECO_SACAPULAS_CENTRO	quv	cold	t e w	T E W	T V W	3
+CENTRAL_QUICHE	quc	cold	t e w	T E W	T V W	3
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	cold	t e w	T E W	T V W	3
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	cold	t e w	T E W	T V W	3
+POQOMCHI_WESTERN	pob	cold	"k"" u S i k"	K Y S I K	K V S V K	7
+POCOMAM_EASTERN	poa	cold	"q"" a t i k"	K A T I K	K V T V K	8
+USPANTEKO	usp	cold	t e w	T E W	T V W	3
+EASTERN_KEKCHI_CAHABON	kek	cold	k e h	K E H	K V H	9
+ZINACANTAN_TZOTZIL	tzz	cold	s i k	S I K	S V K	2
+TZELTAL_BACHAJON	tzb	cold	s i k	S I K	S V K	2
+CHOL_TUMBALA	ctu	cold	c 3 5 a l	C O N A L	K V N V R	10
+CHONTAL_TABASCO	chf	cold	s i s	S I S	S V S	4
+CHORTI	caa	cold	i n s i s	I N S I S	V N S V S	4
+ITZAJ	itz	cold	k e 7 e l	K E H E L	K V H V R	5
+MOPAN	mop	cold	s i s	S I S	S V S	4
+MAYA_YUCATAN	yua	cold	k e 7 e l	K E H E L	K V H V R	5
+LACANDON	lac	cold	s i s	S I S	S V S	4
+HUASTEC	hva	full	"t"" u C a t"	T Y C A T	T V K V T	1
+CHICOMUCELTEC	cob	full	"t"" u t e n i k"	T Y T E N I K	T V T V N V K	1
+TOJOLABAL	toj	full	"b"" u t"""	P Y T	P V T	2
+CHUJ	cnm	full	b u t x i	P Y T G I	P V T K V	7
+MOCHO	mhc	full	n o h	N U H	N V H	3
+JACALTEC	jai	full	n o h n a x	N U H N A G	N V H N V K	4
+QANJOBAL_SANTA_EULALIA	kjb	full	n o S n a q	N U S N A K	N V S N V K	4
+ACATECO_SAN_MIGUEL_ACATAN	knj	full	n o n a x	N U N A G	N V N V K	4
+IXIL_CHAJUL	ixj	full	n o n a q	N U N A K	N V N V K	4
+AGUACATEC	agu	full	n o x	N U G	N V K	3
+TECO_TECTITAN	ttc	full	n o n a q	N U N A K	N V N V K	4
+MAM_NORTHERN	mam	full	n o x n	N U G N	N V K N	4
+SIPAKAPENSE	qum	full	n o n a q	N U N A K	N V N V K	4
+SACAPULTECO_SACAPULAS_CENTRO	quv	full	n a x a n a q	N A G A N A K	N V K V N V K	5
+CENTRAL_QUICHE	quc	full	n o x i n a q	N U G I N A K	N V K V N V K	5
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	full	n o x n a q	N U G N A K	N V K N V K	5
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	full	n o x n a q	N U G N A K	N V K N V K	5
+POQOMCHI_WESTERN	pob	full	n u x u n a q	N Y G Y N A K	N V K V N V K	5
+POCOMAM_EASTERN	poa	full	n ua x i n a q	N Y G I N A K	N V K V N V K	5
+USPANTEKO	usp	full	n o s a l i k	N U S A L I K	N V S V R V K	8
+EASTERN_KEKCHI_CAHABON	kek	full	n u x i n a q	N Y G I N A K	N V K V N V K	5
+ZINACANTAN_TZOTZIL	tzz	full	n o h	N U H	N V H	3
+TZELTAL_BACHAJON	tzb	full	"b u t"" u l"	P Y T Y L	P V T V R	2
+CHOL_TUMBALA	ctu	full	"b u t"" u l"	P Y T Y L	P V T V R	2
+CHONTAL_TABASCO	chf	full	t u l u	T Y L Y	T V R V	6
+CHORTI	caa	full	"b u t"" u r"	P Y T Y R	P V T V R	2
+ITZAJ	itz	full	"C"" e 7 e h"	C E H E H	K V H V H	9
+MOPAN	mop	full	"t u d"" a 7 a n"	T Y T A H A N	T V T V H V N	6
+MAYA_YUCATAN	yua	full	C u p	C Y P	K V P	10
+LACANDON	lac	full	n a h	N A H	N V H	3
+HUASTEC	hva	new	i t	I T	V T	6
+CHICOMUCELTEC	cob	new	a w e l	A W E L	V W V R	7
+TOJOLABAL	toj	new	"a x k"" a C"	A G K A C	V K K V K	8
+CHUJ	cnm	new	"a k"""	A K	V K	1
+MOCHO	mhc	new	"a k"""	A K	V K	1
+JACALTEC	jai	new	"a k"""	A K	V K	1
+QANJOBAL_SANTA_EULALIA	kjb	new	"a k"""	A K	V K	1
+ACATECO_SAN_MIGUEL_ACATAN	knj	new	"a k"""	A K	V K	1
+IXIL_CHAJUL	ixj	new	"a k"""	A K	V K	1
+AGUACATEC	agu	new	"a k"" a x"	A K A G	V K V K	2
+TECO_TECTITAN	ttc	new	"a k"" a x"	A K A G	V K V K	2
+MAM_NORTHERN	mam	new	"a k"" a x"	A K A G	V K V K	2
+SIPAKAPENSE	qum	new	"k"" a k"""	K A K	K V K	3
+SACAPULTECO_SACAPULAS_CENTRO	quv	new	"k"" a 7 a k"""	K A H A K	K V H V K	3
+CENTRAL_QUICHE	quc	new	"k"" a k"""	K A K	K V K	3
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	new	"k"" a k"" a"	K A K A	K V K V	3
+POQOMCHI_WESTERN	pob	new	"a k"""	A K	V K	1
+POCOMAM_EASTERN	poa	new	"o k"""	U K	V K	1
+USPANTEKO	usp	new	"a k"""	A K	V K	1
+EASTERN_KEKCHI_CAHABON	kek	new	"a k"""	A K	V K	1
+ZINACANTAN_TZOTZIL	tzz	new	"a C"""	A C	V K	1
+TZELTAL_BACHAJON	tzb	new	"a C"""	A C	V K	1
+CHOL_TUMBALA	ctu	new	c i h i b	C I H I P	K V H V P	4
+CHONTAL_TABASCO	chf	new	c i h i b	C I H I P	K V H V P	4
+CHORTI	caa	new	t a p o p	T A P U P	T V P V P	9
+ITZAJ	itz	new	k u S u l	K Y S Y L	K V S V R	10
+MOPAN	mop	new	t u m u l b e n	T Y M Y L P E N	T V M V R P V N	5
+MAYA_YUCATAN	yua	new	"t u m b"" e n"	T Y M P E N	T V M P V N	5
+LACANDON	lac	new	"r i k"" b e n"	R I K P E N	R V K P V N	11
+HUASTEC	hva	good	a l w a 7	A L W A H	V R W V H	6
+CHICOMUCELTEC	cob	good	t a h e l a t n i k	T A H E L A T N I K	T V H V R V T N V K	7
+TOJOLABAL	toj	good	l e k	L E K	R V K	5
+CHUJ	cnm	good	"w a C"""	W A C	W V K	1
+JACALTEC	jai	good	"k"" u l"	K Y L	K V R	8
+QANJOBAL_SANTA_EULALIA	kjb	good	"w a T"""	W A D	W V T	1
+ACATECO_SAN_MIGUEL_ACATAN	knj	good	"w a T"""	W A D	W V T	1
+IXIL_CHAJUL	ixj	good	"b"" a n"	P A N	P V N	2
+AGUACATEC	agu	good	balax e7	P E	P V	9
+TECO_TECTITAN	ttc	good	"b"" a n"	P A N	P V N	2
+MAM_NORTHERN	mam	good	ban ke	P K	P K	2
+SIPAKAPENSE	qum	good	u c	Y C	V K	3
+SACAPULTECO_SACAPULAS_CENTRO	quv	good	o c	U C	V K	3
+CENTRAL_QUICHE	quc	good	u c	Y C	V K	3
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	good	u c	Y C	V K	3
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	good	u c	Y C	V K	3
+POQOMCHI_WESTERN	pob	good	"a t o b"""	A T U P	V T V P	10
+POCOMAM_EASTERN	poa	good	no waxal	N W	N W	11
+USPANTEKO	usp	good	c i	C I	K V	12
+EASTERN_KEKCHI_CAHABON	kek	good	u s	Y S	V S	3
+ZINACANTAN_TZOTZIL	tzz	good	u c	Y C	V K	3
+TZELTAL_BACHAJON	tzb	good	l e k	L E K	R V K	5
+CHOL_TUMBALA	ctu	good	u c	Y C	V K	3
+CHONTAL_TABASCO	chf	good	u c	Y C	V K	3
+CHORTI	caa	good	i m b u c o p	I M P Y C U P	V M P V K V P	13
+ITZAJ	itz	good	k i	K I	K V	4
+MOPAN	mop	good	k i 7	K I H	K V H	4
+MAYA_YUCATAN	yua	good	u c	Y C	V K	3
+LACANDON	lac	good	C o y	C U J	K V J	14
+HUASTEC	hva	round	kw~ e C o C o l	K E C U C U L	K V K V K V R	7
+TOJOLABAL	toj	round	s e t a n	S E T A N	S V T V N	1
+CHUJ	cnm	round	p i l a n	P I L A N	P V R V N	8
+MOCHO	mhc	round	s e t	S E T	S V T	1
+JACALTEC	jai	round	p e t	P E T	P V T	9
+QANJOBAL_SANTA_EULALIA	kjb	round	"k"" o l a n"	K U L A N	K V R V N	6
+ACATECO_SAN_MIGUEL_ACATAN	knj	round	"k"" o l a n"	K U L A N	K V R V N	6
+IXIL_CHAJUL	ixj	round	u T k i n	Y D K I N	V T K V N	10
+AGUACATEC	agu	round	t o l o S	T U L U S	T V R V S	4
+TECO_TECTITAN	ttc	round	S t o l o 7	S T U L U H	S T V R V H	4
+MAM_NORTHERN	mam	round	tulin tix	T T	T T	11
+SIPAKAPENSE	qum	round	"b"" o l b"" i k"	P U L P I K	P V R P V K	2
+SACAPULTECO_SACAPULAS_CENTRO	quv	round	"b"" a l a b"" e k"	P A L A P E K	P V R V P V K	2
+CENTRAL_QUICHE	quc	round	"k"" o l o k"" i k"	K U L U K I K	K V R V K V K	3
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	round	"k"" o l k"" i k"	K U L K I K	K V R K V K	3
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	round	"k"" o l k"" i k"	K U L K I K	K V R K V K	3
+POQOMCHI_WESTERN	pob	round	t o l o t i k	T U L U T I K	T V R V T V K	4
+POCOMAM_EASTERN	poa	round	"k"" o l o k"" i"	K U L U K I	K V R V K V	3
+USPANTEKO	usp	round	"k"" o l k"" i k"	K U L K I K	K V R K V K	3
+EASTERN_KEKCHI_CAHABON	kek	round	"t"" o r t"" o h"	T U R T U H	T V R T V H	12
+TZELTAL_BACHAJON	tzb	round	n o l o l	N U L U L	N V R V R	13
+CHOL_TUMBALA	ctu	round	p e c e l	P E C E L	P V K V R	14
+CHONTAL_TABASCO	chf	round	w o l o	W U L U	W V R V	5
+CHORTI	caa	round	g o r o r o h	K U R U R U H	K V R V R V H	5
+ITZAJ	itz	round	w o l	W U L	W V R	5
+MOPAN	mop	round	k u l u l	K Y L Y L	K V R V R	15
+MAYA_YUCATAN	yua	round	w o l i s	W U L I S	W V R V S	5
+LACANDON	lac	round	r e k a n	R E K A N	R V K V N	16
+HUASTEC	hva	dry	w a y e n e k	W A J E N E K	W V J V N V K	1
+CHICOMUCELTEC	cob	dry	w a y n e k	W A J N E K	W V J N V K	1
+TOJOLABAL	toj	dry	t a k i n	T A K I N	T V K V N	2
+CHUJ	cnm	dry	t a k i n	T A K I N	T V K V N	2
+JACALTEC	jai	dry	t a x	T A G	T V K	2
+QANJOBAL_SANTA_EULALIA	kjb	dry	t a q i n	T A K I N	T V K V N	2
+ACATECO_SAN_MIGUEL_ACATAN	knj	dry	t a x i n	T A G I N	T V K V N	2
+IXIL_CHAJUL	ixj	dry	c a q a	C A K A	K V K V	2
+AGUACATEC	agu	dry	s q e x	S K E G	S K V K	2
+TECO_TECTITAN	ttc	dry	"k"" i k"" o x"	K I K U G	K V K V K	3
+MAM_NORTHERN	mam	dry	c q i x	C K I G	K K V K	2
+SIPAKAPENSE	qum	dry	C q i x	C K I G	K K V K	2
+SACAPULTECO_SACAPULAS_CENTRO	quv	dry	C a q e x	C A K E G	K V K V K	2
+CENTRAL_QUICHE	quc	dry	C 3 q i x	C O K I G	K V K V K	2
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	dry	C a q i x	C A K I G	K V K V K	2
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	dry	C a q i x	C A K I G	K V K V K	2
+POQOMCHI_WESTERN	pob	dry	C i q i x	C I K I G	K V K V K	2
+POCOMAM_EASTERN	poa	dry	C i q i x	C I K I G	K V K V K	2
+USPANTEKO	usp	dry	C a q e x	C A K E G	K V K V K	2
+EASTERN_KEKCHI_CAHABON	kek	dry	C a q i h	C A K I H	K V K V H	2
+ZINACANTAN_TZOTZIL	tzz	dry	t a k i n	T A K I N	T V K V N	2
+TZELTAL_BACHAJON	tzb	dry	t a k i n	T A K I N	T V K V N	2
+CHOL_TUMBALA	ctu	dry	t 3 k i n	T O K I N	T V K V N	2
+CHONTAL_TABASCO	chf	dry	t i k i n	T I K I N	T V K V N	2
+CHORTI	caa	dry	t a k i n	T A K I N	T V K V N	2
+ITZAJ	itz	dry	t i k i n	T I K I N	T V K V N	2
+MOPAN	mop	dry	t i k i n	T I K I N	T V K V N	2
+MAYA_YUCATAN	yua	dry	t i k i n	T I K I N	T V K V N	2
+LACANDON	lac	dry	t i k i n	T I K I N	T V K V N	2
+HUASTEC	hva	name	b i h	P I H	P V H	1
+CHICOMUCELTEC	cob	name	t o n a k a w i h	T U N A K A W I H	T V N V K V W V H	1
+TOJOLABAL	toj	name	"b"" i 7 i l"	P I H I L	P V H V R	1
+CHUJ	cnm	name	b i	P I	P V	1
+MOCHO	mhc	name	b i h	P I H	P V H	1
+JACALTEC	jai	name	b i	P I	P V	1
+QANJOBAL_SANTA_EULALIA	kjb	name	"b"" i"	P I	P V	1
+ACATECO_SAN_MIGUEL_ACATAN	knj	name	"b"" i"	P I	P V	1
+IXIL_CHAJUL	ixj	name	"b"" i h"	P I H	P V H	1
+AGUACATEC	agu	name	b i 7	P I H	P V H	1
+TECO_TECTITAN	ttc	name	"b"" i"	P I	P V	1
+MAM_NORTHERN	mam	name	t b i	T P I	T P V	1
+SIPAKAPENSE	qum	name	"b"" i 7"	P I H	P V H	1
+SACAPULTECO_SACAPULAS_CENTRO	quv	name	"b"" e 7"	P E H	P V H	1
+CENTRAL_QUICHE	quc	name	"b"" i 7"	P I H	P V H	1
+SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	name	"b"" i 7"	P I H	P V H	1
+TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	name	"b"" i 7"	P I H	P V H	1
+POQOMCHI_WESTERN	pob	name	"b"" i n a l"	P I N A L	P V N V R	1
+POCOMAM_EASTERN	poa	name	"w"" i h"	W I H	W V H	1
+USPANTEKO	usp	name	"b"" i x"	P I G	P V K	1
+EASTERN_KEKCHI_CAHABON	kek	name	"k"" a b"" a 7"	K A P A H	K V P V H	2
+ZINACANTAN_TZOTZIL	tzz	name	b i l	P I L	P V R	3
+TZELTAL_BACHAJON	tzb	name	b i h i l i l	P I H I L I L	P V H V R V R	3
+CHOL_TUMBALA	ctu	name	"k"" a b a 7"	K A P A H	K V P V H	2
+CHONTAL_TABASCO	chf	name	"k"" a b a 7"	K A P A H	K V P V H	2
+CHORTI	caa	name	"u k"" a b a"	Y K A P A	V K V P V	2
+ITZAJ	itz	name	"k"" a b a 7"	K A P A H	K V P V H	2
+MOPAN	mop	name	"k"" a b"" a 7"	K A P A H	K V P V H	2
+MAYA_YUCATAN	yua	name	"k"" a b"" a 7"	K A P A H	K V P V H	2
+LACANDON	lac	name	"k"" a b a 7"	K A P A H	K V P V H	2

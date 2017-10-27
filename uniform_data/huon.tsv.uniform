@@ -1,0 +1,1177 @@
+language	iso_code	gloss	asjp	sca	dolgo	cognate_class
+KATE	kmg	I	n o	N U	N V	1
+MAPE_2	mlh	I	n o	N U	N V	1
+DEDUA	ded	I	n i	N I	N V	2
+HUBE	kgf	I	n i	N I	N V	2
+TOBO	tbv	I	n i	N I	N V	2
+KOSORONG	ksr	I	n i	N I	N V	2
+MINDIK	bmu	I	n i	N I	N V	2
+BURUM	bmu	I	n i	N I	N V	2
+ONO	ons	I	n a	N A	N V	1
+KOMBA	kpf	I	n o	N U	N V	1
+SELEPET	spl	I	n o	N U	N V	1
+TIMBE	tim	I	n o	N U	N V	1
+NABAK	naf	I	n 3 N	N O N	N V N	1
+MOMOLILI	mci	I	n a	N A	N V	1
+KATE	kmg	thou	g o	K U	K V	1
+MAPE_2	mlh	thou	g o	K U	K V	1
+DEDUA	ded	thou	g e	K E	K V	2
+HUBE	kgf	thou	g i	K I	K V	2
+TOBO	tbv	thou	g i	K I	K V	2
+KOSORONG	ksr	thou	g i	K I	K V	2
+MINDIK	bmu	thou	g i	K I	K V	2
+BURUM	bmu	thou	g i	K I	K V	2
+ONO	ons	thou	g e	K E	K V	2
+KOMBA	kpf	thou	g o	K U	K V	1
+SELEPET	spl	thou	g o	K U	K V	1
+TIMBE	tim	thou	g o	K U	K V	1
+NABAK	naf	thou	g 3 N	K O N	K V N	1
+MOMOLILI	mci	thou	g a	K A	K V	1
+KATE	kmg	we	n o N o 7	N U N U H	N V N V H	1
+MAPE_2	mlh	we	n o N u	N U N Y	N V N V	1
+DEDUA	ded	we	n i n i	N I N I	N V N V	2
+HUBE	kgf	we	n i n i	N I N I	N V N V	2
+TOBO	tbv	we	n i n i	N I N I	N V N V	2
+KOSORONG	ksr	we	n o n o	N U N U	N V N V	1
+MINDIK	bmu	we	n i n i	N I N I	N V N V	2
+BURUM	bmu	we	n i n i	N I N I	N V N V	2
+ONO	ons	we	N e d o	N E T U	N V T V	3
+KOMBA	kpf	we	n e n	N E N	N V N	2
+SELEPET	spl	we	n e n	N E N	N V N	2
+TIMBE	tim	we	n e n	N E N	N V N	2
+NABAK	naf	we	n i n	N I N	N V N	2
+MOMOLILI	mci	we	n i	N I	N V	2
+KATE	kmg	this	c i	C I	K V	1
+MAPE_2	mlh	this	oi	U	V	2
+DEDUA	ded	this	i	I	V	3
+HUBE	kgf	this	i	I	V	3
+TOBO	tbv	this	m u	M Y	M V	4
+KOSORONG	ksr	this	i	I	V	3
+MINDIK	bmu	this	m u	M Y	M V	4
+BURUM	bmu	this	k e	K E	K V	5
+ONO	ons	this	i	I	V	3
+KOMBA	kpf	this	z i	S I	S V	1
+SELEPET	spl	this	y u	J Y	J V	6
+TIMBE	tim	this	i	I	V	3
+NABAK	naf	this	k a p i	K A P I	K V P V	7
+MOMOLILI	mci	this	w i	W I	W V	8
+KATE	kmg	that	i	I	V	1
+MAPE_2	mlh	that	o	U	V	2
+DEDUA	ded	that	y o	J U	J V	3
+HUBE	kgf	that	y o	J U	J V	3
+TOBO	tbv	that	m i	M I	M V	4
+KOSORONG	ksr	that	l o	L U	R V	3
+MINDIK	bmu	that	m e	M E	M V	4
+BURUM	bmu	that	m e	M E	M V	4
+ONO	ons	that	e r i	E R I	V R V	5
+KOMBA	kpf	that	z o	S U	S V	3
+SELEPET	spl	that	y a	J A	J V	3
+TIMBE	tim	that	i d o	I T U	V T V	6
+NABAK	naf	that	k e	K E	K V	7
+MOMOLILI	mci	that	m ei	M E	M V	4
+KATE	kmg	who	m o 7	M U H	M V H	1
+MAPE_2	mlh	who	m o 7	M U H	M V H	1
+DEDUA	ded	who	m o N	M U N	M V N	1
+HUBE	kgf	who	m o N	M U N	M V N	1
+TOBO	tbv	who	m o N	M U N	M V N	1
+KOSORONG	ksr	who	m o N	M U N	M V N	1
+MINDIK	bmu	who	m o N	M U N	M V N	2
+BURUM	bmu	who	k u n	K Y N	K V N	2
+ONO	ons	who	m a n e	M A N E	M V N V	3
+KOMBA	kpf	who	N ai	N A	N V	4
+SELEPET	spl	who	o l o	U L U	V R V	5
+TIMBE	tim	who	k io	K I	K V	6
+NABAK	naf	who	k u r e k i	K Y R E K I	K V R V K V	7
+MOMOLILI	mci	who	a l a	A L A	V R V	5
+KATE	kmg	what	w e m o	W E M U	W V M V	1
+MAPE_2	mlh	what	w a m o	W A M U	W V M V	1
+DEDUA	ded	what	d a f i	T A B I	T V P V	2
+HUBE	kgf	what	n e m a k	N E M A K	N V M V K	3
+TOBO	tbv	what	n o m a t	N U M A T	N V M V T	3
+KOSORONG	ksr	what	n a m u N a k	N A M Y N A K	N V M V N V K	4
+MINDIK	bmu	what	n o w o	N U W U	N V W V	5
+BURUM	bmu	what	w a n ia	W A N I	W V N V	6
+ONO	ons	what	o n o k a	U N U K A	V N V K V	7
+KOMBA	kpf	what	w a n	W A N	W V N	6
+SELEPET	spl	what	w uo n	W Y N	W V N	6
+TIMBE	tim	what	w a n	W A N	W V N	6
+NABAK	naf	what	p i t n e	P I T N E	P V T N V	8
+MOMOLILI	mci	what	w a n a	W A N A	W V N V	6
+KATE	kmg	not	m i	M I	M V	1
+MAPE_2	mlh	not	s o	S U	S V	2
+DEDUA	ded	not	m i	M I	M V	1
+HUBE	kgf	not	m u n d a	M Y N T A	M V N T V	3
+TOBO	tbv	not	m o n d o	M U N T U	M V N T V	3
+KOSORONG	ksr	not	m e n d e	M E N T E	M V N T V	3
+MINDIK	bmu	not	kp~ a h o	K A H U	K V H V	4
+BURUM	bmu	not	kp~ a h o p	K A H U P	K V H V P	4
+ONO	ons	not	m i	M I	M V	1
+KOMBA	kpf	not	m o	M U	M V	1
+SELEPET	spl	not	k i	K I	K V	5
+TIMBE	tim	not	b o	P U	P V	6
+NABAK	naf	not	k u	K Y	K V	5
+MOMOLILI	mci	not	k 3 m	K O M	K V M	7
+KATE	kmg	all	s a s a w a	S A S A W A	S V S V W V	1
+MAPE_2	mlh	all	s o s o w o	S U S U W U	S V S V W V	1
+DEDUA	ded	all	s a s a w a	S A S A W A	S V S V W V	1
+HUBE	kgf	all	m o k c o N	M U K C U N	M V K K V N	2
+TOBO	tbv	all	e N a l e k	E N A L E K	V N V R V K	3
+KOSORONG	ksr	all	k u y a	K Y J A	K V J V	4
+MINDIK	bmu	all	m o k e t a N i	M U K E T A N I	M V K V T V N V	5
+BURUM	bmu	all	kp~ a kp~ a k	K A K A K	K V K V K	6
+ONO	ons	all	k o r o p	K U R U P	K V R V P	7
+KOMBA	kpf	all	a k s i k	A K S I K	V K S V K	8
+SELEPET	spl	all	k e r e k	K E R E K	K V R V K	9
+TIMBE	tim	all	h o r o w o k	H U R U W U K	H V R V W V K	10
+NABAK	naf	all	i l i n s a k p e p	I L I N S A K P E P	V R V N S V K P V P	11
+MOMOLILI	mci	all	p 3 s 3 k p e p	P O S O K P E P	P V S V K P V P	12
+KATE	kmg	many	b o 7 y a h a	P U H J A H A	P V H J V H V	1
+MAPE_2	mlh	many	b oia h a	P U H A	P V H V	1
+DEDUA	ded	many	h o m a k	H U M A K	H V M V K	2
+HUBE	kgf	many	s a s a r a	S A S A R A	S V S V R V	3
+TOBO	tbv	many	s e s ia	S E S I	S V S V	3
+KOSORONG	ksr	many	m a m a g u	M A M A K Y	M V M V K V	4
+MINDIK	bmu	many	s e s e N i	S E S E N I	S V S V N V	3
+BURUM	bmu	many	g o t p o k	K U T P U K	K V T P V K	5
+ONO	ons	many	l ou l ou t N e	L U L U T N E	R V R V T N V	6
+KOMBA	kpf	many	b i w i r o	P I W I R U	P V W V R V	7
+SELEPET	spl	many	b i w i r o	P I W I R U	P V W V R V	7
+TIMBE	tim	many	b i w i r o	P I W I R U	P V W V R V	7
+NABAK	naf	many	k i l i s i k	K I L I S I K	K V R V S V K	8
+MOMOLILI	mci	many	k i r i s i	K I R I S I	K V R V S V	8
+KATE	kmg	one	m o y a h a	M U J A H A	M V J V H V	1
+MAPE_2	mlh	one	m o k o t o N	M U K U T U N	M V K V T V N	2
+DEDUA	ded	one	m o k g u	M U K K Y	M V K K V	1
+HUBE	kgf	one	m o m a k g u	M U M A K K Y	M V M V K K V	1
+TOBO	tbv	one	m o h o k	M U H U K	M V H V K	3
+KOSORONG	ksr	one	m o t o N g o k	M U T U N K U K	M V T V N K V K	4
+MINDIK	bmu	one	m o k u N	M U K Y N	M V K V N	1
+BURUM	bmu	one	m o h o t	M U H U T	M V H V T	3
+ONO	ons	one	w e k u	W E K Y	W V K V	5
+KOMBA	kpf	one	k o n o k	K U N U K	K V N V K	6
+SELEPET	spl	one	k o n o k	K U N U K	K V N V K	6
+TIMBE	tim	one	k o n o k	K U N U K	K V N V K	6
+NABAK	naf	one	k p e p	K P E P	K P V P	7
+MOMOLILI	mci	one	k p e c i	K P E C I	K P V K V	7
+KATE	kmg	two	y a y a h e 7	J A J A H E H	J V J V H V H	1
+MAPE_2	mlh	two	y o y o k a k	J U J U K A K	J V J V K V K	1
+DEDUA	ded	two	y o h o k a N	J U H U K A N	J V H V K V N	1
+HUBE	kgf	two	r e h e k	R E H E K	R V H V K	2
+TOBO	tbv	two	r o h o t	R U H U T	R V H V T	2
+KOSORONG	ksr	two	w oi k	W U K	W V K	3
+MINDIK	bmu	two	w oi t	W U T	W V T	3
+BURUM	bmu	two	y a h a t	J A H A T	J V H V T	2
+ONO	ons	two	e t k e	E T K E	V T K V	4
+KOMBA	kpf	two	z o h o t	S U H U T	S V H V T	2
+SELEPET	spl	two	y o h o p	J U H U P	J V H V P	2
+TIMBE	tim	two	l ou w o	L U W U	R V W V	5
+NABAK	naf	two	c u t	C Y T	K V T	6
+MOMOLILI	mci	two	c e b a	C E P A	K V P V	7
+KATE	kmg	big	k o 7 g b e n e	K U H K P E N E	K V H K P V N V	1
+MAPE_2	mlh	big	y a s o g o	J A S U K U	J V S V K V	2
+DEDUA	ded	big	k u n e N	K Y N E N	K V N V N	3
+HUBE	kgf	big	k u n e N	K Y N E N	K V N V N	3
+TOBO	tbv	big	b aia	P A	P V	4
+KOSORONG	ksr	big	s o m a t a	S U M A T A	S V M V T V	5
+MINDIK	bmu	big	k e t a N i	K E T A N I	K V T V N V	6
+BURUM	bmu	big	k e t a N i	K E T A N I	K V T V N V	6
+ONO	ons	big	s uai n e	S Y N E	S V N V	7
+KOMBA	kpf	big	p a t o	P A T U	P V T V	8
+SELEPET	spl	big	p a t o	P A T U	P V T V	8
+TIMBE	tim	big	h u m o	H Y M U	H V M V	9
+NABAK	naf	big	t ae m b a	T A M P A	T V M P V	10
+MOMOLILI	mci	big	k 3i t n	K O T N	K V T N	11
+KATE	kmg	long	c o r i 7 n e	C U R I H N E	K V R V H N V	1
+MAPE_2	mlh	long	c o r ai k n e	C U R A K N E	K V R V K N V	1
+DEDUA	ded	long	h e r ea	H E R E	H V R V	2
+HUBE	kgf	long	h o r ua	H U R Y	H V R V	2
+TOBO	tbv	long	k o r ua	K U R Y	K V R V	2
+KOSORONG	ksr	long	k o r i g a	K U R I K A	K V R V K V	2
+MINDIK	bmu	long	k o r i p N i	K U R I P N I	K V R V P N V	2
+BURUM	bmu	long	k o r i p N i	K U R I P N I	K V R V P N V	2
+ONO	ons	long	k i r oi n e	K I R U N E	K V R V N V	2
+KOMBA	kpf	long	k o r e p	K U R E P	K V R V P	2
+SELEPET	spl	long	k o l i p	K U L I P	K V R V P	2
+TIMBE	tim	long	k o l i p	K U L I P	K V R V P	2
+NABAK	naf	long	t e p m 3 N	T E P M O N	T V P M V N	3
+MOMOLILI	mci	long	k e p m	K E P M	K V P M	4
+KATE	kmg	small	p i t i 7 n e	P I T I H N E	P V T V H N V	1
+MAPE_2	mlh	small	m e n d a k n e	M E N T A K N E	M V N T V K N V	2
+DEDUA	ded	small	k a p ia	K A P I	K V P V	3
+HUBE	kgf	small	k o m o g a	K U M U K A	K V M V K V	4
+TOBO	tbv	small	k o m o r a	K U M U R A	K V M V R V	4
+KOSORONG	ksr	small	m e r a k	M E R A K	M V R V K	5
+MINDIK	bmu	small	k o m o k N i	K U M U K N I	K V M V K N V	4
+BURUM	bmu	small	m o r o N i	M U R U N I	M V R V N V	6
+ONO	ons	small	n i g a t n e	N I K A T N E	N V K V T N V	7
+KOMBA	kpf	small	m oi k t o	M U K T U	M V K T V	8
+SELEPET	spl	small	t i p i N e	T I P I N E	T V P V N V	9
+TIMBE	tim	small	b o l e N e	P U L E N E	P V R V N V	10
+NABAK	naf	small	i s i k N 3 n	I S I K N O N	V S V K N V N	11
+MOMOLILI	mci	small	n a m z i	N A M S I	N V M S V	12
+KATE	kmg	woman	N o k a 7	N U K A H	N V K V H	1
+MAPE_2	mlh	woman	N i g o k	N I K U K	N V K V K	1
+DEDUA	ded	woman	N a k	N A K	N V K	1
+HUBE	kgf	woman	e m b a k	E M P A K	V M P V K	2
+TOBO	tbv	woman	e m b a t	E M P A T	V M P V T	2
+KOSORONG	ksr	woman	e m b a k	E M P A K	V M P V K	2
+MINDIK	bmu	woman	a m b i	A M P I	V M P V	2
+BURUM	bmu	woman	a m b i	A M P I	V M P V	2
+ONO	ons	woman	N e r e p	N E R E P	N V R V P	3
+KOMBA	kpf	woman	a b o n	A P U N	V P V N	2
+SELEPET	spl	woman	i b i	I P I	V P V	2
+TIMBE	tim	woman	o b oi	U P U	V P V	2
+NABAK	naf	woman	i m b i	I M P I	V M P V	2
+MOMOLILI	mci	woman	i m b i	I M P I	V M P V	2
+KATE	kmg	man	N i 7	N I H	N V H	1
+MAPE_2	mlh	man	N i k	N I K	N V K	1
+DEDUA	ded	man	N i k	N I K	N V K	1
+HUBE	kgf	man	i k	I K	V K	1
+TOBO	tbv	man	i p	I P	V P	1
+KOSORONG	ksr	man	e c a k	E C A K	V K V K	2
+MINDIK	bmu	man	ai w i	A W I	V W V	3
+BURUM	bmu	man	a c i	A C I	V K V	4
+ONO	ons	man	N ei	N E	N V	1
+KOMBA	kpf	man	a	A	V	5
+SELEPET	spl	man	l o k	L U K	R V K	6
+TIMBE	tim	man	l uo k	L Y K	R V K	6
+NABAK	naf	man	a n	A N	V N	5
+MOMOLILI	mci	man	a*	A	V	5
+KATE	kmg	bird	w i p e	W I P E	W V P V	1
+MAPE_2	mlh	bird	w o r o	W U R U	W V R V	2
+DEDUA	ded	bird	n e N	N E N	N V N	3
+HUBE	kgf	bird	n ei	N E	N V	3
+TOBO	tbv	bird	n i	N I	N V	3
+KOSORONG	ksr	bird	k o N	K U N	K V N	4
+MINDIK	bmu	bird	n ei	N E	N V	3
+BURUM	bmu	bird	n ei	N E	N V	3
+ONO	ons	bird	n a N i	N A N I	N V N V	3
+KOMBA	kpf	bird	n i	N I	N V	3
+SELEPET	spl	bird	n oi	N U	N V	3
+TIMBE	tim	bird	l au t	L A T	R V T	5
+NABAK	naf	bird	a g a	A K A	V K V	6
+MOMOLILI	mci	bird	l au	L A	R V	5
+KATE	kmg	dog	kp~ o t o	K U T U	K V T V	1
+MAPE_2	mlh	dog	kp~ o r o	K U R U	K V R V	1
+DEDUA	ded	dog	k a s i	K A S I	K V S V	2
+HUBE	kgf	dog	k a c u	K A C Y	K V K V	2
+TOBO	tbv	dog	k ia m	K I M	K V M	3
+KOSORONG	ksr	dog	k a s u k	K A S Y K	K V S V K	2
+MINDIK	bmu	dog	k ia m	K I M	K V M	3
+BURUM	bmu	dog	k ia m	K I M	K V M	3
+ONO	ons	dog	k a s i	K A S I	K V S V	2
+KOMBA	kpf	dog	w au	W A	W V	4
+SELEPET	spl	dog	s o s o	S U S U	S V S V	5
+TIMBE	tim	dog	d ua	T Y	T V	6
+NABAK	naf	dog	t a m	T A M	T V M	7
+MOMOLILI	mci	dog	t a	T A	T V	7
+KATE	kmg	louse	i m e N	I M E N	V M V N	1
+MAPE_2	mlh	louse	i m e N	I M E N	V M V N	1
+DEDUA	ded	louse	y o m i N	J U M I N	J V M V N	1
+HUBE	kgf	louse	i m i n	I M I N	V M V N	1
+TOBO	tbv	louse	i m i n	I M I N	V M V N	1
+KOSORONG	ksr	louse	i m o N	I M U N	V M V N	1
+MINDIK	bmu	louse	i m i n	I M I N	V M V N	1
+BURUM	bmu	louse	i m i n	I M I N	V M V N	1
+ONO	ons	louse	e m e n	E M E N	V M V N	1
+KOMBA	kpf	louse	i m e n	I M E N	V M V N	1
+SELEPET	spl	louse	i m e n	I M E N	V M V N	1
+TIMBE	tim	louse	i m e n	I M E N	V M V N	1
+NABAK	naf	louse	e m i n	E M I N	V M V N	1
+MOMOLILI	mci	louse	l 3 m	L O M	R V M	2
+KATE	kmg	tree	y o 7	J U H	J V H	1
+MAPE_2	mlh	tree	y o k	J U K	J V K	1
+DEDUA	ded	tree	i k	I K	V K	2
+HUBE	kgf	tree	i k	I K	V K	2
+TOBO	tbv	tree	i p	I P	V P	2
+KOSORONG	ksr	tree	i k	I K	V K	2
+MINDIK	bmu	tree	i p	I P	V P	2
+BURUM	bmu	tree	i p	I P	V P	2
+ONO	ons	tree	e k i	E K I	V K V	3
+KOMBA	kpf	tree	n a k	N A K	N V K	4
+SELEPET	spl	tree	n a k	N A K	N V K	4
+TIMBE	tim	tree	l o w i n	L U W I N	R V W V N	5
+NABAK	naf	tree	t 3 p	T O P	T V P	6
+MOMOLILI	mci	tree	t 3	T O	T V	6
+KATE	kmg	seed	h o n d o N	H U N T U N	H V N T V N	1
+MAPE_2	mlh	seed	f o n o N	B U N U N	P V N V N	2
+DEDUA	ded	seed	h o n d u N	H U N T Y N	H V N T V N	1
+HUBE	kgf	seed	g o k m e	K U K M E	K V K M V	3
+TOBO	tbv	seed	g o p i	K U P I	K V P V	4
+KOSORONG	ksr	seed	k o t a	K U T A	K V T V	5
+MINDIK	bmu	seed	k o t	K U T	K V T	5
+BURUM	bmu	seed	k o t	K U T	K V T	5
+ONO	ons	seed	w au	W A	W V	6
+KOMBA	kpf	seed	k e t	K E T	K V T	7
+SELEPET	spl	seed	k e h e t	K E H E T	K V H V T	7
+TIMBE	tim	seed	k o d e t	K U T E T	K V T V T	8
+NABAK	naf	seed	k 3 t	K O T	K V T	5
+MOMOLILI	mci	seed	k 3 t	K O T	K V T	5
+KATE	kmg	leaf	r e h a 7	R E H A H	R V H V H	1
+MAPE_2	mlh	leaf	r e k a k	R E K A K	R V K V K	1
+DEDUA	ded	leaf	m a r i	M A R I	M V R V	2
+HUBE	kgf	leaf	h a r e N	H A R E N	H V R V N	3
+TOBO	tbv	leaf	k a r e m	K A R E M	K V R V M	3
+KOSORONG	ksr	leaf	s e N	S E N	S V N	4
+MINDIK	bmu	leaf	s i n	S I N	S V N	4
+BURUM	bmu	leaf	s i n	S I N	S V N	4
+ONO	ons	leaf	m e t i	M E T I	M V T V	5
+KOMBA	kpf	leaf	i n	I N	V N	4
+SELEPET	spl	leaf	e s e n	E S E N	V S V N	4
+TIMBE	tim	leaf	e s e n	E S E N	V S V N	4
+NABAK	naf	leaf	s i n	S I N	S V N	4
+MOMOLILI	mci	leaf	s i n	S I N	S V N	4
+KATE	kmg	root	g o t o	K U T U	K V T V	1
+MAPE_2	mlh	root	g o r u	K U R Y	K V R V	1
+DEDUA	ded	root	g o d e	K U T E	K V T V	1
+HUBE	kgf	root	g e t e	K E T E	K V T V	1
+TOBO	tbv	root	o n d e	U N T E	V N T V	2
+KOSORONG	ksr	root	t i t a	T I T A	T V T V	3
+MINDIK	bmu	root	c a l o	C A L U	K V R V	4
+BURUM	bmu	root	c a l o	C A L U	K V R V	4
+ONO	ons	root	N o d i	N U T I	N V T V	5
+KOMBA	kpf	root	o d o N	U T U N	V T V N	2
+SELEPET	spl	root	g i h i t	K I H I T	K V H V T	6
+TIMBE	tim	root	k o d o r o	K U T U R U	K V T V R V	7
+NABAK	naf	root	k i n d i	K I N T I	K V N T V	7
+MOMOLILI	mci	root	k i n d i r i	K I N T I R I	K V N T V R V	7
+KATE	kmg	skin	s a h a 7	S A H A H	S V H V H	1
+MAPE_2	mlh	skin	m o c u	M U C Y	M V K V	2
+DEDUA	ded	skin	s e b i	S E P I	S V P V	3
+HUBE	kgf	skin	s e w i r a	S E W I R A	S V W V R V	3
+TOBO	tbv	skin	s o w o l	S U W U L	S V W V R	3
+KOSORONG	ksr	skin	s e l e	S E L E	S V R V	4
+MINDIK	bmu	skin	s e l e	S E L E	S V R V	4
+BURUM	bmu	skin	s i l e	S I L E	S V R V	4
+ONO	ons	skin	s o l ai	S U L A	S V R V	4
+KOMBA	kpf	skin	s o k	S U K	S V K	5
+SELEPET	spl	skin	h o k	H U K	H V K	5
+TIMBE	tim	skin	h o k	H U K	H V K	5
+NABAK	naf	skin	s 3 k	S O K	S V K	5
+MOMOLILI	mci	skin	s 3 k	S O K	S V K	5
+KATE	kmg	meat	b i h u 7	P I H Y H	P V H V H	1
+MAPE_2	mlh	meat	b iu	P I	P V	1
+DEDUA	ded	meat	f u s i	B Y S I	P V S V	2
+HUBE	kgf	meat	b u s i	P Y S I	P V S V	2
+TOBO	tbv	meat	b u s i	P Y S I	P V S V	2
+KOSORONG	ksr	meat	b u s i	P Y S I	P V S V	2
+MINDIK	bmu	meat	b u s u	P Y S Y	P V S V	2
+BURUM	bmu	meat	b u s u	P Y S Y	P V S V	2
+ONO	ons	meat	b i k u	P I K Y	P V K V	1
+KOMBA	kpf	meat	s u n u m	S Y N Y M	S V N V M	3
+SELEPET	spl	meat	s u n u m	S Y N Y M	S V N V M	3
+TIMBE	tim	meat	s u n u m	S Y N Y M	S V N V M	3
+NABAK	naf	meat	s 3 s u m b a N	S O S Y M P A N	S V S V M P V N	4
+MOMOLILI	mci	meat	m i r i k	M I R I K	M V R V K	5
+KATE	kmg	blood	s o 7	S U H	S V H	1
+MAPE_2	mlh	blood	d a r i	T A R I	T V R V	2
+DEDUA	ded	blood	s a w a	S A W A	S V W V	1
+HUBE	kgf	blood	s a w a	S A W A	S V W V	1
+TOBO	tbv	blood	s a p	S A P	S V P	1
+KOSORONG	ksr	blood	s a y a	S A J A	S V J V	1
+MINDIK	bmu	blood	s e p	S E P	S V P	1
+BURUM	bmu	blood	s e p	S E P	S V P	1
+ONO	ons	blood	w e N e m i	W E N E M I	W V N V M V	3
+KOMBA	kpf	blood	s e p	S E P	S V P	1
+SELEPET	spl	blood	h e p	H E P	H V P	1
+TIMBE	tim	blood	g i l o m	K I L U M	K V R V M	4
+NABAK	naf	blood	s i p	S I P	S V P	1
+MOMOLILI	mci	blood	s i p	S I P	S V P	1
+KATE	kmg	bone	s ie 7	S I H	S V H	1
+MAPE_2	mlh	bone	s ia k	S I K	S V K	1
+DEDUA	ded	bone	s i r	S I R	S V R	1
+HUBE	kgf	bone	s i gl~	S I K	S V K	1
+TOBO	tbv	bone	s i h i t	S I H I T	S V H V T	1
+KOSORONG	ksr	bone	s i t a	S I T A	S V T V	1
+MINDIK	bmu	bone	s i h i t	S I H I T	S V H V T	1
+BURUM	bmu	bone	s i h i t	S I H I T	S V H V T	1
+ONO	ons	bone	s e t	S E T	S V T	1
+KOMBA	kpf	bone	t o n	T U N	T V N	2
+SELEPET	spl	bone	h a h i t	H A H I T	H V H V T	1
+TIMBE	tim	bone	h a h i t	H A H I T	H V H V T	1
+NABAK	naf	bone	k a nc~ i N	K A N I N	K V N V N	3
+MOMOLILI	mci	bone	s ie t	S I T	S V T	1
+KATE	kmg	fat	w o k e m a N	W U K E M A N	W V K V M V N	1
+MAPE_2	mlh	fat	w i c i	W I C I	W V K V	2
+DEDUA	ded	fat	w o k e m a N	W U K E M A N	W V K V M V N	1
+HUBE	kgf	fat	h a r e k	H A R E K	H V R V K	3
+TOBO	tbv	fat	k a l a k	K A L A K	K V R V K	3
+KOSORONG	ksr	fat	k e l e g a	K E L E K A	K V R V K V	3
+MINDIK	bmu	fat	k e l o k	K E L U K	K V R V K	3
+BURUM	bmu	fat	k e l o k	K E L U K	K V R V K	3
+ONO	ons	fat	k e l o k	K E L U K	K V R V K	3
+KOMBA	kpf	fat	k e l o k	K E L U K	K V R V K	3
+SELEPET	spl	fat	k e l u	K E L Y	K V R V	3
+TIMBE	tim	fat	k e l u	K E L Y	K V R V	3
+NABAK	naf	fat	k e r a k	K E R A K	K V R V K	3
+MOMOLILI	mci	fat	k e r 3 k	K E R O K	K V R V K	3
+KATE	kmg	tail	g e 7	K E H	K V H	1
+MAPE_2	mlh	tail	c i	C I	K V	2
+DEDUA	ded	tail	c i	C I	K V	2
+HUBE	kgf	tail	c i	C I	K V	2
+TOBO	tbv	tail	c i	C I	K V	2
+KOSORONG	ksr	tail	d ai	T A	T V	2
+MINDIK	bmu	tail	l ou	L U	R V	3
+BURUM	bmu	tail	d ai	T A	T V	2
+ONO	ons	tail	d ai	T A	T V	2
+KOMBA	kpf	tail	d a	T A	T V	2
+SELEPET	spl	tail	h a p e	H A P E	H V P V	4
+TIMBE	tim	tail	d a p e	T A P E	T V P V	4
+NABAK	naf	tail	d a k	T A K	T V K	5
+MOMOLILI	mci	tail	d a k	T A K	T V K	5
+KATE	kmg	hair	c o w o	C U W U	K V W V	1
+MAPE_2	mlh	hair	k a N c a N	K A N C A N	K V N K V N	2
+DEDUA	ded	hair	c o w e	C U W E	K V W V	1
+HUBE	kgf	hair	c u	C Y	K V	3
+TOBO	tbv	hair	c u	C Y	K V	3
+KOSORONG	ksr	hair	c ui	C Y	K V	3
+MINDIK	bmu	hair	c u p	C Y P	K V P	3
+BURUM	bmu	hair	c u p	C Y P	K V P	3
+ONO	ons	hair	c ou	C U	K V	3
+KOMBA	kpf	hair	s o m o t	S U M U T	S V M V T	4
+SELEPET	spl	hair	s o m o t	S U M U T	S V M V T	4
+TIMBE	tim	hair	d u m u t	T Y M Y T	T V M V T	4
+NABAK	naf	hair	c u p	C Y P	K V P	3
+MOMOLILI	mci	hair	c u p	C Y P	K V P	3
+KATE	kmg	head	kp~ i c e 7	K I C E H	K V K V H	1
+MAPE_2	mlh	head	kp~ o r u	K U R Y	K V R V	2
+DEDUA	ded	head	f u f u	B Y B Y	P V P V	3
+HUBE	kgf	head	o g u	U K Y	V K V	4
+TOBO	tbv	head	n o r o k	N U R U K	N V R V K	5
+KOSORONG	ksr	head	o s o g a	U S U K A	V S V K V	6
+MINDIK	bmu	head	n o r u k	N U R Y K	N V R V K	5
+BURUM	bmu	head	n o r u k	N U R Y K	N V R V K	5
+ONO	ons	head	l e w i t	L E W I T	R V W V T	7
+KOMBA	kpf	head	k au k	K A K	K V K	8
+SELEPET	spl	head	k u n	K Y N	K V N	9
+TIMBE	tim	head	k au t	K A T	K V T	8
+NABAK	naf	head	N o k a n c i	N U K A N C I	N V K V N K V	9
+MOMOLILI	mci	head	n o k	N U K	N V K	10
+KATE	kmg	ear	h a c e 7	H A C E H	H V K V H	1
+MAPE_2	mlh	ear	k a c e	K A C E	K V K V	1
+DEDUA	ded	ear	h e c a	H E C A	H V K V	1
+HUBE	kgf	ear	g e c a	K E C A	K V K V	1
+TOBO	tbv	ear	k e s a p	K E S A P	K V S V P	1
+KOSORONG	ksr	ear	g e c a	K E C A	K V K V	1
+MINDIK	bmu	ear	k e c a p	K E C A P	K V K V P	1
+BURUM	bmu	ear	k e c a p	K E C A P	K V K V P	1
+ONO	ons	ear	k e t	K E T	K V T	1
+KOMBA	kpf	ear	k i d a p	K I T A P	K V T V P	1
+SELEPET	spl	ear	o d o p	U T U P	V T V P	2
+TIMBE	tim	ear	o d o p	U T U P	V T V P	2
+NABAK	naf	ear	w a k	W A K	W V K	3
+MOMOLILI	mci	ear	b 3 b 3 t	P O P O T	P V P V T	4
+KATE	kmg	eye	c o N e	C U N E	K V N V	1
+MAPE_2	mlh	eye	c i N o	C I N U	K V N V	1
+DEDUA	ded	eye	k i w a	K I W A	K V W V	2
+HUBE	kgf	eye	k i w a	K I W A	K V W V	2
+TOBO	tbv	eye	kp~ a t	K A T	K V T	3
+KOSORONG	ksr	eye	c a	C A	K V	4
+MINDIK	bmu	eye	c e	C E	K V	4
+BURUM	bmu	eye	c e	C E	K V	4
+ONO	ons	eye	d ei	T E	T V	4
+KOMBA	kpf	eye	s i	S I	S V	4
+SELEPET	spl	eye	s e n	S E N	S V N	4
+TIMBE	tim	eye	d e w u n	T E W Y N	T V W V N	5
+NABAK	naf	eye	c i	C I	K V	4
+MOMOLILI	mci	eye	c i	C I	K V	4
+KATE	kmg	nose	s o k e	S U K E	S V K V	1
+MAPE_2	mlh	nose	s i k o	S I K U	S V K V	1
+DEDUA	ded	nose	s o g e	S U K E	S V K V	1
+HUBE	kgf	nose	s e r e	S E R E	S V R V	2
+TOBO	tbv	nose	s o h o r i	S U H U R I	S V H V R V	3
+KOSORONG	ksr	nose	s e w a N	S E W A N	S V W V N	4
+MINDIK	bmu	nose	s o N g o r o	S U N K U R U	S V N K V R V	3
+BURUM	bmu	nose	s o h o r o	S U H U R U	S V H V R V	3
+ONO	ons	nose	s o t	S U T	S V T	5
+KOMBA	kpf	nose	s o g o n	S U K U N	S V K V N	3
+SELEPET	spl	nose	h o m e	H U M E	H V M V	6
+TIMBE	tim	nose	h o m e	H U M E	H V M V	6
+NABAK	naf	nose	N i N 3 N	N I N O N	N V N V N	7
+MOMOLILI	mci	nose	s i Ng~ e N	S I N E N	S V N V N	8
+KATE	kmg	tooth	m i 7	M I H	M V H	1
+MAPE_2	mlh	tooth	m i s io	M I S I	M V S V	2
+DEDUA	ded	tooth	e n a r	E N A R	V N V R	3
+HUBE	kgf	tooth	c e gl~	C E K	K V K	4
+TOBO	tbv	tooth	c o t	C U T	K V T	4
+KOSORONG	ksr	tooth	c o t	C U T	K V T	4
+MINDIK	bmu	tooth	c o t	C U T	K V T	4
+BURUM	bmu	tooth	c i t	C I T	K V T	4
+ONO	ons	tooth	N e t	N E T	N V T	5
+KOMBA	kpf	tooth	s o t	S U T	S V T	4
+SELEPET	spl	tooth	s o t	S U T	S V T	4
+TIMBE	tim	tooth	d o t	T U T	T V T	4
+NABAK	naf	tooth	c e t	C E T	K V T	4
+MOMOLILI	mci	tooth	c 3 t	C O T	K V T	4
+KATE	kmg	tongue	n a m e N	N A M E N	N V M V N	1
+MAPE_2	mlh	tongue	e r o N	E R U N	V R V N	2
+DEDUA	ded	tongue	n a m e N	N A M E N	N V M V N	1
+HUBE	kgf	tongue	e c e r a N	E C E R A N	V K V R V N	3
+TOBO	tbv	tongue	e c e l o m	E C E L U M	V K V R V M	3
+KOSORONG	ksr	tongue	n e s e l a N	N E S E L A N	N V S V R V N	3
+MINDIK	bmu	tongue	n e s o l a m	N E S U L A M	N V S V R V M	3
+BURUM	bmu	tongue	n e s e l a m	N E S E L A M	N V S V R V M	3
+ONO	ons	tongue	b e l a k a m i	P E L A K A M I	P V R V K V M V	4
+KOMBA	kpf	tongue	n o b o l a m	N U P U L A M	N V P V R V M	3
+SELEPET	spl	tongue	n i b i l a m	N I P I L A M	N V P V R V M	3
+TIMBE	tim	tongue	e l e w o t	E L E W U T	V R V W V T	5
+NABAK	naf	tongue	n a mb~ a r e m	N A M A R E M	N V M V R V M	3
+MOMOLILI	mci	tongue	n a mb~ a l a N	N A M A L A N	N V M V R V N	3
+KATE	kmg	claw	m i s i N	M I S I N	M V S V N	1
+MAPE_2	mlh	claw	y u y u N	J Y J Y N	J V J V N	2
+DEDUA	ded	claw	b o N	P U N	P V N	3
+HUBE	kgf	claw	b o N s e w e	P U N S E W E	P V N S V W V	3
+TOBO	tbv	claw	k a w o n	K A W U N	K V W V N	4
+KOSORONG	ksr	claw	k o s i	K U S I	K V S V	5
+MINDIK	bmu	claw	k e s o t	K E S U T	K V S V T	6
+BURUM	bmu	claw	k a m b o	K A M P U	K V M P V	7
+ONO	ons	claw	z o l i p	S U L I P	S V R V P	8
+KOMBA	kpf	claw	p a k i t	P A K I T	P V K V T	9
+SELEPET	spl	claw	p e k a t	P E K A T	P V K V T	9
+TIMBE	tim	claw	p e k a t	P E K A T	P V K V T	9
+NABAK	naf	claw	p 3 l u k	P O L Y K	P V R V K	10
+MOMOLILI	mci	claw	c i N g 3 N g 3 N	C I N K O N K O N	K V N K V N K V N	11
+KATE	kmg	foot	k i k e	K I K E	K V K V	1
+MAPE_2	mlh	foot	k i g o	K I K U	K V K V	1
+DEDUA	ded	foot	h a n i	H A N I	H V N V	2
+HUBE	kgf	foot	h e n i	H E N I	H V N V	2
+TOBO	tbv	foot	k a n i	K A N I	K V N V	2
+KOSORONG	ksr	foot	k a n i	K A N I	K V N V	2
+MINDIK	bmu	foot	k a n a	K A N A	K V N V	2
+BURUM	bmu	foot	k a n a	K A N A	K V N V	2
+ONO	ons	foot	k i	K I	K V	1
+KOMBA	kpf	foot	k i	K I	K V	1
+SELEPET	spl	foot	k oi	K U	K V	1
+TIMBE	tim	foot	k ei	K E	K V	1
+NABAK	naf	foot	s e t	S E T	S V T	3
+MOMOLILI	mci	foot	k 3 t	K O T	K V T	4
+KATE	kmg	knee	d ie N	T I N	T V N	1
+MAPE_2	mlh	knee	d ie N	T I N	T V N	1
+DEDUA	ded	knee	f a k u r u N	B A K Y R Y N	P V K V R V N	2
+HUBE	kgf	knee	s i m i N	S I M I N	S V M V N	3
+TOBO	tbv	knee	s i m i n	S I M I N	S V M V N	3
+KOSORONG	ksr	knee	s i m i N	S I M I N	S V M V N	3
+MINDIK	bmu	knee	s i m i n	S I M I N	S V M V N	3
+BURUM	bmu	knee	s i m i n	S I M I N	S V M V N	3
+ONO	ons	knee	w a w e t	W A W E T	W V W V T	4
+KOMBA	kpf	knee	s i m i n	S I M I N	S V M V N	3
+SELEPET	spl	knee	p a w u t	P A W Y T	P V W V T	5
+TIMBE	tim	knee	p o w u t	P U W Y T	P V W V T	5
+NABAK	naf	knee	k p e t	K P E T	K P V T	6
+MOMOLILI	mci	knee	k p e k a k p a t 3	K P E K A K P A T O	K P V K V K P V T V	7
+KATE	kmg	hand	m e	M E	M V	1
+MAPE_2	mlh	hand	m e	M E	M V	1
+DEDUA	ded	hand	m a r i	M A R I	M V R V	2
+HUBE	kgf	hand	m e r i	M E R I	M V R V	2
+TOBO	tbv	hand	m o r o	M U R U	M V R V	2
+KOSORONG	ksr	hand	b o r o k	P U R U K	P V R V K	3
+MINDIK	bmu	hand	c o t	C U T	K V T	4
+BURUM	bmu	hand	b o r o	P U R U	P V R V	2
+ONO	ons	hand	m e	M E	M V	1
+KOMBA	kpf	hand	b i t	P I T	P V T	5
+SELEPET	spl	hand	b o t	P U T	P V T	5
+TIMBE	tim	hand	b o t	P U T	P V T	5
+NABAK	naf	hand	b e t	P E T	P V T	5
+MOMOLILI	mci	hand	b 3 t	P O T	P V T	5
+KATE	kmg	belly	b u	P Y	P V	1
+MAPE_2	mlh	belly	a t a	A T A	V T V	2
+DEDUA	ded	belly	k e r a	K E R A	K V R V	3
+HUBE	kgf	belly	t o m e N	T U M E N	T V M V N	4
+TOBO	tbv	belly	k e r a p	K E R A P	K V R V P	3
+KOSORONG	ksr	belly	k e r i	K E R I	K V R V	3
+MINDIK	bmu	belly	i r i p	I R I P	V R V P	5
+BURUM	bmu	belly	g o l o m	K U L U M	K V R V M	6
+ONO	ons	belly	k ai	K A	K V	7
+KOMBA	kpf	belly	t i p	T I P	T V P	8
+SELEPET	spl	belly	t e p	T E P	T V P	8
+TIMBE	tim	belly	t e p	T E P	T V P	8
+NABAK	naf	belly	t i p	T I P	T V P	8
+MOMOLILI	mci	belly	t i p	T I P	T V P	8
+KATE	kmg	neck	u p e	Y P E	V P V	1
+MAPE_2	mlh	neck	u p e	Y P E	V P V	1
+DEDUA	ded	neck	u p e	Y P E	V P V	1
+HUBE	kgf	neck	e b a si~ g l a	E P A S K L A	V P V S K R V	2
+TOBO	tbv	neck	c e l	C E L	K V R	3
+KOSORONG	ksr	neck	a r e	A R E	V R V	4
+MINDIK	bmu	neck	c o l	C U L	K V R	3
+BURUM	bmu	neck	c o l	C U L	K V R	3
+ONO	ons	neck	e b i	E P I	V P V	1
+KOMBA	kpf	neck	g o d u	K U T Y	K V T V	5
+SELEPET	spl	neck	o b e	U P E	V P V	1
+TIMBE	tim	neck	h a n	H A N	H V N	6
+NABAK	naf	neck	N a n d e	N A N T E	N V N T V	7
+MOMOLILI	mci	neck	a n d e N	A N T E N	V N T V N	7
+KATE	kmg	breast	m o N	M U N	M V N	1
+MAPE_2	mlh	breast	m o N	M U N	M V N	1
+DEDUA	ded	breast	n a m u	N A M Y	N V M V	2
+HUBE	kgf	breast	n a m u	N A M Y	N V M V	2
+TOBO	tbv	breast	n a m o	N A M U	N V M V	2
+KOSORONG	ksr	breast	a c u	A C Y	V K V	3
+MINDIK	bmu	breast	c u c u	C Y C Y	K V K V	3
+BURUM	bmu	breast	c u c u	C Y C Y	K V K V	3
+ONO	ons	breast	N a m u	N A M Y	N V M V	2
+KOMBA	kpf	breast	n a m	N A M	N V M	2
+SELEPET	spl	breast	n a m	N A M	N V M	2
+TIMBE	tim	breast	n a m	N A M	N V M	2
+NABAK	naf	breast	n a m	N A M	N V M	2
+MOMOLILI	mci	breast	n a m	N A M	N V M	2
+KATE	kmg	heart	bu hondoN	P H	P H	1
+MAPE_2	mlh	heart	maki koruN	M K	M K	2
+DEDUA	ded	heart	woso honduN	W H	W H	3
+HUBE	kgf	heart	w e b o g o k m e	W E P U K U K M E	W V P V K V K M V	4
+TOBO	tbv	heart	wel bot	W P	W P	5
+KOSORONG	ksr	heart	b a k o t a	P A K U T A	P V K V T V	6
+MINDIK	bmu	heart	wel bot	W P	W P	5
+BURUM	bmu	heart	wel bot	W P	W P	5
+ONO	ons	heart	k o m b a N i	K U M P A N I	K V M P V N V	7
+KOMBA	kpf	heart	k a b ia m	K A P I M	K V P V M	8
+SELEPET	spl	heart	k a b ia m	K A P I M	K V P V M	8
+TIMBE	tim	heart	o k o t	U K U T	V K V T	9
+NABAK	naf	heart	gum k3t	K K	K K	10
+MOMOLILI	mci	heart	wemb3 k3t	W K	W K	11
+KATE	kmg	eat	n o	N U	N V	1
+MAPE_2	mlh	eat	n a	N A	N V	1
+DEDUA	ded	eat	n e	N E	N V	1
+HUBE	kgf	eat	n e	N E	N V	1
+TOBO	tbv	eat	n e	N E	N V	1
+KOSORONG	ksr	eat	n e	N E	N V	1
+MINDIK	bmu	eat	n e	N E	N V	1
+BURUM	bmu	eat	n e	N E	N V	1
+ONO	ons	eat	n i	N I	N V	1
+KOMBA	kpf	eat	n i	N I	N V	1
+SELEPET	spl	eat	n i	N I	N V	1
+TIMBE	tim	eat	n i	N I	N V	1
+NABAK	naf	eat	n i	N I	N V	1
+MOMOLILI	mci	eat	n i n	N I N	N V N	1
+KATE	kmg	bite	k i	K I	K V	1
+MAPE_2	mlh	bite	k i	K I	K V	1
+DEDUA	ded	bite	k i	K I	K V	1
+HUBE	kgf	bite	k i	K I	K V	1
+TOBO	tbv	bite	k i	K I	K V	1
+KOSORONG	ksr	bite	k i	K I	K V	1
+MINDIK	bmu	bite	y o h o	J U H U	J V H V	2
+BURUM	bmu	bite	y o h o	J U H U	J V H V	2
+ONO	ons	bite	k i	K I	K V	1
+KOMBA	kpf	bite	z i h i	S I H I	S V H V	2
+SELEPET	spl	bite	i h i	I H I	V H V	2
+TIMBE	tim	bite	i h i	I H I	V H V	2
+NABAK	naf	bite	i	I	V	2
+MOMOLILI	mci	bite	y e	J E	J V	3
+KATE	kmg	see	h o n e n u	H U N E N Y	H V N V N V	1
+MAPE_2	mlh	see	N o n e n u	N U N E N Y	N V N V N V	1
+DEDUA	ded	see	n e n	N E N	N V N	2
+HUBE	kgf	see	n i	N I	N V	3
+TOBO	tbv	see	n e n	N E N	N V N	2
+KOSORONG	ksr	see	n i	N I	N V	3
+MINDIK	bmu	see	n e k	N E K	N V K	4
+BURUM	bmu	see	n e k	N E K	N V K	4
+ONO	ons	see	n a n	N A N	N V N	2
+KOMBA	kpf	see	n e k	N E K	N V K	4
+SELEPET	spl	see	n e k	N E K	N V K	4
+TIMBE	tim	see	n e k	N E K	N V K	4
+NABAK	naf	see	n i	N I	N V	3
+MOMOLILI	mci	see	n 3 x 3i	N O G O	N V K V	5
+KATE	kmg	know	m a n a	M A N A	M V N V	1
+MAPE_2	mlh	know	m a n e	M A N E	M V N V	1
+DEDUA	ded	know	n e g e n	N E K E N	N V K V N	2
+HUBE	kgf	know	n i n	N I N	N V N	3
+TOBO	tbv	know	n i n	N I N	N V N	3
+KOSORONG	ksr	know	m o	M U	M V	4
+MINDIK	bmu	know	m o	M U	M V	4
+BURUM	bmu	know	m a	M A	M V	4
+ONO	ons	know	d e r i	T E R I	T V R V	5
+KOMBA	kpf	know	n a g a	N A K A	N V K V	6
+SELEPET	spl	know	n a g a	N A K A	N V K V	6
+TIMBE	tim	know	n o g o	N U K U	N V K V	6
+NABAK	naf	know	n oi	N U	N V	7
+MOMOLILI	mci	know	n i N g e	N I N K E	N V N K V	6
+KATE	kmg	sleep	f o	B U	P V	1
+MAPE_2	mlh	sleep	kp~ e	K E	K V	2
+DEDUA	ded	sleep	f e	B E	P V	1
+HUBE	kgf	sleep	f e	B E	P V	1
+TOBO	tbv	sleep	g oo h e	K U H E	K V H V	3
+KOSORONG	ksr	sleep	e	E	V	1
+MINDIK	bmu	sleep	a h o	A H U	V H V	4
+BURUM	bmu	sleep	a h o	A H U	V H V	4
+ONO	ons	sleep	p a	P A	P V	5
+KOMBA	kpf	sleep	z i	S I	S V	6
+SELEPET	spl	sleep	i	I	V	6
+TIMBE	tim	sleep	y e	J E	J V	6
+NABAK	naf	sleep	w e	W E	W V	7
+MOMOLILI	mci	sleep	w e	W E	W V	7
+KATE	kmg	die	h o m o	H U M U	H V M V	1
+MAPE_2	mlh	die	k o m e	K U M E	K V M V	1
+DEDUA	ded	die	h o m e	H U M E	H V M V	1
+HUBE	kgf	die	h u m u	H Y M Y	H V M V	1
+TOBO	tbv	die	k o m u	K U M Y	K V M V	1
+KOSORONG	ksr	die	k o m u	K U M Y	K V M V	1
+MINDIK	bmu	die	k o m u	K U M Y	K V M V	1
+BURUM	bmu	die	k o m u	K U M Y	K V M V	1
+ONO	ons	die	s eu k i	S E K I	S V K V	2
+KOMBA	kpf	die	m u	M Y	M V	3
+SELEPET	spl	die	m u	M Y	M V	3
+TIMBE	tim	die	m o	M U	M V	3
+NABAK	naf	die	g 3 k i	K O K I	K V K V	4
+MOMOLILI	mci	die	g 3 k i	K O K I	K V K V	4
+KATE	kmg	come	w e f u	W E B Y	W V P V	1
+MAPE_2	mlh	come	w a p e	W A P E	W V P V	2
+DEDUA	ded	come	e r e	E R E	V R V	3
+HUBE	kgf	come	e r e	E R E	V R V	3
+TOBO	tbv	come	k a	K A	K V	4
+KOSORONG	ksr	come	w a	W A	W V	5
+MINDIK	bmu	come	k a	K A	K V	4
+BURUM	bmu	come	k a	K A	K V	4
+ONO	ons	come	s a	S A	S V	6
+KOMBA	kpf	come	g a	K A	K V	4
+SELEPET	spl	come	g a	K A	K V	4
+TIMBE	tim	come	g u	K Y	K V	4
+NABAK	naf	come	k p e	K P E	K P V	7
+MOMOLILI	mci	come	k o	K U	K V	8
+KATE	kmg	sit	N e	N E	N V	1
+MAPE_2	mlh	sit	N e	N E	N V	1
+DEDUA	ded	sit	t a k	T A K	T V K	2
+HUBE	kgf	sit	t a k	T A K	T V K	2
+TOBO	tbv	sit	t a	T A	T V	2
+KOSORONG	ksr	sit	r a	R A	R V	2
+MINDIK	bmu	sit	t a	T A	T V	2
+BURUM	bmu	sit	t a	T A	T V	2
+ONO	ons	sit	m e r i	M E R I	M V R V	3
+KOMBA	kpf	sit	t a	T A	T V	2
+SELEPET	spl	sit	t a	T A	T V	2
+TIMBE	tim	sit	t a	T A	T V	2
+NABAK	naf	sit	t a	T A	T V	2
+MOMOLILI	mci	sit	t a	T A	T V	2
+KATE	kmg	stand	d o m a	T U M A	T V M V	1
+MAPE_2	mlh	stand	d i m i	T I M I	T V M V	1
+DEDUA	ded	stand	n a n	N A N	N V N	2
+HUBE	kgf	stand	n a n	N A N	N V N	2
+TOBO	tbv	stand	n a n	N A N	N V N	2
+KOSORONG	ksr	stand	n a n	N A N	N V N	2
+MINDIK	bmu	stand	k i n	K I N	K V N	3
+BURUM	bmu	stand	k i n	K I N	K V N	3
+ONO	ons	stand	o k o r e	U K U R E	V K V R V	4
+KOMBA	kpf	stand	k i n	K I N	K V N	3
+SELEPET	spl	stand	k i n	K I N	K V N	3
+TIMBE	tim	stand	k i n	K I N	K V N	3
+NABAK	naf	stand	t a	T A	T V	5
+MOMOLILI	mci	stand	t a	T A	T V	5
+KATE	kmg	give	n a r e	N A R E	N V R V	1
+MAPE_2	mlh	give	n a r e	N A R E	N V R V	1
+DEDUA	ded	give	n e n	N E N	N V N	2
+HUBE	kgf	give	n e n	N E N	N V N	2
+TOBO	tbv	give	n e m	N E M	N V M	2
+KOSORONG	ksr	give	n o n	N U N	N V N	2
+MINDIK	bmu	give	n i N g i	N I N K I	N V N K V	3
+BURUM	bmu	give	n i N g i	N I N K I	N V N K V	3
+ONO	ons	give	n i n	N I N	N V N	2
+KOMBA	kpf	give	n i h	N I H	N V H	3
+SELEPET	spl	give	n i h i	N I H I	N V H V	3
+TIMBE	tim	give	n i N	N I N	N V N	3
+NABAK	naf	give	n ai	N A	N V	4
+MOMOLILI	mci	give	n a k a	N A K A	N V K V	5
+KATE	kmg	say	m u	M Y	M V	1
+MAPE_2	mlh	say	m i	M I	M V	1
+DEDUA	ded	say	d e	T E	T V	2
+HUBE	kgf	say	c e	C E	K V	2
+TOBO	tbv	say	c i	C I	K V	2
+KOSORONG	ksr	say	c o	C U	K V	2
+MINDIK	bmu	say	c i	C I	K V	2
+BURUM	bmu	say	c i	C I	K V	2
+ONO	ons	say	r a	R A	R V	3
+KOMBA	kpf	say	s	S	S	2
+SELEPET	spl	say	y	J	J	2
+TIMBE	tim	say	m a	M A	M V	4
+NABAK	naf	say	c ei	C E	K V	2
+MOMOLILI	mci	say	c 3	C O	K V	2
+KATE	kmg	sun	c oa N	C U N	K V N	1
+MAPE_2	mlh	sun	w e g i	W E K I	W V K V	2
+DEDUA	ded	sun	w o n a k	W U N A K	W V N V K	3
+HUBE	kgf	sun	k ai w e	K A W E	K V W V	4
+TOBO	tbv	sun	k ai w e	K A W E	K V W V	4
+KOSORONG	ksr	sun	w e N	W E N	W V N	5
+MINDIK	bmu	sun	w e h o n	W E H U N	W V H V N	6
+BURUM	bmu	sun	w e l g o n	W E L K U N	W V R K V N	6
+ONO	ons	sun	k ai w e	K A W E	K V W V	4
+KOMBA	kpf	sun	m i r o s i N	M I R U S I N	M V R V S V N	7
+SELEPET	spl	sun	d e w u t o	T E W Y T U	T V W V T V	8
+TIMBE	tim	sun	p oia p	P U P	P V P	9
+NABAK	naf	sun	k 3 s u k	K O S Y K	K V S V K	10
+MOMOLILI	mci	sun	k 3 s u	K O S Y	K V S V	11
+KATE	kmg	moon	m o s a	M U S A	M V S V	1
+MAPE_2	mlh	moon	m o s a	M U S A	M V S V	1
+DEDUA	ded	moon	a f o	A B U	V P V	2
+HUBE	kgf	moon	k o m o N	K U M U N	K V M V N	3
+TOBO	tbv	moon	k o m b o l	K U M P U L	K V M P V R	3
+KOSORONG	ksr	moon	k oi N	K U N	K V N	4
+MINDIK	bmu	moon	k ai N	K A N	K V N	4
+BURUM	bmu	moon	k ai n	K A N	K V N	4
+ONO	ons	moon	m e s o	M E S U	M V S V	1
+KOMBA	kpf	moon	k ai n	K A N	K V N	4
+SELEPET	spl	moon	e m e s e n N e	E M E S E N N E	V M V S V N N V	5
+TIMBE	tim	moon	dewuto hodohon gotNe	T H K	T H K	6
+NABAK	naf	moon	e y o N g e	E J U N K E	V J V N K V	7
+MOMOLILI	mci	moon	3 y o N g a	O J U N K A	V J V N K V	7
+KATE	kmg	star	b o p i N	P U P I N	P V P V N	1
+MAPE_2	mlh	star	b o p i N	P U P I N	P V P V N	1
+DEDUA	ded	star	b o p i N	P U P I N	P V P V N	1
+HUBE	kgf	star	s i k i r u	S I K I R Y	S V K V R V	2
+TOBO	tbv	star	s e k e l o	S E K E L U	S V K V R V	2
+KOSORONG	ksr	star	s e N g e l eu	S E N K E L E	S V N K V R V	2
+MINDIK	bmu	star	s e N g e l au	S E N K E L A	S V N K V R V	2
+BURUM	bmu	star	s e N g e l au	S E N K E L A	S V N K V R V	2
+ONO	ons	star	s e r e k i N	S E R E K I N	S V R V K V N	3
+KOMBA	kpf	star	s e g e l a k	S E K E L A K	S V K V R V K	2
+SELEPET	spl	star	p e t u	P E T Y	P V T V	4
+TIMBE	tim	star	p i t u N	P I T Y N	P V T V N	4
+NABAK	naf	star	w e n z i m	W E N S I M	W V N S V M	5
+MOMOLILI	mci	star	c 3 m 3 r i nc~ 3	C O M O R I N O	K V M V R V N V	6
+KATE	kmg	water	o p o	U P U	V P V	1
+MAPE_2	mlh	water	o w u	U W Y	V W V	2
+DEDUA	ded	water	d o k u	T U K Y	T V K V	3
+HUBE	kgf	water	d o k u	T U K Y	T V K V	3
+TOBO	tbv	water	d u k u	T Y K Y	T V K V	3
+KOSORONG	ksr	water	a p u k	A P Y K	V P V K	4
+MINDIK	bmu	water	ou	U	V	2
+BURUM	bmu	water	ou	U	V	2
+ONO	ons	water	d o k u	T U K Y	T V K V	3
+KOMBA	kpf	water	t o	T U	T V	5
+SELEPET	spl	water	t o	T U	T V	5
+TIMBE	tim	water	t u	T Y	T V	5
+NABAK	naf	water	t u	T Y	T V	5
+MOMOLILI	mci	water	t u	T Y	T V	5
+KATE	kmg	rain	h oe	H U	H V	1
+MAPE_2	mlh	rain	k ue	K Y	K V	1
+DEDUA	ded	rain	k ia	K I	K V	1
+HUBE	kgf	rain	k ia	K I	K V	1
+TOBO	tbv	rain	k ia	K I	K V	1
+KOSORONG	ksr	rain	k o N	K U N	K V N	2
+MINDIK	bmu	rain	k ie	K I	K V	1
+BURUM	bmu	rain	k ie	K I	K V	1
+ONO	ons	rain	k oia	K U	K V	1
+KOMBA	kpf	rain	m a p	M A P	M V P	3
+SELEPET	spl	rain	g e l o k	K E L U K	K V R V K	4
+TIMBE	tim	rain	t o n o k	T U N U K	T V N V K	5
+NABAK	naf	rain	m a p	M A P	M V P	3
+MOMOLILI	mci	rain	m a	M A	M V	3
+KATE	kmg	stone	kp~ o n o	K U N U	K V N V	1
+MAPE_2	mlh	stone	k o k	K U K	K V K	2
+DEDUA	ded	stone	h o k	H U K	H V K	2
+HUBE	kgf	stone	g o k m ea	K U K M E	K V K M V	3
+TOBO	tbv	stone	b a N a	P A N A	P V N V	4
+KOSORONG	ksr	stone	c a m o k	C A M U K	K V M V K	5
+MINDIK	bmu	stone	k o t	K U T	K V T	6
+BURUM	bmu	stone	k o t	K U T	K V T	6
+ONO	ons	stone	w e s i	W E S I	W V S V	7
+KOMBA	kpf	stone	k o t	K U T	K V T	6
+SELEPET	spl	stone	k o t	K U T	K V T	6
+TIMBE	tim	stone	k o t	K U T	K V T	6
+NABAK	naf	stone	n a nc~ 3 N	N A N O N	N V N V N	8
+MOMOLILI	mci	stone	n a nc~ a	N A N A	N V N V	8
+KATE	kmg	sand	m o N g e N	M U N K E N	M V N K V N	1
+MAPE_2	mlh	sand	m a g e N	M A K E N	M V K V N	1
+DEDUA	ded	sand	m o N g e N	M U N K E N	M V N K V N	1
+HUBE	kgf	sand	s a k e s a	S A K E S A	S V K V S V	2
+TOBO	tbv	sand	s a k	S A K	S V K	2
+KOSORONG	ksr	sand	s a k a s i N	S A K A S I N	S V K V S V N	2
+MINDIK	bmu	sand	s a k o s i N	S A K U S I N	S V K V S V N	2
+BURUM	bmu	sand	s a k	S A K	S V K	2
+ONO	ons	sand	gb~ a l a k	K A L A K	K V R V K	3
+KOMBA	kpf	sand	s a k	S A K	S V K	2
+SELEPET	spl	sand	s a k	S A K	S V K	2
+TIMBE	tim	sand	s a k	S A K	S V K	2
+NABAK	naf	sand	g a m b i b i t	K A M P I P I T	K V M P V P V T	4
+MOMOLILI	mci	sand	g a N a	K A N A	K V N V	5
+KATE	kmg	earth	m o r e N	M U R E N	M V R V N	1
+MAPE_2	mlh	earth	m o r e N	M U R E N	M V R V N	1
+DEDUA	ded	earth	b a N e k	P A N E K	P V N V K	2
+HUBE	kgf	earth	b ae k	P A K	P V K	2
+TOBO	tbv	earth	b ai t	P A T	P V T	2
+KOSORONG	ksr	earth	n a m o k	N A M U K	N V M V K	3
+MINDIK	bmu	earth	b a l o N	P A L U N	P V R V N	4
+BURUM	bmu	earth	g o l m e	K U L M E	K V R M V	5
+ONO	ons	earth	k e p e	K E P E	K V P V	6
+KOMBA	kpf	earth	a n	A N	V N	7
+SELEPET	spl	earth	h o n	H U N	H V N	7
+TIMBE	tim	earth	h o n	H U N	H V N	7
+NABAK	naf	earth	m i s a t	M I S A T	M V S V T	8
+MOMOLILI	mci	earth	m i s a	M I S A	M V S V	8
+KATE	kmg	cloud	k a r o r a 7	K A R U R A H	K V R V R V H	1
+MAPE_2	mlh	cloud	g o w e N	K U W E N	K V W V N	2
+DEDUA	ded	cloud	k u r u m e N	K Y R Y M E N	K V R V M V N	3
+HUBE	kgf	cloud	h o s e s u	H U S E S Y	H V S V S V	4
+TOBO	tbv	cloud	k o s u	K U S Y	K V S V	4
+KOSORONG	ksr	cloud	k o s u k	K U S Y K	K V S V K	4
+MINDIK	bmu	cloud	k ou s u	K U S Y	K V S V	4
+BURUM	bmu	cloud	k ou s u	K U S Y	K V S V	4
+ONO	ons	cloud	k e z o N	K E S U N	K V S V N	5
+KOMBA	kpf	cloud	s a s a	S A S A	S V S V	6
+SELEPET	spl	cloud	e l e m	E L E M	V R V M	7
+TIMBE	tim	cloud	h a m a d a t	H A M A T A T	H V M V T V T	8
+NABAK	naf	cloud	c a n c a	C A N C A	K V N K V	9
+MOMOLILI	mci	cloud	k u m b u	K Y M P Y	K V M P V	10
+KATE	kmg	smoke	h o s o 7	H U S U H	H V S V H	1
+MAPE_2	mlh	smoke	k o s o k	K U S U K	K V S V K	1
+DEDUA	ded	smoke	h u s u k	H Y S Y K	H V S V K	1
+HUBE	kgf	smoke	h o f a k	H U B A K	H V P V K	1
+TOBO	tbv	smoke	k a s a k	K A S A K	K V S V K	1
+KOSORONG	ksr	smoke	k a s o k	K A S U K	K V S V K	1
+MINDIK	bmu	smoke	k o w a k	K U W A K	K V W V K	1
+BURUM	bmu	smoke	k a s a k	K A S A K	K V S V K	1
+ONO	ons	smoke	N au p	N A P	N V P	2
+KOMBA	kpf	smoke	m u d o	M Y T U	M V T V	3
+SELEPET	spl	smoke	u t u n	Y T Y N	V T V N	4
+TIMBE	tim	smoke	d o w o k	T U W U K	T V W V K	5
+NABAK	naf	smoke	k 3 s 3 k	K O S O K	K V S V K	1
+MOMOLILI	mci	smoke	k 3 s 3	K O S O	K V S V	1
+KATE	kmg	ash	c a f e	C A B E	K V P V	1
+MAPE_2	mlh	ash	c a f e	C A B E	K V P V	1
+DEDUA	ded	ash	h a m a	H A M A	H V M V	2
+HUBE	kgf	ash	h o m a	H U M A	H V M V	2
+TOBO	tbv	ash	k a m a	K A M A	K V M V	2
+KOSORONG	ksr	ash	t o k	T U K	T V K	3
+MINDIK	bmu	ash	k au	K A	K V	4
+BURUM	bmu	ash	k au	K A	K V	4
+ONO	ons	ash	k au	K A	K V	4
+KOMBA	kpf	ash	k au	K A	K V	4
+SELEPET	spl	ash	k ou	K U	K V	4
+TIMBE	tim	ash	k au	K A	K V	4
+NABAK	naf	ash	k ou	K U	K V	4
+MOMOLILI	mci	ash	c i t a	C I T A	K V T V	5
+KATE	kmg	burn	c a	C A	K V	1
+MAPE_2	mlh	burn	c a	C A	K V	1
+DEDUA	ded	burn	c a	C A	K V	1
+HUBE	kgf	burn	c e	C E	K V	1
+TOBO	tbv	burn	c e	C E	K V	1
+KOSORONG	ksr	burn	c e	C E	K V	1
+MINDIK	bmu	burn	c e	C E	K V	1
+BURUM	bmu	burn	c e	C E	K V	1
+ONO	ons	burn	c i	C I	K V	1
+KOMBA	kpf	burn	s i	S I	S V	1
+SELEPET	spl	burn	s i	S I	S V	1
+TIMBE	tim	burn	o	U	V	2
+NABAK	naf	burn	c i	C I	K V	1
+MOMOLILI	mci	burn	c i	C I	K V	1
+KATE	kmg	road	h a t a	H A T A	H V T V	1
+MAPE_2	mlh	road	k a r i	K A R I	K V R V	2
+DEDUA	ded	road	s i N	S I N	S V N	3
+HUBE	kgf	road	h e n a	H E N A	H V N V	4
+TOBO	tbv	road	k o n a	K U N A	K V N V	4
+KOSORONG	ksr	road	k a n a k	K A N A K	K V N V K	4
+MINDIK	bmu	road	k o n a	K U N A	K V N V	4
+BURUM	bmu	road	k o n a	K U N A	K V N V	4
+ONO	ons	road	n u m a	N Y M A	N V M V	5
+KOMBA	kpf	road	m o t o p	M U T U P	M V T V P	6
+SELEPET	spl	road	g io p	K I P	K V P	7
+TIMBE	tim	road	d o p	T U P	T V P	8
+NABAK	naf	road	s e t	S E T	S V T	9
+MOMOLILI	mci	road	k 3	K O	K V	4
+KATE	kmg	mountain	t i k i	T I K I	T V K V	1
+MAPE_2	mlh	mountain	t i k i	T I K I	T V K V	1
+DEDUA	ded	mountain	t i k i	T I K I	T V K V	1
+HUBE	kgf	mountain	b o N a	P U N A	P V N V	2
+TOBO	tbv	mountain	b o h o N a	P U H U N A	P V H V N V	2
+KOSORONG	ksr	mountain	b a N a	P A N A	P V N V	2
+MINDIK	bmu	mountain	k u n d u N i	K Y N T Y N I	K V N T V N V	3
+BURUM	bmu	mountain	k u n d u N i	K Y N T Y N I	K V N T V N V	3
+ONO	ons	mountain	b o n a g a	P U N A K A	P V N V K V	2
+KOMBA	kpf	mountain	k a k N a	K A K N A	K V K N V	4
+SELEPET	spl	mountain	g i b o N e	K I P U N E	K V P V N V	5
+TIMBE	tim	mountain	g i b o N e	K I P U N E	K V P V N V	5
+NABAK	naf	mountain	k a l 3 N	K A L O N	K V R V N	6
+MOMOLILI	mci	mountain	k a l a N	K A L A N	K V R V N	6
+KATE	kmg	red	b o b o r o N	P U P U R U N	P V P V R V N	1
+MAPE_2	mlh	red	b o b o r o N	P U P U R U N	P V P V R V N	1
+DEDUA	ded	red	sak sak	S S	S S	2
+HUBE	kgf	red	p e s ia	P E S I	P V S V	3
+TOBO	tbv	red	p o s o h a	P U S U H A	P V S V H V	3
+KOSORONG	ksr	red	o s o g a	U S U K A	V S V K V	4
+MINDIK	bmu	red	p o s i k N i	P U S I K N I	P V S V K N V	3
+BURUM	bmu	red	p i s i k N i	P I S I K N I	P V S V K N V	3
+ONO	ons	red	w e N e m k a	W E N E M K A	W V N V M K V	5
+KOMBA	kpf	red	k u r i N	K Y R I N	K V R V N	6
+SELEPET	spl	red	k u r i N	K Y R I N	K V R V N	6
+TIMBE	tim	red	g i l o m N e	K I L U M N E	K V R V M N V	7
+NABAK	naf	red	N a m 3 N	N A M O N	N V M V N	8
+MOMOLILI	mci	red	k u k N	K Y K N	K V K N	9
+KATE	kmg	green	o r o N b o r i 7	U R U N P U R I H	V R V N P V R V H	1
+MAPE_2	mlh	green	b u g e	P Y K E	P V K V	2
+DEDUA	ded	green	o r o N b o r i k	U R U N P U R I K	V R V N P V R V K	1
+HUBE	kgf	green	gerik meria	K M	K M	3
+TOBO	tbv	green	a s o N a	A S U N A	V S V N V	4
+KOSORONG	ksr	green	asoN asoN	A A	V V	4
+MINDIK	bmu	green	toNgon toNgon	T T	T T	5
+BURUM	bmu	green	g o r o k N i	K U R U K N I	K V R V K N V	6
+ONO	ons	green	w i s i k a	W I S I K A	W V S V K V	7
+KOMBA	kpf	green	wohon wohon	W W	W W	8
+SELEPET	spl	green	g o l o	K U L U	K V R V	9
+TIMBE	tim	green	g o l o	K U L U	K V R V	9
+NABAK	naf	green	a r a N 3 N	A R A N O N	V R V N V N	10
+MOMOLILI	mci	green	k o k N	K U K N	K V K N	11
+KATE	kmg	yellow	b o N e N n e	P U N E N N E	P V N V N N V	1
+MAPE_2	mlh	yellow	b o b o N e N	P U P U N E N	P V P V N V N	1
+DEDUA	ded	yellow	c a g ea	C A K E	K V K V	2
+HUBE	kgf	yellow	gb~aok gb~aok	K K	K K	3
+TOBO	tbv	yellow	gb~aot gb~aot	K K	K K	3
+KOSORONG	ksr	yellow	g o g o k o t a	K U K U K U T A	K V K V K V T V	4
+MINDIK	bmu	yellow	g i b a N i	K I P A N I	K V P V N V	5
+BURUM	bmu	yellow	g o h o t N i	K U H U T N I	K V H V T N V	4
+ONO	ons	yellow	y a N ai k e	J A N A K E	J V N V K V	6
+KOMBA	kpf	yellow	gibaN gibaN	K K	K K	7
+SELEPET	spl	yellow	g i b a N	K I P A N	K V P V N	7
+TIMBE	tim	yellow	g i b a N	K I P A N	K V P V N	7
+NABAK	naf	yellow	a r a r a N	A R A R A N	V R V R V N	8
+MOMOLILI	mci	yellow	a l a N	A L A N	V R V N	8
+KATE	kmg	white	kp~aN kp~aN	K K	K K	1
+MAPE_2	mlh	white	kp~aN kp~aN	K K	K K	1
+DEDUA	ded	white	k o N a k	K U N A K	K V N V K	2
+HUBE	kgf	white	r a r a k	R A R A K	R V R V K	3
+TOBO	tbv	white	l a l a p	L A L A P	R V R V P	3
+KOSORONG	ksr	white	t a t a N k o t a	T A T A N K U T A	T V T V N K V T V	4
+MINDIK	bmu	white	t oa t N i	T U T N I	T V T N V	5
+BURUM	bmu	white	t ua t N i	T Y T N I	T V T N V	5
+ONO	ons	white	l i b e k a	L I P E K A	R V P V K V	6
+KOMBA	kpf	white	kau kau	K K	K K	7
+SELEPET	spl	white	k ao k	K A K	K V K	7
+TIMBE	tim	white	k au	K A	K V	7
+NABAK	naf	white	s a t n 3 N	S A T N O N	S V T N V N	8
+MOMOLILI	mci	white	s a g a t n	S A K A T N	S V K V T N	8
+KATE	kmg	black	g o g o p o 7	K U K U P U H	K V K V P V H	1
+MAPE_2	mlh	black	g o g o w u k	K U K U W Y K	K V K V W V K	1
+DEDUA	ded	black	c a c u	C A C Y	K V K V	2
+HUBE	kgf	black	c a p e r a	C A P E R A	K V P V R V	3
+TOBO	tbv	black	c a p a l a	C A P A L A	K V P V R V	3
+KOSORONG	ksr	black	i n c a N a	I N C A N A	V N K V N V	4
+MINDIK	bmu	black	i n c a N i	I N C A N I	V N K V N V	4
+BURUM	bmu	black	t o w u N i	T U W Y N I	T V W V N V	5
+ONO	ons	black	d i k a	T I K A	T V K V	6
+KOMBA	kpf	black	sumun sumun	S S	S S	7
+SELEPET	spl	black	h e l e N	H E L E N	H V R V N	8
+TIMBE	tim	black	h e l e N	H E L E N	H V R V N	8
+NABAK	naf	black	s o p m 3 N	S U P M O N	S V P M V N	9
+MOMOLILI	mci	black	s 3 m b o p m	S O M P U P M	S V M P V P M	10
+KATE	kmg	night	N a f e	N A B E	N V P V	1
+MAPE_2	mlh	night	u w u	Y W Y	V W V	2
+DEDUA	ded	night	t o f o n a k	T U B U N A K	T V P V N V K	3
+HUBE	kgf	night	s i N i	S I N I	S V N V	4
+TOBO	tbv	night	s i N ia h a	S I N I H A	S V N V H V	4
+KOSORONG	ksr	night	k e t e k	K E T E K	K V T V K	5
+MINDIK	bmu	night	s u N g e m	S Y N K E M	S V N K V M	6
+BURUM	bmu	night	s u N g e m	S Y N K E M	S V N K V M	6
+ONO	ons	night	r u w o	R Y W U	R V W V	7
+KOMBA	kpf	night	N a t i k	N A T I K	N V T V K	8
+SELEPET	spl	night	o m o N	U M U N	V M V N	9
+TIMBE	tim	night	h a d o k	H A T U K	H V T V K	10
+NABAK	naf	night	t 3 mb~ u y a t	T O M Y J A T	T V M V J V T	11
+MOMOLILI	mci	night	m i mb~ a	M I M A	M V M V	12
+KATE	kmg	hot	c o 7	C U H	K V H	1
+MAPE_2	mlh	hot	f o r o	B U R U	P V R V	2
+DEDUA	ded	hot	g e r e k	K E R E K	K V R V K	3
+HUBE	kgf	hot	g e r i k	K E R I K	K V R V K	3
+TOBO	tbv	hot	g i r ua	K I R Y	K V R V	3
+KOSORONG	ksr	hot	g e r e k	K E R E K	K V R V K	3
+MINDIK	bmu	hot	k o n o p	K U N U P	K V N V P	4
+BURUM	bmu	hot	k o n d o p	K U N T U P	K V N T V P	4
+ONO	ons	hot	g e r e p	K E R E P	K V R V P	3
+KOMBA	kpf	hot	k o r o p	K U R U P	K V R V P	4
+SELEPET	spl	hot	k o l o p	K U L U P	K V R V P	4
+TIMBE	tim	hot	k o l o p	K U L U P	K V R V P	4
+NABAK	naf	hot	t e c i n	T E C I N	T V K V N	5
+MOMOLILI	mci	hot	t e c i	T E C I	T V K V	5
+KATE	kmg	cold	m o t e N n e	M U T E N N E	M V T V N N V	1
+MAPE_2	mlh	cold	m o t e N n e	M U T E N N E	M V T V N N V	1
+DEDUA	ded	cold	m o t e N a	M U T E N A	M V T V N V	1
+HUBE	kgf	cold	s a g e N a	S A K E N A	S V K V N V	2
+TOBO	tbv	cold	s a N g e N	S A N K E N	S V N K V N	2
+KOSORONG	ksr	cold	o l o N a	U L U N A	V R V N V	3
+MINDIK	bmu	cold	h a m o t N i	H A M U T N I	H V M V T N V	4
+BURUM	bmu	cold	c i N i m	C I N I M	K V N V M	5
+ONO	ons	cold	m o m oi n e	M U M U N E	M V M V N V	6
+KOMBA	kpf	cold	p o t e N	P U T E N	P V T V N	7
+SELEPET	spl	cold	b o l o p N e	P U L U P N E	P V R V P N V	8
+TIMBE	tim	cold	b o l o p N e	P U L U P N E	P V R V P N V	8
+NABAK	naf	cold	b a k N 3 N	P A K N O N	P V K N V N	9
+MOMOLILI	mci	cold	t a k 3 N	T A K O N	T V K V N	10
+KATE	kmg	full	f u s e	B Y S E	P V S V	1
+MAPE_2	mlh	full	f u s e	B Y S E	P V S V	1
+DEDUA	ded	full	w a k e	W A K E	W V K V	2
+HUBE	kgf	full	koia kp~e	K K	K K	3
+TOBO	tbv	full	koia kp~e	K K	K K	3
+KOSORONG	ksr	full	sa kp~e	S K	S K	4
+MINDIK	bmu	full	koko kp~e	K K	K K	5
+BURUM	bmu	full	kokolak kp~e	K K	K K	5
+ONO	ons	full	w e T g i	W E D K I	W V T K V	6
+KOMBA	kpf	full	p i k	P I K	P V K	7
+SELEPET	spl	full	p i k	P I K	P V K	7
+TIMBE	tim	full	p i k	P I K	P V K	7
+NABAK	naf	full	cece kpe	C K	K K	8
+MOMOLILI	mci	full	c3c3 ko	C K	K K	8
+KATE	kmg	new	gb~ o r i n e	K U R I N E	K V R V N V	1
+MAPE_2	mlh	new	gb~ oi n e	K U N E	K V N V	1
+DEDUA	ded	new	gb~ o r ia	K U R I	K V R V	1
+HUBE	kgf	new	gb~ e r ia	K E R I	K V R V	1
+TOBO	tbv	new	gb~ i l i k	K I L I K	K V R V K	1
+KOSORONG	ksr	new	gb~ i l ia	K I L I	K V R V	1
+MINDIK	bmu	new	d o l o k N i	T U L U K N I	T V R V K N V	2
+BURUM	bmu	new	d o l o k N i	T U L U K N I	T V R V K N V	2
+ONO	ons	new	w e l e	W E L E	W V R V	3
+KOMBA	kpf	new	i r a k N o	I R A K N U	V R V K N V	2
+SELEPET	spl	new	oi N e	U N E	V N V	4
+TIMBE	tim	new	i r a k N e	I R A K N E	V R V K N V	2
+NABAK	naf	new	a r a k N 3 N	A R A K N O N	V R V K N V N	2
+MOMOLILI	mci	new	g o r 3 N	K U R O N	K V R V N	5
+KATE	kmg	good	b ia N n e	P I N N E	P V N N V	1
+MAPE_2	mlh	good	f i n e	B I N E	P V N V	2
+DEDUA	ded	good	g o m b u N a	K U M P Y N A	K V M P V N V	3
+HUBE	kgf	good	f ia	B I	P V	2
+TOBO	tbv	good	e h a	E H A	V H V	4
+KOSORONG	ksr	good	aua	A	V	5
+MINDIK	bmu	good	o l p N i	U L P N I	V R P N V	6
+BURUM	bmu	good	o l p N i	U L P N I	V R P N V	6
+ONO	ons	good	m ai n e	M A N E	M V N V	7
+KOMBA	kpf	good	o l i p N o	U L I P N U	V R V P N V	6
+SELEPET	spl	good	o l i p N e	U L I P N E	V R V P N V	6
+TIMBE	tim	good	o l i p N e	U L I P N E	V R V P N V	6
+NABAK	naf	good	kp~ e m b e n 3 N	K E M P E N O N	K V M P V N V N	8
+MOMOLILI	mci	good	s a N g a m	S A N K A M	S V N K V M	9
+KATE	kmg	round	oroN oroN	U U	V V	1
+MAPE_2	mlh	round	o r o N	U R U N	V R V N	1
+DEDUA	ded	round	o r o N	U R U N	V R V N	1
+HUBE	kgf	round	rerek rerek	R R	R R	2
+TOBO	tbv	round	koroN koroN	K K	K K	1
+KOSORONG	ksr	round	lilik lilik	L L	R R	2
+MINDIK	bmu	round	lilik lilik	L L	R R	2
+BURUM	bmu	round	l a m b o	L A M P U	R V M P V	3
+ONO	ons	round	lolik lolik	L L	R R	2
+KOMBA	kpf	round	gawoN gawoN	K K	K K	4
+SELEPET	spl	round	gawoN gawoN	K K	K K	4
+TIMBE	tim	round	gawoN gawoN	K K	K K	4
+NABAK	naf	round	k i l i l i N	K I L I L I N	K V R V R V N	5
+MOMOLILI	mci	round	w a r a g 3 n	W A R A K O N	W V R V K V N	6
+KATE	kmg	dry	k e r e N k e	K E R E N K E	K V R V N K V	1
+MAPE_2	mlh	dry	c i g a	C I K A	K V K V	2
+DEDUA	ded	dry	k e r e N	K E R E N	K V R V N	1
+HUBE	kgf	dry	i r e g e	I R E K E	V R V K V	3
+TOBO	tbv	dry	c i p k o	C I P K U	K V P K V	4
+KOSORONG	ksr	dry	t o b o r i	T U P U R I	T V P V R V	5
+MINDIK	bmu	dry	o r o N g o	U R U N K U	V R V N K V	6
+BURUM	bmu	dry	o r o N g o	U R U N K U	V R V N K V	6
+ONO	ons	dry	c i p k i	C I P K I	K V P K V	4
+KOMBA	kpf	dry	a r a r o N	A R A R U N	V R V R V N	6
+SELEPET	spl	dry	h o r o N	H U R U N	H V R V N	6
+TIMBE	tim	dry	k a m i l i	K A M I L I	K V M V R V	7
+NABAK	naf	dry	k o	K U	K V	8
+MOMOLILI	mci	dry	a l a N g 3	A L A N K O	V R V N K V	6
+KATE	kmg	name	c o N e	C U N E	K V N V	1
+MAPE_2	mlh	name	c i N o	C I N U	K V N V	1
+DEDUA	ded	name	k i w a	K I W A	K V W V	2
+HUBE	kgf	name	k i w a	K I W A	K V W V	2
+TOBO	tbv	name	k i w a	K I W A	K V W V	2
+KOSORONG	ksr	name	c a k o t a	C A K U T A	K V K V T V	3
+MINDIK	bmu	name	k u r a p	K Y R A P	K V R V P	4
+BURUM	bmu	name	kp~ e t	K E T	K V T	5
+ONO	ons	name	d ei	T E	T V	6
+KOMBA	kpf	name	k u t	K Y T	K V T	7
+SELEPET	spl	name	k u t	K Y T	K V T	7
+TIMBE	tim	name	k o t	K U T	K V T	7
+NABAK	naf	name	c i k 3 t	C I K O T	K V K V T	3
+MOMOLILI	mci	name	k o t	K U T	K V T	7

@@ -1,0 +1,272 @@
+language	iso_code	gloss	asjp	sca	dolgo	cognate_class
+TRING	kms	I	N e	N E	N V	1
+WAU	kms	I	N e	N E	N V	1
+KAMASAU	kms	I	N e	N E	N V	1
+YIBAB	kms	I	N e	N E	N V	1
+WANDOMI	kms	I	N e	N E	N V	1
+KENYARI	kms	I	N e b i	N E P I	N V P V	1
+SAMAP	ele	I	N a	N A	N V	1
+TRING	kms	come	m a n d i	M A N T I	M V N T V	1
+WAU	kms	come	m a n d i	M A N T I	M V N T V	1
+KAMASAU	kms	come	m a n d i	M A N T I	M V N T V	1
+YIBAB	kms	come	m a n d i	M A N T I	M V N T V	1
+WANDOMI	kms	come	m a n d i	M A N T I	M V N T V	1
+KENYARI	kms	come	m a n d i	M A N T I	M V N T V	1
+PARUWA	kms	come	m a n d i	M A N T I	M V N T V	1
+SAMAP	ele	come	m a N	M A N	M V N	1
+TRING	kms	water	w i y e	W I J E	W V J V	1
+WAU	kms	water	w i y e	W I J E	W V J V	1
+KAMASAU	kms	water	w i y e	W I J E	W V J V	1
+YIBAB	kms	water	w i y e	W I J E	W V J V	1
+WANDOMI	kms	water	w i y e	W I J E	W V J V	1
+KENYARI	kms	water	w i y e	W I J E	W V J V	1
+PARUWA	kms	water	w i y e	W I J E	W V J V	1
+SAMAP	ele	water	w i y e	W I J E	W V J V	1
+TRING	kms	mountain	r a n d	R A N T	R V N T	1
+WAU	kms	mountain	r a n d	R A N T	R V N T	1
+KAMASAU	kms	mountain	r a n d	R A N T	R V N T	1
+YIBAB	kms	mountain	r a n d	R A N T	R V N T	1
+WANDOMI	kms	mountain	r a n d i g	R A N T I K	R V N T V K	1
+KENYARI	kms	mountain	r a n d i	R A N T I	R V N T V	1
+SAMAP	ele	mountain	p a N g	P A N K	P V N K	2
+TRING	kms	sun	N i 5	N I N	N V N	1
+WAU	kms	sun	N i 5	N I N	N V N	1
+KAMASAU	kms	sun	b o g i	P U K I	P V K V	2
+YIBAB	kms	sun	N i 5	N I N	N V N	1
+WANDOMI	kms	sun	g i 5	K I N	K V N	1
+KENYARI	kms	sun	N i 5	N I N	N V N	1
+PARUWA	kms	sun	N e n i	N E N I	N V N V	1
+SAMAP	ele	sun	b w o g	P W U K	P W V K	2
+TRING	kms	star	t o m i N g i	T U M I N K I	T V M V N K V	1
+WAU	kms	star	t o m i N g i	T U M I N K I	T V M V N K V	1
+KAMASAU	kms	star	d o m i N g i	T U M I N K I	T V M V N K V	1
+YIBAB	kms	star	t e m	T E M	T V M	2
+WANDOMI	kms	star	t e m	T E M	T V M	2
+KENYARI	kms	star	p o m i 7 i	P U M I H I	P V M V H V	1
+SAMAP	ele	star	m u t a m i	M Y T A M I	M V T V M V	3
+TRING	kms	one	i r i	I R I	V R V	1
+WAU	kms	one	i r i	I R I	V R V	1
+KAMASAU	kms	one	i r i	I R I	V R V	1
+YIBAB	kms	one	i r i	I R I	V R V	1
+WANDOMI	kms	one	i r i	I R I	V R V	1
+KENYARI	kms	one	i r i	I R I	V R V	1
+PARUWA	kms	one	r i	R I	R V	1
+SAMAP	ele	one	k i	K I	K V	2
+TRING	kms	two	t e r i	T E R I	T V R V	1
+WAU	kms	two	t e r i	T E R I	T V R V	1
+KAMASAU	kms	two	t e r i	T E R I	T V R V	1
+YIBAB	kms	two	t e r i	T E R I	T V R V	1
+WANDOMI	kms	two	t e r i	T E R I	T V R V	1
+KENYARI	kms	two	m e r e y i	M E R E J I	M V R V J V	2
+SAMAP	ele	two	m e r e r e	M E R E R E	M V R V R V	2
+TRING	kms	stone	w e t	W E T	W V T	1
+WAU	kms	stone	w e t	W E T	W V T	1
+KAMASAU	kms	stone	w e t	W E T	W V T	1
+YIBAB	kms	stone	w e t	W E T	W V T	1
+WANDOMI	kms	stone	w e t	W E T	W V T	1
+KENYARI	kms	stone	w e h	W E H	W V H	1
+PARUWA	kms	stone	w a	W A	W V	1
+TRING	kms	skin	C o N g o	C U N K U	K V N K V	1
+WAU	kms	skin	C o N g o	C U N K U	K V N K V	1
+KAMASAU	kms	skin	C o N g o	C U N K U	K V N K V	1
+YIBAB	kms	skin	C a N g o	C A N K U	K V N K V	1
+KENYARI	kms	skin	C a N g w o	C A N K W U	K V N K W V	1
+PARUWA	kms	skin	C a n g w o	C A N K W U	K V N K W V	1
+SAMAP	ele	skin	j o g o	C U K U	K V K V	2
+TRING	kms	fire	w a s e	W A S E	W V S V	1
+WAU	kms	fire	w a s e	W A S E	W V S V	1
+KAMASAU	kms	fire	w a s e	W A S E	W V S V	1
+YIBAB	kms	fire	w a t e	W A T E	W V T V	1
+WANDOMI	kms	fire	w a t e	W A T E	W V T V	1
+KENYARI	kms	fire	w a h a	W A H A	W V H V	1
+PARUWA	kms	fire	w a h a	W A H A	W V H V	1
+SAMAP	ele	fire	w a t e	W A T E	W V T V	1
+TRING	kms	fish	u m o	Y M U	V M V	1
+WAU	kms	fish	7 u m o	H Y M U	H V M V	1
+KAMASAU	kms	fish	u m o	Y M U	V M V	1
+YIBAB	kms	fish	7 u m o	H Y M U	H V M V	1
+WANDOMI	kms	fish	u m o	Y M U	V M V	1
+KENYARI	kms	fish	7 u m o	H Y M U	H V M V	1
+SAMAP	ele	fish	7 u m a	H Y M A	H V M V	1
+TRING	kms	dog	5 o m b w i	N U M P W I	N V M P W V	1
+WAU	kms	dog	5 o m b w i	N U M P W I	N V M P W V	1
+KAMASAU	kms	dog	5 o m b w i	N U M P W I	N V M P W V	1
+YIBAB	kms	dog	7 e t	H E T	H V T	2
+WANDOMI	kms	dog	y e t	J E T	J V T	2
+KENYARI	kms	dog	5 o m b w i	N U M P W I	N V M P W V	1
+PARUWA	kms	dog	5 o m b w i	N U M P W I	N V M P W V	1
+SAMAP	ele	dog	5 a m p	N A M P	N V M P	1
+TRING	kms	louse	3 m b i s k i	O M P I S K I	V M P V S K V	1
+WAU	kms	louse	m b i s k i	M P I S K I	M P V S K V	1
+KAMASAU	kms	louse	m b i s k i	M P I S K I	M P V S K V	1
+YIBAB	kms	louse	m b i t	M P I T	M P V T	1
+WANDOMI	kms	louse	m b i t	M P I T	M P V T	1
+KENYARI	kms	louse	p i n j i	P I N C I	P V N K V	2
+PARUWA	kms	louse	p i n j i	P I N C I	P V N K V	2
+SAMAP	ele	louse	m b i t e	M P I T E	M P V T V	1
+TRING	kms	tree	5 u m o	N Y M U	N V M V	1
+WAU	kms	tree	5 u m o	N Y M U	N V M V	1
+KAMASAU	kms	tree	5 u m o	N Y M U	N V M V	1
+YIBAB	kms	tree	5 u m o	N Y M U	N V M V	1
+WANDOMI	kms	tree	5 u m o	N Y M U	N V M V	1
+KENYARI	kms	tree	5 u m o	N Y M U	N V M V	1
+PARUWA	kms	tree	5 i m e r	N I M E R	N V M V R	1
+SAMAP	ele	tree	y u m a	J Y M A	J V M V	1
+TRING	kms	leaf	r a 7 e	R A H E	R V H V	1
+WAU	kms	leaf	r a 7 e	R A H E	R V H V	1
+KAMASAU	kms	leaf	r a 7 e	R A H E	R V H V	1
+YIBAB	kms	leaf	y a m	J A M	J V M	2
+WANDOMI	kms	leaf	r a	R A	R V	1
+KENYARI	kms	leaf	n j au	N C A	N K V	3
+PARUWA	kms	leaf	m a n e	M A N E	M V N V	4
+SAMAP	ele	leaf	r e 7 e	R E H E	R V H V	1
+TRING	kms	night	b u r	P Y R	P V R	1
+WAU	kms	night	b u r	P Y R	P V R	1
+KAMASAU	kms	night	b u r	P Y R	P V R	1
+YIBAB	kms	night	b u r	P Y R	P V R	1
+WANDOMI	kms	night	b u r	P Y R	P V R	1
+KENYARI	kms	night	w u N g i	W Y N K I	W V N K V	2
+SAMAP	ele	night	w u N g a	W Y N K A	W V N K V	2
+TRING	kms	blood	y a b 3	J A P O	J V P V	1
+WAU	kms	blood	y a b 3	J A P O	J V P V	1
+KAMASAU	kms	blood	y a b 3	J A P O	J V P V	1
+YIBAB	kms	blood	y a b u	J A P Y	J V P V	1
+WANDOMI	kms	blood	w u n a n d e	W Y N A N T E	W V N V N T V	2
+KENYARI	kms	blood	y a b 3	J A P O	J V P V	1
+PARUWA	kms	blood	y a b 3	J A P O	J V P V	1
+SAMAP	ele	blood	N ai n d e	N A N T E	N V N T V	2
+TRING	kms	full	b i r e	P I R E	P V R V	1
+WAU	kms	full	b i r e	P I R E	P V R V	1
+KAMASAU	kms	full	b i r e	P I R E	P V R V	1
+YIBAB	kms	full	b i r e	P I R E	P V R V	1
+WANDOMI	kms	full	b i r e	P I R E	P V R V	1
+KENYARI	kms	full	b i r e	P I R E	P V R V	1
+SAMAP	ele	full	m b a r a	M P A R A	M P V R V	1
+TRING	kms	new	u r u p w i	Y R Y P W I	V R V P W V	1
+WAU	kms	new	7 u r u p w i	H Y R Y P W I	H V R V P W V	1
+KAMASAU	kms	new	7 u r u p w i	H Y R Y P W I	H V R V P W V	1
+YIBAB	kms	new	t i N e y e	T I N E J E	T V N V J V	2
+WANDOMI	kms	new	t i n e y e	T I N E J E	T V N V J V	2
+KENYARI	kms	new	u r u h w i	Y R Y H W I	V R V H W V	1
+SAMAP	ele	new	n j i 7 i 5 e	N C I H I N E	N K V H V N V	3
+TRING	kms	we	b e g i	P E K I	P V K V	1
+WAU	kms	we	b e g i	P E K I	P V K V	1
+KAMASAU	kms	we	b e g i	P E K I	P V K V	1
+YIBAB	kms	we	N e b e w u	N E P E W Y	N V P V W V	1
+WANDOMI	kms	we	N e b e g i	N E P E K I	N V P V K V	1
+KENYARI	kms	we	b e w i	P E W I	P V W V	1
+SAMAP	ele	we	N a n u N g u	N A N Y N K Y	N V N V N K V	2
+TRING	kms	name	5 a m b	N A M P	N V M P	1
+WAU	kms	name	5 a m b	N A M P	N V M P	1
+KAMASAU	kms	name	5 a m b	N A M P	N V M P	1
+YIBAB	kms	name	5 a m b u	N A M P Y	N V M P V	1
+WANDOMI	kms	name	5 a m b	N A M P	N V M P	1
+KENYARI	kms	name	5 a m b	N A M P	N V M P	1
+SAMAP	ele	name	5 a m b	N A M P	N V M P	1
+TRING	kms	ear	a N g e	A N K E	V N K V	1
+WAU	kms	ear	a N g a	A N K A	V N K V	1
+KAMASAU	kms	ear	a N g e	A N K E	V N K V	1
+YIBAB	kms	ear	m a N g e	M A N K E	M V N K V	1
+WANDOMI	kms	ear	m a N g e	M A N K E	M V N K V	1
+KENYARI	kms	ear	a N g e	A N K E	V N K V	1
+PARUWA	kms	ear	a N g o	A N K U	V N K V	1
+SAMAP	ele	ear	m a 7 a N k	M A H A N K	M V H V N K	1
+TRING	kms	eye	r a r	R A R	R V R	1
+WAU	kms	eye	r a r	R A R	R V R	1
+KAMASAU	kms	eye	r a r	R A R	R V R	1
+YIBAB	kms	eye	r a r	R A R	R V R	1
+WANDOMI	kms	eye	r a r	R A R	R V R	1
+KENYARI	kms	eye	r a 7	R A H	R V H	1
+PARUWA	kms	eye	r a 7	R A H	R V H	1
+SAMAP	ele	eye	r a r	R A R	R V R	1
+TRING	kms	nose	k 3 m e	K O M E	K V M V	1
+WAU	kms	nose	k 3 m e	K O M E	K V M V	1
+KAMASAU	kms	nose	k 3 m e	K O M E	K V M V	1
+YIBAB	kms	nose	k 3 m e	K O M E	K V M V	1
+WANDOMI	kms	nose	k 3 m e	K O M E	K V M V	1
+KENYARI	kms	nose	k 3 m e	K O M E	K V M V	1
+PARUWA	kms	nose	k 3 m o	K O M U	K V M V	1
+SAMAP	ele	nose	k 3 m e	K O M E	K V M V	1
+TRING	kms	tooth	s a w o	S A W U	S V W V	1
+WAU	kms	tooth	s a w o	S A W U	S V W V	1
+KAMASAU	kms	tooth	s a w o	S A W U	S V W V	1
+YIBAB	kms	tooth	t a w o	T A W U	T V W V	1
+WANDOMI	kms	tooth	t a w o	T A W U	T V W V	1
+KENYARI	kms	tooth	h a w o	H A W U	H V W V	1
+PARUWA	kms	tooth	h a w o	H A W U	H V W V	1
+SAMAP	ele	tooth	t a w o	T A W U	T V W V	1
+TRING	kms	tongue	m i n j u	M I N C Y	M V N K V	1
+WAU	kms	tongue	m i n j u	M I N C Y	M V N K V	1
+KAMASAU	kms	tongue	m i n j u	M I N C Y	M V N K V	1
+YIBAB	kms	tongue	m i n j u	M I N C Y	M V N K V	1
+WANDOMI	kms	tongue	m i n j u	M I N C Y	M V N K V	1
+KENYARI	kms	tongue	N a r i	N A R I	N V R V	2
+PARUWA	kms	tongue	N a r i	N A R I	N V R V	2
+SAMAP	ele	tongue	m i n j u	M I N C Y	M V N K V	1
+TRING	kms	hand	s u r a m	S Y R A M	S V R V M	1
+WAU	kms	hand	t i m i	T I M I	T V M V	2
+KAMASAU	kms	hand	s u r a m	S Y R A M	S V R V M	1
+YIBAB	kms	hand	t u r a m	T Y R A M	T V R V M	1
+WANDOMI	kms	hand	t u r a m	T Y R A M	T V R V M	1
+KENYARI	kms	hand	h u r a m	H Y R A M	H V R V M	1
+PARUWA	kms	hand	h i N a p 3	H I N A P O	H V N V P V	3
+SAMAP	ele	hand	t u r a m b i	T Y R A M P I	T V R V M P V	1
+TRING	kms	breast	m i 5	M I N	M V N	1
+WAU	kms	breast	m i 5	M I N	M V N	1
+KAMASAU	kms	breast	m i 5	M I N	M V N	1
+YIBAB	kms	breast	m i 5	M I N	M V N	1
+WANDOMI	kms	breast	m i 5	M I N	M V N	1
+KENYARI	kms	breast	m i 5	M I N	M V N	1
+PARUWA	kms	breast	m 3 5	M O N	M V N	1
+SAMAP	ele	breast	m i 5	M I N	M V N	1
+TRING	kms	drink	n e	N E	N V	1
+WAU	kms	drink	n a	N A	N V	1
+KAMASAU	kms	drink	n e	N E	N V	1
+YIBAB	kms	drink	n a	N A	N V	1
+WANDOMI	kms	drink	n a	N A	N V	1
+KENYARI	kms	drink	n e	N E	N V	1
+SAMAP	ele	drink	d a	T A	T V	1
+TRING	kms	you	n u	N Y	N V	1
+WAU	kms	you	n u	N Y	N V	1
+KAMASAU	kms	you	n u	N Y	N V	1
+YIBAB	kms	you	n u	N Y	N V	1
+WANDOMI	kms	you	n u	N Y	N V	1
+KENYARI	kms	you	n u	N Y	N V	1
+SAMAP	ele	you	n i n d e	N I N T E	N V N T V	2
+TRING	kms	see	n u 7 o n d	N Y H U N T	N V H V N T	1
+WAU	kms	see	n u 7 o n j	N Y H U N C	N V H V N K	1
+KAMASAU	kms	see	n u 7 o n d	N Y H U N T	N V H V N T	1
+YIBAB	kms	see	n u 7 o n j	N Y H U N C	N V H V N K	1
+WANDOMI	kms	see	n u w o n j	N Y W U N C	N V W V N K	1
+KENYARI	kms	see	n u 7 o n d	N Y H U N T	N V H V N T	1
+PARUWA	kms	see	n oa n d	N U N T	N V N T	1
+SAMAP	ele	see	n u 7 o n j	N Y H U N C	N V H V N K	1
+TRING	kms	hear	w u t u N u	W Y T Y N Y	W V T V N V	1
+WAU	kms	hear	w u t u N u	W Y T Y N Y	W V T V N V	1
+KAMASAU	kms	hear	w u t u N u	W Y T Y N Y	W V T V N V	1
+YIBAB	kms	hear	w u t u N u	W Y T Y N Y	W V T V N V	1
+WANDOMI	kms	hear	w u t u N u	W Y T Y N Y	W V T V N V	1
+KENYARI	kms	hear	w u h u N u	W Y H Y N Y	W V H V N V	1
+SAMAP	ele	hear	w u t u 7	W Y T Y H	W V T V H	1
+TRING	kms	bone	N a p e	N A P E	N V P V	1
+WAU	kms	bone	N a p e	N A P E	N V P V	1
+KAMASAU	kms	bone	N a p e	N A P E	N V P V	1
+YIBAB	kms	bone	N a p e	N A P E	N V P V	1
+WANDOMI	kms	bone	d ia g e	T I K E	T V K V	2
+KENYARI	kms	bone	N a p e	N A P E	N V P V	1
+PARUWA	kms	bone	N a p e	N A P E	N V P V	1
+TRING	kms	die	n a t i	N A T I	N V T V	1
+WAU	kms	die	n a t i	N A T I	N V T V	1
+KAMASAU	kms	die	n a t i	N A T I	N V T V	1
+YIBAB	kms	die	n a t i	N A T I	N V T V	1
+WANDOMI	kms	die	n a t i	N A T I	N V T V	1
+KENYARI	kms	die	n a h i	N A H I	N V H V	1
+SAMAP	ele	die	gureN nand	K N	K N	2
+TRING	kms	road (path)	N 3 m	N O M	N V M	1
+WAU	kms	road (path)	N 3 m	N O M	N V M	1
+KAMASAU	kms	road (path)	N 3 m	N O M	N V M	1
+YIBAB	kms	road (path)	m a 5 e	M A N E	M V N V	2
+WANDOMI	kms	road (path)	m a 5 e	M A N E	M V N V	2
+KENYARI	kms	road (path)	m a 5 e r i N k	M A N E R I N K	M V N V R V N K	2
+PARUWA	kms	road (path)	m y e r i N k	M J E R I N K	M J V R V N K	2
+SAMAP	ele	road (path)	N 3 m	N O M	N V M	1
