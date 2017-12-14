@@ -24,6 +24,7 @@ random.seed(1234)
 #Fix IPA, Add CRP
 
 tolerance = 0.001
+init_const = 0.001
 
 parser = argparse.ArgumentParser()
 parser.add_argument("-mi","--max_iter", type= int, help="maximum number of iterations", default=20)
@@ -270,12 +271,12 @@ def calc_pmi(alignment_dict, char_list, scores, initialize=False):
         for c1, c2 in it.product(char_list, repeat=2):
             if c1 == "-" or c2 == "-":
                 continue
-            count_dict[c1,c2] += 0.001
-            count_dict[c2,c1] += 0.001
-            sound_dict[c1] += 0.001
-            sound_dict[c2] += 0.001
-            relative_align_freq += 0.001
-            relative_sound_freq += 0.002
+            count_dict[c1,c2] += init_const
+            count_dict[c2,c1] += init_const
+            sound_dict[c1] += init_const
+            sound_dict[c2] += init_const
+            relative_align_freq += init_const
+            relative_sound_freq += 2.0*init_const
 
     for alignment, score in zip(alignment_dict, scores):
         #score = 1.0
@@ -291,7 +292,7 @@ def calc_pmi(alignment_dict, char_list, scores, initialize=False):
 
     relative_align_freq = sum(list(count_dict.values()))
     relative_sound_freq = sum(list(sound_dict.values()))
-    
+    #print(count_dict, sound_dict)
     for a in count_dict.keys():
         m = count_dict[a]
         if m <=0: print(a, m)
