@@ -27,7 +27,7 @@ tolerance = 0.001
 init_const = 0.001
 
 parser = argparse.ArgumentParser()
-parser.add_argument("-mi","--max_iter", type= int, help="maximum number of iterations", default=20)
+parser.add_argument("-mi","--max_iter", type= int, help="maximum number of iterations", default=10)
 parser.add_argument("-t", "--thd", type= float, help="A number between 0 and 1 for clustering", default=0.5)
 parser.add_argument("-m","--mb", type= int, help="Minibatch size", default=256)
 parser.add_argument("-a","--alpha", type= float, help="alpha", default=0.75)
@@ -47,6 +47,7 @@ parser.add_argument("-I","--issim", help="select LDN or NW", type=str, default="
 parser.add_argument("-N","--nexus", help="generate a nexus file", action='store_true')
 parser.add_argument("-R","--reverse", help="read string reverse", action='store_true')
 parser.add_argument("-p","--prune", help="prune word list", action='store_true')
+parser.add_argument("-O","--optimize", help="Optimize gap opening and gap extension penalties", action='store_true')
 
 
 args = parser.parse_args()
@@ -118,7 +119,6 @@ def read_data_ielex_type(fname):
     return (data_dict, cogid_dict, words_dict, langs_list, concepts_list)
 
 def optimize_gop_gep(pmi_dict, words_dict, langs_list, concepts_list):
-
     sum_lang_sim = 0.0
     gop_gep_dict = defaultdict(float)
     
@@ -144,6 +144,39 @@ def optimize_gop_gep(pmi_dict, words_dict, langs_list, concepts_list):
             gop_gep_dict[gop,gep] = sum_lang_sim
             print(gop, gep, sum_lang_sim)
     return max(gop_gep_dict, key=lambda key: gop_gep_dict[key])
+
+
+
+def scipy_optimize_gop_gep(pmi_dict, words_dict, langs_list, concepts_list, gop, gep):
+    from scipy.optimize import minimize
+
+    def lang_dist_func(GP):
+        sum_lang_sim = 0.0
+
+        for l1, l2 in it.combinations(langs_list, r=2):
+            num, denom = 0.0, 0.0
+            #print(l1, l2)
+            for concept1, concept2 in it.product(concepts_list, concepts_list):
+                if concept1 not in words_dict[l1] or concept2 not in words_dict[l2]:
+                    continue
+                else:
+                    if concept1 == concept2:
+                        for w1, w2 in it.product(words_dict[l1][concept1], words_dict[l2][concept2]):
+                            #num += distances.sigmoid(distances.needleman_wunsch(w1, w2, scores=pmi_dict, gop=GP[0], gep=GP[1])[0])
+                            num += max(distances.needleman_wunsch(w1, w2, scores=pmi_dict, gop=GP[0], gep=GP[1])[0],0)
+                            #num += distances.needleman_wunsch(w1, w2, scores=pmi_dict, gop=GP[0], gep=GP[1])[0]
+                    elif concept1 != concept2:
+                        for w1, w2 in it.product(words_dict[l1][concept1], words_dict[l2][concept2]):
+                            #denom += distances.sigmoid(distances.needleman_wunsch(w1, w2, scores=pmi_dict, gop=GP[0], gep=GP[1])[0])
+                            denom += max(distances.needleman_wunsch(w1, w2, scores=pmi_dict, gop=GP[0], gep=GP[1])[0],0)
+                            #denom += distances.needleman_wunsch(w1, w2, scores=pmi_dict, gop=GP[0], gep=GP[1])[0]
+            sum_lang_sim += denom - num
+        return sum_lang_sim
+    GP = np.array([gop, gep])
+    res = minimize(lang_dist_func, GP, method='powell',tol=1e-1, options={'disp': True})
+
+    return res.x
+
 
 def igraph_clustering(matrix, threshold, method='labelprop'):
     """
@@ -211,7 +244,7 @@ def infomap_concept_evaluate_scores(d, lodict, gop, gep, lang_list):
         ldn_dist_dict = defaultdict(lambda: defaultdict(float))
         langs = list(d[concept].keys())
         if len(langs) == 1:
-            print(concept)
+            print(concept, " removed since it has only language to cluster")
             continue
         scores, cognates = [], []
 
@@ -248,7 +281,7 @@ def infomap_concept_evaluate_scores(d, lodict, gop, gep, lang_list):
                 predl.append(predicted_labels[l])
                 
             scores = DM.b_cubed(truel, predl)
-            print(concept, len(langs), scores[0], scores[1], scores[2], len(set(clust.values())), len(set(truel)), sep="\t")
+            #print(concept, len(langs), scores[0], scores[1], scores[2], len(set(clust.values())), len(set(truel)), sep="\t")
             f_scores.append(list(scores))
         n_clusters += len(set(clust.values()))
         if args.nexus:
@@ -257,7 +290,7 @@ def infomap_concept_evaluate_scores(d, lodict, gop, gep, lang_list):
 
     if args.eval:
         f_scores = np.mean(np.array(f_scores), axis=0)
-        print(f_scores[0], f_scores[1], 2.0*f_scores[0]*f_scores[1]/(f_scores[0]+f_scores[1]))
+        print("Fscores",f_scores[0], f_scores[1], 2.0*f_scores[0]*f_scores[1]/(f_scores[0]+f_scores[1]), sep="\t")
     f_preds.close()
     return bin_mat
 
@@ -305,6 +338,7 @@ def calc_pmi(alignment_dict, char_list, scores, initialize=False):
         #count_dict[a] = val/(-1.0*num)
     return count_dict
 
+  
 
 data_dict, cogid_dict, words_dict, langs_list, concepts_list = read_data_ielex_type(dataname)
 print("Character list \n\n", " ".join(char_list))
@@ -335,9 +369,8 @@ else:
 
 #word_list = [line.strip().split()[0:2] for line in open(fname).readlines()]
 #char_list = [line.strip() for line in open("sounds41.txt").readlines()]
+#infomap_concept_evaluate_scores(data_dict, {}, GOP, GEP, langs_list)
 
-
-pmidict = None
 n_examples, n_updates = len(word_list), 0
 n_wl = len(word_list)
 print("Size of initial list ", n_wl)
@@ -345,7 +378,7 @@ print("Size of initial list ", n_wl)
 pmidict = defaultdict(float)
 net_sim = [0.0]*MAX_ITER
 
-for n_iter in range(MAX_ITER):
+for n_iter in range(1,MAX_ITER+1):
     random.shuffle(word_list)
     pruned_wl = []
     n_zero = 0.0
@@ -365,7 +398,7 @@ for n_iter in range(MAX_ITER):
                 n_zero += 1.0
                 if args.prune:
                     continue
-            net_sim[n_iter] += max(0,s)
+            net_sim[n_iter-1] += max(0,s)
             #s = s/max(len(w1), len(w2))
             algn_list.append(alg)
             scores.append(distances.sigmoid(s))
@@ -381,9 +414,13 @@ for n_iter in range(MAX_ITER):
     print("Size of word list ", n_wl)
     print("Non zero examples ", n_wl-n_zero)
     print("Number of updates ", n_updates)
-    print("Net similarity ", net_sim[n_iter]/n_wl)
+    print("Net similarity ", net_sim[n_iter-1])
     
+    infomap_concept_evaluate_scores(data_dict, pmidict, GOP, GEP, langs_list)
     #GOP, GEP = optimize_gop_gep(pmidict, words_dict, langs_list, concepts_list)
+    if n_iter%10 == 0 and args.optimize:
+        GOP, GEP = scipy_optimize_gop_gep(pmidict, words_dict, langs_list, concepts_list, GOP, GEP)
+        print("Optimized parameters ", GOP, GEP)
     #bin_mat = infomap_concept_evaluate_scores(data_dict, pmidict, GOP, GEP, langs_list)
     if args.prune:
         word_list = pruned_wl[:]
