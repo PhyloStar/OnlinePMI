@@ -1,0 +1,8 @@
+# use this for own files
+/meta/*
+
+# python compiled files
+*.py[cod]
+
+# vim swap files
+*.swp

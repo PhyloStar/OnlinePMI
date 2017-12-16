@@ -85,7 +85,7 @@ def get_lang_distance(words_dict, pmidict, langs_list):
 
             for x, y in it.product(w1, w2):
                 if pmidict is not None:
-                    score = distances.sigmoid(distances.nw(x, y, lodict=pmidict, gp1=-2.5, gp2=-1.75)[0])
+                    score = distances.sigmoid(distances.needleman_wunsch(x, y, scores=pmidict, gop=-2.5, gep=-1.75)[0])
                     #if x==y: print(l1, l2, x, y, score)
                     #print(x, y, score)
                     #score = max(0,distances.nw(x, y, lodict=pmidict, gp1=-2.5, gp2=-1.75)[0])
@@ -181,7 +181,7 @@ def infomap_concept_evaluate_scores(d, lodict, langDistance, langs_dict, gop, ge
 
             w1, w2 = d[concept][l1], d[concept][l2]
             lang1, lang2 = l1[1], l2[1]
-            raw_score = distances.nw(w1, w2, lodict=lodict, gp1=gop, gp2=gep)[0]
+            raw_score = distances.needleman_wunsch(w1, w2, scores=lodict, gop=gop, gep=gep)[0]
             score = 1.0 - (1.0/(1.0+np.exp(-raw_score)))
             score = 1.0/(1.0+np.exp(-raw_score))
             score = (score*(1.0-lang_weight))+(langDistance[lang1,lang2]*lang_weight)
@@ -302,21 +302,23 @@ for n_iter in range(MAX_ITER):
         algn_list, scores = [], []
         for w1, w2 in wl:
             #print(w1,w2,sc)
-            #l1, l2 = w1[1], w2[1]
+            l1, l2 = w1[1], w2[1]
             if not pmidict:
-                word_sim, alg = distances.nw(w1, w2, lodict=None, gp1=-2.5, gp2=-1.75)
+                word_sim, alg = distances.needleman_wunsch(w1, w2, scores={}, gop =-2.5, gep=-1.75)
             else:
-                word_sim, alg = distances.nw(w1, w2, lodict=pmidict, gp1=-2.5, gp2=-1.75)
+                word_sim, alg = distances.needleman_wunsch(w1, w2, scores=pmidict, gop=-2.5, gep=-1.75)
             #print(w1, w2, s)
             #combined_s = distances.sigmoid(s)*langDistance[l1,l2]
-            #combined_s = (distances.sigmoid(word_sim)*(1.0-lang_weight))+((langDistance[l1,l2])*lang_weight)
+            combined_s = (distances.sigmoid(word_sim)*(1.0-lang_weight))+((langDistance[l1,l2])*lang_weight)
 
             if word_sim <= margin:
                 n_zero += 1.0
-                continue
+                #continue
             #s = s/max(len(w1), len(w2))
             algn_list.append(alg)
-            scores.append(distances.sigmoid(word_sim))
+            #scores.append(distances.sigmoid(word_sim))
+            scores.append(distances.sigmoid(combined_s))
+
             #pruned_wl.append([w1[::-1], w2[::-1], s])	  
             pruned_wl.append([w1, w2])	  
         mb_pmi_dict = calc_pmi(algn_list, char_list, scores, initialize=True)

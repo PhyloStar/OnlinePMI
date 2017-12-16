@@ -200,6 +200,7 @@ def b_cubed(true_labels, labels):
         prec_denom = 0.0
         recall_denom = 0.0
         for j, m in enumerate(labels):
+
             if l == m:
                 prec_denom += 1.0
                 if true_labels[i] == true_labels[j]:
