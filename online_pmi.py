@@ -47,6 +47,7 @@ parser.add_argument("-I","--issim", help="select LDN or NW", type=str, default="
 parser.add_argument("-N","--nexus", help="generate a nexus file", action='store_true')
 parser.add_argument("-R","--reverse", help="read string reverse", action='store_true')
 parser.add_argument("-p","--prune", help="prune word list", action='store_true')
+parser.add_argument("--sample", help="sample crp alpha", action='store_true')
 parser.add_argument("-O","--optimize", help="Optimize gap opening and gap extension penalties", action='store_true')
 
 
@@ -263,7 +264,7 @@ def infomap_concept_evaluate_scores(d, lodict, gop, gep, lang_list):
         distMat = np.array([[ldn_dist_dict[ka][kb] for kb in langs] for ka in langs])
         
         if args.clust_algo == "crp":
-            clust = CRP.gibbsCRP(distMat, crp_alpha=args.calpha)            
+            clust = CRP.gibbsCRP(distMat, crp_alpha=args.calpha, sample=False)            
         else:
             clust = igraph_clustering(distMat, infomap_threshold, method=args.clust_algo)
 

@@ -1,18 +1,25 @@
 import itertools as it
 import numpy as np
 from collections import defaultdict
+import random
+np.random.seed(1234)
+random.seed(1234)
 
-def gibbsCRP(pair_dist, crp_alpha=0.01, max_iter=5):
+scaler_alpha = 1.0
+exp_lambda = 1.0
+
+
+def gibbsCRP(pair_dist, crp_alpha=0.01, max_iter=5, sample=False):
     """A gibbs sampling based CRP. Does nothing much but moves the items around.
     """
 
     n_items = pair_dist.shape[0]
     assert n_items > 0
-    
+    if sample: max_iter=10
     #Initialize cluster list
     cluster_idx = [[x] for x in range(n_items)]
     n_iter = 1
-    clusters_vec, cluster_idxs = [], []
+    clusters_vec, cluster_idxs, alpha_vec = [], [], [crp_alpha]
     cluster_idxs.append([x for x in cluster_idx])
     
     ##For the first iteration. Initialize things.
@@ -34,7 +41,7 @@ def gibbsCRP(pair_dist, crp_alpha=0.01, max_iter=5):
     n_gibbs_step = 0.0
     ari, f_score = 0.0, 0.0
     #print("\tMEANING ", gloss)
-    while (n_iter <= max_iter):
+    for n_iter in range(1, max_iter+1):
         #random.shuffle(items_list)
         #print("\tIteration ", n_iter)
         for item in range(n_items):#Find the maximum similar cluster
@@ -70,28 +77,15 @@ def gibbsCRP(pair_dist, crp_alpha=0.01, max_iter=5):
                 cluster_idx[insert_index-1].append(item)
             #print("\t", n_gibbs_step, item, insert_index, cluster_idx[insert_index-1], "\n")
             previous_cluster_idx = [x for x in cluster_idx if x != []]#remove empty clusters
-            
-            #predicted_labels, gold_labels = [], []
-            #cluster_idxs.append(previous_cluster_idx)
-            
-            #for k_idx, k in enumerate(previous_cluster_idx):
-            #    for k_item in k:
-            #        predicted_labels.append(int(k_idx))
-            #        gold_labels.append(gold_dict[int(k_item.split("::")[1])])
-            #p, r, f_score = b_cubed(gold_labels,predicted_labels)
-            #bcubed_prec.append(float(p))
-            #bcubed_recall.append(float(r))
-            #bcubed_fscore.append(float(f_score))
-            #ari = metrics.adjusted_rand_score(gold_labels, predicted_labels)
-            #ari_vec.append(ari)
-            
-        #print cluster_sum_vec, len(cluster_sum_vec)
-        #n_clusters = len(previous_cluster_idx)
-        #f.write("\t"+str(n_gibbs_step)+"\t"+str(n)+"\t"+ str(n_clusters)+ "\t"+ str(f_score)+"\t"+str(ari)+"\n")
-        #for clu in previous_cluster_idx:
-        #    print("\t",clu)
-        #print previous_cluster_idx, len(previous_cluster_idx)
-        n_iter += 1
+
+        n_single_clusters = 0
+        for i, clu in enumerate(previous_cluster_idx):
+            if len(clu) == 1:
+                n_single_clusters += 1
+        if sample:
+            crp_alpha = sample_alpha(n_single_clusters, n_clusters, crp_alpha)
+            alpha_vec.append(crp_alpha)
+
 
     #f.write("\tScores"+ "\t"+ gloss+ "\t"+ str(bcubed_fscore[-1]) + "\t"+ str(ari_vec[-1])+ "\t"+ str(len(previous_cluster_idx))+ "\t"+ str(len(set(gold_labels)))+"\n")
     #print(previous_cluster_idx)
@@ -100,5 +94,19 @@ def gibbsCRP(pair_dist, crp_alpha=0.01, max_iter=5):
         for idx in cluster:
             clust[idx] = cluster_idx
     return clust
+
+def sample_alpha(n_clusts, n_clusters, alpha):
+    alpha_new = random.expovariate(exp_lambda)
+    mh_ratio = 0.0
+    ll_ratio, pr_ratio, hastings_ratio = 0.0, 0.0, 0.0
+    ll_ratio = alpha_new/alpha
+    pr_ratio = np.exp(-exp_lambda*(alpha_new-alpha))
+    hastings_ratio = np.exp(scaler_alpha*(random.uniform(0,1)-0.5))
+    mh_ratio = ll_ratio * pr_ratio * hastings_ratio
+    if mh_ratio >= random.random():
+        return alpha_new
+    else:
+        return alpha
+
 
 
