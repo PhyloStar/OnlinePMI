@@ -58,6 +58,8 @@ MAX_ITER, infomap_threshold, min_batch, margin, GOP, GEP, alpha = args.max_iter,
 dataname = args.infile
 outname = args.outfile
 
+
+
 char_list = []
 
 def read_data_ielex_type(fname):
@@ -68,15 +70,21 @@ def read_data_ielex_type(fname):
     langs_list = []
     concepts_list = []
     f = open(fname)
-    header = f.readline().strip("\n").split("\t")
+    header = f.readline().strip("\n").lower().split("\t")
     if args.eval:
         cogid_idx = header.index("cognate_class")
     word_idx = header.index(args.in_alphabet)
-    #print(word_idx)
+    if "doculect" in header:
+        lang_idx = header.index("doculect")
+    elif "language" in header:
+        lang_idx = header.index("doculect")        
+    iso_idx = header.index("iso_code")
+    gloss_idx = header.index("concept")
+    print("Reading asjp alphabet in ", word_idx)
     for line in f:
         line = line.strip()
         arr = line.split("\t")
-        lang, iso, concept = arr[0], arr[1], arr[2]
+        lang, iso, concept = arr[lang_idx], arr[iso_idx], arr[gloss_idx]
         
         if len(arr) < 4:
             #print(line)
@@ -342,6 +350,7 @@ def calc_pmi(alignment_dict, char_list, scores, initialize=False):
   
 
 data_dict, cogid_dict, words_dict, langs_list, concepts_list = read_data_ielex_type(dataname)
+print("Processing ", dataname)
 print("Character list \n\n", " ".join(char_list))
 print("Length of character list ", len(char_list))
 
