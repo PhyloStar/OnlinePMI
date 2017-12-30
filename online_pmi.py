@@ -72,13 +72,16 @@ def read_data_ielex_type(fname):
     f = open(fname)
     header = f.readline().strip("\n").lower().split("\t")
     if args.eval:
-        cogid_idx = header.index("cognate_class")
+        cogid_idx = header.index("cogid")
     word_idx = header.index(args.in_alphabet)
     if "doculect" in header:
         lang_idx = header.index("doculect")
     elif "language" in header:
-        lang_idx = header.index("doculect")        
-    iso_idx = header.index("iso_code")
+        lang_idx = header.index("doculect")
+    if "glottocode" in header:
+        iso_idx = header.index("glottocode")
+    else:
+        iso_idx = header.index("iso_code")
     gloss_idx = header.index("concept")
     print("Reading asjp alphabet in ", word_idx)
     for line in f:
