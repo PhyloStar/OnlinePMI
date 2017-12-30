@@ -77,7 +77,7 @@ def read_data_ielex_type(fname):
     if "doculect" in header:
         lang_idx = header.index("doculect")
     elif "language" in header:
-        lang_idx = header.index("doculect")
+        lang_idx = header.index("language")
     if "glottocode" in header:
         iso_idx = header.index("glottocode")
     else:
@@ -429,7 +429,7 @@ for n_iter in range(1,MAX_ITER+1):
     print("Number of updates ", n_updates)
     print("Net similarity ", net_sim[n_iter-1])
     
-    infomap_concept_evaluate_scores(data_dict, pmidict, GOP, GEP, langs_list)
+    #infomap_concept_evaluate_scores(data_dict, pmidict, GOP, GEP, langs_list)
     #GOP, GEP = optimize_gop_gep(pmidict, words_dict, langs_list, concepts_list)
     if n_iter%10 == 0 and args.optimize:
         GOP, GEP = scipy_optimize_gop_gep(pmidict, words_dict, langs_list, concepts_list, GOP, GEP)
