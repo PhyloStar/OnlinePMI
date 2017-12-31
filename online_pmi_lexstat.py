@@ -18,7 +18,7 @@ random.seed(1234)
 tolerance = 0.001
 
 calpha = 0.01
-pmi_weight, lexstat_weight = 2.0, 1.0
+pmi_weight, lexstat_weight = 1.0, 1.0
 
 char_list = []
 
@@ -113,7 +113,7 @@ data_dict, cogid_dict, words_dict, langs_list, concepts_list, char_list = utils.
 print("Processing ", dataname)
 #print("Character list \n\n", char_list)
 #print("Length of character list ", len(char_list))
-print("Language list ", langs_list)
+#print("Language list ", langs_list)
 word_list = []
 
 #print(sys.argv)
@@ -126,6 +126,7 @@ denom_scores = defaultdict(lambda: defaultdict(float))
 
 cache_scores = defaultdict()
 
+print("Calculating numerator scores")
 for l1, l2 in it.combinations_with_replacement(langs_list, r=2):# can optimize by operating on a set of words
     #print(l1, l2)
     for concept in concepts_list:
@@ -133,12 +134,13 @@ for l1, l2 in it.combinations_with_replacement(langs_list, r=2):# can optimize b
             continue
         else:
             for w1, w2 in it.product(words_dict[l1][concept], words_dict[l2][concept]):
-                if (w1,w2) in cache_scores:
-                    algn = cache_scores[w1,w2]
-                else:
-                    algn = distances.needleman_wunsch(w1, w2, scores={}, gop=GOP, gep=GEP)[1]
-                    cache_scores[w1,w2] = algn                            
-                    cache_scores[w2,w1] = algn
+                algn = distances.needleman_wunsch(w1, w2, scores={}, gop=GOP, gep=GEP)[1]
+                #if (w1,w2) in cache_scores:
+                #    algn = cache_scores[w1,w2]
+                #else:
+                #    algn = distances.needleman_wunsch(w1, w2, scores={}, gop=GOP, gep=GEP)[1]
+                #    cache_scores[w1,w2] = algn                            
+                #    cache_scores[w2,w1] = algn
                 for x, y in algn:
                     if x == "-" or y == "-":
                         continue
@@ -146,9 +148,10 @@ for l1, l2 in it.combinations_with_replacement(langs_list, r=2):# can optimize b
                         lexstat_scores[l1,l2][x,y] += 1.0
                         lexstat_scores[l1,l2][y,x] += 1.0
 
-
+print("Calculating denominator scores")
 for l1, l2 in it.combinations_with_replacement(langs_list, r=2):
     shuffle_list = concepts_list[:]
+    cache_scores = defaultdict()
     #print(l1, l2)
     for i in range(100):
         #print("Iteration ",i)
@@ -180,7 +183,7 @@ for l1, l2 in it.combinations_with_replacement(langs_list, r=2):
         lang_score = 0.0
         if (x,y) in lexstat_scores[l1,l2] and (x,y) in denom_scores:
             lang_score = np.log(lexstat_scores[l1,l2][x,y])-np.log(denom_scores[l1,l2][x,y])
-        lexstat_scores[l1,l2][x,y] = (2.0*(1.0-pmi_weight)*lang_score)+ (pmi_weight*pmidict[x,y])
+        lexstat_scores[l1,l2][x,y] = ((1.0-pmi_weight)*lang_score)+ (pmi_weight*pmidict[x,y])
         lexstat_scores[l2,l1][x,y] = lexstat_scores[l1,l2][x,y]
 
 #print("\nPMI scores\n")

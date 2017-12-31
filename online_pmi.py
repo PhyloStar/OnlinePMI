@@ -170,6 +170,7 @@ print("Processing ", dataname)
 print("Character list \n\n", " ".join(char_list))
 print("Length of character list ", len(char_list))
 print("Language list ", langs_list,sep="\n")
+print("Concepts list ", concepts_list,sep="\n")
 
 word_list = []
 
@@ -179,7 +180,7 @@ if args.wlfile is not None:
         word_list += [[x,y]]
 else:
     for concept in data_dict:
-        print(concept)
+        #print(concept)
         words = []
         for idx in data_dict[concept]:
             words.append(data_dict[concept][idx])
