@@ -111,90 +111,127 @@ def lexstat_concept_evaluate_scores(d, lodict, gop, gep, tune_threshold=0.5):
     print("F-scores ", tune_threshold, np.round(f_scores[0],3), np.round(f_scores[1],3), np.round(2.0*f_scores[0]*f_scores[1]/(f_scores[0]+f_scores[1]),3),sep="\t")
     return bin_mat
 
+def calc_pmi(alignment_dict, char_list, scores, initialize=False, init_const = 0.001):
+    sound_dict = defaultdict(float)
+    relative_align_freq = 0.0
+    relative_sound_freq = 0.0
+    count_dict = defaultdict(float)
+    
+    if initialize == True:
+        for c1, c2 in it.product(char_list, repeat=2):
+            if c1 == "-" or c2 == "-":
+                continue
+            count_dict[c1,c2] += init_const
+            count_dict[c2,c1] += init_const
+            sound_dict[c1] += init_const
+            sound_dict[c2] += init_const
+            relative_align_freq += init_const
+            relative_sound_freq += 2.0*init_const
+
+    for alignment, score in zip(alignment_dict, scores):
+        #score = 1.0
+        for a1, a2 in alignment:
+            if a1 == "-" or a2 == "-":
+                continue
+            count_dict[a1,a2] += 1.0*score
+            count_dict[a2,a1] += 1.0*score
+            sound_dict[a1] += 2.0*score
+            sound_dict[a2] += 2.0*score
+            #relative_align_freq += 2.0
+            #relative_sound_freq += 2.0
+
+    relative_align_freq = sum(list(count_dict.values()))
+    relative_sound_freq = sum(list(sound_dict.values()))
+    #print(count_dict, sound_dict)
+    for a in count_dict.keys():
+        m = count_dict[a]
+        if m <=0: print(a, m)
+        assert m>0
+
+        num = np.log(m)-np.log(relative_align_freq)
+        denom = np.log(sound_dict[a[0]])+np.log(sound_dict[a[1]])-(2.0*np.log(relative_sound_freq))
+        val = num - denom
+        count_dict[a] = val
+        #count_dict[a] = val/(-1.0*num)
+    return count_dict
+
+def compute_pmi_dict(WL):
+    pmidict = defaultdict(float)
+    net_sim = [0.0]*MAX_ITER
+    n_updates = 0.0
+    n_wl = len(WL)
+    for n_iter in range(0, 3):
+        random.shuffle(WL)
+        pruned_wl = []
+        n_zero = 0.0
+        #print("Iteration ", n_iter)
+        for idx in range(0, n_wl, args.mb):
+            wl = WL[idx:idx+min_batch]
+            eta = np.power(n_updates+2, -alpha)
+            algn_list, scores = [], []
+
+            for w1, w2 in wl:
+                #print(w1,w2,sc)
+                if not pmidict:
+                    s, alg = distances.needleman_wunsch(w1, w2, scores={}, gop=GOP, gep=GEP)
+                else:
+                    s, alg = distances.needleman_wunsch(w1, w2, scores=pmidict, gop=GOP, gep=GEP)
+                if s <= margin:
+                    n_zero += 1.0
+                    if args.prune:
+                        continue
+                net_sim[n_iter-1] += max(0,s)
+
+                algn_list.append(alg)
+                scores.append(distances.sigmoid(s))
+
+            mb_pmi_dict = calc_pmi(algn_list, char_list, scores, initialize=True)
+            for k, v in mb_pmi_dict.items():
+                pmidict_val = pmidict[k]
+                pmidict[k] = (eta*v) + ((1.0-eta)*pmidict_val)
+            n_updates += 1
+    #print(" ", n_wl)
+    #print(" ", )
+    print("Number of updates {0}, Non zero examples {1}, Size of word list {2}, Net similarity {3} ".format(n_updates, n_wl-n_zero, n_wl, net_sim[n_iter-1]))
+    #print(" ", )
+    return pmidict
+    
+
 
 data_dict, cogid_dict, words_dict, langs_list, concepts_list, char_list = utils.read_data_ielex_type(dataname, reverse=args.reverse, in_alphabet=args.in_alphabet)
 print("Processing ", dataname)
-#print("Character list \n\n", char_list)
-#print("Length of character list ", len(char_list))
-#print("Language list ", langs_list)
+
 word_list = []
 
-#print(sys.argv)
 subprocess.run(["python3", "online_pmi.py"]+sys.argv[1:])
 
 pmidict = utils.read_pmidict(args.outfile+".pmi")
 
-lexstat_scores = defaultdict(lambda: defaultdict(float))
-denom_scores = defaultdict(lambda: defaultdict(float))
+discount_pmi_scores = defaultdict(lambda: defaultdict(float))
 
-cache_scores = defaultdict()
+discnt_wt = 0.5
 
-print("Calculating numerator scores")
-for l1, l2 in it.combinations_with_replacement(langs_list, r=2):# can optimize by operating on a set of words
-    #print(l1, l2)
-    for concept in concepts_list:
-        if concept not in words_dict[l1] or concept not in words_dict[l2]:
-            continue
+print("Calculating discount scores")
+for l1, l2 in it.combinations_with_replacement(langs_list, r=2):
+    print(l1, l2)
+    wl = []
+    for c1, c2 in it.product(concepts_list, concepts_list):
+        if c1 == c2 or c1 not in words_dict[l1] or c2 not in words_dict[l2]: continue
         else:
-            for w1, w2 in it.product(words_dict[l1][concept], words_dict[l2][concept]):
-                algn = distances.needleman_wunsch(w1, w2, scores={}, gop=GOP, gep=GEP)[1]
-                #if (w1,w2) in cache_scores:
-                #    algn = cache_scores[w1,w2]
-                #else:
-                #    algn = distances.needleman_wunsch(w1, w2, scores={}, gop=GOP, gep=GEP)[1]
-                #    cache_scores[w1,w2] = algn                            
-                #    cache_scores[w2,w1] = algn
-                for x, y in algn:
-                    if x == "-" or y == "-":
-                        continue
-                    else:
-                        lexstat_scores[l1,l2][x,y] += 1.0
-                        lexstat_scores[l1,l2][y,x] += 1.0
-
-print("Calculating denominator scores")
-for l1, l2 in it.combinations_with_replacement(langs_list, r=2):
-    shuffle_list = concepts_list[:]
-    cache_scores = defaultdict()
-    #print(l1, l2)
-    for i in range(100):
-        #print("Iteration ",i)
-        random.shuffle(shuffle_list)
-        for c1, c2 in zip(shuffle_list, concepts_list):
-            if c1 not in words_dict[l1] or c2 not in words_dict[l2]:
-                continue
-            else:
-                for w1, w2 in it.product(words_dict[l1][c1], words_dict[l2][c2]):
-                    if (w1,w2) in cache_scores:
-                        algn = cache_scores[w1,w2]
-                    else:
-                        algn = distances.needleman_wunsch(w1, w2, scores=pmidict, gop=GEP, gep=GEP)[1]
-                        cache_scores[w1,w2] = algn
-                        cache_scores[w2,w1] = algn
-                    
-                    for x, y in algn:
-                        if x == "-" or y == "-":
-                            continue
-                        else:
-                            denom_scores[l1,l2][x,y] += 1.0
-                            denom_scores[l1,l2][y,x] += 1.0
-
-print("Finished calculation of LexStat dictionaries")
-cache_scores = None
-
-for l1, l2 in it.combinations_with_replacement(langs_list, r=2):
-    for x, y in it.product(char_list, char_list):
-        lang_score = 0.0
-        if (x,y) in lexstat_scores[l1,l2] and (x,y) in denom_scores:
-            lang_score = 2.0*(np.log(lexstat_scores[l1,l2][x,y])-np.log(denom_scores[l1,l2][x,y]))
-        lexstat_scores[l1,l2][x,y] = ((1.0-pmi_weight)*lang_score)+ (pmi_weight*pmidict[x,y])
-        lexstat_scores[l2,l1][x,y] = lexstat_scores[l1,l2][x,y]
+            for w1, w2 in it.product(words_dict[l1][c1], words_dict[l2][c2]):
+                #wl.append((w1,w2))
+                if distances.needleman_wunsch(w1, w2, scores=pmidict, gop=GOP, gep=GEP)[0] >0:   wl.append((w1,w2))
+    lang_dict = compute_pmi_dict(wl)    
+    for k in lang_dict.keys():
+        discount_pmi_scores[l1,l2][k] =  pmidict[k]-(discnt_wt*lang_dict[k])
+        discount_pmi_scores[l2,l1][k] = discount_pmi_scores[l1,l2][k]
 
 #print("\nPMI scores\n")
 #infomap_concept_evaluate_scores(data_dict, pmidict, GOP, GEP)
 
 print("\nLexStat evaluation scores\n")
-for th in np.arange(0,1.0,0.05):
-    bin_mat = lexstat_concept_evaluate_scores(data_dict, lexstat_scores, GOP, GEP, tune_threshold=th)
+for th in np.arange(0.0,1.0,0.05):
+    bin_mat = lexstat_concept_evaluate_scores(data_dict, discount_pmi_scores, GOP, GEP, tune_threshold=th)
 
 #lexstat_concept_evaluate_scores(data_dict, lexstat_scores, GOP, GEP)
 

@@ -60,7 +60,7 @@ outname = args.outfile
 
 char_list = []
  
-def infomap_concept_evaluate_scores(d, lodict, gop, gep, lang_list):
+def infomap_concept_evaluate_scores(d, lodict, gop, gep, lang_list, tune_th):
     average_fscore = []
     f_scores = []
     bin_mat, n_clusters = [], 0
@@ -84,6 +84,9 @@ def infomap_concept_evaluate_scores(d, lodict, gop, gep, lang_list):
                 #score = 1.0/(1.0+np.exp(-raw_score))
             else:
                 score = 1.0 - (1.0/(1.0+np.exp(-raw_score)))
+                #s1 = distances.needleman_wunsch(w1, w1, scores=lodict, gop=gop, gep=gep)[0]
+                #s2 = distances.needleman_wunsch(w2, w2, scores=lodict, gop=gop, gep=gep)[0]
+                #score = 1.0- (raw_score/((s1+s2)/2.0))
             #print(w1, w2,raw_score, score)
             ldn_dist_dict[l1][l2] = score
             ldn_dist_dict[l2][l1] = ldn_dist_dict[l1][l2]
@@ -92,7 +95,7 @@ def infomap_concept_evaluate_scores(d, lodict, gop, gep, lang_list):
         if args.clust_algo == "crp":
             clust = CRP.gibbsCRP(distMat, crp_alpha=args.calpha, sample=False)            
         else:
-            clust = clust_algos.igraph_clustering(distMat, infomap_threshold, method=args.clust_algo)
+            clust = clust_algos.igraph_clustering(distMat, tune_th, method=args.clust_algo)
 
         predicted_labels, predicted_labels_words = defaultdict(), defaultdict()
 
@@ -116,8 +119,8 @@ def infomap_concept_evaluate_scores(d, lodict, gop, gep, lang_list):
             bin_mat += t
 
     if args.eval:
-        f_scores = np.mean(np.array(f_scores), axis=0)
-        print("Fscores",f_scores[0], f_scores[1], 2.0*f_scores[0]*f_scores[1]/(f_scores[0]+f_scores[1]), sep="\t")
+        f_scores = np.round(np.mean(np.array(f_scores), axis=0),3)
+        print("Fscores for ",tune_th, f_scores[0], f_scores[1], np.round(2.0*f_scores[0]*f_scores[1]/(f_scores[0]+f_scores[1]),3), sep="\t")
     f_preds.close()
     return bin_mat
 
@@ -223,6 +226,8 @@ for n_iter in range(0,MAX_ITER):
             net_sim[n_iter-1] += max(0,s)
 
             algn_list.append(alg)
+            #scores.append(max(0,s))
+            #scores.append(np.tanh(s))
             scores.append(distances.sigmoid(s))
 
             if args.prune:
@@ -255,7 +260,8 @@ for k, v in pmidict.items():
     print(k[0], k[1], v, sep="\t", file=pmi_fw)
 pmi_fw.close()
 
-bin_mat = infomap_concept_evaluate_scores(data_dict, pmidict, GOP, GEP, langs_list)
+for th in np.arange(0.1,1.0,0.05):
+    bin_mat = infomap_concept_evaluate_scores(data_dict, pmidict, GOP, GEP, langs_list, th)
 
 if args.nexus:
     nchar, nlangs = np.array(bin_mat).shape
