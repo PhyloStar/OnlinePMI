@@ -172,6 +172,9 @@ for l1, l2 in it.combinations_with_replacement(langs_list, r=2):
                             denom_scores[l1,l2][x,y] += 1.0
                             denom_scores[l1,l2][y,x] += 1.0
 
+print("Finished calculation of LexStat dictionaries")
+cache_scores = None
+
 for l1, l2 in it.combinations_with_replacement(langs_list, r=2):
     for x, y in it.product(char_list, char_list):
         lang_score = 0.0
