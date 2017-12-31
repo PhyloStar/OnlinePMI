@@ -12,7 +12,7 @@ exp_lambda = 1.0
 def gibbsCRP(pair_dist, crp_alpha=0.01, max_iter=5, sample=False):
     """A gibbs sampling based CRP. Does nothing much but moves the items around.
     """
-
+    #print("Clustering with CRP")
     n_items = pair_dist.shape[0]
     assert n_items > 0
     if sample: max_iter=10
@@ -79,6 +79,8 @@ def gibbsCRP(pair_dist, crp_alpha=0.01, max_iter=5, sample=False):
             previous_cluster_idx = [x for x in cluster_idx if x != []]#remove empty clusters
 
         n_single_clusters = 0
+        n_clusters = len(previous_cluster_idx)
+        
         for i, clu in enumerate(previous_cluster_idx):
             if len(clu) == 1:
                 n_single_clusters += 1
@@ -86,7 +88,7 @@ def gibbsCRP(pair_dist, crp_alpha=0.01, max_iter=5, sample=False):
             crp_alpha = sample_alpha(n_single_clusters, n_clusters, crp_alpha)
             alpha_vec.append(crp_alpha)
 
-
+        #print(crp_alpha, str(bcubed_fscore[-1]), str(ari_vec[-1]), str(len(previous_cluster_idx)), str(len(set(gold_labels))), sep="\t")
     #f.write("\tScores"+ "\t"+ gloss+ "\t"+ str(bcubed_fscore[-1]) + "\t"+ str(ari_vec[-1])+ "\t"+ str(len(previous_cluster_idx))+ "\t"+ str(len(set(gold_labels)))+"\n")
     #print(previous_cluster_idx)
     clust = defaultdict()

@@ -8,7 +8,7 @@ import DistanceMeasures as DM
 #from sklearn import metrics
 #from lingpy import *
 import argparse
-import CRP
+import CRP, clust_algos
 random.seed(1234)
 
 ##TODO: Add a ML based estimation of distance or a JC model for distance between two sequences
@@ -24,7 +24,7 @@ random.seed(1234)
 #Fix IPA, Add CRP
 
 tolerance = 0.001
-init_const = 0.001
+
 
 parser = argparse.ArgumentParser()
 parser.add_argument("-mi","--max_iter", type= int, help="maximum number of iterations", default=10)
@@ -58,194 +58,8 @@ MAX_ITER, infomap_threshold, min_batch, margin, GOP, GEP, alpha = args.max_iter,
 dataname = args.infile
 outname = args.outfile
 
-
-
 char_list = []
-
-def read_data_ielex_type(fname):
-    line_id = 0
-    data_dict = defaultdict(lambda : defaultdict())
-    cogid_dict = defaultdict(lambda : defaultdict())
-    words_dict = defaultdict(lambda : defaultdict(list))
-    langs_list = []
-    concepts_list = []
-    f = open(fname)
-    header = f.readline().strip("\n").lower().split("\t")
-    if args.eval:
-        cogid_idx = header.index("cogid")
-    word_idx = header.index(args.in_alphabet)
-    if "doculect" in header:
-        lang_idx = header.index("doculect")
-    elif "language" in header:
-        lang_idx = header.index("language")
-    if "glottocode" in header:
-        iso_idx = header.index("glottocode")
-    else:
-        iso_idx = header.index("iso_code")
-    gloss_idx = header.index("concept")
-    print("Reading asjp alphabet in ", word_idx)
-    for line in f:
-        line = line.strip()
-        arr = line.split("\t")
-        lang, iso, concept = arr[lang_idx], arr[iso_idx], arr[gloss_idx]
-        
-        if len(arr) < 4:
-            #print(line)
-            continue
-
-        if " " in arr[word_idx]:
-            asjp_word = arr[word_idx].split(" ")
-        else:
-            asjp_word = arr[word_idx]
-
-        if args.in_alphabet != "ipa":
-            asjp_word = "".join(asjp_word).replace("0","").replace("_","").replace("+","")
-            if args.in_alphabet == "asjp":
-                asjp_word = cleanASJP(asjp_word)
-
-        for ch in asjp_word:
-            if ch not in char_list:
-                char_list.append(ch)
-
-        if len(asjp_word) < 1:
-            continue
-        if args.reverse:
-            data_dict[concept][line_id,lang] = asjp_word[::-1]
-        else:
-            data_dict[concept][line_id,lang] = asjp_word
-        if args.eval:
-            cogid = arr[cogid_idx]
-            cogid = cogid.replace("-","")
-            cogid = cogid.replace("?","")
-            cogid_dict[concept][line_id,lang] = cogid
-        
-        words_dict[lang][concept].append(asjp_word)
-        
-        if lang not in langs_list:
-            langs_list.append(lang)
-        if concept not in concepts_list:
-            concepts_list.append(concept)
-        line_id += 1
-    f.close()
-    #print(list(data_dict.keys()))
-    return (data_dict, cogid_dict, words_dict, langs_list, concepts_list)
-
-def optimize_gop_gep(pmi_dict, words_dict, langs_list, concepts_list):
-    sum_lang_sim = 0.0
-    gop_gep_dict = defaultdict(float)
-    
-    for gop in np.arange(-2.0, -3.0, -0.2):
-        for scale_factor in np.arange(0.5,1.0,0.1):
-            gep = gop*scale_factor
-            sum_lang_sim = 0.0
-            print(gop, gep)
-            for l1, l2 in it.combinations(langs_list, r=2):
-                num, denom = 0.0, 0.0
-                for concept1, concept2 in it.product(concepts_list, concepts_list):
-                    if concept1 not in words_dict[l1] or concept2 not in words_dict[l2]:
-                        continue
-                    else:
-                        if concept1 == concept2:
-                            for w1, w2 in it.product(words_dict[l1][concept1], words_dict[l2][concept2]):
-                                num += distances.sigmoid(distances.needleman_wunsch(w1, w2, scores=pmi_dict, gop=gop, gep=gep)[0])
-                        elif concept1 != concept2:
-                            for w1, w2 in it.product(words_dict[l1][concept1], words_dict[l2][concept2]):
-                                denom += distances.sigmoid(distances.needleman_wunsch(w1, w2, scores=pmi_dict, gop=gop, gep=gep)[0])
-                sum_lang_sim += num/denom
-                print(l1, l2, num/denom)
-            gop_gep_dict[gop,gep] = sum_lang_sim
-            print(gop, gep, sum_lang_sim)
-    return max(gop_gep_dict, key=lambda key: gop_gep_dict[key])
-
-
-
-def scipy_optimize_gop_gep(pmi_dict, words_dict, langs_list, concepts_list, gop, gep):
-    from scipy.optimize import minimize
-
-    def lang_dist_func(GP):
-        sum_lang_sim = 0.0
-
-        for l1, l2 in it.combinations(langs_list, r=2):
-            num, denom = 0.0, 0.0
-            #print(l1, l2)
-            for concept1, concept2 in it.product(concepts_list, concepts_list):
-                if concept1 not in words_dict[l1] or concept2 not in words_dict[l2]:
-                    continue
-                else:
-                    if concept1 == concept2:
-                        for w1, w2 in it.product(words_dict[l1][concept1], words_dict[l2][concept2]):
-                            #num += distances.sigmoid(distances.needleman_wunsch(w1, w2, scores=pmi_dict, gop=GP[0], gep=GP[1])[0])
-                            num += max(distances.needleman_wunsch(w1, w2, scores=pmi_dict, gop=GP[0], gep=GP[1])[0],0)
-                            #num += distances.needleman_wunsch(w1, w2, scores=pmi_dict, gop=GP[0], gep=GP[1])[0]
-                    elif concept1 != concept2:
-                        for w1, w2 in it.product(words_dict[l1][concept1], words_dict[l2][concept2]):
-                            #denom += distances.sigmoid(distances.needleman_wunsch(w1, w2, scores=pmi_dict, gop=GP[0], gep=GP[1])[0])
-                            denom += max(distances.needleman_wunsch(w1, w2, scores=pmi_dict, gop=GP[0], gep=GP[1])[0],0)
-                            #denom += distances.needleman_wunsch(w1, w2, scores=pmi_dict, gop=GP[0], gep=GP[1])[0]
-            sum_lang_sim += denom - num
-        return sum_lang_sim
-    GP = np.array([gop, gep])
-    res = minimize(lang_dist_func, GP, method='powell',tol=1e-1, options={'disp': True})
-
-    return res.x
-
-
-def igraph_clustering(matrix, threshold, method='labelprop'):
-    """
-    Method computes Infomap clusters from pairwise distance data.
-    """
-    random.seed(1234)
-    G = igraph.Graph()
-    vertex_weights = []
-    for i in range(len(matrix)):
-        G.add_vertex(i)
-        vertex_weights += [0]
-    
-    # variable stores edge weights, if they are not there, the network is
-    # already separated by the threshold
-    weights = None
-    for i,row in enumerate(matrix):
-        for j,cell in enumerate(row):
-            if i < j:
-                if cell <= threshold:
-                    G.add_edge(i, j, weight=1-cell, distance=cell)
-                    weights = 'weight'
-
-    if method == 'infomap':
-        comps = G.community_infomap(edge_weights=weights,
-                vertex_weights=None)
-        
-    elif method == 'labelprop':
-        comps = G.community_label_propagation(weights=weights,
-                initial=None, fixed=None)
-
-    elif method == 'ebet':
-        dg = G.community_edge_betweenness(weights=weights)
-        oc = dg.optimal_count
-        comps = False
-        while oc <= len(G.vs):
-            try:
-                comps = dg.as_clustering(dg.optimal_count)
-                break
-            except:
-                oc += 1
-        if not comps:
-            print('Failed...')
-            comps = list(range(len(G.sv)))
-            input()
-    elif method == 'multilevel':
-        comps = G.community_multilevel(return_levels=False)
-    elif method == 'spinglass':
-        comps = G.community_spinglass()
-
-    D = {}
-    for i,comp in enumerate(comps.subgraphs()):
-        vertices = [v['name'] for v in comp.vs]
-        for vertex in vertices:
-            D[vertex] = i+1
-
-    return D
-    
+ 
 def infomap_concept_evaluate_scores(d, lodict, gop, gep, lang_list):
     average_fscore = []
     f_scores = []
@@ -267,6 +81,7 @@ def infomap_concept_evaluate_scores(d, lodict, gop, gep, lang_list):
             raw_score = distances.needleman_wunsch(w1, w2, scores=lodict, gop=gop, gep=gep)[0]
             if args.clust_algo == "crp":
                 score = max(0.0, raw_score)
+                #score = 1.0/(1.0+np.exp(-raw_score))
             else:
                 score = 1.0 - (1.0/(1.0+np.exp(-raw_score)))
             #print(w1, w2,raw_score, score)
@@ -277,7 +92,7 @@ def infomap_concept_evaluate_scores(d, lodict, gop, gep, lang_list):
         if args.clust_algo == "crp":
             clust = CRP.gibbsCRP(distMat, crp_alpha=args.calpha, sample=False)            
         else:
-            clust = igraph_clustering(distMat, infomap_threshold, method=args.clust_algo)
+            clust = clust_algos.igraph_clustering(distMat, infomap_threshold, method=args.clust_algo)
 
         predicted_labels, predicted_labels_words = defaultdict(), defaultdict()
 
@@ -306,7 +121,7 @@ def infomap_concept_evaluate_scores(d, lodict, gop, gep, lang_list):
     f_preds.close()
     return bin_mat
 
-def calc_pmi(alignment_dict, char_list, scores, initialize=False):
+def calc_pmi(alignment_dict, char_list, scores, initialize=False, init_const = 0.001):
     sound_dict = defaultdict(float)
     relative_align_freq = 0.0
     relative_sound_freq = 0.0
@@ -350,20 +165,17 @@ def calc_pmi(alignment_dict, char_list, scores, initialize=False):
         #count_dict[a] = val/(-1.0*num)
     return count_dict
 
-  
-
-data_dict, cogid_dict, words_dict, langs_list, concepts_list = read_data_ielex_type(dataname)
+data_dict, cogid_dict, words_dict, langs_list, concepts_list, char_list = read_data_ielex_type(dataname, reverse=args.reverse, in_alphabet=args.in_alphabet)
 print("Processing ", dataname)
 print("Character list \n\n", " ".join(char_list))
 print("Length of character list ", len(char_list))
-
+print("Language list ", langs_list,sep="\n")
 
 word_list = []
 
 if args.wlfile is not None:
     for line in open(args.wlfile, "r"):
         x, y, s = line.split("\t")
-        
         word_list += [[x,y]]
 else:
     for concept in data_dict:
@@ -380,10 +192,6 @@ else:
                     word_list += [[x,y]]
 
 
-#word_list = [line.strip().split()[0:2] for line in open(fname).readlines()]
-#char_list = [line.strip() for line in open("sounds41.txt").readlines()]
-#infomap_concept_evaluate_scores(data_dict, {}, GOP, GEP, langs_list)
-
 n_examples, n_updates = len(word_list), 0
 n_wl = len(word_list)
 print("Size of initial list ", n_wl)
@@ -391,7 +199,7 @@ print("Size of initial list ", n_wl)
 pmidict = defaultdict(float)
 net_sim = [0.0]*MAX_ITER
 
-for n_iter in range(1,MAX_ITER+1):
+for n_iter in range(0,MAX_ITER):
     random.shuffle(word_list)
     pruned_wl = []
     n_zero = 0.0
@@ -412,11 +220,10 @@ for n_iter in range(1,MAX_ITER+1):
                 if args.prune:
                     continue
             net_sim[n_iter-1] += max(0,s)
-            #s = s/max(len(w1), len(w2))
+
             algn_list.append(alg)
             scores.append(distances.sigmoid(s))
-            #scores.append(max(0,s))
-            #pruned_wl.append([w1[::-1], w2[::-1], s])
+
             if args.prune:
                 pruned_wl.append([w1, w2])
         mb_pmi_dict = calc_pmi(algn_list, char_list, scores, initialize=True)
