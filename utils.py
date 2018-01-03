@@ -157,3 +157,21 @@ def read_pmidict(pmi_fname):
         x, y, s = line.replace("\n","").split("\t")
         scores[x,y]=float(s)
     return scores
+    
+    
+def load_jaeger_dict():
+    lodict = defaultdict()
+    f = open('pmi_model/sounds41.txt')
+    sounds = np.array([x.strip() for x in f.readlines()])
+    f.close()
+
+    f = open('pmi_model/pmi-world.txt','r')
+    l = f.readlines()
+    f.close()
+    logOdds = np.array([x.strip().split() for x in l],np.float)
+
+    for i in range(len(sounds)):#Initiate sound dictionary
+        for j in range(len(sounds)):
+            lodict[sounds[i],sounds[j]] = logOdds[i,j]
+
+    return lodict
