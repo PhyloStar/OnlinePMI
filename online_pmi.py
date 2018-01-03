@@ -29,7 +29,7 @@ tolerance = 0.001
 parser = argparse.ArgumentParser()
 parser.add_argument("-mi","--max_iter", type= int, help="maximum number of iterations", default=10)
 parser.add_argument("-t", "--thd", type= float, help="A number between 0 and 1 for clustering", default=0.5)
-parser.add_argument("-m","--mb", type= int, help="Minibatch size", default=256)
+parser.add_argument("-m","--mb", type= int, help="Minibatch size", default=32)
 parser.add_argument("-a","--alpha", type= float, help="alpha", default=0.75)
 parser.add_argument("-M", "--margin", type= float, help="margin for filtering non-cognates", default=0.0)
 parser.add_argument("-G","--gop", type= float, help="gap opening penalty", default=-2.5)
@@ -223,7 +223,7 @@ for n_iter in range(0,MAX_ITER):
                 n_zero += 1.0
                 if args.prune:
                     continue
-            net_sim[n_iter-1] += max(0,s)
+            net_sim[n_iter] += max(0,s)
 
             algn_list.append(alg)
             #scores.append(max(0,s))
@@ -240,7 +240,7 @@ for n_iter in range(0,MAX_ITER):
     print("Size of word list ", n_wl)
     print("Non zero examples ", n_wl-n_zero)
     print("Number of updates ", n_updates)
-    print("Net similarity ", net_sim[n_iter-1])
+    print("Net similarity ", net_sim[n_iter])
     
     #infomap_concept_evaluate_scores(data_dict, pmidict, GOP, GEP, langs_list)
     #GOP, GEP = optimize_gop_gep(pmidict, words_dict, langs_list, concepts_list)
@@ -260,7 +260,7 @@ for k, v in pmidict.items():
     print(k[0], k[1], v, sep="\t", file=pmi_fw)
 pmi_fw.close()
 
-for th in np.arange(0.1,1.0,0.05):
+for th in np.arange(0.5,0.55,0.05):
     bin_mat = infomap_concept_evaluate_scores(data_dict, pmidict, GOP, GEP, langs_list, th)
 
 if args.nexus:

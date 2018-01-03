@@ -7,7 +7,6 @@ import DistanceMeasures as DM
 from sklearn import metrics
 from lingpy import *
 import subprocess, clust_algos
-
 random.seed(1234)
 
 ##TODO: Add a ML based estimation of distance or a JC model for distance between two sequences
@@ -43,6 +42,7 @@ parser.add_argument("-I","--issim", help="select LDN or NW", type=str, default="
 parser.add_argument("-N","--nexus", help="generate a nexus file", action='store_true')
 parser.add_argument("-R","--reverse", help="read string reverse", action='store_true')
 parser.add_argument("-p","--prune", help="prune word list", action='store_true')
+parser.add_argument("-j","--jaeger", help="Jaeger pmi matrix", action='store_true')
 parser.add_argument("--sample", help="sample crp alpha", action='store_true')
 parser.add_argument("-O","--optimize", help="Optimize gap opening and gap extension penalties", action='store_true')
 
@@ -54,6 +54,70 @@ outname = args.outfile
 
 pmi_weight = pmi_weight/(pmi_weight+ lexstat_weight)
 
+def infomap_concept_evaluate_scores(d, lodict, gop, gep, lang_list, tune_th):
+    average_fscore = []
+    f_scores = []
+    bin_mat, n_clusters = [], 0
+    f_preds = open(args.outfile+".cognates", "w")
+    f_preds.write("gloss\tlanguage\t"+args.in_alphabet+"\tcognate class\n")
+    for concept in d:
+        ldn_dist_dict = defaultdict(lambda: defaultdict(float))
+        langs = list(d[concept].keys())
+        if len(langs) == 1:
+            print(concept, " removed since it has only language to cluster")
+            continue
+        scores, cognates = [], []
+
+        for l1, l2 in it.combinations(langs, r=2):
+            if d[concept][l1].startswith("-") or d[concept][l2].startswith("-"): continue
+
+            w1, w2 = d[concept][l1], d[concept][l2]
+            raw_score = distances.needleman_wunsch(w1, w2, scores=lodict, gop=gop, gep=gep)[0]
+            if args.clust_algo == "crp":
+                score = max(0.0, raw_score)
+                #score = 1.0/(1.0+np.exp(-raw_score))
+            else:
+                score = 1.0 - (1.0/(1.0+np.exp(-raw_score)))
+                #s1 = distances.needleman_wunsch(w1, w1, scores=lodict, gop=gop, gep=gep)[0]
+                #s2 = distances.needleman_wunsch(w2, w2, scores=lodict, gop=gop, gep=gep)[0]
+                #score = 1.0- (raw_score/((s1+s2)/2.0))
+            #print(w1, w2,raw_score, score)
+            ldn_dist_dict[l1][l2] = score
+            ldn_dist_dict[l2][l1] = ldn_dist_dict[l1][l2]
+        distMat = np.array([[ldn_dist_dict[ka][kb] for kb in langs] for ka in langs])
+        
+        if args.clust_algo == "crp":
+            clust = CRP.gibbsCRP(distMat, crp_alpha=args.calpha, sample=False)            
+        else:
+            clust = clust_algos.igraph_clustering(distMat, tune_th, method=args.clust_algo)
+
+        predicted_labels, predicted_labels_words = defaultdict(), defaultdict()
+
+        for k, v in clust.items():
+            predicted_labels[langs[k]] = v
+            predicted_labels_words[langs[k],d[concept][langs[k]]] = v
+            f_preds.write(concept+"\t"+ langs[k][1]+"\t"+ d[concept][langs[k]]+"\t"+ str(v)+"\n")
+
+        predl, truel = [], []
+        if args.eval:
+            for l in langs:
+                truel.append(cogid_dict[concept][l])
+                predl.append(predicted_labels[l])
+                
+            scores = DM.b_cubed(truel, predl)
+            #print(concept, len(langs), scores[0], scores[1], scores[2], len(set(clust.values())), len(set(truel)), sep="\t")
+            f_scores.append(list(scores))
+        n_clusters += len(set(clust.values()))
+        if args.nexus:
+            t = dict2binarynexus(predicted_labels, lang_list)
+            bin_mat += t
+
+    if args.eval:
+        f_scores = np.round(np.mean(np.array(f_scores), axis=0),3)
+        print("Fscores for ",tune_th, f_scores[0], f_scores[1], np.round(2.0*f_scores[0]*f_scores[1]/(f_scores[0]+f_scores[1]),3), sep="\t")
+    f_preds.close()
+    return bin_mat
+
 def lexstat_concept_evaluate_scores(d, lodict, gop, gep, tune_threshold=0.5):
     #fout = open("output.txt","w")
     average_fscore = []
@@ -63,7 +127,7 @@ def lexstat_concept_evaluate_scores(d, lodict, gop, gep, tune_threshold=0.5):
         ldn_dist_dict = defaultdict(lambda: defaultdict(float))
         langs = list(d[concept].keys())
         if len(langs) == 1:
-            print(concept)
+            #print(concept)
             continue
         scores, cognates = [], []
 
@@ -160,7 +224,7 @@ def compute_pmi_dict(WL):
     net_sim = [0.0]*MAX_ITER
     n_updates = 0.0
     n_wl = len(WL)
-    for n_iter in range(0, 3):
+    for n_iter in range(0, MAX_ITER):
         random.shuffle(WL)
         pruned_wl = []
         n_zero = 0.0
@@ -171,16 +235,15 @@ def compute_pmi_dict(WL):
             algn_list, scores = [], []
 
             for w1, w2 in wl:
-                #print(w1,w2,sc)
                 if not pmidict:
                     s, alg = distances.needleman_wunsch(w1, w2, scores={}, gop=GOP, gep=GEP)
                 else:
                     s, alg = distances.needleman_wunsch(w1, w2, scores=pmidict, gop=GOP, gep=GEP)
-                if s <= margin:
-                    n_zero += 1.0
-                    if args.prune:
-                        continue
-                net_sim[n_iter-1] += max(0,s)
+                #print(w1, w2, s)
+                if s <= margin and args.prune:
+                    continue
+                n_zero += 1.0
+                net_sim[n_iter] += max(0,s)
 
                 algn_list.append(alg)
                 scores.append(distances.sigmoid(s))
@@ -190,10 +253,9 @@ def compute_pmi_dict(WL):
                 pmidict_val = pmidict[k]
                 pmidict[k] = (eta*v) + ((1.0-eta)*pmidict_val)
             n_updates += 1
-    #print(" ", n_wl)
-    #print(" ", )
-    print("Number of updates {0}, Non zero examples {1}, Size of word list {2}, Net similarity {3} ".format(n_updates, n_wl-n_zero, n_wl, net_sim[n_iter-1]))
-    #print(" ", )
+        #print(net_sim)
+    print("Number of updates {0}, Non zero examples {1}, Size of word list {2}, Net similarity {3} ".format(n_updates, n_zero, n_wl, net_sim[-1]))
+
     return pmidict
     
 
@@ -203,9 +265,13 @@ print("Processing ", dataname)
 
 word_list = []
 
-subprocess.run(["python3", "online_pmi.py"]+sys.argv[1:])
+if not args.jaeger:
+    subprocess.run(["python3", "online_pmi.py"]+sys.argv[1:])
+    pmidict = utils.read_pmidict(args.outfile+".pmi")
 
-pmidict = utils.read_pmidict(args.outfile+".pmi")
+else:
+    pmidict = utils.load_jaeger_dict()
+    infomap_concept_evaluate_scores(data_dict, pmidict, GOP, GEP, langs_list, args.thd)
 
 discount_pmi_scores = defaultdict(lambda: defaultdict(float))
 
@@ -214,18 +280,22 @@ discnt_wt = 0.5
 print("Calculating discount scores")
 for l1, l2 in it.combinations_with_replacement(langs_list, r=2):
     print(l1, l2)
+
     wl = []
     for c1, c2 in it.product(concepts_list, concepts_list):
         if c1 == c2 or c1 not in words_dict[l1] or c2 not in words_dict[l2]: continue
         else:
             for w1, w2 in it.product(words_dict[l1][c1], words_dict[l2][c2]):
                 #wl.append((w1,w2))
-                if distances.needleman_wunsch(w1, w2, scores=pmidict, gop=GOP, gep=GEP)[0] >0:   wl.append((w1,w2))
-    lang_dict = compute_pmi_dict(wl)    
-    for k in lang_dict.keys():
+                if distances.needleman_wunsch(w1, w2, scores=pmidict, gop=GOP, gep=GEP)[0] > 0:   wl.append((w1,w2))
+    lang_dict = compute_pmi_dict(wl)
+    #print(random.sample(list(lang_dict.items()),  k=4),end=" ")
+
+    for k in pmidict.keys():
         discount_pmi_scores[l1,l2][k] =  pmidict[k]-(discnt_wt*lang_dict[k])
         discount_pmi_scores[l2,l1][k] = discount_pmi_scores[l1,l2][k]
-
+        
+    #print(random.sample(list(discount_pmi_scores[l2,l1].items()),k=4))
 #print("\nPMI scores\n")
 #infomap_concept_evaluate_scores(data_dict, pmidict, GOP, GEP)
 
