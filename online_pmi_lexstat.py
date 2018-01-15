@@ -18,7 +18,7 @@ random.seed(1234)
 tolerance = 0.001
 
 calpha = 0.01
-pmi_weight, lexstat_weight = 1.0, 1.0
+pmi_weight, lexstat_weight = 3.0, 1.0
 
 char_list = []
 
@@ -30,7 +30,7 @@ parser.add_argument("-a","--alpha", type= float, help="alpha", default=0.75)
 parser.add_argument("-M", "--margin", type= float, help="margin for filtering non-cognates", default=0.0)
 parser.add_argument("-G","--gop", type= float, help="gap opening penalty", default=-2.5)
 parser.add_argument("-g","--gep", type= float, help="gap extension penalty", default=-1.75)
-parser.add_argument("-ca","--calpha", type= float, help="CRP alpha", default=0.01)
+parser.add_argument("-ca","--calpha", type= float, help="CRP alpha", default=0.1)
 parser.add_argument("-i","--infile", type= str, help="input file name")
 parser.add_argument("-o","--outfile", type= str, help="output file name", default="temp")
 parser.add_argument("-w","--wlfile", type= str, help="input word list file name", default=None)
@@ -108,7 +108,7 @@ def lexstat_concept_evaluate_scores(d, lodict, gop, gep, tune_threshold=0.5):
         n_clusters += len(set(clust.values()))
 
     f_scores = np.mean(np.array(f_scores), axis=0)
-    print("F-scores ", tune_threshold, np.round(f_scores[0],3), np.round(f_scores[1],3), np.round(2.0*f_scores[0]*f_scores[1]/(f_scores[0]+f_scores[1]),3),sep="\t")
+    print("F-scores ", tune_threshold, np.round(f_scores[0],3), np.round(f_scores[1],3), np.round(f_scores[2],3), np.round(2.0*f_scores[0]*f_scores[1]/(f_scores[0]+f_scores[1]),3),sep="\t")
     return bin_mat
 
 
@@ -153,13 +153,14 @@ for l1, l2 in it.combinations_with_replacement(langs_list, r=2):# can optimize b
 
 print("Calculating denominator scores")
 for l1, l2 in it.combinations_with_replacement(langs_list, r=2):
-    shuffle_list = concepts_list[:]
+    #shuffle_list = concepts_list[:]
     cache_scores = defaultdict()
-    #print(l1, l2)
-    for i in range(100):
+    print(l1, l2)
+    for i in range(1000):
         #print("Iteration ",i)
-        random.shuffle(shuffle_list)
-        for c1, c2 in zip(shuffle_list, concepts_list):
+        sl1, sl2 = concepts_list[:], concepts_list[:]
+        random.shuffle(sl1), random.shuffle(sl2)
+        for c1, c2 in zip(sl1, sl2):
             if c1 not in words_dict[l1] or c2 not in words_dict[l2]:
                 continue
             else:
@@ -182,24 +183,30 @@ print("Finished calculation of LexStat dictionaries")
 cache_scores = None
 
 for l1, l2 in it.combinations_with_replacement(langs_list, r=2):
+    #print(l1, l2)
     for x, y in it.product(char_list, char_list):
         lang_score = 0.0
+        a_norm = sum(lexstat_scores[l1,l2].values())
+        e_norm = sum(denom_scores[l1,l2].values())
         if (x,y) in lexstat_scores[l1,l2] and (x,y) in denom_scores:
-            lang_score = 2.0*(np.log(lexstat_scores[l1,l2][x,y])-np.log(denom_scores[l1,l2][x,y]))
-        lexstat_scores[l1,l2][x,y] = ((1.0-pmi_weight)*lang_score)+ (pmi_weight*pmidict[x,y])
-        lexstat_scores[l2,l1][x,y] = lexstat_scores[l1,l2][x,y]
+            a_xy = lexstat_scores[l1,l2][x,y]/a_norm
+            e_xy = denom_scores[l1,l2][x,y]/e_norm
+            #lang_score = 2.0*(np.log(lexstat_scores[l1,l2][x,y])-np.log(denom_scores[l1,l2][x,y]))
+            lang_score = 2.0*np.log(a_xy/e_xy)
+        temp_score = ((1.0-pmi_weight)*lang_score)+ (pmi_weight*pmidict[x,y])
+        lexstat_scores[l1,l2][x,y] = temp_score
+        lexstat_scores[l2,l1][x,y] = temp_score
+        #print(l1, l2, x, y, temp_score, sep="\n")
 
-#print("\nPMI scores\n")
+print("\nPMI scores\n")
 #infomap_concept_evaluate_scores(data_dict, pmidict, GOP, GEP)
 
 print("\nLexStat evaluation scores\n")
-for th in np.arange(0,1.0,0.05):
-    bin_mat = lexstat_concept_evaluate_scores(data_dict, lexstat_scores, GOP, GEP, tune_threshold=th)
+if args.clust_algo == "crp":
+    lexstat_concept_evaluate_scores(data_dict, lexstat_scores, GOP, GEP)
+else:
+    for th in np.arange(0,1.0,0.05):
+        bin_mat = lexstat_concept_evaluate_scores(data_dict, lexstat_scores, GOP, GEP, tune_threshold=th)
 
 #lexstat_concept_evaluate_scores(data_dict, lexstat_scores, GOP, GEP)
-
-
-    
-    
-    
     

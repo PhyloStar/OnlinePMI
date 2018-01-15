@@ -253,7 +253,7 @@ def compute_pmi_dict(WL):
                 pmidict_val = pmidict[k]
                 pmidict[k] = (eta*v) + ((1.0-eta)*pmidict_val)
             n_updates += 1
-        #print(net_sim)
+        #print("Iteration ", n_iter, net_sim[n_iter], sep="\t")
     print("Number of updates {0}, Non zero examples {1}, Size of word list {2}, Net similarity {3} ".format(n_updates, n_zero, n_wl, net_sim[-1]))
 
     return pmidict
@@ -271,7 +271,8 @@ if not args.jaeger:
 
 else:
     pmidict = utils.load_jaeger_dict()
-    infomap_concept_evaluate_scores(data_dict, pmidict, GOP, GEP, langs_list, args.thd)
+    
+infomap_concept_evaluate_scores(data_dict, pmidict, GOP, GEP, langs_list, args.thd)
 
 discount_pmi_scores = defaultdict(lambda: defaultdict(float))
 
@@ -282,14 +283,11 @@ for l1, l2 in it.combinations_with_replacement(langs_list, r=2):
     print(l1, l2)
 
     wl = []
-    for c1, c2 in it.product(concepts_list, concepts_list):
-        if c1 == c2 or c1 not in words_dict[l1] or c2 not in words_dict[l2]: continue
-        else:
-            for w1, w2 in it.product(words_dict[l1][c1], words_dict[l2][c2]):
-                #wl.append((w1,w2))
-                if distances.needleman_wunsch(w1, w2, scores=pmidict, gop=GOP, gep=GEP)[0] > 0:   wl.append((w1,w2))
+    for c1, c2 in it.combinations(concepts_list, r=2):
+        #print(c1, c2)
+        for w1, w2 in it.product(words_dict[l1][c1], words_dict[l2][c2]):
+            wl.append((w1,w2))
     lang_dict = compute_pmi_dict(wl)
-    #print(random.sample(list(lang_dict.items()),  k=4),end=" ")
 
     for k in pmidict.keys():
         discount_pmi_scores[l1,l2][k] =  pmidict[k]-(discnt_wt*lang_dict[k])
@@ -300,7 +298,7 @@ for l1, l2 in it.combinations_with_replacement(langs_list, r=2):
 #infomap_concept_evaluate_scores(data_dict, pmidict, GOP, GEP)
 
 print("\nLexStat evaluation scores\n")
-for th in np.arange(0.0,1.0,0.05):
+for th in np.arange(0.5,0.55,0.05):
     bin_mat = lexstat_concept_evaluate_scores(data_dict, discount_pmi_scores, GOP, GEP, tune_threshold=th)
 
 #lexstat_concept_evaluate_scores(data_dict, lexstat_scores, GOP, GEP)

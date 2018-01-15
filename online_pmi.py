@@ -29,7 +29,7 @@ tolerance = 0.001
 parser = argparse.ArgumentParser()
 parser.add_argument("-mi","--max_iter", type= int, help="maximum number of iterations", default=10)
 parser.add_argument("-t", "--thd", type= float, help="A number between 0 and 1 for clustering", default=0.5)
-parser.add_argument("-m","--mb", type= int, help="Minibatch size", default=32)
+parser.add_argument("-m","--mb", type= int, help="Minibatch size", default=256)
 parser.add_argument("-a","--alpha", type= float, help="alpha", default=0.75)
 parser.add_argument("-M", "--margin", type= float, help="margin for filtering non-cognates", default=0.0)
 parser.add_argument("-G","--gop", type= float, help="gap opening penalty", default=-2.5)
@@ -111,7 +111,7 @@ def infomap_concept_evaluate_scores(d, lodict, gop, gep, lang_list, tune_th):
                 predl.append(predicted_labels[l])
                 
             scores = DM.b_cubed(truel, predl)
-            #print(concept, len(langs), scores[0], scores[1], scores[2], len(set(clust.values())), len(set(truel)), sep="\t")
+            print(concept, len(langs), scores[0], scores[1], scores[2], len(set(clust.values())), len(set(truel)), sep="\t")
             f_scores.append(list(scores))
         n_clusters += len(set(clust.values()))
         if args.nexus:
@@ -119,8 +119,8 @@ def infomap_concept_evaluate_scores(d, lodict, gop, gep, lang_list, tune_th):
             bin_mat += t
 
     if args.eval:
-        f_scores = np.round(np.mean(np.array(f_scores), axis=0),3)
-        print("Fscores for ",tune_th, f_scores[0], f_scores[1], np.round(2.0*f_scores[0]*f_scores[1]/(f_scores[0]+f_scores[1]),3), sep="\t")
+        f_scores = np.round(np.mean(np.array(f_scores), axis=0),3) #np.mean
+        print("Fscores for ",tune_th, f_scores[0], f_scores[1], f_scores[2], np.round(2.0*f_scores[0]*f_scores[1]/(f_scores[0]+f_scores[1]),3), sep="\t")
     f_preds.close()
     return bin_mat
 
